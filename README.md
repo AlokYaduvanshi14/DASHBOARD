@@ -1,1 +1,3728 @@
-# DASHBOARD
+Order_ID,Order_Date,City,State,Category,Product,Quantity,Unit_Price,Discount,Sales,Profit,Latitude,Longitude
+ORD-100001,2026-01-01,Indore,Madhya Pradesh,Fashion,Jacket,2,1108.56,0.0,2217.12,469.83,22.7196,75.8577
+ORD-100002,2026-01-01,Indore,Madhya Pradesh,Fashion,Backpack,2,944.61,0.05,1794.77,511.57,22.7196,75.8577
+ORD-100003,2026-01-01,Indore,Madhya Pradesh,Electronics,Laptop,3,38138.2,0.05,108693.88,10754.95,22.7196,75.8577
+ORD-100004,2026-01-01,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,2286.78,0.05,2172.44,390.1,22.7196,75.8577
+ORD-100005,2026-01-01,Indore,Madhya Pradesh,Home & Living,Lamp,2,7126.78,0.1,12828.2,2717.01,22.7196,75.8577
+ORD-100006,2026-01-01,Bhopal,Madhya Pradesh,Fashion,Jacket,2,2958.27,0.0,5916.55,1179.72,23.2599,77.4126
+ORD-100007,2026-01-01,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,138.61,0.1,374.25,44.27,23.2599,77.4126
+ORD-100008,2026-01-01,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,4003.53,0.2,6405.64,1652.39,23.2599,77.4126
+ORD-100009,2026-01-01,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,10899.41,0.05,20708.87,4613.81,23.2599,77.4126
+ORD-100010,2026-01-01,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,4109.17,0.05,11711.14,2110.74,23.2599,77.4126
+ORD-100011,2026-01-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,2540.94,0.1,6860.54,1538.99,23.2599,77.4126
+ORD-100012,2026-01-01,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3411.63,0.15,5799.77,1377.82,23.2599,77.4126
+ORD-100013,2026-01-01,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,11050.93,0.1,29837.52,6474.45,23.2599,77.4126
+ORD-100014,2026-01-01,Bhopal,Madhya Pradesh,Electronics,Monitor,3,15417.34,0.2,37001.62,6259.48,23.2599,77.4126
+ORD-100015,2026-01-02,Indore,Madhya Pradesh,Home & Living,Desk,2,9138.72,0.0,18277.45,2529.49,22.7196,75.8577
+ORD-100016,2026-01-02,Indore,Madhya Pradesh,Food & Beverages,Tea,1,951.26,0.0,951.26,109.03,22.7196,75.8577
+ORD-100017,2026-01-02,Indore,Madhya Pradesh,Home & Living,Office Chair,4,8784.1,0.0,35136.4,5485.28,22.7196,75.8577
+ORD-100018,2026-01-02,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,3,753.01,0.0,2259.04,575.08,22.7196,75.8577
+ORD-100019,2026-01-02,Indore,Madhya Pradesh,Fashion,T-Shirt,3,1189.38,0.1,3211.32,903.93,22.7196,75.8577
+ORD-100020,2026-01-02,Indore,Madhya Pradesh,Fashion,Jacket,1,3051.04,0.15,2593.39,439.11,22.7196,75.8577
+ORD-100021,2026-01-02,Indore,Madhya Pradesh,Electronics,Monitor,4,50795.63,0.0,203182.52,17380.14,22.7196,75.8577
+ORD-100022,2026-01-02,Bhopal,Madhya Pradesh,Fashion,Backpack,2,5325.03,0.0,10650.05,2555.72,23.2599,77.4126
+ORD-100023,2026-01-02,Bhopal,Madhya Pradesh,Fashion,Backpack,1,880.59,0.15,748.5,203.81,23.2599,77.4126
+ORD-100024,2026-01-02,Bhopal,Madhya Pradesh,Electronics,Tablet,3,29156.66,0.05,83096.47,7809.14,23.2599,77.4126
+ORD-100025,2026-01-02,Bhopal,Madhya Pradesh,Fashion,Jacket,2,4303.01,0.05,8175.73,1920.98,23.2599,77.4126
+ORD-100026,2026-01-02,Bhopal,Madhya Pradesh,Fashion,Jacket,3,4568.42,0.0,13705.27,2375.31,23.2599,77.4126
+ORD-100027,2026-01-03,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,1453.57,0.1,1308.21,293.58,22.7196,75.8577
+ORD-100028,2026-01-03,Indore,Madhya Pradesh,Fashion,Backpack,3,4915.92,0.0,14747.76,2540.73,22.7196,75.8577
+ORD-100029,2026-01-03,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,3757.04,0.0,11271.13,1944.82,22.7196,75.8577
+ORD-100030,2026-01-03,Indore,Madhya Pradesh,Fashion,T-Shirt,4,3188.6,0.2,10203.51,2847.54,22.7196,75.8577
+ORD-100031,2026-01-03,Indore,Madhya Pradesh,Home & Living,Lamp,3,4037.56,0.05,11507.04,1533.55,22.7196,75.8577
+ORD-100032,2026-01-03,Indore,Madhya Pradesh,Electronics,Smartphone,4,7461.52,0.15,25369.16,2103.1,22.7196,75.8577
+ORD-100033,2026-01-03,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,4057.04,0.0,8114.08,2031.55,22.7196,75.8577
+ORD-100034,2026-01-03,Indore,Madhya Pradesh,Home & Living,Mixer,4,2111.64,0.1,7601.9,1582.37,22.7196,75.8577
+ORD-100035,2026-01-03,Indore,Madhya Pradesh,Home & Living,Lamp,3,7664.29,0.1,20693.59,2938.99,22.7196,75.8577
+ORD-100036,2026-01-03,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,612.28,0.1,1653.16,266.16,23.2599,77.4126
+ORD-100037,2026-01-03,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,2101.61,0.1,1891.45,410.88,23.2599,77.4126
+ORD-100038,2026-01-03,Bhopal,Madhya Pradesh,Electronics,Laptop,2,27023.86,0.1,48642.94,7065.06,23.2599,77.4126
+ORD-100039,2026-01-03,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,10716.35,0.1,19289.43,4253.05,23.2599,77.4126
+ORD-100040,2026-01-03,Bhopal,Madhya Pradesh,Electronics,Tablet,4,4756.21,0.1,17122.37,1394.93,23.2599,77.4126
+ORD-100041,2026-01-03,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,11948.75,0.1,10753.87,2117.51,23.2599,77.4126
+ORD-100042,2026-01-03,Bhopal,Madhya Pradesh,Fashion,Jeans,1,5116.04,0.2,4092.83,911.7,23.2599,77.4126
+ORD-100043,2026-01-03,Bhopal,Madhya Pradesh,Fashion,Jeans,2,1577.0,0.05,2996.31,725.41,23.2599,77.4126
+ORD-100044,2026-01-03,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,198.78,0.1,536.72,103.18,23.2599,77.4126
+ORD-100045,2026-01-03,Bhopal,Madhya Pradesh,Fashion,Jeans,4,5191.48,0.0,20765.92,5989.46,23.2599,77.4126
+ORD-100046,2026-01-04,Indore,Madhya Pradesh,Electronics,Smartphone,3,25644.63,0.1,69240.5,9927.49,22.7196,75.8577
+ORD-100047,2026-01-04,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,293.98,0.05,837.83,182.77,22.7196,75.8577
+ORD-100048,2026-01-04,Indore,Madhya Pradesh,Home & Living,Mixer,4,1162.7,0.2,3720.64,630.24,22.7196,75.8577
+ORD-100049,2026-01-04,Indore,Madhya Pradesh,Fashion,Jacket,3,5041.95,0.0,15125.85,3930.54,22.7196,75.8577
+ORD-100050,2026-01-04,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,107.65,0.1,193.77,34.99,22.7196,75.8577
+ORD-100051,2026-01-04,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,774.8,0.15,1975.74,367.72,22.7196,75.8577
+ORD-100052,2026-01-04,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,3579.18,0.1,6442.53,1272.4,23.2599,77.4126
+ORD-100053,2026-01-04,Bhopal,Madhya Pradesh,Electronics,Laptop,1,2739.98,0.2,2191.98,340.19,23.2599,77.4126
+ORD-100054,2026-01-04,Bhopal,Madhya Pradesh,Electronics,Tablet,4,29971.64,0.0,119886.55,13457.17,23.2599,77.4126
+ORD-100055,2026-01-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,1246.82,0.15,4239.17,475.75,23.2599,77.4126
+ORD-100056,2026-01-04,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,445.13,0.0,1335.38,209.15,23.2599,77.4126
+ORD-100057,2026-01-04,Bhopal,Madhya Pradesh,Electronics,Monitor,2,5020.11,0.05,9538.22,764.64,23.2599,77.4126
+ORD-100058,2026-01-04,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,4815.14,0.0,9630.28,2462.04,23.2599,77.4126
+ORD-100059,2026-01-05,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,855.82,0.0,3423.28,600.74,22.7196,75.8577
+ORD-100060,2026-01-05,Indore,Madhya Pradesh,Fashion,Jacket,3,5208.2,0.15,13280.9,3833.28,22.7196,75.8577
+ORD-100061,2026-01-05,Indore,Madhya Pradesh,Fashion,Backpack,3,4915.75,0.05,14009.9,2300.1,22.7196,75.8577
+ORD-100062,2026-01-05,Indore,Madhya Pradesh,Home & Living,Lamp,4,10757.22,0.0,43028.88,7782.85,22.7196,75.8577
+ORD-100063,2026-01-05,Indore,Madhya Pradesh,Electronics,Monitor,3,32902.79,0.1,88837.52,9533.93,22.7196,75.8577
+ORD-100064,2026-01-05,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,531.23,0.1,478.11,80.34,22.7196,75.8577
+ORD-100065,2026-01-05,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,2187.82,0.0,2187.82,601.65,22.7196,75.8577
+ORD-100066,2026-01-05,Bhopal,Madhya Pradesh,Electronics,Monitor,1,47497.89,0.15,40373.2,4760.21,23.2599,77.4126
+ORD-100067,2026-01-05,Bhopal,Madhya Pradesh,Fashion,Jeans,1,5274.09,0.1,4746.68,1410.2,23.2599,77.4126
+ORD-100068,2026-01-05,Bhopal,Madhya Pradesh,Fashion,Jacket,2,3737.34,0.05,7100.95,1511.15,23.2599,77.4126
+ORD-100069,2026-01-05,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,1817.85,0.05,3453.91,630.83,23.2599,77.4126
+ORD-100070,2026-01-05,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,52836.48,0.05,100389.31,15708.96,23.2599,77.4126
+ORD-100071,2026-01-05,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,4267.54,0.1,3840.78,1001.49,23.2599,77.4126
+ORD-100072,2026-01-05,Bhopal,Madhya Pradesh,Fashion,Jeans,3,2604.76,0.0,7814.29,1382.28,23.2599,77.4126
+ORD-100073,2026-01-06,Indore,Madhya Pradesh,Electronics,Tablet,3,25732.51,0.05,73337.67,9760.15,22.7196,75.8577
+ORD-100074,2026-01-06,Indore,Madhya Pradesh,Food & Beverages,Juice,1,1012.17,0.0,1012.17,216.99,22.7196,75.8577
+ORD-100075,2026-01-06,Indore,Madhya Pradesh,Fashion,Jacket,4,762.29,0.1,2744.26,592.93,22.7196,75.8577
+ORD-100076,2026-01-06,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,680.36,0.05,2585.36,504.76,22.7196,75.8577
+ORD-100077,2026-01-06,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,544.8,0.05,1552.68,418.98,22.7196,75.8577
+ORD-100078,2026-01-06,Indore,Madhya Pradesh,Electronics,Headphones,2,26330.49,0.05,50027.93,4888.91,22.7196,75.8577
+ORD-100079,2026-01-06,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,614.22,0.05,1750.52,326.25,23.2599,77.4126
+ORD-100080,2026-01-06,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,848.09,0.0,1696.17,173.64,23.2599,77.4126
+ORD-100081,2026-01-06,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,47585.54,0.0,190342.15,20623.97,23.2599,77.4126
+ORD-100082,2026-01-06,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,7767.9,0.05,29518.03,4959.25,23.2599,77.4126
+ORD-100083,2026-01-06,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,2339.96,0.05,8891.87,2558.85,23.2599,77.4126
+ORD-100084,2026-01-06,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,5857.91,0.05,22260.06,3766.35,23.2599,77.4126
+ORD-100085,2026-01-06,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1526.6,0.1,1373.94,169.15,23.2599,77.4126
+ORD-100086,2026-01-06,Bhopal,Madhya Pradesh,Fashion,Jeans,3,5896.43,0.05,16804.84,4249.67,23.2599,77.4126
+ORD-100087,2026-01-06,Bhopal,Madhya Pradesh,Fashion,Jeans,3,4305.28,0.1,11624.26,3044.37,23.2599,77.4126
+ORD-100088,2026-01-07,Indore,Madhya Pradesh,Electronics,Headphones,2,20597.57,0.05,39135.37,6061.37,22.7196,75.8577
+ORD-100089,2026-01-07,Indore,Madhya Pradesh,Food & Beverages,Tea,4,189.77,0.05,721.13,143.34,22.7196,75.8577
+ORD-100090,2026-01-07,Indore,Madhya Pradesh,Electronics,Smartphone,1,45590.23,0.1,41031.21,4338.85,22.7196,75.8577
+ORD-100091,2026-01-07,Indore,Madhya Pradesh,Fashion,Backpack,2,4658.05,0.0,9316.1,2010.33,22.7196,75.8577
+ORD-100092,2026-01-07,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5868.22,0.1,21125.58,5553.1,22.7196,75.8577
+ORD-100093,2026-01-07,Indore,Madhya Pradesh,Home & Living,Desk,2,6193.97,0.1,11149.15,1853.48,22.7196,75.8577
+ORD-100094,2026-01-07,Bhopal,Madhya Pradesh,Electronics,Headphones,3,37797.91,0.1,102054.35,9919.28,23.2599,77.4126
+ORD-100095,2026-01-07,Bhopal,Madhya Pradesh,Electronics,Laptop,1,32963.03,0.0,32963.03,4030.5,23.2599,77.4126
+ORD-100096,2026-01-07,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,2029.96,0.15,1725.46,302.02,23.2599,77.4126
+ORD-100097,2026-01-07,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,175.1,0.05,665.37,80.14,23.2599,77.4126
+ORD-100098,2026-01-07,Bhopal,Madhya Pradesh,Fashion,Jeans,2,2655.95,0.05,5046.31,880.38,23.2599,77.4126
+ORD-100099,2026-01-08,Indore,Madhya Pradesh,Fashion,Jeans,4,5637.01,0.1,20293.24,5118.47,22.7196,75.8577
+ORD-100100,2026-01-08,Indore,Madhya Pradesh,Fashion,Jacket,3,4504.81,0.1,12163.0,3353.95,22.7196,75.8577
+ORD-100101,2026-01-08,Indore,Madhya Pradesh,Electronics,Smartphone,3,22680.19,0.1,61236.51,8344.5,22.7196,75.8577
+ORD-100102,2026-01-08,Indore,Madhya Pradesh,Fashion,Backpack,2,2385.87,0.05,4533.15,1217.09,22.7196,75.8577
+ORD-100103,2026-01-08,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,730.25,0.15,2482.86,509.6,22.7196,75.8577
+ORD-100104,2026-01-08,Indore,Madhya Pradesh,Fashion,Backpack,1,4891.65,0.15,4157.91,968.23,22.7196,75.8577
+ORD-100105,2026-01-08,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,5917.52,0.0,5917.52,778.85,22.7196,75.8577
+ORD-100106,2026-01-08,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,1178.2,0.05,2238.58,481.39,22.7196,75.8577
+ORD-100107,2026-01-08,Indore,Madhya Pradesh,Home & Living,Lamp,3,11275.38,0.0,33826.13,6230.36,22.7196,75.8577
+ORD-100108,2026-01-08,Bhopal,Madhya Pradesh,Fashion,Jacket,2,5831.26,0.2,9330.02,2625.68,23.2599,77.4126
+ORD-100109,2026-01-08,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,1023.94,0.2,3276.62,479.57,23.2599,77.4126
+ORD-100110,2026-01-08,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4811.3,0.0,4811.3,908.44,23.2599,77.4126
+ORD-100111,2026-01-08,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,1176.84,0.1,4236.62,1076.42,23.2599,77.4126
+ORD-100112,2026-01-08,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,1723.54,0.15,5860.05,1083.27,23.2599,77.4126
+ORD-100113,2026-01-08,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,8857.55,0.0,26572.64,4845.41,23.2599,77.4126
+ORD-100114,2026-01-09,Indore,Madhya Pradesh,Fashion,Backpack,3,960.86,0.0,2882.58,650.48,22.7196,75.8577
+ORD-100115,2026-01-09,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1555.59,0.05,4433.43,640.67,22.7196,75.8577
+ORD-100116,2026-01-09,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1366.85,0.0,2733.69,362.79,22.7196,75.8577
+ORD-100117,2026-01-09,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,3862.59,0.1,13905.34,2580.08,22.7196,75.8577
+ORD-100118,2026-01-09,Indore,Madhya Pradesh,Electronics,Smartphone,2,31072.75,0.1,55930.95,9033.26,22.7196,75.8577
+ORD-100119,2026-01-09,Indore,Madhya Pradesh,Electronics,Smartphone,1,22657.59,0.0,22657.59,2806.87,22.7196,75.8577
+ORD-100120,2026-01-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,4476.45,0.15,7609.97,1613.59,23.2599,77.4126
+ORD-100121,2026-01-09,Bhopal,Madhya Pradesh,Fashion,Jeans,2,3581.68,0.1,6447.02,1929.43,23.2599,77.4126
+ORD-100122,2026-01-09,Bhopal,Madhya Pradesh,Fashion,Jacket,2,5669.55,0.0,11339.1,1906.24,23.2599,77.4126
+ORD-100123,2026-01-09,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,3691.24,0.1,3322.12,508.77,23.2599,77.4126
+ORD-100124,2026-01-09,Bhopal,Madhya Pradesh,Fashion,Backpack,2,4789.27,0.0,9578.54,2298.5,23.2599,77.4126
+ORD-100125,2026-01-09,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2734.27,0.0,10937.07,2484.01,23.2599,77.4126
+ORD-100126,2026-01-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,3834.22,0.0,7668.44,1438.8,23.2599,77.4126
+ORD-100127,2026-01-10,Indore,Madhya Pradesh,Food & Beverages,Tea,3,329.56,0.05,939.26,97.88,22.7196,75.8577
+ORD-100128,2026-01-10,Indore,Madhya Pradesh,Home & Living,Lamp,2,10316.27,0.0,20632.53,4008.28,22.7196,75.8577
+ORD-100129,2026-01-10,Indore,Madhya Pradesh,Food & Beverages,Tea,1,996.68,0.15,847.18,108.95,22.7196,75.8577
+ORD-100130,2026-01-10,Indore,Madhya Pradesh,Fashion,Backpack,3,4849.21,0.1,13092.88,2440.44,22.7196,75.8577
+ORD-100131,2026-01-10,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,695.59,0.05,660.81,183.31,22.7196,75.8577
+ORD-100132,2026-01-10,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1219.42,0.0,4877.67,777.85,22.7196,75.8577
+ORD-100133,2026-01-10,Bhopal,Madhya Pradesh,Fashion,Backpack,4,2740.76,0.05,10414.87,2754.21,23.2599,77.4126
+ORD-100134,2026-01-10,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,11531.22,0.1,10378.1,1805.21,23.2599,77.4126
+ORD-100135,2026-01-10,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1752.99,0.15,5960.16,660.39,23.2599,77.4126
+ORD-100136,2026-01-10,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,5739.87,0.1,20663.53,3475.97,23.2599,77.4126
+ORD-100137,2026-01-10,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,4901.49,0.15,8332.53,2133.52,23.2599,77.4126
+ORD-100138,2026-01-10,Bhopal,Madhya Pradesh,Electronics,Monitor,1,38449.56,0.1,34604.6,4920.3,23.2599,77.4126
+ORD-100139,2026-01-11,Indore,Madhya Pradesh,Home & Living,Mixer,3,1679.84,0.1,4535.57,841.33,22.7196,75.8577
+ORD-100140,2026-01-11,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,3255.79,0.0,3255.79,740.44,22.7196,75.8577
+ORD-100141,2026-01-11,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,2301.74,0.1,6214.7,1692.51,22.7196,75.8577
+ORD-100142,2026-01-11,Indore,Madhya Pradesh,Electronics,Headphones,2,19155.88,0.15,32565.0,4234.13,22.7196,75.8577
+ORD-100143,2026-01-11,Indore,Madhya Pradesh,Electronics,Monitor,2,15784.75,0.1,28412.56,4716.4,22.7196,75.8577
+ORD-100144,2026-01-11,Indore,Madhya Pradesh,Electronics,Laptop,4,54235.04,0.05,206093.16,27766.58,22.7196,75.8577
+ORD-100145,2026-01-11,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,2832.45,0.0,11329.79,1388.34,22.7196,75.8577
+ORD-100146,2026-01-11,Indore,Madhya Pradesh,Home & Living,Desk,4,7273.52,0.0,29094.07,5037.41,22.7196,75.8577
+ORD-100147,2026-01-11,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,355.07,0.1,319.56,50.9,23.2599,77.4126
+ORD-100148,2026-01-11,Bhopal,Madhya Pradesh,Fashion,Jacket,2,848.2,0.05,1611.58,395.57,23.2599,77.4126
+ORD-100149,2026-01-11,Bhopal,Madhya Pradesh,Electronics,Tablet,2,33901.2,0.05,64412.27,6290.93,23.2599,77.4126
+ORD-100150,2026-01-11,Bhopal,Madhya Pradesh,Electronics,Laptop,4,52442.61,0.2,167816.36,22660.64,23.2599,77.4126
+ORD-100151,2026-01-11,Bhopal,Madhya Pradesh,Fashion,Jacket,3,4594.76,0.05,13095.06,2667.59,23.2599,77.4126
+ORD-100152,2026-01-11,Bhopal,Madhya Pradesh,Electronics,Laptop,1,26480.67,0.05,25156.63,4155.18,23.2599,77.4126
+ORD-100153,2026-01-12,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,2507.7,0.1,6770.79,1757.39,22.7196,75.8577
+ORD-100154,2026-01-12,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1225.85,0.0,4903.42,817.07,22.7196,75.8577
+ORD-100155,2026-01-12,Indore,Madhya Pradesh,Fashion,Backpack,3,773.04,0.0,2319.11,451.67,22.7196,75.8577
+ORD-100156,2026-01-12,Indore,Madhya Pradesh,Fashion,Jeans,4,717.89,0.0,2871.56,838.31,22.7196,75.8577
+ORD-100157,2026-01-12,Indore,Madhya Pradesh,Electronics,Headphones,4,35441.29,0.1,127588.64,12079.37,22.7196,75.8577
+ORD-100158,2026-01-12,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,322.57,0.15,548.36,82.71,23.2599,77.4126
+ORD-100159,2026-01-12,Bhopal,Madhya Pradesh,Fashion,Backpack,4,3324.54,0.15,11303.45,2648.41,23.2599,77.4126
+ORD-100160,2026-01-12,Bhopal,Madhya Pradesh,Electronics,Headphones,2,12449.76,0.05,23654.54,2717.58,23.2599,77.4126
+ORD-100161,2026-01-12,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,2450.31,0.0,2450.31,436.9,23.2599,77.4126
+ORD-100162,2026-01-12,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,2540.28,0.0,7620.84,1762.85,23.2599,77.4126
+ORD-100163,2026-01-12,Bhopal,Madhya Pradesh,Electronics,Monitor,1,16371.81,0.05,15553.22,1771.52,23.2599,77.4126
+ORD-100164,2026-01-12,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,6709.61,0.1,24154.59,4157.53,23.2599,77.4126
+ORD-100165,2026-01-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,6818.97,0.0,27275.87,4282.82,23.2599,77.4126
+ORD-100166,2026-01-12,Bhopal,Madhya Pradesh,Electronics,Tablet,2,4058.76,0.15,6899.9,738.52,23.2599,77.4126
+ORD-100167,2026-01-13,Indore,Madhya Pradesh,Electronics,Headphones,2,9875.85,0.05,18764.12,3320.82,22.7196,75.8577
+ORD-100168,2026-01-13,Indore,Madhya Pradesh,Fashion,Jeans,3,3754.48,0.1,10137.08,1705.45,22.7196,75.8577
+ORD-100169,2026-01-13,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,1240.86,0.05,2357.63,614.23,22.7196,75.8577
+ORD-100170,2026-01-13,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,791.59,0.15,2691.41,549.32,22.7196,75.8577
+ORD-100171,2026-01-13,Indore,Madhya Pradesh,Electronics,Headphones,3,15275.96,0.05,43536.5,6336.56,22.7196,75.8577
+ORD-100172,2026-01-13,Bhopal,Madhya Pradesh,Electronics,Tablet,2,21395.91,0.05,40652.23,4821.03,23.2599,77.4126
+ORD-100173,2026-01-13,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2645.89,0.15,6747.01,1134.99,23.2599,77.4126
+ORD-100174,2026-01-13,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,1283.44,0.15,1090.93,268.09,23.2599,77.4126
+ORD-100175,2026-01-13,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,13305.53,0.05,37920.75,5702.44,23.2599,77.4126
+ORD-100176,2026-01-13,Bhopal,Madhya Pradesh,Electronics,Laptop,2,53514.13,0.0,107028.27,16359.08,23.2599,77.4126
+ORD-100177,2026-01-13,Bhopal,Madhya Pradesh,Home & Living,Desk,2,4368.47,0.1,7863.25,1017.89,23.2599,77.4126
+ORD-100178,2026-01-13,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,4726.01,0.0,9452.02,1618.55,23.2599,77.4126
+ORD-100179,2026-01-13,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,28293.51,0.05,80636.5,12012.92,23.2599,77.4126
+ORD-100180,2026-01-13,Bhopal,Madhya Pradesh,Electronics,Monitor,1,40523.26,0.15,34444.77,3061.89,23.2599,77.4126
+ORD-100181,2026-01-13,Bhopal,Madhya Pradesh,Fashion,Jacket,2,3240.05,0.15,5508.09,1249.62,23.2599,77.4126
+ORD-100182,2026-01-14,Indore,Madhya Pradesh,Fashion,T-Shirt,1,3096.03,0.05,2941.23,829.7,22.7196,75.8577
+ORD-100183,2026-01-14,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1395.83,0.0,1395.83,266.22,22.7196,75.8577
+ORD-100184,2026-01-14,Indore,Madhya Pradesh,Electronics,Laptop,2,54534.21,0.1,98161.59,15629.98,22.7196,75.8577
+ORD-100185,2026-01-14,Indore,Madhya Pradesh,Fashion,Jeans,3,5632.5,0.1,15207.75,2661.66,22.7196,75.8577
+ORD-100186,2026-01-14,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,3697.08,0.0,14788.32,3599.26,22.7196,75.8577
+ORD-100187,2026-01-14,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,5767.65,0.1,10381.76,1894.2,22.7196,75.8577
+ORD-100188,2026-01-14,Indore,Madhya Pradesh,Fashion,T-Shirt,1,3748.08,0.1,3373.27,834.77,22.7196,75.8577
+ORD-100189,2026-01-14,Indore,Madhya Pradesh,Electronics,Smartphone,4,48242.92,0.1,173674.51,28264.5,22.7196,75.8577
+ORD-100190,2026-01-14,Indore,Madhya Pradesh,Food & Beverages,Juice,1,343.11,0.05,325.96,36.73,22.7196,75.8577
+ORD-100191,2026-01-14,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1134.72,0.05,2155.97,350.68,23.2599,77.4126
+ORD-100192,2026-01-14,Bhopal,Madhya Pradesh,Electronics,Monitor,4,28325.52,0.05,107636.98,9184.93,23.2599,77.4126
+ORD-100193,2026-01-14,Bhopal,Madhya Pradesh,Fashion,Jacket,2,1122.47,0.0,2244.93,426.8,23.2599,77.4126
+ORD-100194,2026-01-14,Bhopal,Madhya Pradesh,Home & Living,Desk,4,10898.14,0.1,39233.29,4785.59,23.2599,77.4126
+ORD-100195,2026-01-14,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,842.88,0.0,1685.76,203.56,23.2599,77.4126
+ORD-100196,2026-01-14,Bhopal,Madhya Pradesh,Electronics,Headphones,3,28361.71,0.0,85085.13,9039.35,23.2599,77.4126
+ORD-100197,2026-01-14,Bhopal,Madhya Pradesh,Home & Living,Desk,3,1166.16,0.2,2798.78,588.08,23.2599,77.4126
+ORD-100198,2026-01-14,Bhopal,Madhya Pradesh,Home & Living,Desk,3,11165.86,0.0,33497.58,5809.51,23.2599,77.4126
+ORD-100199,2026-01-14,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,5422.9,0.15,9218.94,2000.14,23.2599,77.4126
+ORD-100200,2026-01-15,Indore,Madhya Pradesh,Fashion,Jacket,3,1378.45,0.05,3928.58,1079.17,22.7196,75.8577
+ORD-100201,2026-01-15,Indore,Madhya Pradesh,Fashion,Jacket,2,5044.57,0.0,10089.13,2421.09,22.7196,75.8577
+ORD-100202,2026-01-15,Indore,Madhya Pradesh,Electronics,Smartphone,3,6185.17,0.05,17627.73,2228.85,22.7196,75.8577
+ORD-100203,2026-01-15,Indore,Madhya Pradesh,Home & Living,Desk,4,10662.27,0.1,38384.19,6541.42,22.7196,75.8577
+ORD-100204,2026-01-15,Indore,Madhya Pradesh,Fashion,Jeans,4,3653.52,0.05,13883.36,2699.44,22.7196,75.8577
+ORD-100205,2026-01-15,Indore,Madhya Pradesh,Electronics,Tablet,3,26658.94,0.1,71979.15,9364.37,22.7196,75.8577
+ORD-100206,2026-01-15,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1356.59,0.1,3662.8,533.88,22.7196,75.8577
+ORD-100207,2026-01-15,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,4385.98,0.1,7894.77,1664.95,22.7196,75.8577
+ORD-100208,2026-01-15,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,520.34,0.0,1040.67,227.81,22.7196,75.8577
+ORD-100209,2026-01-15,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2518.52,0.1,6800.0,1462.57,22.7196,75.8577
+ORD-100210,2026-01-15,Indore,Madhya Pradesh,Fashion,Jeans,1,3084.2,0.1,2775.78,772.27,22.7196,75.8577
+ORD-100211,2026-01-15,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,483.01,0.15,410.55,83.9,23.2599,77.4126
+ORD-100212,2026-01-15,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,1835.9,0.15,4681.54,1034.31,23.2599,77.4126
+ORD-100213,2026-01-15,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,1202.61,0.05,4569.94,806.75,23.2599,77.4126
+ORD-100214,2026-01-15,Bhopal,Madhya Pradesh,Electronics,Monitor,3,38340.4,0.0,115021.19,17711.32,23.2599,77.4126
+ORD-100215,2026-01-15,Bhopal,Madhya Pradesh,Fashion,Jeans,3,5990.43,0.0,17971.3,3702.61,23.2599,77.4126
+ORD-100216,2026-01-15,Bhopal,Madhya Pradesh,Electronics,Laptop,4,38694.49,0.1,139300.16,17198.06,23.2599,77.4126
+ORD-100217,2026-01-15,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3747.68,0.0,14990.73,3502.01,23.2599,77.4126
+ORD-100218,2026-01-16,Indore,Madhya Pradesh,Electronics,Monitor,3,4229.23,0.0,12687.7,1760.83,22.7196,75.8577
+ORD-100219,2026-01-16,Indore,Madhya Pradesh,Fashion,T-Shirt,2,2332.52,0.05,4431.79,993.19,22.7196,75.8577
+ORD-100220,2026-01-16,Indore,Madhya Pradesh,Electronics,Headphones,2,8389.19,0.1,15100.53,1899.25,22.7196,75.8577
+ORD-100221,2026-01-16,Indore,Madhya Pradesh,Electronics,Headphones,1,29944.9,0.05,28447.65,3835.87,22.7196,75.8577
+ORD-100222,2026-01-16,Indore,Madhya Pradesh,Electronics,Headphones,1,54003.91,0.2,43203.13,4337.65,22.7196,75.8577
+ORD-100223,2026-01-16,Indore,Madhya Pradesh,Electronics,Smartphone,2,21969.45,0.1,39545.02,5949.14,22.7196,75.8577
+ORD-100224,2026-01-16,Indore,Madhya Pradesh,Electronics,Tablet,4,47253.7,0.0,189014.79,27863.51,22.7196,75.8577
+ORD-100225,2026-01-16,Indore,Madhya Pradesh,Fashion,T-Shirt,2,1721.24,0.05,3270.36,562.58,22.7196,75.8577
+ORD-100226,2026-01-16,Indore,Madhya Pradesh,Electronics,Monitor,1,10771.91,0.2,8617.53,1443.69,22.7196,75.8577
+ORD-100227,2026-01-16,Indore,Madhya Pradesh,Fashion,Backpack,1,663.77,0.2,531.02,128.99,22.7196,75.8577
+ORD-100228,2026-01-16,Indore,Madhya Pradesh,Electronics,Laptop,1,11552.53,0.1,10397.27,1683.87,22.7196,75.8577
+ORD-100229,2026-01-16,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,1449.79,0.1,2609.62,560.82,23.2599,77.4126
+ORD-100230,2026-01-16,Bhopal,Madhya Pradesh,Fashion,Backpack,3,4137.62,0.15,10550.92,2049.83,23.2599,77.4126
+ORD-100231,2026-01-16,Bhopal,Madhya Pradesh,Fashion,Jeans,1,4654.52,0.1,4189.06,1086.02,23.2599,77.4126
+ORD-100232,2026-01-16,Bhopal,Madhya Pradesh,Electronics,Laptop,2,41292.1,0.05,78454.98,13021.02,23.2599,77.4126
+ORD-100233,2026-01-16,Bhopal,Madhya Pradesh,Electronics,Laptop,1,54221.39,0.1,48799.26,5756.94,23.2599,77.4126
+ORD-100234,2026-01-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,713.34,0.1,1284.01,217.92,23.2599,77.4126
+ORD-100235,2026-01-16,Bhopal,Madhya Pradesh,Electronics,Headphones,2,33601.86,0.05,63843.54,7723.16,23.2599,77.4126
+ORD-100236,2026-01-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,3152.05,0.1,11347.39,2854.09,23.2599,77.4126
+ORD-100237,2026-01-17,Indore,Madhya Pradesh,Electronics,Monitor,4,25932.27,0.15,88169.73,15558.27,22.7196,75.8577
+ORD-100238,2026-01-17,Indore,Madhya Pradesh,Electronics,Laptop,1,52510.44,0.1,47259.4,5347.28,22.7196,75.8577
+ORD-100239,2026-01-17,Indore,Madhya Pradesh,Electronics,Smartphone,2,36723.07,0.05,69773.84,7485.59,22.7196,75.8577
+ORD-100240,2026-01-17,Indore,Madhya Pradesh,Electronics,Monitor,3,30620.49,0.15,78082.25,7014.26,22.7196,75.8577
+ORD-100241,2026-01-17,Indore,Madhya Pradesh,Electronics,Smartphone,1,21831.86,0.15,18557.08,2671.28,22.7196,75.8577
+ORD-100242,2026-01-17,Indore,Madhya Pradesh,Electronics,Monitor,1,20625.28,0.0,20625.28,3539.35,22.7196,75.8577
+ORD-100243,2026-01-17,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,2830.73,0.2,2264.58,539.31,22.7196,75.8577
+ORD-100244,2026-01-17,Indore,Madhya Pradesh,Food & Beverages,Tea,3,537.46,0.0,1612.39,328.43,22.7196,75.8577
+ORD-100245,2026-01-17,Indore,Madhya Pradesh,Electronics,Laptop,2,3228.73,0.1,5811.71,519.62,22.7196,75.8577
+ORD-100246,2026-01-17,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,770.06,0.0,2310.19,390.51,23.2599,77.4126
+ORD-100247,2026-01-17,Bhopal,Madhya Pradesh,Home & Living,Desk,2,4435.79,0.1,7984.42,1732.14,23.2599,77.4126
+ORD-100248,2026-01-17,Bhopal,Madhya Pradesh,Home & Living,Desk,2,6556.84,0.0,13113.68,2132.61,23.2599,77.4126
+ORD-100249,2026-01-17,Bhopal,Madhya Pradesh,Fashion,Jacket,4,1220.11,0.15,4148.36,1227.88,23.2599,77.4126
+ORD-100250,2026-01-17,Bhopal,Madhya Pradesh,Electronics,Laptop,4,7196.34,0.1,25906.84,2258.5,23.2599,77.4126
+ORD-100251,2026-01-17,Bhopal,Madhya Pradesh,Home & Living,Desk,4,7420.82,0.1,26714.94,4915.63,23.2599,77.4126
+ORD-100252,2026-01-18,Indore,Madhya Pradesh,Electronics,Monitor,1,6813.03,0.0,6813.03,840.3,22.7196,75.8577
+ORD-100253,2026-01-18,Indore,Madhya Pradesh,Fashion,T-Shirt,1,3283.69,0.05,3119.51,935.59,22.7196,75.8577
+ORD-100254,2026-01-18,Indore,Madhya Pradesh,Electronics,Tablet,2,5607.23,0.05,10653.74,920.45,22.7196,75.8577
+ORD-100255,2026-01-18,Indore,Madhya Pradesh,Electronics,Headphones,4,39448.62,0.15,134125.32,17523.12,22.7196,75.8577
+ORD-100256,2026-01-18,Indore,Madhya Pradesh,Electronics,Headphones,2,20491.8,0.05,38934.43,6314.28,22.7196,75.8577
+ORD-100257,2026-01-18,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,297.37,0.05,282.5,44.54,22.7196,75.8577
+ORD-100258,2026-01-18,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,7439.69,0.1,26782.87,4631.43,22.7196,75.8577
+ORD-100259,2026-01-18,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1656.17,0.2,1324.94,221.03,22.7196,75.8577
+ORD-100260,2026-01-18,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,3734.2,0.2,8962.09,2072.32,23.2599,77.4126
+ORD-100261,2026-01-18,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,6614.69,0.15,16867.46,3048.24,23.2599,77.4126
+ORD-100262,2026-01-18,Bhopal,Madhya Pradesh,Electronics,Headphones,3,4693.12,0.0,14079.36,2323.49,23.2599,77.4126
+ORD-100263,2026-01-18,Bhopal,Madhya Pradesh,Electronics,Laptop,3,6394.33,0.1,17264.7,3081.07,23.2599,77.4126
+ORD-100264,2026-01-18,Bhopal,Madhya Pradesh,Electronics,Headphones,1,33519.94,0.15,28491.95,3238.6,23.2599,77.4126
+ORD-100265,2026-01-19,Indore,Madhya Pradesh,Fashion,Jacket,3,5950.68,0.0,17852.03,3983.87,22.7196,75.8577
+ORD-100266,2026-01-19,Indore,Madhya Pradesh,Home & Living,Office Chair,1,4207.1,0.05,3996.74,744.68,22.7196,75.8577
+ORD-100267,2026-01-19,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1525.15,0.1,1372.64,171.63,22.7196,75.8577
+ORD-100268,2026-01-19,Indore,Madhya Pradesh,Fashion,Backpack,4,3894.13,0.1,14018.88,3919.51,22.7196,75.8577
+ORD-100269,2026-01-19,Indore,Madhya Pradesh,Home & Living,Office Chair,4,9852.28,0.2,31527.3,7457.83,22.7196,75.8577
+ORD-100270,2026-01-19,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,6585.69,0.05,6256.4,832.29,23.2599,77.4126
+ORD-100271,2026-01-19,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3156.77,0.0,3156.77,573.34,23.2599,77.4126
+ORD-100272,2026-01-19,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1796.0,0.15,1526.6,247.78,23.2599,77.4126
+ORD-100273,2026-01-19,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1308.82,0.15,2224.99,452.31,23.2599,77.4126
+ORD-100274,2026-01-19,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,857.75,0.05,1629.72,177.39,23.2599,77.4126
+ORD-100275,2026-01-19,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,763.76,0.1,1374.77,270.44,23.2599,77.4126
+ORD-100276,2026-01-19,Bhopal,Madhya Pradesh,Electronics,Headphones,4,48055.12,0.0,192220.48,25011.9,23.2599,77.4126
+ORD-100277,2026-01-19,Bhopal,Madhya Pradesh,Electronics,Monitor,1,13811.41,0.1,12430.27,1857.74,23.2599,77.4126
+ORD-100278,2026-01-19,Bhopal,Madhya Pradesh,Home & Living,Desk,2,8253.41,0.1,14856.14,1972.4,23.2599,77.4126
+ORD-100279,2026-01-20,Indore,Madhya Pradesh,Fashion,Jeans,2,1769.89,0.0,3539.77,653.81,22.7196,75.8577
+ORD-100280,2026-01-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2205.58,0.05,4190.6,763.5,22.7196,75.8577
+ORD-100281,2026-01-20,Indore,Madhya Pradesh,Electronics,Laptop,4,49148.78,0.0,196595.12,23198.19,22.7196,75.8577
+ORD-100282,2026-01-20,Indore,Madhya Pradesh,Fashion,Backpack,4,2338.98,0.1,8420.34,1849.11,22.7196,75.8577
+ORD-100283,2026-01-20,Indore,Madhya Pradesh,Fashion,Jacket,2,2659.62,0.1,4787.31,1049.87,22.7196,75.8577
+ORD-100284,2026-01-20,Indore,Madhya Pradesh,Fashion,Backpack,3,3699.9,0.05,10544.71,2335.28,22.7196,75.8577
+ORD-100285,2026-01-20,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,4689.75,0.05,13365.77,3429.18,22.7196,75.8577
+ORD-100286,2026-01-20,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1691.67,0.1,6090.02,795.37,22.7196,75.8577
+ORD-100287,2026-01-20,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,968.29,0.1,3485.83,432.36,22.7196,75.8577
+ORD-100288,2026-01-20,Bhopal,Madhya Pradesh,Fashion,Jacket,2,3108.85,0.15,5285.05,1576.77,23.2599,77.4126
+ORD-100289,2026-01-20,Bhopal,Madhya Pradesh,Electronics,Headphones,4,29067.81,0.2,93017.01,13772.88,23.2599,77.4126
+ORD-100290,2026-01-20,Bhopal,Madhya Pradesh,Electronics,Tablet,4,52969.52,0.1,190690.26,32948.57,23.2599,77.4126
+ORD-100291,2026-01-20,Bhopal,Madhya Pradesh,Electronics,Monitor,2,3039.08,0.1,5470.35,664.8,23.2599,77.4126
+ORD-100292,2026-01-20,Bhopal,Madhya Pradesh,Electronics,Laptop,1,10176.21,0.1,9158.59,858.67,23.2599,77.4126
+ORD-100293,2026-01-20,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,5141.1,0.0,10282.2,2429.66,23.2599,77.4126
+ORD-100294,2026-01-20,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,6013.06,0.1,10823.51,1666.36,23.2599,77.4126
+ORD-100295,2026-01-21,Indore,Madhya Pradesh,Home & Living,Mixer,1,8671.58,0.05,8238.0,1375.05,22.7196,75.8577
+ORD-100296,2026-01-21,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,147.97,0.05,140.57,18.4,22.7196,75.8577
+ORD-100297,2026-01-21,Indore,Madhya Pradesh,Fashion,Jeans,1,1202.22,0.0,1202.22,195.72,22.7196,75.8577
+ORD-100298,2026-01-21,Indore,Madhya Pradesh,Home & Living,Desk,4,11851.88,0.05,45037.15,8192.4,22.7196,75.8577
+ORD-100299,2026-01-21,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,2873.15,0.1,7757.5,1553.2,22.7196,75.8577
+ORD-100300,2026-01-21,Indore,Madhya Pradesh,Fashion,T-Shirt,3,3162.46,0.05,9013.02,2129.59,22.7196,75.8577
+ORD-100301,2026-01-21,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,1012.25,0.0,1012.25,163.19,22.7196,75.8577
+ORD-100302,2026-01-21,Indore,Madhya Pradesh,Fashion,T-Shirt,1,4105.15,0.0,4105.15,1006.43,22.7196,75.8577
+ORD-100303,2026-01-21,Bhopal,Madhya Pradesh,Electronics,Tablet,4,17511.43,0.0,70045.71,9759.75,23.2599,77.4126
+ORD-100304,2026-01-21,Bhopal,Madhya Pradesh,Electronics,Headphones,1,38763.27,0.0,38763.27,4775.99,23.2599,77.4126
+ORD-100305,2026-01-21,Bhopal,Madhya Pradesh,Electronics,Headphones,1,12562.82,0.0,12562.82,1559.07,23.2599,77.4126
+ORD-100306,2026-01-21,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,54491.52,0.05,103533.9,10743.86,23.2599,77.4126
+ORD-100307,2026-01-21,Bhopal,Madhya Pradesh,Electronics,Monitor,3,20798.55,0.05,59275.87,5645.83,23.2599,77.4126
+ORD-100308,2026-01-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,666.75,0.1,600.08,152.14,23.2599,77.4126
+ORD-100309,2026-01-22,Indore,Madhya Pradesh,Home & Living,Lamp,3,6472.91,0.1,17476.86,2754.34,22.7196,75.8577
+ORD-100310,2026-01-22,Indore,Madhya Pradesh,Food & Beverages,Tea,4,916.95,0.0,3667.81,784.74,22.7196,75.8577
+ORD-100311,2026-01-22,Indore,Madhya Pradesh,Fashion,Jeans,2,5188.15,0.15,8819.85,2280.04,22.7196,75.8577
+ORD-100312,2026-01-22,Indore,Madhya Pradesh,Food & Beverages,Juice,3,767.86,0.05,2188.4,389.33,22.7196,75.8577
+ORD-100313,2026-01-22,Indore,Madhya Pradesh,Electronics,Laptop,4,21455.86,0.15,72949.92,9770.01,22.7196,75.8577
+ORD-100314,2026-01-22,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,4352.24,0.1,11751.05,2339.06,22.7196,75.8577
+ORD-100315,2026-01-22,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,981.59,0.15,834.35,110.26,23.2599,77.4126
+ORD-100316,2026-01-22,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1607.97,0.2,2572.75,503.77,23.2599,77.4126
+ORD-100317,2026-01-22,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,6455.09,0.15,16460.49,2746.57,23.2599,77.4126
+ORD-100318,2026-01-22,Bhopal,Madhya Pradesh,Fashion,Jeans,2,768.7,0.0,1537.4,340.26,23.2599,77.4126
+ORD-100319,2026-01-22,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,576.39,0.05,547.57,81.31,23.2599,77.4126
+ORD-100320,2026-01-22,Bhopal,Madhya Pradesh,Fashion,Backpack,4,5976.62,0.1,21515.82,5412.48,23.2599,77.4126
+ORD-100321,2026-01-22,Bhopal,Madhya Pradesh,Home & Living,Desk,2,1876.72,0.05,3565.77,664.24,23.2599,77.4126
+ORD-100322,2026-01-22,Bhopal,Madhya Pradesh,Fashion,Backpack,1,1545.03,0.0,1545.03,408.61,23.2599,77.4126
+ORD-100323,2026-01-22,Bhopal,Madhya Pradesh,Fashion,Jacket,1,2526.14,0.0,2526.14,429.35,23.2599,77.4126
+ORD-100324,2026-01-22,Bhopal,Madhya Pradesh,Electronics,Monitor,2,9929.67,0.1,17873.4,1887.04,23.2599,77.4126
+ORD-100325,2026-01-23,Indore,Madhya Pradesh,Electronics,Smartphone,2,47985.84,0.05,91173.09,11932.67,22.7196,75.8577
+ORD-100326,2026-01-23,Indore,Madhya Pradesh,Electronics,Laptop,3,19901.74,0.0,59705.21,4958.4,22.7196,75.8577
+ORD-100327,2026-01-23,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,818.96,0.1,1474.12,290.15,22.7196,75.8577
+ORD-100328,2026-01-23,Indore,Madhya Pradesh,Electronics,Laptop,4,23332.61,0.05,88663.94,12550.53,22.7196,75.8577
+ORD-100329,2026-01-23,Indore,Madhya Pradesh,Electronics,Smartphone,3,33972.63,0.15,86630.21,10421.29,22.7196,75.8577
+ORD-100330,2026-01-23,Indore,Madhya Pradesh,Fashion,Backpack,2,2491.61,0.05,4734.06,1173.3,22.7196,75.8577
+ORD-100331,2026-01-23,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1551.18,0.15,2637.0,327.48,22.7196,75.8577
+ORD-100332,2026-01-23,Indore,Madhya Pradesh,Electronics,Smartphone,1,46491.03,0.05,44166.48,7244.41,22.7196,75.8577
+ORD-100333,2026-01-23,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1341.36,0.1,4828.91,588.88,22.7196,75.8577
+ORD-100334,2026-01-23,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,11459.87,0.1,10313.88,2053.87,23.2599,77.4126
+ORD-100335,2026-01-23,Bhopal,Madhya Pradesh,Electronics,Laptop,2,33122.61,0.1,59620.69,5757.17,23.2599,77.4126
+ORD-100336,2026-01-23,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,901.72,0.15,766.47,130.18,23.2599,77.4126
+ORD-100337,2026-01-23,Bhopal,Madhya Pradesh,Home & Living,Desk,3,5661.8,0.0,16985.41,3560.01,23.2599,77.4126
+ORD-100338,2026-01-23,Bhopal,Madhya Pradesh,Fashion,Backpack,3,2628.27,0.0,7884.82,1427.87,23.2599,77.4126
+ORD-100339,2026-01-24,Indore,Madhya Pradesh,Electronics,Smartphone,3,18023.63,0.05,51367.35,5068.65,22.7196,75.8577
+ORD-100340,2026-01-24,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1508.85,0.05,5733.64,1177.4,22.7196,75.8577
+ORD-100341,2026-01-24,Indore,Madhya Pradesh,Electronics,Tablet,4,22087.76,0.2,70680.84,10272.79,22.7196,75.8577
+ORD-100342,2026-01-24,Indore,Madhya Pradesh,Fashion,Jeans,2,2872.92,0.0,5745.85,1052.49,22.7196,75.8577
+ORD-100343,2026-01-24,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,1212.77,0.0,4851.08,855.29,22.7196,75.8577
+ORD-100344,2026-01-24,Indore,Madhya Pradesh,Electronics,Laptop,2,16706.69,0.1,30072.04,4963.18,22.7196,75.8577
+ORD-100345,2026-01-24,Indore,Madhya Pradesh,Fashion,Backpack,1,4761.02,0.05,4522.97,975.36,22.7196,75.8577
+ORD-100346,2026-01-24,Indore,Madhya Pradesh,Electronics,Headphones,4,29236.85,0.05,111100.01,12204.81,22.7196,75.8577
+ORD-100347,2026-01-24,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,8883.37,0.1,31980.12,6347.31,22.7196,75.8577
+ORD-100348,2026-01-24,Indore,Madhya Pradesh,Electronics,Tablet,1,47854.55,0.2,38283.64,4951.88,22.7196,75.8577
+ORD-100349,2026-01-24,Indore,Madhya Pradesh,Home & Living,Mixer,2,718.43,0.1,1293.17,158.98,22.7196,75.8577
+ORD-100350,2026-01-24,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,45079.61,0.1,81143.3,11164.32,23.2599,77.4126
+ORD-100351,2026-01-24,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,228.06,0.1,205.26,39.47,23.2599,77.4126
+ORD-100352,2026-01-24,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1212.93,0.0,3638.79,733.79,23.2599,77.4126
+ORD-100353,2026-01-24,Bhopal,Madhya Pradesh,Home & Living,Desk,4,8609.12,0.0,34436.49,7703.33,23.2599,77.4126
+ORD-100354,2026-01-24,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1334.55,0.0,2669.1,665.68,23.2599,77.4126
+ORD-100355,2026-01-24,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,860.24,0.05,1634.45,298.73,23.2599,77.4126
+ORD-100356,2026-01-25,Indore,Madhya Pradesh,Electronics,Laptop,1,27004.44,0.0,27004.44,2997.5,22.7196,75.8577
+ORD-100357,2026-01-25,Indore,Madhya Pradesh,Electronics,Smartphone,3,48089.07,0.1,129840.5,22286.26,22.7196,75.8577
+ORD-100358,2026-01-25,Indore,Madhya Pradesh,Food & Beverages,Juice,4,621.02,0.05,2359.86,273.48,22.7196,75.8577
+ORD-100359,2026-01-25,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,1794.75,0.05,5115.03,800.99,22.7196,75.8577
+ORD-100360,2026-01-25,Indore,Madhya Pradesh,Home & Living,Lamp,4,5222.4,0.1,18800.63,3028.36,22.7196,75.8577
+ORD-100361,2026-01-25,Indore,Madhya Pradesh,Electronics,Tablet,4,24563.97,0.1,88430.31,15043.6,22.7196,75.8577
+ORD-100362,2026-01-25,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,3532.56,0.05,6711.86,1317.54,22.7196,75.8577
+ORD-100363,2026-01-25,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,485.29,0.0,485.29,90.83,22.7196,75.8577
+ORD-100364,2026-01-25,Indore,Madhya Pradesh,Electronics,Laptop,1,25377.07,0.1,22839.36,2658.75,22.7196,75.8577
+ORD-100365,2026-01-25,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,2659.79,0.05,5053.6,1224.1,22.7196,75.8577
+ORD-100366,2026-01-25,Indore,Madhya Pradesh,Home & Living,Office Chair,2,768.46,0.0,1536.91,241.35,22.7196,75.8577
+ORD-100367,2026-01-25,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,2322.05,0.05,8823.8,1750.57,23.2599,77.4126
+ORD-100368,2026-01-25,Bhopal,Madhya Pradesh,Electronics,Headphones,2,46628.94,0.05,88594.99,14306.1,23.2599,77.4126
+ORD-100369,2026-01-25,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,3341.63,0.0,10024.88,2362.67,23.2599,77.4126
+ORD-100370,2026-01-25,Bhopal,Madhya Pradesh,Home & Living,Desk,3,2721.85,0.15,6940.72,1401.16,23.2599,77.4126
+ORD-100371,2026-01-25,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1594.18,0.05,1514.47,176.51,23.2599,77.4126
+ORD-100372,2026-01-25,Bhopal,Madhya Pradesh,Electronics,Monitor,4,12529.8,0.15,42601.33,5380.75,23.2599,77.4126
+ORD-100373,2026-01-25,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,598.74,0.05,1137.6,208.76,23.2599,77.4126
+ORD-100374,2026-01-26,Indore,Madhya Pradesh,Fashion,Jeans,4,2692.5,0.1,9693.01,2717.72,22.7196,75.8577
+ORD-100375,2026-01-26,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2114.83,0.05,6027.27,1391.65,22.7196,75.8577
+ORD-100376,2026-01-26,Indore,Madhya Pradesh,Electronics,Tablet,4,48529.97,0.1,174707.89,17762.77,22.7196,75.8577
+ORD-100377,2026-01-26,Indore,Madhya Pradesh,Electronics,Smartphone,1,41637.6,0.0,41637.6,4479.21,22.7196,75.8577
+ORD-100378,2026-01-26,Indore,Madhya Pradesh,Fashion,Backpack,2,4691.67,0.1,8445.0,1781.32,22.7196,75.8577
+ORD-100379,2026-01-26,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1461.14,0.1,2630.06,497.13,22.7196,75.8577
+ORD-100380,2026-01-26,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,3644.54,0.0,10933.62,1653.18,22.7196,75.8577
+ORD-100381,2026-01-26,Indore,Madhya Pradesh,Fashion,T-Shirt,1,3954.66,0.15,3361.46,731.71,22.7196,75.8577
+ORD-100382,2026-01-26,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,1830.83,0.1,1647.74,430.3,22.7196,75.8577
+ORD-100383,2026-01-26,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,2602.8,0.1,4685.05,993.34,23.2599,77.4126
+ORD-100384,2026-01-26,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4390.16,0.0,17560.65,3293.94,23.2599,77.4126
+ORD-100385,2026-01-26,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,10633.98,0.1,19141.17,3656.74,23.2599,77.4126
+ORD-100386,2026-01-26,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,1622.74,0.15,1379.33,190.28,23.2599,77.4126
+ORD-100387,2026-01-26,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,14017.5,0.05,53266.52,7236.6,23.2599,77.4126
+ORD-100388,2026-01-26,Bhopal,Madhya Pradesh,Fashion,Backpack,3,1510.54,0.15,3851.88,952.57,23.2599,77.4126
+ORD-100389,2026-01-26,Bhopal,Madhya Pradesh,Electronics,Headphones,2,25886.35,0.0,51772.69,5953.86,23.2599,77.4126
+ORD-100390,2026-01-26,Bhopal,Madhya Pradesh,Electronics,Tablet,4,23803.69,0.05,90454.01,14100.55,23.2599,77.4126
+ORD-100391,2026-01-26,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,7064.79,0.1,19074.94,2666.0,23.2599,77.4126
+ORD-100392,2026-01-26,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,298.4,0.1,268.56,46.92,23.2599,77.4126
+ORD-100393,2026-01-27,Indore,Madhya Pradesh,Fashion,Jeans,4,2973.2,0.05,11298.17,2154.91,22.7196,75.8577
+ORD-100394,2026-01-27,Indore,Madhya Pradesh,Electronics,Headphones,1,13897.2,0.15,11812.62,1336.22,22.7196,75.8577
+ORD-100395,2026-01-27,Indore,Madhya Pradesh,Electronics,Smartphone,1,6479.67,0.05,6155.69,855.35,22.7196,75.8577
+ORD-100396,2026-01-27,Indore,Madhya Pradesh,Electronics,Monitor,4,36318.66,0.05,138010.9,20928.43,22.7196,75.8577
+ORD-100397,2026-01-27,Indore,Madhya Pradesh,Electronics,Headphones,1,2027.85,0.0,2027.85,298.88,22.7196,75.8577
+ORD-100398,2026-01-27,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,1247.38,0.2,2993.7,494.39,23.2599,77.4126
+ORD-100399,2026-01-27,Bhopal,Madhya Pradesh,Electronics,Tablet,1,26228.22,0.0,26228.22,2290.2,23.2599,77.4126
+ORD-100400,2026-01-27,Bhopal,Madhya Pradesh,Fashion,Jeans,2,804.48,0.1,1448.06,252.56,23.2599,77.4126
+ORD-100401,2026-01-27,Bhopal,Madhya Pradesh,Electronics,Laptop,1,14349.47,0.1,12914.52,1842.8,23.2599,77.4126
+ORD-100402,2026-01-27,Bhopal,Madhya Pradesh,Electronics,Tablet,2,18076.17,0.0,36152.33,3264.34,23.2599,77.4126
+ORD-100403,2026-01-27,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,825.28,0.1,2971.01,428.47,23.2599,77.4126
+ORD-100404,2026-01-28,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1502.89,0.05,1427.75,173.23,22.7196,75.8577
+ORD-100405,2026-01-28,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,3978.57,0.1,7161.42,1877.34,22.7196,75.8577
+ORD-100406,2026-01-28,Indore,Madhya Pradesh,Home & Living,Desk,4,3427.93,0.1,12340.56,1977.62,22.7196,75.8577
+ORD-100407,2026-01-28,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,1898.06,0.1,5124.76,1039.79,22.7196,75.8577
+ORD-100408,2026-01-28,Indore,Madhya Pradesh,Electronics,Laptop,2,35538.55,0.1,63969.38,11010.61,22.7196,75.8577
+ORD-100409,2026-01-28,Indore,Madhya Pradesh,Electronics,Smartphone,2,20835.49,0.05,39587.44,4511.72,22.7196,75.8577
+ORD-100410,2026-01-28,Indore,Madhya Pradesh,Electronics,Smartphone,3,41632.84,0.1,112408.66,16309.87,22.7196,75.8577
+ORD-100411,2026-01-28,Indore,Madhya Pradesh,Fashion,Jacket,2,1017.24,0.2,1627.58,439.07,22.7196,75.8577
+ORD-100412,2026-01-28,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3677.5,0.0,14710.01,2567.82,22.7196,75.8577
+ORD-100413,2026-01-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,6375.15,0.05,24225.55,4308.2,23.2599,77.4126
+ORD-100414,2026-01-28,Bhopal,Madhya Pradesh,Electronics,Laptop,3,3972.45,0.1,10725.63,1640.32,23.2599,77.4126
+ORD-100415,2026-01-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,19419.81,0.2,62143.39,5889.66,23.2599,77.4126
+ORD-100416,2026-01-28,Bhopal,Madhya Pradesh,Electronics,Tablet,4,36166.64,0.05,137433.23,17081.77,23.2599,77.4126
+ORD-100417,2026-01-28,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1480.19,0.1,1332.17,189.49,23.2599,77.4126
+ORD-100418,2026-01-29,Indore,Madhya Pradesh,Electronics,Headphones,1,41567.31,0.1,37410.58,3710.84,22.7196,75.8577
+ORD-100419,2026-01-29,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,2297.75,0.1,4135.94,599.41,22.7196,75.8577
+ORD-100420,2026-01-29,Indore,Madhya Pradesh,Electronics,Smartphone,1,32288.71,0.05,30674.28,5165.05,22.7196,75.8577
+ORD-100421,2026-01-29,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,4354.64,0.2,10451.13,1573.82,22.7196,75.8577
+ORD-100422,2026-01-29,Indore,Madhya Pradesh,Electronics,Laptop,2,48344.63,0.1,87020.33,7841.78,22.7196,75.8577
+ORD-100423,2026-01-29,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,1435.4,0.05,4090.88,719.03,22.7196,75.8577
+ORD-100424,2026-01-29,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,4238.16,0.1,15257.36,4196.32,22.7196,75.8577
+ORD-100425,2026-01-29,Indore,Madhya Pradesh,Fashion,Backpack,1,3573.46,0.1,3216.12,644.19,22.7196,75.8577
+ORD-100426,2026-01-29,Bhopal,Madhya Pradesh,Home & Living,Desk,4,8275.12,0.05,31445.45,7293.13,23.2599,77.4126
+ORD-100427,2026-01-29,Bhopal,Madhya Pradesh,Electronics,Monitor,1,48575.47,0.05,46146.7,4283.16,23.2599,77.4126
+ORD-100428,2026-01-29,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,8798.86,0.05,16717.83,2862.22,23.2599,77.4126
+ORD-100429,2026-01-29,Bhopal,Madhya Pradesh,Electronics,Tablet,3,35507.72,0.1,95870.85,8314.92,23.2599,77.4126
+ORD-100430,2026-01-29,Bhopal,Madhya Pradesh,Electronics,Headphones,3,24630.88,0.1,66503.36,9490.87,23.2599,77.4126
+ORD-100431,2026-01-29,Bhopal,Madhya Pradesh,Electronics,Monitor,2,18386.24,0.1,33095.23,5191.75,23.2599,77.4126
+ORD-100432,2026-01-29,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4210.95,0.1,3789.86,1029.23,23.2599,77.4126
+ORD-100433,2026-01-29,Bhopal,Madhya Pradesh,Electronics,Monitor,3,6123.28,0.1,16532.86,1918.44,23.2599,77.4126
+ORD-100434,2026-01-30,Indore,Madhya Pradesh,Home & Living,Office Chair,3,2169.52,0.05,6183.15,1359.51,22.7196,75.8577
+ORD-100435,2026-01-30,Indore,Madhya Pradesh,Fashion,Jeans,3,5480.47,0.05,15619.34,3314.77,22.7196,75.8577
+ORD-100436,2026-01-30,Indore,Madhya Pradesh,Electronics,Headphones,4,12188.75,0.1,43879.49,7264.71,22.7196,75.8577
+ORD-100437,2026-01-30,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1389.62,0.05,3960.42,688.84,22.7196,75.8577
+ORD-100438,2026-01-30,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,1162.37,0.0,2324.74,620.41,22.7196,75.8577
+ORD-100439,2026-01-30,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,607.83,0.15,2066.62,442.83,23.2599,77.4126
+ORD-100440,2026-01-30,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,7935.85,0.1,28569.06,6698.8,23.2599,77.4126
+ORD-100441,2026-01-30,Bhopal,Madhya Pradesh,Electronics,Monitor,2,42214.59,0.05,80207.72,8339.08,23.2599,77.4126
+ORD-100442,2026-01-30,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,3794.8,0.15,6451.16,999.17,23.2599,77.4126
+ORD-100443,2026-01-30,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,11949.45,0.15,30471.09,6871.45,23.2599,77.4126
+ORD-100444,2026-01-30,Bhopal,Madhya Pradesh,Fashion,Jacket,4,1315.24,0.1,4734.86,1194.81,23.2599,77.4126
+ORD-100445,2026-01-30,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,8669.49,0.1,23407.62,4716.2,23.2599,77.4126
+ORD-100446,2026-01-30,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1283.09,0.1,2309.56,421.28,23.2599,77.4126
+ORD-100447,2026-01-30,Bhopal,Madhya Pradesh,Fashion,Jeans,4,2211.22,0.0,8844.88,2049.94,23.2599,77.4126
+ORD-100448,2026-01-30,Bhopal,Madhya Pradesh,Electronics,Monitor,2,31986.03,0.0,63972.06,10141.73,23.2599,77.4126
+ORD-100449,2026-01-31,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,1122.79,0.1,4042.03,804.98,22.7196,75.8577
+ORD-100450,2026-01-31,Indore,Madhya Pradesh,Electronics,Headphones,1,35694.17,0.05,33909.46,4772.37,22.7196,75.8577
+ORD-100451,2026-01-31,Indore,Madhya Pradesh,Electronics,Smartphone,2,52862.1,0.15,89865.56,7951.79,22.7196,75.8577
+ORD-100452,2026-01-31,Indore,Madhya Pradesh,Electronics,Monitor,3,8003.34,0.0,24010.01,2253.03,22.7196,75.8577
+ORD-100453,2026-01-31,Indore,Madhya Pradesh,Home & Living,Mixer,3,1884.21,0.05,5370.01,1145.22,22.7196,75.8577
+ORD-100454,2026-01-31,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2232.65,0.15,5693.26,947.54,22.7196,75.8577
+ORD-100455,2026-01-31,Indore,Madhya Pradesh,Electronics,Smartphone,1,31201.58,0.1,28081.43,3915.46,22.7196,75.8577
+ORD-100456,2026-01-31,Bhopal,Madhya Pradesh,Electronics,Headphones,3,21397.34,0.0,64192.02,7897.07,23.2599,77.4126
+ORD-100457,2026-01-31,Bhopal,Madhya Pradesh,Electronics,Tablet,1,10077.68,0.1,9069.92,985.43,23.2599,77.4126
+ORD-100458,2026-01-31,Bhopal,Madhya Pradesh,Fashion,Jeans,4,1793.52,0.1,6456.67,1520.5,23.2599,77.4126
+ORD-100459,2026-01-31,Bhopal,Madhya Pradesh,Fashion,Jeans,1,5730.19,0.2,4584.15,1100.54,23.2599,77.4126
+ORD-100460,2026-01-31,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,365.93,0.05,1390.53,282.1,23.2599,77.4126
+ORD-100461,2026-01-31,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,1362.94,0.1,1226.64,278.69,23.2599,77.4126
+ORD-100462,2026-02-01,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,726.66,0.0,2906.63,608.88,22.7196,75.8577
+ORD-100463,2026-02-01,Indore,Madhya Pradesh,Electronics,Smartphone,4,25916.59,0.05,98483.04,11746.58,22.7196,75.8577
+ORD-100464,2026-02-01,Indore,Madhya Pradesh,Fashion,Jeans,1,749.39,0.15,636.98,158.55,22.7196,75.8577
+ORD-100465,2026-02-01,Indore,Madhya Pradesh,Electronics,Tablet,4,27693.47,0.0,110773.88,9004.21,22.7196,75.8577
+ORD-100466,2026-02-01,Indore,Madhya Pradesh,Fashion,Backpack,4,1636.23,0.0,6544.92,1497.64,22.7196,75.8577
+ORD-100467,2026-02-01,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,34585.14,0.1,31126.63,4477.09,23.2599,77.4126
+ORD-100468,2026-02-01,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,725.11,0.0,1450.23,216.65,23.2599,77.4126
+ORD-100469,2026-02-01,Bhopal,Madhya Pradesh,Fashion,Jacket,1,602.25,0.05,572.14,117.0,23.2599,77.4126
+ORD-100470,2026-02-01,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,35911.3,0.2,57458.08,5691.34,23.2599,77.4126
+ORD-100471,2026-02-01,Bhopal,Madhya Pradesh,Electronics,Headphones,3,34362.78,0.1,92779.5,14888.41,23.2599,77.4126
+ORD-100472,2026-02-02,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,5630.09,0.1,15201.25,3820.58,22.7196,75.8577
+ORD-100473,2026-02-02,Indore,Madhya Pradesh,Home & Living,Office Chair,3,5537.68,0.1,14951.74,2567.15,22.7196,75.8577
+ORD-100474,2026-02-02,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,546.32,0.1,1475.05,233.53,22.7196,75.8577
+ORD-100475,2026-02-02,Indore,Madhya Pradesh,Fashion,Jacket,2,3083.72,0.1,5550.7,1002.47,22.7196,75.8577
+ORD-100476,2026-02-02,Indore,Madhya Pradesh,Electronics,Monitor,1,3519.9,0.0,3519.9,469.34,22.7196,75.8577
+ORD-100477,2026-02-02,Indore,Madhya Pradesh,Electronics,Tablet,2,9563.78,0.05,18171.18,2241.87,22.7196,75.8577
+ORD-100478,2026-02-02,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4210.98,0.0,4210.98,1140.49,23.2599,77.4126
+ORD-100479,2026-02-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,1945.83,0.15,4961.87,902.53,23.2599,77.4126
+ORD-100480,2026-02-02,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1525.22,0.15,1296.44,164.07,23.2599,77.4126
+ORD-100481,2026-02-02,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,40484.3,0.1,36435.87,3892.89,23.2599,77.4126
+ORD-100482,2026-02-02,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,5410.21,0.2,17312.67,4699.39,23.2599,77.4126
+ORD-100483,2026-02-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,672.12,0.1,604.91,157.26,23.2599,77.4126
+ORD-100484,2026-02-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,2571.52,0.1,2314.37,526.95,23.2599,77.4126
+ORD-100485,2026-02-02,Bhopal,Madhya Pradesh,Electronics,Tablet,4,32605.14,0.1,117378.5,14901.08,23.2599,77.4126
+ORD-100486,2026-02-03,Indore,Madhya Pradesh,Home & Living,Office Chair,3,5805.16,0.2,13932.38,2823.49,22.7196,75.8577
+ORD-100487,2026-02-03,Indore,Madhya Pradesh,Home & Living,Lamp,2,4408.41,0.05,8375.98,1527.83,22.7196,75.8577
+ORD-100488,2026-02-03,Indore,Madhya Pradesh,Fashion,Jeans,3,3588.35,0.2,8612.04,1720.7,22.7196,75.8577
+ORD-100489,2026-02-03,Indore,Madhya Pradesh,Electronics,Headphones,4,39345.26,0.15,133773.9,14390.31,22.7196,75.8577
+ORD-100490,2026-02-03,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,9276.53,0.1,33395.52,4839.74,22.7196,75.8577
+ORD-100491,2026-02-03,Indore,Madhya Pradesh,Electronics,Laptop,1,52989.78,0.1,47690.8,5885.07,22.7196,75.8577
+ORD-100492,2026-02-03,Indore,Madhya Pradesh,Electronics,Monitor,1,38556.05,0.0,38556.05,3171.31,22.7196,75.8577
+ORD-100493,2026-02-03,Bhopal,Madhya Pradesh,Fashion,Jeans,2,5549.96,0.05,10544.93,2536.08,23.2599,77.4126
+ORD-100494,2026-02-03,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1262.31,0.05,1199.2,215.95,23.2599,77.4126
+ORD-100495,2026-02-03,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4449.51,0.05,12681.1,3547.46,23.2599,77.4126
+ORD-100496,2026-02-03,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,295.55,0.1,531.98,101.55,23.2599,77.4126
+ORD-100497,2026-02-03,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,1220.4,0.2,2928.96,349.3,23.2599,77.4126
+ORD-100498,2026-02-03,Bhopal,Madhya Pradesh,Electronics,Monitor,2,26912.4,0.1,48442.32,8126.02,23.2599,77.4126
+ORD-100499,2026-02-03,Bhopal,Madhya Pradesh,Fashion,Backpack,3,1401.59,0.05,3994.54,1003.32,23.2599,77.4126
+ORD-100500,2026-02-03,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,2449.15,0.1,2204.23,437.25,23.2599,77.4126
+ORD-100501,2026-02-03,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3770.15,0.0,3770.15,876.63,23.2599,77.4126
+ORD-100502,2026-02-03,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,5262.86,0.0,15788.57,4413.98,23.2599,77.4126
+ORD-100503,2026-02-04,Indore,Madhya Pradesh,Fashion,Jeans,1,2966.16,0.1,2669.55,688.49,22.7196,75.8577
+ORD-100504,2026-02-04,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,4691.12,0.1,4222.01,780.76,22.7196,75.8577
+ORD-100505,2026-02-04,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,4065.91,0.2,13010.91,2618.13,22.7196,75.8577
+ORD-100506,2026-02-04,Indore,Madhya Pradesh,Electronics,Tablet,4,16254.21,0.0,65016.86,5907.37,22.7196,75.8577
+ORD-100507,2026-02-04,Indore,Madhya Pradesh,Electronics,Smartphone,1,8470.47,0.15,7199.9,772.79,22.7196,75.8577
+ORD-100508,2026-02-04,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,8352.98,0.1,22553.04,3036.67,23.2599,77.4126
+ORD-100509,2026-02-04,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1712.91,0.0,1712.91,493.88,23.2599,77.4126
+ORD-100510,2026-02-04,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,7477.51,0.05,21310.9,2904.55,23.2599,77.4126
+ORD-100511,2026-02-04,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,10245.88,0.1,36885.15,5033.49,23.2599,77.4126
+ORD-100512,2026-02-04,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,36940.3,0.05,70186.57,12227.43,23.2599,77.4126
+ORD-100513,2026-02-04,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,45325.55,0.1,163171.99,22137.05,23.2599,77.4126
+ORD-100514,2026-02-04,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3470.53,0.15,5899.91,1464.63,23.2599,77.4126
+ORD-100515,2026-02-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,811.27,0.05,2312.11,439.83,23.2599,77.4126
+ORD-100516,2026-02-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1760.91,0.1,4754.46,682.05,23.2599,77.4126
+ORD-100517,2026-02-04,Bhopal,Madhya Pradesh,Electronics,Tablet,1,7035.39,0.0,7035.39,753.48,23.2599,77.4126
+ORD-100518,2026-02-05,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1646.78,0.05,3128.88,620.68,22.7196,75.8577
+ORD-100519,2026-02-05,Indore,Madhya Pradesh,Fashion,Jeans,1,5876.4,0.1,5288.76,1381.46,22.7196,75.8577
+ORD-100520,2026-02-05,Indore,Madhya Pradesh,Electronics,Headphones,3,28664.52,0.05,81693.89,9207.21,22.7196,75.8577
+ORD-100521,2026-02-05,Indore,Madhya Pradesh,Home & Living,Mixer,4,5301.95,0.05,20147.4,3690.09,22.7196,75.8577
+ORD-100522,2026-02-05,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,953.07,0.1,3431.05,614.12,22.7196,75.8577
+ORD-100523,2026-02-05,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,3614.98,0.1,6506.96,1604.46,22.7196,75.8577
+ORD-100524,2026-02-05,Indore,Madhya Pradesh,Electronics,Smartphone,2,35644.35,0.1,64159.82,7309.42,22.7196,75.8577
+ORD-100525,2026-02-05,Bhopal,Madhya Pradesh,Electronics,Laptop,4,54765.79,0.05,208110.0,21505.5,23.2599,77.4126
+ORD-100526,2026-02-05,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,979.93,0.1,881.94,134.54,23.2599,77.4126
+ORD-100527,2026-02-05,Bhopal,Madhya Pradesh,Electronics,Headphones,3,3185.99,0.1,8602.17,1030.35,23.2599,77.4126
+ORD-100528,2026-02-05,Bhopal,Madhya Pradesh,Electronics,Monitor,3,35219.86,0.0,105659.59,9761.89,23.2599,77.4126
+ORD-100529,2026-02-05,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2312.72,0.15,5897.43,1249.35,23.2599,77.4126
+ORD-100530,2026-02-06,Indore,Madhya Pradesh,Home & Living,Mixer,4,3867.28,0.1,13922.21,2228.42,22.7196,75.8577
+ORD-100531,2026-02-06,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3560.13,0.1,3204.12,593.43,22.7196,75.8577
+ORD-100532,2026-02-06,Indore,Madhya Pradesh,Home & Living,Desk,4,5023.71,0.1,18085.36,3462.39,22.7196,75.8577
+ORD-100533,2026-02-06,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,6915.42,0.05,13139.3,2201.08,22.7196,75.8577
+ORD-100534,2026-02-06,Indore,Madhya Pradesh,Fashion,Jacket,4,3663.74,0.2,11723.96,1920.38,22.7196,75.8577
+ORD-100535,2026-02-06,Indore,Madhya Pradesh,Home & Living,Office Chair,3,9360.88,0.1,25274.38,3208.12,22.7196,75.8577
+ORD-100536,2026-02-06,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,765.35,0.1,1377.64,225.15,22.7196,75.8577
+ORD-100537,2026-02-06,Bhopal,Madhya Pradesh,Fashion,Backpack,4,606.97,0.0,2427.86,471.18,23.2599,77.4126
+ORD-100538,2026-02-06,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,54293.08,0.1,146591.31,20518.41,23.2599,77.4126
+ORD-100539,2026-02-06,Bhopal,Madhya Pradesh,Electronics,Laptop,1,8390.75,0.15,7132.13,1231.43,23.2599,77.4126
+ORD-100540,2026-02-06,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,4903.4,0.0,19613.59,5126.5,23.2599,77.4126
+ORD-100541,2026-02-06,Bhopal,Madhya Pradesh,Electronics,Tablet,3,23433.1,0.05,66784.32,10753.68,23.2599,77.4126
+ORD-100542,2026-02-06,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,9702.23,0.2,7761.78,1684.97,23.2599,77.4126
+ORD-100543,2026-02-06,Bhopal,Madhya Pradesh,Electronics,Tablet,3,42059.09,0.05,119868.41,16467.29,23.2599,77.4126
+ORD-100544,2026-02-06,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,655.32,0.0,1310.65,217.92,23.2599,77.4126
+ORD-100545,2026-02-07,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,2067.88,0.1,5583.26,1531.03,22.7196,75.8577
+ORD-100546,2026-02-07,Indore,Madhya Pradesh,Food & Beverages,Juice,1,1547.14,0.05,1469.78,201.55,22.7196,75.8577
+ORD-100547,2026-02-07,Indore,Madhya Pradesh,Electronics,Laptop,2,39645.21,0.0,79290.43,13098.74,22.7196,75.8577
+ORD-100548,2026-02-07,Indore,Madhya Pradesh,Home & Living,Desk,1,7237.64,0.15,6151.99,860.39,22.7196,75.8577
+ORD-100549,2026-02-07,Indore,Madhya Pradesh,Fashion,Jeans,2,2854.05,0.0,5708.09,1349.09,22.7196,75.8577
+ORD-100550,2026-02-07,Indore,Madhya Pradesh,Electronics,Monitor,2,53566.83,0.1,96420.29,11154.17,22.7196,75.8577
+ORD-100551,2026-02-07,Indore,Madhya Pradesh,Electronics,Smartphone,3,29816.77,0.2,71560.24,6659.9,22.7196,75.8577
+ORD-100552,2026-02-07,Bhopal,Madhya Pradesh,Fashion,Backpack,1,3875.13,0.0,3875.13,899.02,23.2599,77.4126
+ORD-100553,2026-02-07,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,432.6,0.0,432.6,48.72,23.2599,77.4126
+ORD-100554,2026-02-07,Bhopal,Madhya Pradesh,Electronics,Tablet,1,54396.82,0.1,48957.14,7744.75,23.2599,77.4126
+ORD-100555,2026-02-07,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,5028.35,0.0,10056.7,2455.17,23.2599,77.4126
+ORD-100556,2026-02-07,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,10960.87,0.15,27950.22,3429.17,23.2599,77.4126
+ORD-100557,2026-02-07,Bhopal,Madhya Pradesh,Electronics,Laptop,3,50366.98,0.0,151100.93,22814.16,23.2599,77.4126
+ORD-100558,2026-02-07,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,2199.82,0.1,5939.51,846.19,23.2599,77.4126
+ORD-100559,2026-02-07,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,234.7,0.1,211.23,33.22,23.2599,77.4126
+ORD-100560,2026-02-08,Indore,Madhya Pradesh,Electronics,Headphones,4,8525.1,0.1,30690.38,3410.89,22.7196,75.8577
+ORD-100561,2026-02-08,Indore,Madhya Pradesh,Electronics,Monitor,1,3760.5,0.2,3008.4,369.66,22.7196,75.8577
+ORD-100562,2026-02-08,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,5469.35,0.15,9297.89,1858.72,22.7196,75.8577
+ORD-100563,2026-02-08,Indore,Madhya Pradesh,Fashion,Jacket,1,2027.31,0.2,1621.85,370.52,22.7196,75.8577
+ORD-100564,2026-02-08,Indore,Madhya Pradesh,Electronics,Laptop,2,27286.22,0.0,54572.45,5290.47,22.7196,75.8577
+ORD-100565,2026-02-08,Indore,Madhya Pradesh,Food & Beverages,Tea,4,234.67,0.05,891.76,190.3,22.7196,75.8577
+ORD-100566,2026-02-08,Indore,Madhya Pradesh,Electronics,Headphones,1,31028.58,0.0,31028.58,3152.79,22.7196,75.8577
+ORD-100567,2026-02-08,Indore,Madhya Pradesh,Electronics,Monitor,3,42728.91,0.1,115368.06,9387.25,22.7196,75.8577
+ORD-100568,2026-02-08,Indore,Madhya Pradesh,Home & Living,Lamp,2,8137.59,0.15,13833.9,1835.41,22.7196,75.8577
+ORD-100569,2026-02-08,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,5960.32,0.15,15198.82,3954.26,23.2599,77.4126
+ORD-100570,2026-02-08,Bhopal,Madhya Pradesh,Electronics,Headphones,2,13703.12,0.0,27406.23,2325.06,23.2599,77.4126
+ORD-100571,2026-02-08,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2859.3,0.1,2573.37,452.63,23.2599,77.4126
+ORD-100572,2026-02-08,Bhopal,Madhya Pradesh,Electronics,Headphones,4,52488.12,0.1,188957.22,18467.43,23.2599,77.4126
+ORD-100573,2026-02-08,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,2892.6,0.1,5206.68,1047.08,23.2599,77.4126
+ORD-100574,2026-02-08,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,52183.73,0.1,46965.36,5317.63,23.2599,77.4126
+ORD-100575,2026-02-08,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,9011.89,0.1,8110.7,1503.9,23.2599,77.4126
+ORD-100576,2026-02-08,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,4798.11,0.05,13674.62,1951.63,23.2599,77.4126
+ORD-100577,2026-02-08,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,1684.56,0.05,3200.67,700.04,23.2599,77.4126
+ORD-100578,2026-02-09,Indore,Madhya Pradesh,Fashion,Backpack,1,3574.25,0.0,3574.25,1014.34,22.7196,75.8577
+ORD-100579,2026-02-09,Indore,Madhya Pradesh,Home & Living,Mixer,4,10352.92,0.05,39341.1,6117.22,22.7196,75.8577
+ORD-100580,2026-02-09,Indore,Madhya Pradesh,Home & Living,Lamp,1,11434.13,0.0,11434.13,1410.59,22.7196,75.8577
+ORD-100581,2026-02-09,Indore,Madhya Pradesh,Electronics,Tablet,3,10337.77,0.2,24810.65,3518.12,22.7196,75.8577
+ORD-100582,2026-02-09,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,787.56,0.2,630.05,130.85,22.7196,75.8577
+ORD-100583,2026-02-09,Indore,Madhya Pradesh,Home & Living,Mixer,1,9382.38,0.05,8913.26,1383.82,22.7196,75.8577
+ORD-100584,2026-02-09,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,809.47,0.15,2064.15,332.46,22.7196,75.8577
+ORD-100585,2026-02-09,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,1713.69,0.05,4884.03,901.46,23.2599,77.4126
+ORD-100586,2026-02-09,Bhopal,Madhya Pradesh,Electronics,Headphones,1,22282.02,0.1,20053.82,1685.74,23.2599,77.4126
+ORD-100587,2026-02-09,Bhopal,Madhya Pradesh,Electronics,Headphones,3,24288.09,0.05,69221.05,10878.83,23.2599,77.4126
+ORD-100588,2026-02-09,Bhopal,Madhya Pradesh,Electronics,Monitor,4,23163.57,0.15,78756.15,13962.72,23.2599,77.4126
+ORD-100589,2026-02-09,Bhopal,Madhya Pradesh,Electronics,Monitor,4,28255.62,0.05,107371.34,12974.26,23.2599,77.4126
+ORD-100590,2026-02-09,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,1039.33,0.05,987.36,142.93,23.2599,77.4126
+ORD-100591,2026-02-10,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,1211.72,0.1,3271.65,731.6,22.7196,75.8577
+ORD-100592,2026-02-10,Indore,Madhya Pradesh,Food & Beverages,Juice,4,358.46,0.05,1362.15,201.05,22.7196,75.8577
+ORD-100593,2026-02-10,Indore,Madhya Pradesh,Fashion,T-Shirt,2,3341.51,0.1,6014.73,1418.29,22.7196,75.8577
+ORD-100594,2026-02-10,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,1645.3,0.0,6581.2,1402.11,22.7196,75.8577
+ORD-100595,2026-02-10,Indore,Madhya Pradesh,Electronics,Laptop,2,2005.56,0.0,4011.12,358.04,22.7196,75.8577
+ORD-100596,2026-02-10,Bhopal,Madhya Pradesh,Electronics,Headphones,4,12522.78,0.0,50091.1,5905.39,23.2599,77.4126
+ORD-100597,2026-02-10,Bhopal,Madhya Pradesh,Electronics,Laptop,3,28430.22,0.0,85290.65,14294.69,23.2599,77.4126
+ORD-100598,2026-02-10,Bhopal,Madhya Pradesh,Fashion,Jacket,2,4304.89,0.0,8609.78,2087.27,23.2599,77.4126
+ORD-100599,2026-02-10,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,36876.23,0.05,105097.26,11067.42,23.2599,77.4126
+ORD-100600,2026-02-10,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1278.4,0.05,1214.48,169.13,23.2599,77.4126
+ORD-100601,2026-02-10,Bhopal,Madhya Pradesh,Electronics,Monitor,1,33712.97,0.0,33712.97,5067.68,23.2599,77.4126
+ORD-100602,2026-02-10,Bhopal,Madhya Pradesh,Electronics,Monitor,4,12273.54,0.0,49094.15,4552.29,23.2599,77.4126
+ORD-100603,2026-02-10,Bhopal,Madhya Pradesh,Electronics,Tablet,3,38732.35,0.1,104577.34,9659.83,23.2599,77.4126
+ORD-100604,2026-02-11,Indore,Madhya Pradesh,Electronics,Laptop,1,39491.14,0.1,35542.03,5185.93,22.7196,75.8577
+ORD-100605,2026-02-11,Indore,Madhya Pradesh,Fashion,T-Shirt,4,999.83,0.1,3599.39,909.84,22.7196,75.8577
+ORD-100606,2026-02-11,Indore,Madhya Pradesh,Food & Beverages,Tea,1,798.58,0.15,678.79,143.61,22.7196,75.8577
+ORD-100607,2026-02-11,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,10254.65,0.05,29225.77,4545.38,22.7196,75.8577
+ORD-100608,2026-02-11,Indore,Madhya Pradesh,Electronics,Laptop,2,18061.25,0.0,36122.5,4199.99,22.7196,75.8577
+ORD-100609,2026-02-11,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,4461.99,0.0,8923.98,1460.18,23.2599,77.4126
+ORD-100610,2026-02-11,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,4117.12,0.1,3705.41,628.08,23.2599,77.4126
+ORD-100611,2026-02-11,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5457.46,0.05,5184.59,1480.02,23.2599,77.4126
+ORD-100612,2026-02-11,Bhopal,Madhya Pradesh,Electronics,Tablet,4,52187.93,0.0,208751.7,34735.53,23.2599,77.4126
+ORD-100613,2026-02-11,Bhopal,Madhya Pradesh,Electronics,Monitor,4,31555.89,0.1,113601.22,15284.95,23.2599,77.4126
+ORD-100614,2026-02-11,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,3422.65,0.05,9754.56,1479.14,23.2599,77.4126
+ORD-100615,2026-02-11,Bhopal,Madhya Pradesh,Electronics,Monitor,2,22389.24,0.05,42539.57,5805.08,23.2599,77.4126
+ORD-100616,2026-02-11,Bhopal,Madhya Pradesh,Fashion,Backpack,1,1519.82,0.15,1291.85,336.05,23.2599,77.4126
+ORD-100617,2026-02-12,Indore,Madhya Pradesh,Home & Living,Desk,4,7351.77,0.1,26466.39,3916.09,22.7196,75.8577
+ORD-100618,2026-02-12,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,2265.45,0.1,4077.8,616.35,22.7196,75.8577
+ORD-100619,2026-02-12,Indore,Madhya Pradesh,Electronics,Smartphone,3,54418.39,0.0,163255.18,26425.49,22.7196,75.8577
+ORD-100620,2026-02-12,Indore,Madhya Pradesh,Electronics,Tablet,3,15873.88,0.1,42859.46,5366.52,22.7196,75.8577
+ORD-100621,2026-02-12,Indore,Madhya Pradesh,Home & Living,Office Chair,1,10190.82,0.05,9681.27,2007.22,22.7196,75.8577
+ORD-100622,2026-02-12,Indore,Madhya Pradesh,Fashion,Jacket,4,4517.18,0.0,18068.74,3791.98,22.7196,75.8577
+ORD-100623,2026-02-12,Indore,Madhya Pradesh,Fashion,T-Shirt,4,4921.53,0.1,17717.51,4744.23,22.7196,75.8577
+ORD-100624,2026-02-12,Indore,Madhya Pradesh,Electronics,Monitor,3,33976.67,0.0,101930.0,13381.6,22.7196,75.8577
+ORD-100625,2026-02-12,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,2876.73,0.0,5753.45,1593.1,22.7196,75.8577
+ORD-100626,2026-02-12,Indore,Madhya Pradesh,Electronics,Tablet,1,53120.84,0.15,45152.72,6436.54,22.7196,75.8577
+ORD-100627,2026-02-12,Indore,Madhya Pradesh,Home & Living,Desk,4,11193.22,0.1,40295.6,8945.89,22.7196,75.8577
+ORD-100628,2026-02-12,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,444.6,0.2,1067.03,154.16,23.2599,77.4126
+ORD-100629,2026-02-12,Bhopal,Madhya Pradesh,Electronics,Tablet,3,52921.81,0.0,158765.43,13700.2,23.2599,77.4126
+ORD-100630,2026-02-12,Bhopal,Madhya Pradesh,Electronics,Tablet,4,19247.68,0.0,76990.7,13468.47,23.2599,77.4126
+ORD-100631,2026-02-12,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,6576.56,0.0,26306.23,4307.53,23.2599,77.4126
+ORD-100632,2026-02-12,Bhopal,Madhya Pradesh,Electronics,Monitor,1,22615.53,0.15,19223.2,2860.06,23.2599,77.4126
+ORD-100633,2026-02-12,Bhopal,Madhya Pradesh,Fashion,Jeans,2,5068.55,0.15,8616.54,2260.72,23.2599,77.4126
+ORD-100634,2026-02-12,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4647.06,0.05,13244.13,2168.62,23.2599,77.4126
+ORD-100635,2026-02-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,50474.76,0.05,95902.04,7754.69,23.2599,77.4126
+ORD-100636,2026-02-13,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1783.54,0.1,6420.75,1360.58,22.7196,75.8577
+ORD-100637,2026-02-13,Indore,Madhya Pradesh,Electronics,Monitor,1,12691.21,0.05,12056.65,1008.59,22.7196,75.8577
+ORD-100638,2026-02-13,Indore,Madhya Pradesh,Electronics,Laptop,4,32018.68,0.0,128074.74,17733.07,22.7196,75.8577
+ORD-100639,2026-02-13,Indore,Madhya Pradesh,Fashion,Jacket,2,3659.23,0.1,6586.61,1183.76,22.7196,75.8577
+ORD-100640,2026-02-13,Indore,Madhya Pradesh,Food & Beverages,Tea,3,1246.94,0.15,3179.69,502.88,22.7196,75.8577
+ORD-100641,2026-02-13,Indore,Madhya Pradesh,Fashion,Backpack,4,4687.52,0.1,16875.09,3657.47,22.7196,75.8577
+ORD-100642,2026-02-13,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,284.15,0.0,568.3,86.11,22.7196,75.8577
+ORD-100643,2026-02-13,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,1387.75,0.1,1248.97,225.38,22.7196,75.8577
+ORD-100644,2026-02-13,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1596.26,0.1,4309.91,476.92,22.7196,75.8577
+ORD-100645,2026-02-13,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3365.12,0.2,10768.38,2964.88,22.7196,75.8577
+ORD-100646,2026-02-13,Indore,Madhya Pradesh,Fashion,Backpack,1,5363.97,0.05,5095.77,1484.17,22.7196,75.8577
+ORD-100647,2026-02-13,Bhopal,Madhya Pradesh,Electronics,Headphones,2,47749.88,0.1,85949.78,14971.61,23.2599,77.4126
+ORD-100648,2026-02-13,Bhopal,Madhya Pradesh,Electronics,Laptop,4,49287.53,0.1,177435.1,29164.75,23.2599,77.4126
+ORD-100649,2026-02-13,Bhopal,Madhya Pradesh,Fashion,Jacket,2,4930.11,0.0,9860.22,2197.85,23.2599,77.4126
+ORD-100650,2026-02-13,Bhopal,Madhya Pradesh,Electronics,Headphones,4,31094.67,0.1,111940.82,16889.25,23.2599,77.4126
+ORD-100651,2026-02-13,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,6990.28,0.1,18873.75,3807.4,23.2599,77.4126
+ORD-100652,2026-02-14,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,2121.64,0.1,5728.42,1319.11,22.7196,75.8577
+ORD-100653,2026-02-14,Indore,Madhya Pradesh,Fashion,Backpack,3,1335.41,0.1,3605.62,901.0,22.7196,75.8577
+ORD-100654,2026-02-14,Indore,Madhya Pradesh,Home & Living,Lamp,3,1967.72,0.0,5903.16,950.58,22.7196,75.8577
+ORD-100655,2026-02-14,Indore,Madhya Pradesh,Fashion,T-Shirt,4,3886.24,0.1,13990.47,3565.81,22.7196,75.8577
+ORD-100656,2026-02-14,Indore,Madhya Pradesh,Electronics,Monitor,2,47929.55,0.05,91066.15,13608.1,22.7196,75.8577
+ORD-100657,2026-02-14,Indore,Madhya Pradesh,Fashion,T-Shirt,2,721.92,0.1,1299.45,305.13,22.7196,75.8577
+ORD-100658,2026-02-14,Indore,Madhya Pradesh,Electronics,Tablet,1,27664.63,0.05,26281.4,2304.85,22.7196,75.8577
+ORD-100659,2026-02-14,Indore,Madhya Pradesh,Fashion,Jeans,4,2214.37,0.0,8857.49,1739.97,22.7196,75.8577
+ORD-100660,2026-02-14,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,7153.61,0.1,6438.25,924.12,23.2599,77.4126
+ORD-100661,2026-02-14,Bhopal,Madhya Pradesh,Electronics,Tablet,2,49977.13,0.0,99954.25,14364.47,23.2599,77.4126
+ORD-100662,2026-02-14,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,5943.9,0.05,5646.71,1099.32,23.2599,77.4126
+ORD-100663,2026-02-14,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,2582.15,0.1,9295.76,2510.58,23.2599,77.4126
+ORD-100664,2026-02-14,Bhopal,Madhya Pradesh,Electronics,Headphones,3,26105.89,0.05,74401.78,13284.39,23.2599,77.4126
+ORD-100665,2026-02-14,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,7572.91,0.0,30291.63,4567.55,23.2599,77.4126
+ORD-100666,2026-02-14,Bhopal,Madhya Pradesh,Fashion,Jeans,2,790.77,0.05,1502.46,264.14,23.2599,77.4126
+ORD-100667,2026-02-14,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,1294.59,0.1,2330.26,629.58,23.2599,77.4126
+ORD-100668,2026-02-15,Indore,Madhya Pradesh,Electronics,Smartphone,1,3908.17,0.1,3517.35,606.87,22.7196,75.8577
+ORD-100669,2026-02-15,Indore,Madhya Pradesh,Electronics,Headphones,1,21930.22,0.05,20833.71,3302.06,22.7196,75.8577
+ORD-100670,2026-02-15,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,10379.5,0.1,37366.21,8201.37,22.7196,75.8577
+ORD-100671,2026-02-15,Indore,Madhya Pradesh,Electronics,Headphones,2,22682.86,0.1,40829.15,4893.56,22.7196,75.8577
+ORD-100672,2026-02-15,Indore,Madhya Pradesh,Electronics,Smartphone,4,53324.24,0.05,202632.11,32382.24,22.7196,75.8577
+ORD-100673,2026-02-15,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,1810.03,0.15,1538.53,342.68,22.7196,75.8577
+ORD-100674,2026-02-15,Indore,Madhya Pradesh,Fashion,T-Shirt,2,1332.53,0.0,2665.06,718.16,22.7196,75.8577
+ORD-100675,2026-02-15,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1736.4,0.05,6598.32,1369.5,23.2599,77.4126
+ORD-100676,2026-02-15,Bhopal,Madhya Pradesh,Fashion,Jacket,3,5350.58,0.0,16051.74,2712.53,23.2599,77.4126
+ORD-100677,2026-02-15,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,4548.47,0.0,4548.47,1109.24,23.2599,77.4126
+ORD-100678,2026-02-15,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2711.18,0.1,9760.26,2766.98,23.2599,77.4126
+ORD-100679,2026-02-15,Bhopal,Madhya Pradesh,Electronics,Monitor,2,47191.69,0.05,89664.2,10791.27,23.2599,77.4126
+ORD-100680,2026-02-15,Bhopal,Madhya Pradesh,Home & Living,Desk,1,8501.68,0.1,7651.51,940.84,23.2599,77.4126
+ORD-100681,2026-02-15,Bhopal,Madhya Pradesh,Electronics,Laptop,3,43132.25,0.0,129396.74,15444.74,23.2599,77.4126
+ORD-100682,2026-02-16,Indore,Madhya Pradesh,Electronics,Smartphone,2,43503.14,0.15,73955.34,9191.81,22.7196,75.8577
+ORD-100683,2026-02-16,Indore,Madhya Pradesh,Fashion,Backpack,4,3490.88,0.05,13265.33,2135.44,22.7196,75.8577
+ORD-100684,2026-02-16,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,7598.82,0.2,18237.17,2665.18,22.7196,75.8577
+ORD-100685,2026-02-16,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,3553.04,0.0,10659.11,2293.3,22.7196,75.8577
+ORD-100686,2026-02-16,Indore,Madhya Pradesh,Electronics,Smartphone,1,27056.26,0.1,24350.63,2541.64,22.7196,75.8577
+ORD-100687,2026-02-16,Indore,Madhya Pradesh,Electronics,Tablet,4,18790.27,0.15,63886.93,5472.15,22.7196,75.8577
+ORD-100688,2026-02-16,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,7917.2,0.1,14250.96,1764.66,22.7196,75.8577
+ORD-100689,2026-02-16,Indore,Madhya Pradesh,Electronics,Monitor,4,21240.92,0.2,67970.93,9803.3,22.7196,75.8577
+ORD-100690,2026-02-16,Indore,Madhya Pradesh,Electronics,Smartphone,4,8093.22,0.1,29135.59,4923.13,22.7196,75.8577
+ORD-100691,2026-02-16,Indore,Madhya Pradesh,Fashion,Jacket,3,2237.82,0.1,6042.11,1610.41,22.7196,75.8577
+ORD-100692,2026-02-16,Indore,Madhya Pradesh,Electronics,Monitor,3,22988.15,0.1,62068.02,7202.9,22.7196,75.8577
+ORD-100693,2026-02-16,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,5318.1,0.0,10636.21,2280.44,23.2599,77.4126
+ORD-100694,2026-02-16,Bhopal,Madhya Pradesh,Home & Living,Desk,4,10384.22,0.1,37383.19,6094.86,23.2599,77.4126
+ORD-100695,2026-02-16,Bhopal,Madhya Pradesh,Fashion,Jacket,1,4185.37,0.15,3557.56,584.4,23.2599,77.4126
+ORD-100696,2026-02-16,Bhopal,Madhya Pradesh,Electronics,Tablet,1,3106.67,0.05,2951.33,431.53,23.2599,77.4126
+ORD-100697,2026-02-16,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3605.85,0.05,6851.12,1796.64,23.2599,77.4126
+ORD-100698,2026-02-16,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,906.69,0.15,1541.38,311.58,23.2599,77.4126
+ORD-100699,2026-02-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,3148.49,0.05,11964.27,2708.11,23.2599,77.4126
+ORD-100700,2026-02-16,Bhopal,Madhya Pradesh,Electronics,Headphones,3,28186.74,0.15,71876.19,7387.39,23.2599,77.4126
+ORD-100701,2026-02-16,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,2466.14,0.05,4685.67,1052.49,23.2599,77.4126
+ORD-100702,2026-02-16,Bhopal,Madhya Pradesh,Electronics,Tablet,4,37903.95,0.0,151615.78,14593.52,23.2599,77.4126
+ORD-100703,2026-02-17,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,161.52,0.0,646.09,140.98,22.7196,75.8577
+ORD-100704,2026-02-17,Indore,Madhya Pradesh,Home & Living,Lamp,2,4005.77,0.05,7610.97,1137.34,22.7196,75.8577
+ORD-100705,2026-02-17,Indore,Madhya Pradesh,Electronics,Monitor,3,25577.44,0.05,72895.7,7621.48,22.7196,75.8577
+ORD-100706,2026-02-17,Indore,Madhya Pradesh,Electronics,Tablet,1,41378.43,0.2,33102.74,3733.37,22.7196,75.8577
+ORD-100707,2026-02-17,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,3086.5,0.15,2623.53,662.2,22.7196,75.8577
+ORD-100708,2026-02-17,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,3070.58,0.05,2917.05,567.58,22.7196,75.8577
+ORD-100709,2026-02-17,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,6793.72,0.05,25816.12,5283.84,23.2599,77.4126
+ORD-100710,2026-02-17,Bhopal,Madhya Pradesh,Home & Living,Desk,2,10559.08,0.15,17950.43,2251.0,23.2599,77.4126
+ORD-100711,2026-02-17,Bhopal,Madhya Pradesh,Electronics,Tablet,4,52326.44,0.0,209305.77,35007.15,23.2599,77.4126
+ORD-100712,2026-02-17,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,272.34,0.1,735.31,95.14,23.2599,77.4126
+ORD-100713,2026-02-17,Bhopal,Madhya Pradesh,Electronics,Monitor,2,46690.43,0.1,84042.77,8858.34,23.2599,77.4126
+ORD-100714,2026-02-17,Bhopal,Madhya Pradesh,Electronics,Tablet,4,6880.82,0.05,26147.12,3477.93,23.2599,77.4126
+ORD-100715,2026-02-18,Indore,Madhya Pradesh,Electronics,Monitor,4,34403.69,0.1,123853.28,13773.05,22.7196,75.8577
+ORD-100716,2026-02-18,Indore,Madhya Pradesh,Home & Living,Desk,1,8591.94,0.1,7732.74,1564.55,22.7196,75.8577
+ORD-100717,2026-02-18,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,5750.81,0.1,15527.18,3384.79,22.7196,75.8577
+ORD-100718,2026-02-18,Indore,Madhya Pradesh,Food & Beverages,Tea,4,469.44,0.0,1877.75,282.16,22.7196,75.8577
+ORD-100719,2026-02-18,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,311.4,0.1,280.26,66.43,22.7196,75.8577
+ORD-100720,2026-02-18,Bhopal,Madhya Pradesh,Fashion,Backpack,4,4206.94,0.05,15986.38,3924.16,23.2599,77.4126
+ORD-100721,2026-02-18,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,11569.64,0.05,21982.32,5212.05,23.2599,77.4126
+ORD-100722,2026-02-18,Bhopal,Madhya Pradesh,Fashion,Jeans,1,4819.68,0.15,4096.73,773.71,23.2599,77.4126
+ORD-100723,2026-02-18,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3395.83,0.1,6112.5,1586.33,23.2599,77.4126
+ORD-100724,2026-02-18,Bhopal,Madhya Pradesh,Electronics,Laptop,2,51924.05,0.0,103848.11,10432.28,23.2599,77.4126
+ORD-100725,2026-02-18,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,10166.1,0.1,18298.97,1877.2,23.2599,77.4126
+ORD-100726,2026-02-18,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,4675.52,0.05,17766.98,4430.68,23.2599,77.4126
+ORD-100727,2026-02-19,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,640.06,0.0,2560.24,613.97,22.7196,75.8577
+ORD-100728,2026-02-19,Indore,Madhya Pradesh,Home & Living,Lamp,3,7768.58,0.1,20975.18,3615.09,22.7196,75.8577
+ORD-100729,2026-02-19,Indore,Madhya Pradesh,Electronics,Monitor,3,48858.86,0.1,131918.92,10972.8,22.7196,75.8577
+ORD-100730,2026-02-19,Indore,Madhya Pradesh,Electronics,Tablet,3,15755.27,0.15,40175.95,4639.75,22.7196,75.8577
+ORD-100731,2026-02-19,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3453.74,0.1,12433.46,2881.98,22.7196,75.8577
+ORD-100732,2026-02-19,Bhopal,Madhya Pradesh,Electronics,Monitor,1,2892.64,0.1,2603.37,244.76,23.2599,77.4126
+ORD-100733,2026-02-19,Bhopal,Madhya Pradesh,Electronics,Monitor,4,5826.5,0.1,20975.39,1787.51,23.2599,77.4126
+ORD-100734,2026-02-19,Bhopal,Madhya Pradesh,Electronics,Laptop,3,5179.9,0.05,14762.71,1960.56,23.2599,77.4126
+ORD-100735,2026-02-19,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,3703.84,0.1,10000.36,1737.64,23.2599,77.4126
+ORD-100736,2026-02-19,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,3,3550.9,0.1,9587.42,1526.61,23.2599,77.4126
+ORD-100737,2026-02-19,Bhopal,Madhya Pradesh,Fashion,Backpack,3,4555.5,0.1,12299.86,2589.42,23.2599,77.4126
+ORD-100738,2026-02-19,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,4091.27,0.1,3682.14,600.63,23.2599,77.4126
+ORD-100739,2026-02-19,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,878.07,0.15,1492.71,296.11,23.2599,77.4126
+ORD-100740,2026-02-19,Bhopal,Madhya Pradesh,Electronics,Monitor,4,22861.09,0.0,91444.35,14088.93,23.2599,77.4126
+ORD-100741,2026-02-19,Bhopal,Madhya Pradesh,Electronics,Laptop,4,51164.1,0.1,184190.76,22176.5,23.2599,77.4126
+ORD-100742,2026-02-20,Indore,Madhya Pradesh,Electronics,Laptop,4,47386.63,0.0,189546.52,29110.96,22.7196,75.8577
+ORD-100743,2026-02-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,949.96,0.05,902.46,239.81,22.7196,75.8577
+ORD-100744,2026-02-20,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,929.25,0.0,2787.75,609.35,22.7196,75.8577
+ORD-100745,2026-02-20,Indore,Madhya Pradesh,Fashion,Jeans,2,1897.36,0.05,3604.99,1078.13,22.7196,75.8577
+ORD-100746,2026-02-20,Indore,Madhya Pradesh,Electronics,Monitor,2,34901.53,0.1,62822.75,10073.52,22.7196,75.8577
+ORD-100747,2026-02-20,Indore,Madhya Pradesh,Electronics,Smartphone,1,49240.69,0.1,44316.62,5870.18,22.7196,75.8577
+ORD-100748,2026-02-20,Indore,Madhya Pradesh,Home & Living,Lamp,4,3525.92,0.0,14103.68,2913.77,22.7196,75.8577
+ORD-100749,2026-02-20,Indore,Madhya Pradesh,Electronics,Laptop,2,36778.43,0.1,66201.18,6777.01,22.7196,75.8577
+ORD-100750,2026-02-20,Indore,Madhya Pradesh,Electronics,Smartphone,3,14397.7,0.1,38873.79,3178.52,22.7196,75.8577
+ORD-100751,2026-02-20,Indore,Madhya Pradesh,Home & Living,Lamp,1,10514.05,0.05,9988.35,1655.94,22.7196,75.8577
+ORD-100752,2026-02-20,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,4143.87,0.15,7044.58,1889.62,22.7196,75.8577
+ORD-100753,2026-02-20,Bhopal,Madhya Pradesh,Fashion,Backpack,2,4888.43,0.15,8310.34,1527.9,23.2599,77.4126
+ORD-100754,2026-02-20,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4053.0,0.05,3850.35,635.54,23.2599,77.4126
+ORD-100755,2026-02-20,Bhopal,Madhya Pradesh,Electronics,Headphones,1,6856.84,0.0,6856.84,891.8,23.2599,77.4126
+ORD-100756,2026-02-20,Bhopal,Madhya Pradesh,Electronics,Laptop,4,10640.25,0.0,42561.02,4266.4,23.2599,77.4126
+ORD-100757,2026-02-20,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4090.83,0.1,3681.74,609.28,23.2599,77.4126
+ORD-100758,2026-02-20,Bhopal,Madhya Pradesh,Electronics,Monitor,4,30734.97,0.15,104498.91,10716.2,23.2599,77.4126
+ORD-100759,2026-02-21,Indore,Madhya Pradesh,Fashion,Jacket,4,5238.55,0.05,19906.48,4036.28,22.7196,75.8577
+ORD-100760,2026-02-21,Indore,Madhya Pradesh,Food & Beverages,Tea,2,262.71,0.1,472.88,51.56,22.7196,75.8577
+ORD-100761,2026-02-21,Indore,Madhya Pradesh,Fashion,T-Shirt,1,2173.45,0.1,1956.11,375.78,22.7196,75.8577
+ORD-100762,2026-02-21,Indore,Madhya Pradesh,Electronics,Laptop,3,14625.0,0.15,37293.74,4797.73,22.7196,75.8577
+ORD-100763,2026-02-21,Indore,Madhya Pradesh,Fashion,Backpack,1,3032.55,0.0,3032.55,748.59,22.7196,75.8577
+ORD-100764,2026-02-21,Bhopal,Madhya Pradesh,Electronics,Tablet,4,19712.47,0.0,78849.9,7300.42,23.2599,77.4126
+ORD-100765,2026-02-21,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,4536.38,0.05,17238.23,2804.9,23.2599,77.4126
+ORD-100766,2026-02-21,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,27384.29,0.05,52030.16,4980.0,23.2599,77.4126
+ORD-100767,2026-02-21,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,11268.32,0.1,30424.46,4271.21,23.2599,77.4126
+ORD-100768,2026-02-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,3339.67,0.1,3005.7,818.89,23.2599,77.4126
+ORD-100769,2026-02-21,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,949.1,0.1,2562.57,387.96,23.2599,77.4126
+ORD-100770,2026-02-21,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,5362.89,0.0,5362.89,1268.9,23.2599,77.4126
+ORD-100771,2026-02-22,Indore,Madhya Pradesh,Electronics,Tablet,2,50972.68,0.1,91750.82,15664.13,22.7196,75.8577
+ORD-100772,2026-02-22,Indore,Madhya Pradesh,Fashion,Jeans,3,4454.28,0.2,10690.28,2921.59,22.7196,75.8577
+ORD-100773,2026-02-22,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,1409.77,0.0,4229.3,759.29,22.7196,75.8577
+ORD-100774,2026-02-22,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,4337.97,0.05,16484.29,2495.16,22.7196,75.8577
+ORD-100775,2026-02-22,Indore,Madhya Pradesh,Fashion,Backpack,3,3032.41,0.0,9097.22,1663.81,22.7196,75.8577
+ORD-100776,2026-02-22,Indore,Madhya Pradesh,Electronics,Tablet,2,48590.87,0.0,97181.73,14922.35,22.7196,75.8577
+ORD-100777,2026-02-22,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,114.42,0.05,326.09,34.33,22.7196,75.8577
+ORD-100778,2026-02-22,Indore,Madhya Pradesh,Fashion,T-Shirt,1,4869.12,0.1,4382.2,1031.96,22.7196,75.8577
+ORD-100779,2026-02-22,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,1608.56,0.0,6434.22,850.45,22.7196,75.8577
+ORD-100780,2026-02-22,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,250.98,0.05,476.86,54.49,22.7196,75.8577
+ORD-100781,2026-02-22,Indore,Madhya Pradesh,Fashion,Jacket,4,1135.13,0.1,4086.48,894.84,22.7196,75.8577
+ORD-100782,2026-02-22,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2535.89,0.1,2282.3,544.79,23.2599,77.4126
+ORD-100783,2026-02-22,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,8693.42,0.1,31296.33,5111.77,23.2599,77.4126
+ORD-100784,2026-02-22,Bhopal,Madhya Pradesh,Electronics,Monitor,2,43373.05,0.05,82408.79,9060.93,23.2599,77.4126
+ORD-100785,2026-02-22,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1443.36,0.15,1226.85,253.45,23.2599,77.4126
+ORD-100786,2026-02-22,Bhopal,Madhya Pradesh,Fashion,Jacket,4,5818.63,0.05,22110.81,4439.99,23.2599,77.4126
+ORD-100787,2026-02-23,Indore,Madhya Pradesh,Home & Living,Lamp,2,9109.17,0.2,14574.68,2515.34,22.7196,75.8577
+ORD-100788,2026-02-23,Indore,Madhya Pradesh,Electronics,Laptop,2,49239.35,0.15,83706.89,9606.66,22.7196,75.8577
+ORD-100789,2026-02-23,Indore,Madhya Pradesh,Fashion,Backpack,4,3694.08,0.1,13298.69,2356.82,22.7196,75.8577
+ORD-100790,2026-02-23,Indore,Madhya Pradesh,Fashion,Backpack,3,4446.56,0.2,10671.76,2913.61,22.7196,75.8577
+ORD-100791,2026-02-23,Indore,Madhya Pradesh,Electronics,Headphones,3,14349.67,0.15,36591.65,4960.41,22.7196,75.8577
+ORD-100792,2026-02-23,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,4773.13,0.05,4534.47,1168.54,22.7196,75.8577
+ORD-100793,2026-02-23,Bhopal,Madhya Pradesh,Electronics,Laptop,2,31601.28,0.1,56882.31,8385.27,23.2599,77.4126
+ORD-100794,2026-02-23,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,5616.29,0.0,5616.29,838.74,23.2599,77.4126
+ORD-100795,2026-02-23,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,680.77,0.15,1157.31,235.11,23.2599,77.4126
+ORD-100796,2026-02-23,Bhopal,Madhya Pradesh,Electronics,Headphones,3,51464.95,0.0,154394.84,18473.4,23.2599,77.4126
+ORD-100797,2026-02-23,Bhopal,Madhya Pradesh,Fashion,Backpack,3,1685.24,0.05,4802.93,783.98,23.2599,77.4126
+ORD-100798,2026-02-23,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,1142.11,0.05,2170.01,546.88,23.2599,77.4126
+ORD-100799,2026-02-24,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,6286.39,0.0,12572.78,2143.91,22.7196,75.8577
+ORD-100800,2026-02-24,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,473.12,0.05,898.93,178.32,22.7196,75.8577
+ORD-100801,2026-02-24,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1754.48,0.0,7017.93,1025.09,22.7196,75.8577
+ORD-100802,2026-02-24,Indore,Madhya Pradesh,Fashion,Jeans,3,3695.61,0.0,11086.84,2447.19,22.7196,75.8577
+ORD-100803,2026-02-24,Indore,Madhya Pradesh,Electronics,Laptop,2,36152.12,0.2,57843.39,8308.45,22.7196,75.8577
+ORD-100804,2026-02-24,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1411.06,0.0,5644.24,1076.5,22.7196,75.8577
+ORD-100805,2026-02-24,Indore,Madhya Pradesh,Electronics,Tablet,2,43409.94,0.15,73796.9,7170.09,22.7196,75.8577
+ORD-100806,2026-02-24,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,837.21,0.1,2260.46,243.78,23.2599,77.4126
+ORD-100807,2026-02-24,Bhopal,Madhya Pradesh,Home & Living,Desk,1,9463.61,0.15,8044.07,1711.39,23.2599,77.4126
+ORD-100808,2026-02-24,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,3477.17,0.0,6954.33,2008.09,23.2599,77.4126
+ORD-100809,2026-02-24,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,1169.26,0.0,2338.52,393.51,23.2599,77.4126
+ORD-100810,2026-02-24,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,4258.5,0.0,8517.01,1857.89,23.2599,77.4126
+ORD-100811,2026-02-25,Indore,Madhya Pradesh,Home & Living,Mixer,1,1414.61,0.05,1343.88,198.0,22.7196,75.8577
+ORD-100812,2026-02-25,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,834.15,0.05,792.44,98.68,22.7196,75.8577
+ORD-100813,2026-02-25,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1251.55,0.1,1126.39,190.78,22.7196,75.8577
+ORD-100814,2026-02-25,Indore,Madhya Pradesh,Home & Living,Office Chair,3,7562.06,0.2,18148.94,2335.04,22.7196,75.8577
+ORD-100815,2026-02-25,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5100.22,0.05,19380.84,5315.86,22.7196,75.8577
+ORD-100816,2026-02-25,Indore,Madhya Pradesh,Fashion,T-Shirt,1,2412.76,0.05,2292.12,409.11,22.7196,75.8577
+ORD-100817,2026-02-25,Bhopal,Madhya Pradesh,Electronics,Tablet,3,17491.7,0.1,47227.6,5161.18,23.2599,77.4126
+ORD-100818,2026-02-25,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,10090.88,0.1,9081.79,2041.53,23.2599,77.4126
+ORD-100819,2026-02-25,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,288.96,0.1,780.2,116.19,23.2599,77.4126
+ORD-100820,2026-02-25,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,6918.5,0.15,5880.73,829.87,23.2599,77.4126
+ORD-100821,2026-02-25,Bhopal,Madhya Pradesh,Fashion,Jacket,4,3645.14,0.0,14580.58,4371.16,23.2599,77.4126
+ORD-100822,2026-02-25,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,538.69,0.05,1535.27,326.9,23.2599,77.4126
+ORD-100823,2026-02-25,Bhopal,Madhya Pradesh,Electronics,Headphones,4,42916.01,0.0,171664.06,19104.47,23.2599,77.4126
+ORD-100824,2026-02-25,Bhopal,Madhya Pradesh,Fashion,Jeans,4,5620.94,0.0,22483.76,5598.49,23.2599,77.4126
+ORD-100825,2026-02-25,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,1095.49,0.05,4162.86,658.45,23.2599,77.4126
+ORD-100826,2026-02-26,Indore,Madhya Pradesh,Electronics,Monitor,4,54433.63,0.0,217734.5,37836.4,22.7196,75.8577
+ORD-100827,2026-02-26,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5676.73,0.1,20436.22,4843.63,22.7196,75.8577
+ORD-100828,2026-02-26,Indore,Madhya Pradesh,Electronics,Smartphone,3,22487.94,0.0,67463.83,10418.33,22.7196,75.8577
+ORD-100829,2026-02-26,Indore,Madhya Pradesh,Electronics,Tablet,1,24678.04,0.1,22210.24,2739.46,22.7196,75.8577
+ORD-100830,2026-02-26,Indore,Madhya Pradesh,Electronics,Smartphone,1,20154.71,0.1,18139.24,1894.16,22.7196,75.8577
+ORD-100831,2026-02-26,Indore,Madhya Pradesh,Electronics,Smartphone,4,28742.26,0.15,97723.7,10485.21,22.7196,75.8577
+ORD-100832,2026-02-26,Indore,Madhya Pradesh,Fashion,Jacket,2,1723.49,0.0,3446.97,1021.13,22.7196,75.8577
+ORD-100833,2026-02-26,Indore,Madhya Pradesh,Electronics,Monitor,3,31765.65,0.0,95296.96,15790.73,22.7196,75.8577
+ORD-100834,2026-02-26,Indore,Madhya Pradesh,Fashion,Backpack,4,926.2,0.05,3519.56,1037.2,22.7196,75.8577
+ORD-100835,2026-02-26,Bhopal,Madhya Pradesh,Electronics,Tablet,1,18420.66,0.1,16578.59,1365.51,23.2599,77.4126
+ORD-100836,2026-02-26,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,5521.84,0.0,16565.52,3413.57,23.2599,77.4126
+ORD-100837,2026-02-26,Bhopal,Madhya Pradesh,Electronics,Laptop,3,50706.94,0.1,136908.75,17871.24,23.2599,77.4126
+ORD-100838,2026-02-26,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,5617.89,0.2,17977.25,4937.37,23.2599,77.4126
+ORD-100839,2026-02-26,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,2886.52,0.05,5484.39,1314.04,23.2599,77.4126
+ORD-100840,2026-02-26,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5698.79,0.15,4843.98,1046.36,23.2599,77.4126
+ORD-100841,2026-02-26,Bhopal,Madhya Pradesh,Electronics,Headphones,3,32562.38,0.1,87918.41,8982.08,23.2599,77.4126
+ORD-100842,2026-02-26,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,10271.68,0.1,27733.54,5999.84,23.2599,77.4126
+ORD-100843,2026-02-26,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4449.15,0.1,12012.69,2693.61,23.2599,77.4126
+ORD-100844,2026-02-26,Bhopal,Madhya Pradesh,Fashion,Backpack,2,4305.55,0.1,7749.99,2016.84,23.2599,77.4126
+ORD-100845,2026-02-27,Indore,Madhya Pradesh,Fashion,Backpack,2,3465.66,0.05,6584.75,1835.06,22.7196,75.8577
+ORD-100846,2026-02-27,Indore,Madhya Pradesh,Electronics,Laptop,4,44614.81,0.0,178459.22,20789.03,22.7196,75.8577
+ORD-100847,2026-02-27,Indore,Madhya Pradesh,Electronics,Monitor,1,51590.34,0.05,49010.82,5008.15,22.7196,75.8577
+ORD-100848,2026-02-27,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5308.13,0.0,21232.51,4074.54,22.7196,75.8577
+ORD-100849,2026-02-27,Indore,Madhya Pradesh,Electronics,Tablet,3,18362.81,0.1,49579.59,6706.88,22.7196,75.8577
+ORD-100850,2026-02-27,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,1560.46,0.1,1404.41,275.23,23.2599,77.4126
+ORD-100851,2026-02-27,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,3407.78,0.05,6474.79,1365.06,23.2599,77.4126
+ORD-100852,2026-02-27,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,5754.12,0.0,17262.37,3343.18,23.2599,77.4126
+ORD-100853,2026-02-27,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,389.92,0.05,1481.7,269.59,23.2599,77.4126
+ORD-100854,2026-02-27,Bhopal,Madhya Pradesh,Electronics,Laptop,1,38543.86,0.0,38543.86,3219.86,23.2599,77.4126
+ORD-100855,2026-02-27,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,15100.47,0.15,38506.21,5882.83,23.2599,77.4126
+ORD-100856,2026-02-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,3098.84,0.0,9296.51,1874.96,23.2599,77.4126
+ORD-100857,2026-02-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,3388.76,0.1,9149.66,1569.39,23.2599,77.4126
+ORD-100858,2026-02-27,Bhopal,Madhya Pradesh,Electronics,Tablet,3,8191.3,0.1,22116.51,3196.9,23.2599,77.4126
+ORD-100859,2026-02-28,Indore,Madhya Pradesh,Electronics,Laptop,2,6670.92,0.05,12674.75,1836.7,22.7196,75.8577
+ORD-100860,2026-02-28,Indore,Madhya Pradesh,Electronics,Smartphone,4,37662.34,0.15,128051.97,19723.45,22.7196,75.8577
+ORD-100861,2026-02-28,Indore,Madhya Pradesh,Electronics,Monitor,1,5979.23,0.0,5979.23,771.72,22.7196,75.8577
+ORD-100862,2026-02-28,Indore,Madhya Pradesh,Electronics,Monitor,4,27026.66,0.05,102701.31,13973.91,22.7196,75.8577
+ORD-100863,2026-02-28,Indore,Madhya Pradesh,Electronics,Smartphone,4,38173.31,0.2,122154.59,12261.52,22.7196,75.8577
+ORD-100864,2026-02-28,Indore,Madhya Pradesh,Fashion,Jeans,4,3863.24,0.05,14680.31,4263.39,22.7196,75.8577
+ORD-100865,2026-02-28,Indore,Madhya Pradesh,Fashion,T-Shirt,4,3242.77,0.1,11673.98,2685.31,22.7196,75.8577
+ORD-100866,2026-02-28,Indore,Madhya Pradesh,Home & Living,Office Chair,2,822.22,0.1,1480.0,196.21,22.7196,75.8577
+ORD-100867,2026-02-28,Indore,Madhya Pradesh,Electronics,Headphones,1,14979.1,0.0,14979.1,1708.71,22.7196,75.8577
+ORD-100868,2026-02-28,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,1900.61,0.05,7222.33,1397.79,23.2599,77.4126
+ORD-100869,2026-02-28,Bhopal,Madhya Pradesh,Electronics,Laptop,3,29281.66,0.0,87844.97,10702.84,23.2599,77.4126
+ORD-100870,2026-02-28,Bhopal,Madhya Pradesh,Fashion,Jeans,4,1178.81,0.05,4479.47,1295.75,23.2599,77.4126
+ORD-100871,2026-02-28,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,206.58,0.15,175.59,31.23,23.2599,77.4126
+ORD-100872,2026-02-28,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,1959.18,0.05,5583.67,1248.57,23.2599,77.4126
+ORD-100873,2026-02-28,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,11750.58,0.0,47002.31,7987.75,23.2599,77.4126
+ORD-100874,2026-02-28,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,1008.48,0.1,907.63,209.91,23.2599,77.4126
+ORD-100875,2026-02-28,Bhopal,Madhya Pradesh,Electronics,Headphones,3,8207.05,0.0,24621.14,4152.41,23.2599,77.4126
+ORD-100876,2026-02-28,Bhopal,Madhya Pradesh,Fashion,Jacket,3,1887.7,0.05,5379.95,898.9,23.2599,77.4126
+ORD-100877,2026-03-01,Indore,Madhya Pradesh,Home & Living,Desk,2,4850.4,0.0,9700.79,2209.62,22.7196,75.8577
+ORD-100878,2026-03-01,Indore,Madhya Pradesh,Fashion,Jeans,4,5317.96,0.15,18081.05,3902.98,22.7196,75.8577
+ORD-100879,2026-03-01,Indore,Madhya Pradesh,Electronics,Monitor,2,9932.81,0.1,17879.06,1651.9,22.7196,75.8577
+ORD-100880,2026-03-01,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,147.9,0.1,266.21,43.66,22.7196,75.8577
+ORD-100881,2026-03-01,Indore,Madhya Pradesh,Fashion,T-Shirt,3,3909.92,0.0,11729.77,2379.11,22.7196,75.8577
+ORD-100882,2026-03-01,Indore,Madhya Pradesh,Electronics,Headphones,4,20591.65,0.05,78248.29,6689.92,22.7196,75.8577
+ORD-100883,2026-03-01,Indore,Madhya Pradesh,Electronics,Laptop,1,42814.1,0.1,38532.69,3489.39,22.7196,75.8577
+ORD-100884,2026-03-01,Indore,Madhya Pradesh,Food & Beverages,Tea,4,717.47,0.1,2582.9,299.71,22.7196,75.8577
+ORD-100885,2026-03-01,Indore,Madhya Pradesh,Fashion,Backpack,4,2928.01,0.1,10540.83,2489.13,22.7196,75.8577
+ORD-100886,2026-03-01,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,2987.26,0.05,8513.69,2322.94,22.7196,75.8577
+ORD-100887,2026-03-01,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,4466.39,0.2,10719.33,1431.23,22.7196,75.8577
+ORD-100888,2026-03-01,Bhopal,Madhya Pradesh,Electronics,Laptop,4,37482.46,0.1,134936.85,12000.49,23.2599,77.4126
+ORD-100889,2026-03-01,Bhopal,Madhya Pradesh,Electronics,Monitor,1,35763.16,0.1,32186.85,3318.12,23.2599,77.4126
+ORD-100890,2026-03-01,Bhopal,Madhya Pradesh,Electronics,Tablet,2,14525.68,0.15,24693.65,2719.29,23.2599,77.4126
+ORD-100891,2026-03-01,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,6203.28,0.1,16748.86,3472.75,23.2599,77.4126
+ORD-100892,2026-03-01,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,4651.39,0.05,13256.46,2486.38,23.2599,77.4126
+ORD-100893,2026-03-01,Bhopal,Madhya Pradesh,Electronics,Headphones,3,9551.11,0.05,27220.67,4140.83,23.2599,77.4126
+ORD-100894,2026-03-01,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,9476.3,0.05,18004.97,2947.81,23.2599,77.4126
+ORD-100895,2026-03-01,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,556.75,0.1,2004.31,263.69,23.2599,77.4126
+ORD-100896,2026-03-02,Indore,Madhya Pradesh,Home & Living,Lamp,4,5105.11,0.1,18378.41,3353.03,22.7196,75.8577
+ORD-100897,2026-03-02,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,4670.33,0.05,4436.81,1056.01,22.7196,75.8577
+ORD-100898,2026-03-02,Indore,Madhya Pradesh,Fashion,Jacket,1,881.36,0.0,881.36,187.56,22.7196,75.8577
+ORD-100899,2026-03-02,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1084.89,0.2,867.91,116.89,22.7196,75.8577
+ORD-100900,2026-03-02,Indore,Madhya Pradesh,Electronics,Tablet,3,47544.23,0.1,128369.43,22586.18,22.7196,75.8577
+ORD-100901,2026-03-02,Indore,Madhya Pradesh,Fashion,Jacket,2,5651.02,0.0,11302.05,2404.96,22.7196,75.8577
+ORD-100902,2026-03-02,Indore,Madhya Pradesh,Electronics,Smartphone,3,1883.58,0.1,5085.67,700.71,22.7196,75.8577
+ORD-100903,2026-03-02,Indore,Madhya Pradesh,Electronics,Smartphone,1,11821.04,0.1,10638.93,1635.18,22.7196,75.8577
+ORD-100904,2026-03-02,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,8318.12,0.1,14972.62,3529.22,23.2599,77.4126
+ORD-100905,2026-03-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,2403.44,0.1,4326.19,809.63,23.2599,77.4126
+ORD-100906,2026-03-02,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1085.19,0.05,1030.93,289.23,23.2599,77.4126
+ORD-100907,2026-03-02,Bhopal,Madhya Pradesh,Electronics,Monitor,4,47417.05,0.1,170701.38,22415.51,23.2599,77.4126
+ORD-100908,2026-03-02,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2325.83,0.1,8373.0,2506.48,23.2599,77.4126
+ORD-100909,2026-03-02,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1527.89,0.1,2750.2,636.7,23.2599,77.4126
+ORD-100910,2026-03-02,Bhopal,Madhya Pradesh,Electronics,Monitor,3,33275.19,0.05,94834.28,16858.45,23.2599,77.4126
+ORD-100911,2026-03-02,Bhopal,Madhya Pradesh,Electronics,Laptop,3,44262.64,0.05,126148.53,22099.56,23.2599,77.4126
+ORD-100912,2026-03-02,Bhopal,Madhya Pradesh,Electronics,Headphones,3,34669.29,0.15,88406.7,15206.16,23.2599,77.4126
+ORD-100913,2026-03-03,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,1156.09,0.05,3294.86,831.98,22.7196,75.8577
+ORD-100914,2026-03-03,Indore,Madhya Pradesh,Fashion,Jeans,3,5390.12,0.05,15361.84,3619.16,22.7196,75.8577
+ORD-100915,2026-03-03,Indore,Madhya Pradesh,Electronics,Smartphone,2,9357.22,0.05,17778.73,1569.56,22.7196,75.8577
+ORD-100916,2026-03-03,Indore,Madhya Pradesh,Electronics,Monitor,1,12852.24,0.05,12209.63,1110.13,22.7196,75.8577
+ORD-100917,2026-03-03,Indore,Madhya Pradesh,Home & Living,Mixer,3,1873.52,0.05,5339.54,972.09,22.7196,75.8577
+ORD-100918,2026-03-03,Indore,Madhya Pradesh,Electronics,Laptop,2,17794.92,0.15,30251.37,3197.11,22.7196,75.8577
+ORD-100919,2026-03-03,Indore,Madhya Pradesh,Electronics,Smartphone,4,45387.54,0.2,145240.13,14157.63,22.7196,75.8577
+ORD-100920,2026-03-03,Indore,Madhya Pradesh,Fashion,Jeans,3,5425.82,0.2,13021.97,3149.65,22.7196,75.8577
+ORD-100921,2026-03-03,Bhopal,Madhya Pradesh,Electronics,Monitor,1,36712.82,0.1,33041.54,3286.63,23.2599,77.4126
+ORD-100922,2026-03-03,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,218.29,0.15,556.63,96.04,23.2599,77.4126
+ORD-100923,2026-03-03,Bhopal,Madhya Pradesh,Fashion,Jeans,3,1357.02,0.1,3663.95,1052.35,23.2599,77.4126
+ORD-100924,2026-03-03,Bhopal,Madhya Pradesh,Home & Living,Desk,3,5627.4,0.0,16882.2,2345.42,23.2599,77.4126
+ORD-100925,2026-03-03,Bhopal,Madhya Pradesh,Fashion,Backpack,4,5946.04,0.15,20216.55,5155.33,23.2599,77.4126
+ORD-100926,2026-03-03,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,34497.9,0.05,32773.0,3900.84,23.2599,77.4126
+ORD-100927,2026-03-03,Bhopal,Madhya Pradesh,Electronics,Tablet,2,23969.29,0.0,47938.57,5296.84,23.2599,77.4126
+ORD-100928,2026-03-03,Bhopal,Madhya Pradesh,Electronics,Tablet,3,18116.13,0.05,51630.97,7825.96,23.2599,77.4126
+ORD-100929,2026-03-03,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,6223.48,0.15,15869.86,2650.63,23.2599,77.4126
+ORD-100930,2026-03-03,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,2414.9,0.05,4588.3,848.96,23.2599,77.4126
+ORD-100931,2026-03-04,Indore,Madhya Pradesh,Fashion,Backpack,3,5164.13,0.0,15492.39,2851.31,22.7196,75.8577
+ORD-100932,2026-03-04,Indore,Madhya Pradesh,Fashion,Jacket,4,3907.65,0.1,14067.55,2905.82,22.7196,75.8577
+ORD-100933,2026-03-04,Indore,Madhya Pradesh,Fashion,Backpack,1,5624.09,0.0,5624.09,1015.94,22.7196,75.8577
+ORD-100934,2026-03-04,Indore,Madhya Pradesh,Electronics,Laptop,3,15048.01,0.1,40629.62,6715.17,22.7196,75.8577
+ORD-100935,2026-03-04,Indore,Madhya Pradesh,Home & Living,Desk,1,2375.99,0.1,2138.39,274.62,22.7196,75.8577
+ORD-100936,2026-03-04,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,565.2,0.0,1695.61,364.6,23.2599,77.4126
+ORD-100937,2026-03-04,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,1418.4,0.2,1134.72,291.55,23.2599,77.4126
+ORD-100938,2026-03-04,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,810.06,0.0,2430.17,506.83,23.2599,77.4126
+ORD-100939,2026-03-04,Bhopal,Madhya Pradesh,Electronics,Monitor,2,42408.54,0.1,76335.38,6893.13,23.2599,77.4126
+ORD-100940,2026-03-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,857.26,0.1,771.54,165.17,23.2599,77.4126
+ORD-100941,2026-03-04,Bhopal,Madhya Pradesh,Electronics,Monitor,3,12541.89,0.1,33863.11,5135.09,23.2599,77.4126
+ORD-100942,2026-03-04,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,4423.05,0.05,4201.9,988.37,23.2599,77.4126
+ORD-100943,2026-03-05,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,4257.98,0.1,15328.72,2505.99,22.7196,75.8577
+ORD-100944,2026-03-05,Indore,Madhya Pradesh,Fashion,Jeans,4,3774.25,0.05,14342.13,3681.22,22.7196,75.8577
+ORD-100945,2026-03-05,Indore,Madhya Pradesh,Electronics,Laptop,4,40434.79,0.15,137478.28,21998.3,22.7196,75.8577
+ORD-100946,2026-03-05,Indore,Madhya Pradesh,Electronics,Headphones,3,28575.31,0.15,72867.03,7565.47,22.7196,75.8577
+ORD-100947,2026-03-05,Indore,Madhya Pradesh,Electronics,Tablet,4,54443.67,0.0,217774.67,37009.17,22.7196,75.8577
+ORD-100948,2026-03-05,Indore,Madhya Pradesh,Electronics,Monitor,1,47963.83,0.1,43167.44,4847.74,22.7196,75.8577
+ORD-100949,2026-03-05,Indore,Madhya Pradesh,Home & Living,Office Chair,3,9330.7,0.05,26592.49,3490.27,22.7196,75.8577
+ORD-100950,2026-03-05,Indore,Madhya Pradesh,Food & Beverages,Tea,2,997.06,0.1,1794.7,376.54,22.7196,75.8577
+ORD-100951,2026-03-05,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,7905.08,0.05,30039.29,4454.69,23.2599,77.4126
+ORD-100952,2026-03-05,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,292.37,0.1,1052.53,174.03,23.2599,77.4126
+ORD-100953,2026-03-05,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,377.09,0.1,1018.14,204.0,23.2599,77.4126
+ORD-100954,2026-03-05,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,5239.12,0.15,13359.76,1730.06,23.2599,77.4126
+ORD-100955,2026-03-05,Bhopal,Madhya Pradesh,Electronics,Laptop,1,14952.87,0.0,14952.87,2088.71,23.2599,77.4126
+ORD-100956,2026-03-05,Bhopal,Madhya Pradesh,Fashion,Jeans,4,1054.47,0.0,4217.9,1194.85,23.2599,77.4126
+ORD-100957,2026-03-05,Bhopal,Madhya Pradesh,Fashion,Backpack,4,5562.94,0.0,22251.77,3810.62,23.2599,77.4126
+ORD-100958,2026-03-05,Bhopal,Madhya Pradesh,Electronics,Monitor,3,28755.5,0.05,81953.18,12311.27,23.2599,77.4126
+ORD-100959,2026-03-06,Indore,Madhya Pradesh,Electronics,Smartphone,4,31137.37,0.1,112094.53,9094.69,22.7196,75.8577
+ORD-100960,2026-03-06,Indore,Madhya Pradesh,Fashion,Jeans,1,5748.72,0.1,5173.85,1227.97,22.7196,75.8577
+ORD-100961,2026-03-06,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,5113.29,0.1,9203.93,1556.63,22.7196,75.8577
+ORD-100962,2026-03-06,Indore,Madhya Pradesh,Home & Living,Lamp,2,9131.4,0.0,18262.8,4361.21,22.7196,75.8577
+ORD-100963,2026-03-06,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,4901.79,0.05,18626.81,4612.59,22.7196,75.8577
+ORD-100964,2026-03-06,Indore,Madhya Pradesh,Home & Living,Mixer,1,6398.25,0.15,5438.51,1065.22,22.7196,75.8577
+ORD-100965,2026-03-06,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4584.27,0.0,13752.82,3415.39,22.7196,75.8577
+ORD-100966,2026-03-06,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,2490.62,0.05,2366.08,488.98,23.2599,77.4126
+ORD-100967,2026-03-06,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,3408.25,0.05,12951.34,3799.65,23.2599,77.4126
+ORD-100968,2026-03-06,Bhopal,Madhya Pradesh,Electronics,Monitor,4,29764.75,0.05,113106.03,13745.75,23.2599,77.4126
+ORD-100969,2026-03-06,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,1158.72,0.0,1158.72,339.23,23.2599,77.4126
+ORD-100970,2026-03-06,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,3001.73,0.15,7654.4,2214.45,23.2599,77.4126
+ORD-100971,2026-03-06,Bhopal,Madhya Pradesh,Electronics,Headphones,1,36680.18,0.0,36680.18,3458.29,23.2599,77.4126
+ORD-100972,2026-03-06,Bhopal,Madhya Pradesh,Electronics,Monitor,3,17822.79,0.15,45448.11,6779.58,23.2599,77.4126
+ORD-100973,2026-03-06,Bhopal,Madhya Pradesh,Home & Living,Desk,3,10062.53,0.05,28678.22,4236.41,23.2599,77.4126
+ORD-100974,2026-03-07,Indore,Madhya Pradesh,Electronics,Smartphone,1,40801.2,0.0,40801.2,7234.58,22.7196,75.8577
+ORD-100975,2026-03-07,Indore,Madhya Pradesh,Fashion,Jeans,4,1136.64,0.2,3637.24,1063.11,22.7196,75.8577
+ORD-100976,2026-03-07,Indore,Madhya Pradesh,Electronics,Monitor,1,32707.0,0.05,31071.65,3541.74,22.7196,75.8577
+ORD-100977,2026-03-07,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,4132.38,0.1,3719.14,609.84,22.7196,75.8577
+ORD-100978,2026-03-07,Indore,Madhya Pradesh,Electronics,Monitor,2,8973.56,0.05,17049.76,1453.09,22.7196,75.8577
+ORD-100979,2026-03-07,Indore,Madhya Pradesh,Electronics,Monitor,2,32879.19,0.1,59182.54,9340.33,22.7196,75.8577
+ORD-100980,2026-03-07,Indore,Madhya Pradesh,Electronics,Monitor,4,35408.25,0.15,120388.07,17518.19,22.7196,75.8577
+ORD-100981,2026-03-07,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,419.12,0.05,398.16,74.91,22.7196,75.8577
+ORD-100982,2026-03-07,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,951.02,0.15,808.36,213.43,23.2599,77.4126
+ORD-100983,2026-03-07,Bhopal,Madhya Pradesh,Electronics,Laptop,1,16223.38,0.2,12978.7,1773.72,23.2599,77.4126
+ORD-100984,2026-03-07,Bhopal,Madhya Pradesh,Fashion,Jeans,2,826.85,0.0,1653.71,480.47,23.2599,77.4126
+ORD-100985,2026-03-07,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,372.73,0.15,950.47,114.65,23.2599,77.4126
+ORD-100986,2026-03-07,Bhopal,Madhya Pradesh,Electronics,Monitor,1,43026.83,0.1,38724.15,4312.04,23.2599,77.4126
+ORD-100987,2026-03-07,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,3611.76,0.15,12280.0,2273.35,23.2599,77.4126
+ORD-100988,2026-03-07,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,1908.52,0.0,7634.06,2039.16,23.2599,77.4126
+ORD-100989,2026-03-07,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,5606.55,0.15,9531.13,2370.86,23.2599,77.4126
+ORD-100990,2026-03-07,Bhopal,Madhya Pradesh,Electronics,Monitor,4,7011.72,0.1,25242.18,3465.82,23.2599,77.4126
+ORD-100991,2026-03-07,Bhopal,Madhya Pradesh,Electronics,Laptop,2,42405.91,0.15,72090.04,9473.05,23.2599,77.4126
+ORD-100992,2026-03-08,Indore,Madhya Pradesh,Fashion,Backpack,2,3486.74,0.05,6624.81,1843.89,22.7196,75.8577
+ORD-100993,2026-03-08,Indore,Madhya Pradesh,Home & Living,Office Chair,4,2976.33,0.0,11905.31,2634.83,22.7196,75.8577
+ORD-100994,2026-03-08,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,3146.41,0.1,11327.06,2598.04,22.7196,75.8577
+ORD-100995,2026-03-08,Indore,Madhya Pradesh,Electronics,Headphones,3,24355.8,0.15,62107.28,7171.33,22.7196,75.8577
+ORD-100996,2026-03-08,Indore,Madhya Pradesh,Food & Beverages,Juice,2,823.31,0.05,1564.3,205.36,22.7196,75.8577
+ORD-100997,2026-03-08,Indore,Madhya Pradesh,Electronics,Headphones,4,25691.83,0.1,92490.6,8440.04,22.7196,75.8577
+ORD-100998,2026-03-08,Indore,Madhya Pradesh,Electronics,Monitor,4,2133.03,0.1,7678.92,1329.44,22.7196,75.8577
+ORD-100999,2026-03-08,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,5791.93,0.2,4633.54,838.38,23.2599,77.4126
+ORD-101000,2026-03-08,Bhopal,Madhya Pradesh,Electronics,Headphones,1,3168.41,0.15,2693.15,374.71,23.2599,77.4126
+ORD-101001,2026-03-08,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,1039.29,0.0,1039.29,194.08,23.2599,77.4126
+ORD-101002,2026-03-08,Bhopal,Madhya Pradesh,Fashion,Jeans,2,3975.79,0.0,7951.59,2194.05,23.2599,77.4126
+ORD-101003,2026-03-08,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,2676.48,0.0,5352.97,1103.51,23.2599,77.4126
+ORD-101004,2026-03-08,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,265.86,0.0,531.71,113.62,23.2599,77.4126
+ORD-101005,2026-03-08,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,11225.22,0.1,10102.7,1363.05,23.2599,77.4126
+ORD-101006,2026-03-09,Indore,Madhya Pradesh,Fashion,T-Shirt,1,1191.5,0.1,1072.35,199.13,22.7196,75.8577
+ORD-101007,2026-03-09,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,2136.8,0.1,1923.12,510.19,22.7196,75.8577
+ORD-101008,2026-03-09,Indore,Madhya Pradesh,Electronics,Smartphone,1,12748.31,0.0,12748.31,1406.29,22.7196,75.8577
+ORD-101009,2026-03-09,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,700.98,0.2,560.79,68.42,22.7196,75.8577
+ORD-101010,2026-03-09,Indore,Madhya Pradesh,Electronics,Headphones,3,6837.26,0.0,20511.79,2367.98,22.7196,75.8577
+ORD-101011,2026-03-09,Bhopal,Madhya Pradesh,Electronics,Laptop,2,45846.23,0.05,87107.84,10381.12,23.2599,77.4126
+ORD-101012,2026-03-09,Bhopal,Madhya Pradesh,Fashion,Jacket,2,5074.3,0.1,9133.74,2170.45,23.2599,77.4126
+ORD-101013,2026-03-09,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,3558.31,0.1,6404.95,1610.22,23.2599,77.4126
+ORD-101014,2026-03-09,Bhopal,Madhya Pradesh,Home & Living,Desk,1,4234.64,0.05,4022.91,593.22,23.2599,77.4126
+ORD-101015,2026-03-09,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,8655.29,0.1,7789.76,1272.41,23.2599,77.4126
+ORD-101016,2026-03-09,Bhopal,Madhya Pradesh,Electronics,Monitor,1,28962.79,0.05,27514.65,3914.7,23.2599,77.4126
+ORD-101017,2026-03-10,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,1390.29,0.2,1112.23,311.38,22.7196,75.8577
+ORD-101018,2026-03-10,Indore,Madhya Pradesh,Home & Living,Desk,3,824.67,0.0,2474.01,491.57,22.7196,75.8577
+ORD-101019,2026-03-10,Indore,Madhya Pradesh,Food & Beverages,Juice,1,357.43,0.1,321.68,38.92,22.7196,75.8577
+ORD-101020,2026-03-10,Indore,Madhya Pradesh,Electronics,Monitor,4,42251.56,0.2,135204.98,19733.8,22.7196,75.8577
+ORD-101021,2026-03-10,Indore,Madhya Pradesh,Fashion,T-Shirt,3,3064.02,0.0,9192.06,2373.19,22.7196,75.8577
+ORD-101022,2026-03-10,Indore,Madhya Pradesh,Electronics,Laptop,4,10158.38,0.1,36570.15,5626.25,22.7196,75.8577
+ORD-101023,2026-03-10,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2862.84,0.05,5439.39,1158.86,22.7196,75.8577
+ORD-101024,2026-03-10,Indore,Madhya Pradesh,Home & Living,Desk,3,1109.06,0.15,2828.09,608.52,22.7196,75.8577
+ORD-101025,2026-03-10,Bhopal,Madhya Pradesh,Fashion,Jacket,1,4158.67,0.05,3950.73,1070.93,23.2599,77.4126
+ORD-101026,2026-03-10,Bhopal,Madhya Pradesh,Electronics,Monitor,4,9152.09,0.05,34777.94,4037.35,23.2599,77.4126
+ORD-101027,2026-03-10,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,3357.39,0.0,3357.39,562.9,23.2599,77.4126
+ORD-101028,2026-03-10,Bhopal,Madhya Pradesh,Fashion,Jacket,4,3443.5,0.05,13085.31,3869.2,23.2599,77.4126
+ORD-101029,2026-03-10,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,4105.75,0.1,14780.71,3254.61,23.2599,77.4126
+ORD-101030,2026-03-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,2007.68,0.1,1806.91,408.17,23.2599,77.4126
+ORD-101031,2026-03-10,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,3643.27,0.0,3643.27,658.02,23.2599,77.4126
+ORD-101032,2026-03-10,Bhopal,Madhya Pradesh,Electronics,Tablet,1,25533.48,0.15,21703.46,2495.64,23.2599,77.4126
+ORD-101033,2026-03-11,Indore,Madhya Pradesh,Fashion,Backpack,4,5956.5,0.05,22634.69,4991.68,22.7196,75.8577
+ORD-101034,2026-03-11,Indore,Madhya Pradesh,Home & Living,Office Chair,4,3323.28,0.0,13293.11,2900.84,22.7196,75.8577
+ORD-101035,2026-03-11,Indore,Madhya Pradesh,Home & Living,Lamp,2,4543.73,0.1,8178.72,1512.81,22.7196,75.8577
+ORD-101036,2026-03-11,Indore,Madhya Pradesh,Electronics,Headphones,3,7436.09,0.0,22308.27,3813.74,22.7196,75.8577
+ORD-101037,2026-03-11,Indore,Madhya Pradesh,Electronics,Monitor,4,7582.55,0.15,25780.68,4599.87,22.7196,75.8577
+ORD-101038,2026-03-11,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,1000.19,0.15,850.16,166.02,22.7196,75.8577
+ORD-101039,2026-03-11,Indore,Madhya Pradesh,Home & Living,Office Chair,4,5069.65,0.0,20278.59,3749.57,22.7196,75.8577
+ORD-101040,2026-03-11,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,3286.83,0.1,11832.58,2571.98,22.7196,75.8577
+ORD-101041,2026-03-11,Bhopal,Madhya Pradesh,Electronics,Headphones,3,35986.06,0.15,91764.45,10492.08,23.2599,77.4126
+ORD-101042,2026-03-11,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,36643.97,0.15,31147.38,4007.65,23.2599,77.4126
+ORD-101043,2026-03-11,Bhopal,Madhya Pradesh,Electronics,Headphones,4,2272.62,0.2,7272.38,615.89,23.2599,77.4126
+ORD-101044,2026-03-11,Bhopal,Madhya Pradesh,Fashion,Backpack,1,5691.8,0.0,5691.8,1591.92,23.2599,77.4126
+ORD-101045,2026-03-11,Bhopal,Madhya Pradesh,Fashion,Jeans,1,4890.85,0.05,4646.31,916.3,23.2599,77.4126
+ORD-101046,2026-03-11,Bhopal,Madhya Pradesh,Electronics,Headphones,4,27500.84,0.15,93502.84,11335.51,23.2599,77.4126
+ORD-101047,2026-03-11,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,3053.51,0.2,7328.41,1351.88,23.2599,77.4126
+ORD-101048,2026-03-11,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,40221.69,0.05,38210.61,4262.52,23.2599,77.4126
+ORD-101049,2026-03-11,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,10322.52,0.05,19612.78,1755.9,23.2599,77.4126
+ORD-101050,2026-03-11,Bhopal,Madhya Pradesh,Fashion,Backpack,4,1687.39,0.1,6074.61,1517.41,23.2599,77.4126
+ORD-101051,2026-03-12,Indore,Madhya Pradesh,Electronics,Headphones,1,41576.03,0.0,41576.03,7089.08,22.7196,75.8577
+ORD-101052,2026-03-12,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1178.14,0.1,1060.33,217.41,22.7196,75.8577
+ORD-101053,2026-03-12,Indore,Madhya Pradesh,Fashion,Backpack,4,3951.99,0.05,15017.57,4377.89,22.7196,75.8577
+ORD-101054,2026-03-12,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,2288.19,0.05,2173.78,454.79,22.7196,75.8577
+ORD-101055,2026-03-12,Indore,Madhya Pradesh,Fashion,Jeans,3,2944.38,0.05,8391.48,2190.12,22.7196,75.8577
+ORD-101056,2026-03-12,Indore,Madhya Pradesh,Fashion,Backpack,3,3993.36,0.1,10782.07,2685.64,22.7196,75.8577
+ORD-101057,2026-03-12,Indore,Madhya Pradesh,Home & Living,Desk,1,6985.21,0.0,6985.21,1645.13,22.7196,75.8577
+ORD-101058,2026-03-12,Indore,Madhya Pradesh,Home & Living,Desk,2,6370.06,0.15,10829.1,1694.63,22.7196,75.8577
+ORD-101059,2026-03-12,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,802.07,0.05,1523.94,327.14,23.2599,77.4126
+ORD-101060,2026-03-12,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,3829.97,0.0,11489.9,2173.2,23.2599,77.4126
+ORD-101061,2026-03-12,Bhopal,Madhya Pradesh,Fashion,Jacket,2,1602.22,0.1,2884.0,644.14,23.2599,77.4126
+ORD-101062,2026-03-12,Bhopal,Madhya Pradesh,Electronics,Monitor,1,34331.63,0.05,32615.05,5526.47,23.2599,77.4126
+ORD-101063,2026-03-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,19068.23,0.1,68645.63,9404.08,23.2599,77.4126
+ORD-101064,2026-03-12,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,4,2095.45,0.05,7962.7,1864.9,23.2599,77.4126
+ORD-101065,2026-03-12,Bhopal,Madhya Pradesh,Fashion,Backpack,1,2823.16,0.1,2540.84,717.26,23.2599,77.4126
+ORD-101066,2026-03-12,Bhopal,Madhya Pradesh,Electronics,Laptop,3,19425.57,0.2,46621.38,6841.15,23.2599,77.4126
+ORD-101067,2026-03-12,Bhopal,Madhya Pradesh,Fashion,Jeans,4,3744.59,0.15,12731.6,3271.61,23.2599,77.4126
+ORD-101068,2026-03-13,Indore,Madhya Pradesh,Electronics,Monitor,1,43901.51,0.15,37316.28,5926.48,22.7196,75.8577
+ORD-101069,2026-03-13,Indore,Madhya Pradesh,Electronics,Smartphone,1,41799.98,0.05,39709.98,6514.9,22.7196,75.8577
+ORD-101070,2026-03-13,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,389.0,0.05,1478.2,254.18,22.7196,75.8577
+ORD-101071,2026-03-13,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,1797.26,0.0,3594.51,515.96,22.7196,75.8577
+ORD-101072,2026-03-13,Indore,Madhya Pradesh,Electronics,Monitor,3,25988.37,0.1,70168.61,7311.49,22.7196,75.8577
+ORD-101073,2026-03-13,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,4032.32,0.05,7661.41,1847.9,22.7196,75.8577
+ORD-101074,2026-03-13,Indore,Madhya Pradesh,Electronics,Monitor,1,21983.84,0.1,19785.45,3073.04,22.7196,75.8577
+ORD-101075,2026-03-13,Indore,Madhya Pradesh,Fashion,Jacket,3,2245.75,0.15,5726.66,1608.06,22.7196,75.8577
+ORD-101076,2026-03-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,4200.44,0.05,7980.84,1306.95,23.2599,77.4126
+ORD-101077,2026-03-13,Bhopal,Madhya Pradesh,Electronics,Tablet,1,41901.44,0.1,37711.29,5451.97,23.2599,77.4126
+ORD-101078,2026-03-13,Bhopal,Madhya Pradesh,Fashion,Jacket,2,2062.15,0.05,3918.08,813.38,23.2599,77.4126
+ORD-101079,2026-03-13,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,28240.32,0.1,25416.28,2112.2,23.2599,77.4126
+ORD-101080,2026-03-13,Bhopal,Madhya Pradesh,Fashion,Backpack,1,5494.02,0.1,4944.61,1057.32,23.2599,77.4126
+ORD-101081,2026-03-13,Bhopal,Madhya Pradesh,Fashion,Jeans,1,940.3,0.05,893.29,178.14,23.2599,77.4126
+ORD-101082,2026-03-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,4798.39,0.15,8157.26,2256.96,23.2599,77.4126
+ORD-101083,2026-03-13,Bhopal,Madhya Pradesh,Electronics,Tablet,4,28731.6,0.15,97687.45,11389.07,23.2599,77.4126
+ORD-101084,2026-03-13,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,2781.5,0.1,10013.4,2300.64,23.2599,77.4126
+ORD-101085,2026-03-14,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,3535.26,0.1,12726.95,2441.34,22.7196,75.8577
+ORD-101086,2026-03-14,Indore,Madhya Pradesh,Fashion,Jeans,2,5124.94,0.0,10249.87,2267.26,22.7196,75.8577
+ORD-101087,2026-03-14,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,423.34,0.15,719.69,147.47,22.7196,75.8577
+ORD-101088,2026-03-14,Indore,Madhya Pradesh,Food & Beverages,Tea,1,479.18,0.1,431.26,59.74,22.7196,75.8577
+ORD-101089,2026-03-14,Indore,Madhya Pradesh,Home & Living,Office Chair,4,4291.37,0.05,16307.22,2594.26,22.7196,75.8577
+ORD-101090,2026-03-14,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4738.47,0.1,12793.86,3282.31,22.7196,75.8577
+ORD-101091,2026-03-14,Indore,Madhya Pradesh,Electronics,Laptop,3,34249.49,0.1,92473.62,9573.23,22.7196,75.8577
+ORD-101092,2026-03-14,Indore,Madhya Pradesh,Electronics,Laptop,4,23815.33,0.0,95261.31,14216.14,22.7196,75.8577
+ORD-101093,2026-03-14,Indore,Madhya Pradesh,Fashion,Jeans,3,5365.09,0.1,14485.76,3608.65,22.7196,75.8577
+ORD-101094,2026-03-14,Indore,Madhya Pradesh,Home & Living,Lamp,1,6992.57,0.05,6642.94,1274.23,22.7196,75.8577
+ORD-101095,2026-03-14,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1727.38,0.1,3109.28,410.55,22.7196,75.8577
+ORD-101096,2026-03-14,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1562.79,0.0,3125.59,815.15,23.2599,77.4126
+ORD-101097,2026-03-14,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,7885.78,0.2,25234.49,4901.61,23.2599,77.4126
+ORD-101098,2026-03-14,Bhopal,Madhya Pradesh,Electronics,Headphones,1,24633.27,0.05,23401.61,2884.34,23.2599,77.4126
+ORD-101099,2026-03-14,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1074.27,0.15,3652.52,420.57,23.2599,77.4126
+ORD-101100,2026-03-14,Bhopal,Madhya Pradesh,Electronics,Tablet,1,53287.27,0.15,45294.18,7849.41,23.2599,77.4126
+ORD-101101,2026-03-15,Indore,Madhya Pradesh,Electronics,Smartphone,3,16890.97,0.05,48139.28,7257.33,22.7196,75.8577
+ORD-101102,2026-03-15,Indore,Madhya Pradesh,Fashion,Jeans,4,4275.0,0.1,15390.01,3878.33,22.7196,75.8577
+ORD-101103,2026-03-15,Indore,Madhya Pradesh,Electronics,Laptop,3,49576.81,0.1,133857.38,15777.71,22.7196,75.8577
+ORD-101104,2026-03-15,Indore,Madhya Pradesh,Home & Living,Desk,4,9074.44,0.15,30853.11,7190.22,22.7196,75.8577
+ORD-101105,2026-03-15,Indore,Madhya Pradesh,Electronics,Smartphone,2,23005.32,0.15,39109.05,3303.62,22.7196,75.8577
+ORD-101106,2026-03-15,Indore,Madhya Pradesh,Home & Living,Office Chair,2,2618.12,0.1,4712.62,978.65,22.7196,75.8577
+ORD-101107,2026-03-15,Indore,Madhya Pradesh,Electronics,Laptop,3,41634.93,0.05,118659.54,17396.61,22.7196,75.8577
+ORD-101108,2026-03-15,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,11277.27,0.0,22554.54,4864.08,22.7196,75.8577
+ORD-101109,2026-03-15,Bhopal,Madhya Pradesh,Electronics,Monitor,2,43672.41,0.1,78610.34,7613.33,23.2599,77.4126
+ORD-101110,2026-03-15,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,7947.4,0.05,30200.12,6988.0,23.2599,77.4126
+ORD-101111,2026-03-15,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,7793.78,0.2,18705.08,3484.68,23.2599,77.4126
+ORD-101112,2026-03-15,Bhopal,Madhya Pradesh,Electronics,Monitor,1,34752.96,0.2,27802.37,3969.51,23.2599,77.4126
+ORD-101113,2026-03-15,Bhopal,Madhya Pradesh,Electronics,Laptop,1,32809.17,0.2,26247.34,4601.67,23.2599,77.4126
+ORD-101114,2026-03-16,Indore,Madhya Pradesh,Electronics,Tablet,4,28533.87,0.0,114135.48,13960.59,22.7196,75.8577
+ORD-101115,2026-03-16,Indore,Madhya Pradesh,Food & Beverages,Juice,2,1796.85,0.1,3234.34,427.91,22.7196,75.8577
+ORD-101116,2026-03-16,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,3330.36,0.0,9991.08,2110.18,22.7196,75.8577
+ORD-101117,2026-03-16,Indore,Madhya Pradesh,Home & Living,Desk,2,3932.56,0.15,6685.35,1536.67,22.7196,75.8577
+ORD-101118,2026-03-16,Indore,Madhya Pradesh,Electronics,Monitor,4,29614.2,0.15,100688.27,16995.06,22.7196,75.8577
+ORD-101119,2026-03-16,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,464.09,0.05,1763.54,384.34,22.7196,75.8577
+ORD-101120,2026-03-16,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,3634.42,0.05,6905.4,1181.72,22.7196,75.8577
+ORD-101121,2026-03-16,Indore,Madhya Pradesh,Home & Living,Mixer,4,10654.69,0.1,38356.88,8849.37,22.7196,75.8577
+ORD-101122,2026-03-16,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1139.8,0.0,4559.18,593.53,22.7196,75.8577
+ORD-101123,2026-03-16,Bhopal,Madhya Pradesh,Fashion,Jacket,4,683.25,0.0,2732.99,613.27,23.2599,77.4126
+ORD-101124,2026-03-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,4355.14,0.1,3919.62,702.77,23.2599,77.4126
+ORD-101125,2026-03-16,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,5549.33,0.1,19977.58,3703.63,23.2599,77.4126
+ORD-101126,2026-03-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1833.23,0.05,5224.72,1406.53,23.2599,77.4126
+ORD-101127,2026-03-16,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,4225.34,0.15,10774.62,1104.92,23.2599,77.4126
+ORD-101128,2026-03-16,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3256.59,0.1,2930.94,581.42,23.2599,77.4126
+ORD-101129,2026-03-16,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1695.51,0.05,4832.2,594.08,23.2599,77.4126
+ORD-101130,2026-03-16,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4932.64,0.05,18744.02,4403.6,23.2599,77.4126
+ORD-101131,2026-03-17,Indore,Madhya Pradesh,Electronics,Tablet,4,11995.59,0.05,45583.24,7436.23,22.7196,75.8577
+ORD-101132,2026-03-17,Indore,Madhya Pradesh,Electronics,Headphones,4,34904.5,0.15,118675.29,20041.12,22.7196,75.8577
+ORD-101133,2026-03-17,Indore,Madhya Pradesh,Food & Beverages,Juice,4,300.53,0.1,1081.92,117.19,22.7196,75.8577
+ORD-101134,2026-03-17,Indore,Madhya Pradesh,Home & Living,Lamp,4,774.68,0.15,2633.92,458.75,22.7196,75.8577
+ORD-101135,2026-03-17,Indore,Madhya Pradesh,Fashion,Jeans,1,3752.03,0.1,3376.83,586.75,22.7196,75.8577
+ORD-101136,2026-03-17,Indore,Madhya Pradesh,Fashion,T-Shirt,3,5430.74,0.1,14663.0,2480.05,22.7196,75.8577
+ORD-101137,2026-03-17,Indore,Madhya Pradesh,Electronics,Tablet,1,12950.29,0.1,11655.26,1731.12,22.7196,75.8577
+ORD-101138,2026-03-17,Indore,Madhya Pradesh,Electronics,Smartphone,4,27056.71,0.0,108226.85,10035.09,22.7196,75.8577
+ORD-101139,2026-03-17,Indore,Madhya Pradesh,Fashion,T-Shirt,3,3712.72,0.05,10581.26,2827.87,22.7196,75.8577
+ORD-101140,2026-03-17,Indore,Madhya Pradesh,Electronics,Tablet,4,38482.55,0.2,123144.18,14254.92,22.7196,75.8577
+ORD-101141,2026-03-17,Indore,Madhya Pradesh,Electronics,Monitor,1,3942.51,0.05,3745.38,429.99,22.7196,75.8577
+ORD-101142,2026-03-17,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,5252.44,0.1,9454.39,1664.25,23.2599,77.4126
+ORD-101143,2026-03-17,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4228.31,0.05,4016.9,754.86,23.2599,77.4126
+ORD-101144,2026-03-17,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,4903.08,0.1,13238.31,1295.13,23.2599,77.4126
+ORD-101145,2026-03-17,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,649.58,0.05,1234.2,165.39,23.2599,77.4126
+ORD-101146,2026-03-17,Bhopal,Madhya Pradesh,Electronics,Tablet,1,53760.03,0.1,48384.03,8522.77,23.2599,77.4126
+ORD-101147,2026-03-18,Indore,Madhya Pradesh,Home & Living,Office Chair,4,7536.72,0.15,25624.85,5612.75,22.7196,75.8577
+ORD-101148,2026-03-18,Indore,Madhya Pradesh,Fashion,T-Shirt,1,1392.94,0.15,1184.0,208.22,22.7196,75.8577
+ORD-101149,2026-03-18,Indore,Madhya Pradesh,Electronics,Tablet,1,44716.78,0.05,42480.94,5274.43,22.7196,75.8577
+ORD-101150,2026-03-18,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5267.38,0.15,17909.09,4544.99,22.7196,75.8577
+ORD-101151,2026-03-18,Indore,Madhya Pradesh,Fashion,Backpack,1,5379.53,0.15,4572.6,1288.0,22.7196,75.8577
+ORD-101152,2026-03-18,Indore,Madhya Pradesh,Fashion,Jacket,2,3362.33,0.05,6388.42,1898.58,22.7196,75.8577
+ORD-101153,2026-03-18,Indore,Madhya Pradesh,Fashion,Backpack,1,4932.28,0.05,4685.67,1107.08,22.7196,75.8577
+ORD-101154,2026-03-18,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1609.87,0.1,5795.52,1077.22,22.7196,75.8577
+ORD-101155,2026-03-18,Indore,Madhya Pradesh,Electronics,Tablet,4,30878.77,0.0,123515.08,19384.37,22.7196,75.8577
+ORD-101156,2026-03-18,Bhopal,Madhya Pradesh,Electronics,Monitor,4,32314.66,0.0,129258.65,18519.44,23.2599,77.4126
+ORD-101157,2026-03-18,Bhopal,Madhya Pradesh,Home & Living,Desk,2,10302.11,0.2,16483.38,3027.01,23.2599,77.4126
+ORD-101158,2026-03-18,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,3671.62,0.1,6608.92,1228.74,23.2599,77.4126
+ORD-101159,2026-03-18,Bhopal,Madhya Pradesh,Electronics,Headphones,4,28440.25,0.1,102384.9,12411.8,23.2599,77.4126
+ORD-101160,2026-03-18,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,5791.88,0.2,4633.51,880.39,23.2599,77.4126
+ORD-101161,2026-03-18,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,1238.34,0.1,3343.51,625.82,23.2599,77.4126
+ORD-101162,2026-03-18,Bhopal,Madhya Pradesh,Fashion,Jacket,3,5168.68,0.0,15506.05,2968.01,23.2599,77.4126
+ORD-101163,2026-03-19,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,582.55,0.05,1660.26,451.44,22.7196,75.8577
+ORD-101164,2026-03-19,Indore,Madhya Pradesh,Electronics,Headphones,2,33179.62,0.0,66359.24,9741.44,22.7196,75.8577
+ORD-101165,2026-03-19,Indore,Madhya Pradesh,Home & Living,Office Chair,1,3801.04,0.1,3420.94,486.19,22.7196,75.8577
+ORD-101166,2026-03-19,Indore,Madhya Pradesh,Fashion,T-Shirt,2,2291.94,0.1,4125.5,810.33,22.7196,75.8577
+ORD-101167,2026-03-19,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,7523.62,0.2,6018.9,1306.11,22.7196,75.8577
+ORD-101168,2026-03-19,Indore,Madhya Pradesh,Electronics,Monitor,1,9973.63,0.1,8976.27,885.24,22.7196,75.8577
+ORD-101169,2026-03-19,Indore,Madhya Pradesh,Fashion,Jacket,3,702.07,0.0,2106.2,558.4,22.7196,75.8577
+ORD-101170,2026-03-19,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,1474.53,0.15,2506.71,532.35,22.7196,75.8577
+ORD-101171,2026-03-19,Indore,Madhya Pradesh,Home & Living,Office Chair,2,8893.16,0.0,17786.32,2302.07,22.7196,75.8577
+ORD-101172,2026-03-19,Indore,Madhya Pradesh,Electronics,Headphones,3,14927.33,0.1,40303.8,4385.92,22.7196,75.8577
+ORD-101173,2026-03-19,Indore,Madhya Pradesh,Fashion,Backpack,4,926.85,0.1,3336.65,569.5,22.7196,75.8577
+ORD-101174,2026-03-19,Bhopal,Madhya Pradesh,Electronics,Laptop,3,15932.76,0.0,47798.29,3897.32,23.2599,77.4126
+ORD-101175,2026-03-19,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,30870.69,0.05,117308.63,14794.1,23.2599,77.4126
+ORD-101176,2026-03-19,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,4179.73,0.15,3552.77,803.15,23.2599,77.4126
+ORD-101177,2026-03-19,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,191.6,0.05,546.07,57.0,23.2599,77.4126
+ORD-101178,2026-03-19,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,279.81,0.0,559.62,87.51,23.2599,77.4126
+ORD-101179,2026-03-19,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,551.0,0.05,1570.34,286.5,23.2599,77.4126
+ORD-101180,2026-03-19,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1708.46,0.1,1537.61,233.0,23.2599,77.4126
+ORD-101181,2026-03-19,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,36915.23,0.05,35069.47,5893.12,23.2599,77.4126
+ORD-101182,2026-03-20,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4780.14,0.1,12906.38,3456.93,22.7196,75.8577
+ORD-101183,2026-03-20,Indore,Madhya Pradesh,Fashion,Backpack,2,5587.61,0.15,9498.93,1798.94,22.7196,75.8577
+ORD-101184,2026-03-20,Indore,Madhya Pradesh,Fashion,Jeans,4,3629.62,0.0,14518.49,2410.88,22.7196,75.8577
+ORD-101185,2026-03-20,Indore,Madhya Pradesh,Fashion,Jeans,3,3432.32,0.0,10296.95,1787.32,22.7196,75.8577
+ORD-101186,2026-03-20,Indore,Madhya Pradesh,Electronics,Monitor,3,8093.51,0.0,24280.54,4116.69,22.7196,75.8577
+ORD-101187,2026-03-20,Indore,Madhya Pradesh,Electronics,Tablet,2,10116.78,0.0,20233.57,3229.48,22.7196,75.8577
+ORD-101188,2026-03-20,Indore,Madhya Pradesh,Electronics,Laptop,4,54901.52,0.1,197645.46,20353.94,22.7196,75.8577
+ORD-101189,2026-03-20,Indore,Madhya Pradesh,Electronics,Monitor,2,37606.23,0.2,60169.97,10493.91,22.7196,75.8577
+ORD-101190,2026-03-20,Indore,Madhya Pradesh,Fashion,Jacket,3,5639.21,0.1,15225.88,2894.99,22.7196,75.8577
+ORD-101191,2026-03-20,Indore,Madhya Pradesh,Home & Living,Office Chair,4,8057.26,0.15,27394.69,6451.46,22.7196,75.8577
+ORD-101192,2026-03-20,Indore,Madhya Pradesh,Home & Living,Mixer,2,8850.58,0.0,17701.16,2709.26,22.7196,75.8577
+ORD-101193,2026-03-20,Bhopal,Madhya Pradesh,Electronics,Headphones,4,4299.04,0.1,15476.53,1405.78,23.2599,77.4126
+ORD-101194,2026-03-20,Bhopal,Madhya Pradesh,Electronics,Monitor,4,30153.45,0.0,120613.81,10076.39,23.2599,77.4126
+ORD-101195,2026-03-20,Bhopal,Madhya Pradesh,Electronics,Tablet,3,3242.4,0.0,9727.19,1327.1,23.2599,77.4126
+ORD-101196,2026-03-20,Bhopal,Madhya Pradesh,Home & Living,Desk,4,3058.26,0.05,11621.38,1447.55,23.2599,77.4126
+ORD-101197,2026-03-20,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,6624.91,0.1,17887.27,2671.94,23.2599,77.4126
+ORD-101198,2026-03-20,Bhopal,Madhya Pradesh,Electronics,Headphones,2,20184.29,0.1,36331.73,5102.72,23.2599,77.4126
+ORD-101199,2026-03-20,Bhopal,Madhya Pradesh,Electronics,Tablet,1,34142.84,0.2,27314.28,3781.79,23.2599,77.4126
+ORD-101200,2026-03-20,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,9982.85,0.1,35938.25,7806.64,23.2599,77.4126
+ORD-101201,2026-03-20,Bhopal,Madhya Pradesh,Home & Living,Desk,3,9760.08,0.15,24888.19,5893.64,23.2599,77.4126
+ORD-101202,2026-03-20,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,4680.43,0.0,18721.73,5446.96,23.2599,77.4126
+ORD-101203,2026-03-21,Indore,Madhya Pradesh,Home & Living,Office Chair,1,11737.75,0.1,10563.97,1394.42,22.7196,75.8577
+ORD-101204,2026-03-21,Indore,Madhya Pradesh,Home & Living,Lamp,1,9195.29,0.05,8735.52,2088.84,22.7196,75.8577
+ORD-101205,2026-03-21,Indore,Madhya Pradesh,Electronics,Tablet,3,46348.11,0.05,132092.1,17893.16,22.7196,75.8577
+ORD-101206,2026-03-21,Indore,Madhya Pradesh,Electronics,Monitor,2,38749.93,0.05,73624.87,9856.82,22.7196,75.8577
+ORD-101207,2026-03-21,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,5059.68,0.05,19226.79,3398.88,22.7196,75.8577
+ORD-101208,2026-03-21,Indore,Madhya Pradesh,Electronics,Laptop,4,8111.69,0.1,29202.07,3489.63,22.7196,75.8577
+ORD-101209,2026-03-21,Indore,Madhya Pradesh,Fashion,Jacket,3,2393.42,0.15,6103.22,1138.16,22.7196,75.8577
+ORD-101210,2026-03-21,Indore,Madhya Pradesh,Home & Living,Office Chair,1,7090.14,0.1,6381.13,782.49,22.7196,75.8577
+ORD-101211,2026-03-21,Indore,Madhya Pradesh,Home & Living,Office Chair,1,1752.11,0.05,1664.5,353.85,22.7196,75.8577
+ORD-101212,2026-03-21,Indore,Madhya Pradesh,Home & Living,Mixer,3,10622.19,0.1,28679.91,5518.15,22.7196,75.8577
+ORD-101213,2026-03-21,Indore,Madhya Pradesh,Electronics,Laptop,1,52251.17,0.0,52251.17,9033.41,22.7196,75.8577
+ORD-101214,2026-03-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,4530.78,0.1,8155.4,2157.95,23.2599,77.4126
+ORD-101215,2026-03-21,Bhopal,Madhya Pradesh,Fashion,Backpack,4,1121.1,0.15,3811.75,1117.15,23.2599,77.4126
+ORD-101216,2026-03-21,Bhopal,Madhya Pradesh,Home & Living,Desk,4,9539.58,0.05,36250.41,7022.78,23.2599,77.4126
+ORD-101217,2026-03-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3933.24,0.15,3343.25,561.26,23.2599,77.4126
+ORD-101218,2026-03-21,Bhopal,Madhya Pradesh,Electronics,Monitor,4,52268.66,0.05,198620.89,24389.04,23.2599,77.4126
+ORD-101219,2026-03-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,258.78,0.1,232.91,59.84,23.2599,77.4126
+ORD-101220,2026-03-21,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,6315.76,0.05,11999.94,2270.94,23.2599,77.4126
+ORD-101221,2026-03-21,Bhopal,Madhya Pradesh,Fashion,Backpack,3,4388.09,0.05,12506.07,3339.24,23.2599,77.4126
+ORD-101222,2026-03-21,Bhopal,Madhya Pradesh,Electronics,Laptop,2,49052.67,0.1,88294.8,12077.76,23.2599,77.4126
+ORD-101223,2026-03-21,Bhopal,Madhya Pradesh,Fashion,Backpack,1,3926.46,0.05,3730.14,924.02,23.2599,77.4126
+ORD-101224,2026-03-22,Indore,Madhya Pradesh,Electronics,Tablet,4,39481.98,0.1,142135.12,12287.28,22.7196,75.8577
+ORD-101225,2026-03-22,Indore,Madhya Pradesh,Fashion,T-Shirt,3,5765.06,0.1,15565.67,2985.45,22.7196,75.8577
+ORD-101226,2026-03-22,Indore,Madhya Pradesh,Food & Beverages,Juice,2,847.98,0.0,1695.96,310.08,22.7196,75.8577
+ORD-101227,2026-03-22,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,4973.59,0.15,12682.67,3272.44,22.7196,75.8577
+ORD-101228,2026-03-22,Indore,Madhya Pradesh,Electronics,Smartphone,4,15666.32,0.0,62665.28,11036.8,22.7196,75.8577
+ORD-101229,2026-03-22,Indore,Madhya Pradesh,Home & Living,Desk,4,9429.98,0.2,30175.93,7099.38,22.7196,75.8577
+ORD-101230,2026-03-22,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,7427.98,0.15,25255.12,3883.64,22.7196,75.8577
+ORD-101231,2026-03-22,Indore,Madhya Pradesh,Fashion,Jeans,1,4211.41,0.0,4211.41,796.64,22.7196,75.8577
+ORD-101232,2026-03-22,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,8012.65,0.2,25640.49,5998.0,22.7196,75.8577
+ORD-101233,2026-03-22,Bhopal,Madhya Pradesh,Electronics,Headphones,2,53522.17,0.1,96339.91,10158.56,23.2599,77.4126
+ORD-101234,2026-03-22,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,800.57,0.2,1921.36,411.66,23.2599,77.4126
+ORD-101235,2026-03-22,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,43987.96,0.0,131963.87,21958.38,23.2599,77.4126
+ORD-101236,2026-03-22,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,721.81,0.2,577.45,71.55,23.2599,77.4126
+ORD-101237,2026-03-22,Bhopal,Madhya Pradesh,Electronics,Monitor,1,8012.68,0.05,7612.05,1284.22,23.2599,77.4126
+ORD-101238,2026-03-22,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,7549.49,0.15,6417.07,1083.69,23.2599,77.4126
+ORD-101239,2026-03-22,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,11248.99,0.05,32059.63,4378.58,23.2599,77.4126
+ORD-101240,2026-03-22,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,2533.39,0.1,2280.05,415.27,23.2599,77.4126
+ORD-101241,2026-03-23,Indore,Madhya Pradesh,Electronics,Headphones,3,32014.39,0.0,96043.18,14761.1,22.7196,75.8577
+ORD-101242,2026-03-23,Indore,Madhya Pradesh,Home & Living,Mixer,4,7156.08,0.1,25761.9,4439.55,22.7196,75.8577
+ORD-101243,2026-03-23,Indore,Madhya Pradesh,Electronics,Monitor,2,9139.83,0.0,18279.65,2997.48,22.7196,75.8577
+ORD-101244,2026-03-23,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,1009.27,0.05,2876.42,446.53,22.7196,75.8577
+ORD-101245,2026-03-23,Indore,Madhya Pradesh,Electronics,Tablet,3,34768.99,0.15,88660.92,15596.88,22.7196,75.8577
+ORD-101246,2026-03-23,Indore,Madhya Pradesh,Electronics,Smartphone,4,46589.79,0.05,177041.2,16386.54,22.7196,75.8577
+ORD-101247,2026-03-23,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,2449.63,0.1,4409.34,815.95,22.7196,75.8577
+ORD-101248,2026-03-23,Indore,Madhya Pradesh,Home & Living,Lamp,3,11569.06,0.0,34707.17,5887.66,22.7196,75.8577
+ORD-101249,2026-03-23,Bhopal,Madhya Pradesh,Fashion,Jeans,2,5764.9,0.2,9223.83,2763.71,23.2599,77.4126
+ORD-101250,2026-03-23,Bhopal,Madhya Pradesh,Electronics,Monitor,4,36615.95,0.1,131817.4,18924.81,23.2599,77.4126
+ORD-101251,2026-03-23,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,2629.05,0.0,10516.22,2427.24,23.2599,77.4126
+ORD-101252,2026-03-23,Bhopal,Madhya Pradesh,Electronics,Laptop,2,45678.04,0.05,86788.28,14691.3,23.2599,77.4126
+ORD-101253,2026-03-23,Bhopal,Madhya Pradesh,Fashion,Backpack,4,2290.51,0.0,9162.05,2108.04,23.2599,77.4126
+ORD-101254,2026-03-23,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,9930.69,0.0,39722.74,6336.47,23.2599,77.4126
+ORD-101255,2026-03-23,Bhopal,Madhya Pradesh,Fashion,Jeans,2,2611.53,0.15,4439.61,1320.52,23.2599,77.4126
+ORD-101256,2026-03-24,Indore,Madhya Pradesh,Fashion,Jeans,2,2098.85,0.05,3987.82,854.94,22.7196,75.8577
+ORD-101257,2026-03-24,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,8094.97,0.05,30760.89,6350.39,22.7196,75.8577
+ORD-101258,2026-03-24,Indore,Madhya Pradesh,Home & Living,Mixer,3,2124.08,0.0,6372.25,893.57,22.7196,75.8577
+ORD-101259,2026-03-24,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,4181.65,0.0,16726.58,3121.12,22.7196,75.8577
+ORD-101260,2026-03-24,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,1795.95,0.15,3053.12,459.63,22.7196,75.8577
+ORD-101261,2026-03-24,Indore,Madhya Pradesh,Electronics,Monitor,3,42247.96,0.05,120406.69,19051.42,22.7196,75.8577
+ORD-101262,2026-03-24,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,1500.64,0.0,3001.27,654.47,23.2599,77.4126
+ORD-101263,2026-03-24,Bhopal,Madhya Pradesh,Fashion,Jeans,2,3565.26,0.1,6417.46,1912.54,23.2599,77.4126
+ORD-101264,2026-03-24,Bhopal,Madhya Pradesh,Electronics,Laptop,3,25520.41,0.0,76561.23,8259.04,23.2599,77.4126
+ORD-101265,2026-03-24,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,8201.62,0.15,20914.14,3793.32,23.2599,77.4126
+ORD-101266,2026-03-24,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,32315.15,0.0,32315.15,3908.88,23.2599,77.4126
+ORD-101267,2026-03-24,Bhopal,Madhya Pradesh,Fashion,Backpack,2,5607.98,0.0,11215.96,2154.81,23.2599,77.4126
+ORD-101268,2026-03-25,Indore,Madhya Pradesh,Electronics,Tablet,3,30086.01,0.0,90258.02,11813.3,22.7196,75.8577
+ORD-101269,2026-03-25,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,355.29,0.05,1012.58,106.12,22.7196,75.8577
+ORD-101270,2026-03-25,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1332.44,0.1,2398.4,324.01,22.7196,75.8577
+ORD-101271,2026-03-25,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,1560.79,0.0,3121.59,548.62,22.7196,75.8577
+ORD-101272,2026-03-25,Indore,Madhya Pradesh,Electronics,Laptop,2,47303.54,0.05,89876.73,14586.94,22.7196,75.8577
+ORD-101273,2026-03-25,Indore,Madhya Pradesh,Home & Living,Office Chair,1,775.75,0.1,698.18,85.05,22.7196,75.8577
+ORD-101274,2026-03-25,Bhopal,Madhya Pradesh,Electronics,Tablet,3,23094.51,0.05,65819.37,7648.98,23.2599,77.4126
+ORD-101275,2026-03-25,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,4030.52,0.05,7658.0,1293.42,23.2599,77.4126
+ORD-101276,2026-03-25,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,1921.17,0.1,1729.06,396.17,23.2599,77.4126
+ORD-101277,2026-03-25,Bhopal,Madhya Pradesh,Electronics,Laptop,2,29292.24,0.05,55655.26,5961.75,23.2599,77.4126
+ORD-101278,2026-03-25,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,369.48,0.1,1330.14,161.21,23.2599,77.4126
+ORD-101279,2026-03-25,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,1212.61,0.05,4607.93,760.02,23.2599,77.4126
+ORD-101280,2026-03-25,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1197.62,0.1,2155.71,411.53,23.2599,77.4126
+ORD-101281,2026-03-26,Indore,Madhya Pradesh,Fashion,Backpack,3,5332.29,0.1,14397.19,3090.17,22.7196,75.8577
+ORD-101282,2026-03-26,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1142.8,0.1,4114.07,685.72,22.7196,75.8577
+ORD-101283,2026-03-26,Indore,Madhya Pradesh,Fashion,Backpack,2,3863.81,0.05,7341.24,2093.78,22.7196,75.8577
+ORD-101284,2026-03-26,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,4990.98,0.15,4242.33,1008.7,22.7196,75.8577
+ORD-101285,2026-03-26,Indore,Madhya Pradesh,Fashion,Backpack,3,3902.19,0.1,10535.92,2192.2,22.7196,75.8577
+ORD-101286,2026-03-26,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,8553.94,0.05,24378.72,4247.98,22.7196,75.8577
+ORD-101287,2026-03-26,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,1252.58,0.15,4258.76,801.25,22.7196,75.8577
+ORD-101288,2026-03-26,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1796.28,0.15,3053.68,310.4,22.7196,75.8577
+ORD-101289,2026-03-26,Indore,Madhya Pradesh,Home & Living,Office Chair,2,10011.62,0.1,18020.92,4050.16,22.7196,75.8577
+ORD-101290,2026-03-26,Bhopal,Madhya Pradesh,Electronics,Headphones,3,45116.42,0.05,128581.78,20262.9,23.2599,77.4126
+ORD-101291,2026-03-26,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,729.09,0.0,729.09,205.74,23.2599,77.4126
+ORD-101292,2026-03-26,Bhopal,Madhya Pradesh,Electronics,Monitor,3,52078.42,0.0,156235.27,22967.31,23.2599,77.4126
+ORD-101293,2026-03-26,Bhopal,Madhya Pradesh,Electronics,Monitor,3,17007.61,0.0,51022.82,8093.85,23.2599,77.4126
+ORD-101294,2026-03-26,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,44020.99,0.0,176083.94,23445.89,23.2599,77.4126
+ORD-101295,2026-03-26,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,849.55,0.1,1529.19,153.17,23.2599,77.4126
+ORD-101296,2026-03-27,Indore,Madhya Pradesh,Home & Living,Office Chair,2,11935.82,0.0,23871.65,3157.78,22.7196,75.8577
+ORD-101297,2026-03-27,Indore,Madhya Pradesh,Home & Living,Lamp,3,10316.83,0.1,27855.43,6483.86,22.7196,75.8577
+ORD-101298,2026-03-27,Indore,Madhya Pradesh,Fashion,Jeans,1,5318.3,0.1,4786.47,876.3,22.7196,75.8577
+ORD-101299,2026-03-27,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,2080.85,0.05,5930.42,1577.43,22.7196,75.8577
+ORD-101300,2026-03-27,Indore,Madhya Pradesh,Electronics,Monitor,1,9752.37,0.15,8289.52,833.02,22.7196,75.8577
+ORD-101301,2026-03-27,Bhopal,Madhya Pradesh,Electronics,Tablet,2,31981.62,0.1,57566.91,6162.13,23.2599,77.4126
+ORD-101302,2026-03-27,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,1634.95,0.1,4414.36,1100.84,23.2599,77.4126
+ORD-101303,2026-03-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,3410.21,0.05,9719.11,1615.13,23.2599,77.4126
+ORD-101304,2026-03-27,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,15926.29,0.1,57334.64,7693.15,23.2599,77.4126
+ORD-101305,2026-03-27,Bhopal,Madhya Pradesh,Electronics,Monitor,3,25974.95,0.2,62339.89,5578.16,23.2599,77.4126
+ORD-101306,2026-03-27,Bhopal,Madhya Pradesh,Electronics,Monitor,3,17112.59,0.05,48770.88,6090.9,23.2599,77.4126
+ORD-101307,2026-03-27,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,388.82,0.0,777.64,128.88,23.2599,77.4126
+ORD-101308,2026-03-27,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,819.29,0.15,2785.58,450.85,23.2599,77.4126
+ORD-101309,2026-03-27,Bhopal,Madhya Pradesh,Electronics,Headphones,4,40044.1,0.1,144158.74,23932.23,23.2599,77.4126
+ORD-101310,2026-03-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3024.94,0.1,2722.45,700.08,23.2599,77.4126
+ORD-101311,2026-03-28,Indore,Madhya Pradesh,Electronics,Headphones,3,43325.22,0.05,123476.88,21587.11,22.7196,75.8577
+ORD-101312,2026-03-28,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3378.07,0.0,3378.07,739.36,22.7196,75.8577
+ORD-101313,2026-03-28,Indore,Madhya Pradesh,Electronics,Smartphone,4,51584.41,0.15,175387.0,15453.51,22.7196,75.8577
+ORD-101314,2026-03-28,Indore,Madhya Pradesh,Fashion,Jacket,1,3751.64,0.0,3751.64,968.06,22.7196,75.8577
+ORD-101315,2026-03-28,Indore,Madhya Pradesh,Electronics,Tablet,3,39996.39,0.1,107990.24,16672.06,22.7196,75.8577
+ORD-101316,2026-03-28,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1749.52,0.0,6998.08,955.33,22.7196,75.8577
+ORD-101317,2026-03-28,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1607.63,0.1,4340.6,900.34,22.7196,75.8577
+ORD-101318,2026-03-28,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1709.74,0.1,6155.07,935.83,22.7196,75.8577
+ORD-101319,2026-03-28,Bhopal,Madhya Pradesh,Electronics,Headphones,1,15767.62,0.15,13402.47,2136.82,23.2599,77.4126
+ORD-101320,2026-03-28,Bhopal,Madhya Pradesh,Fashion,Jacket,1,3399.05,0.1,3059.14,770.17,23.2599,77.4126
+ORD-101321,2026-03-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,45074.7,0.1,81134.46,10275.82,23.2599,77.4126
+ORD-101322,2026-03-28,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,9055.18,0.05,17204.84,2086.07,23.2599,77.4126
+ORD-101323,2026-03-28,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,4900.77,0.0,4900.77,591.41,23.2599,77.4126
+ORD-101324,2026-03-28,Bhopal,Madhya Pradesh,Fashion,Jacket,3,3456.54,0.0,10369.61,3030.0,23.2599,77.4126
+ORD-101325,2026-03-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,22723.58,0.05,43174.8,7596.84,23.2599,77.4126
+ORD-101326,2026-03-28,Bhopal,Madhya Pradesh,Electronics,Tablet,4,28774.82,0.2,92079.42,7546.67,23.2599,77.4126
+ORD-101327,2026-03-28,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,921.82,0.0,3687.27,603.84,23.2599,77.4126
+ORD-101328,2026-03-29,Indore,Madhya Pradesh,Electronics,Monitor,2,21759.28,0.1,39166.7,4915.58,22.7196,75.8577
+ORD-101329,2026-03-29,Indore,Madhya Pradesh,Fashion,Jeans,1,5994.19,0.15,5095.06,844.48,22.7196,75.8577
+ORD-101330,2026-03-29,Indore,Madhya Pradesh,Electronics,Smartphone,3,2893.55,0.1,7812.57,1013.01,22.7196,75.8577
+ORD-101331,2026-03-29,Indore,Madhya Pradesh,Home & Living,Lamp,1,11212.23,0.0,11212.23,2155.56,22.7196,75.8577
+ORD-101332,2026-03-29,Indore,Madhya Pradesh,Fashion,Jeans,3,3728.03,0.15,9506.47,2648.09,22.7196,75.8577
+ORD-101333,2026-03-29,Indore,Madhya Pradesh,Electronics,Headphones,1,14903.37,0.2,11922.7,960.72,22.7196,75.8577
+ORD-101334,2026-03-29,Indore,Madhya Pradesh,Food & Beverages,Tea,2,636.56,0.15,1082.16,183.65,22.7196,75.8577
+ORD-101335,2026-03-29,Bhopal,Madhya Pradesh,Electronics,Monitor,1,11336.39,0.05,10769.57,1018.62,23.2599,77.4126
+ORD-101336,2026-03-29,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,3960.63,0.05,15050.41,1915.48,23.2599,77.4126
+ORD-101337,2026-03-29,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,9837.71,0.0,29513.14,4048.39,23.2599,77.4126
+ORD-101338,2026-03-29,Bhopal,Madhya Pradesh,Electronics,Tablet,4,17519.73,0.1,63071.03,8949.8,23.2599,77.4126
+ORD-101339,2026-03-29,Bhopal,Madhya Pradesh,Electronics,Laptop,3,51125.65,0.1,138039.26,21195.28,23.2599,77.4126
+ORD-101340,2026-03-30,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,770.95,0.1,1387.71,349.92,22.7196,75.8577
+ORD-101341,2026-03-30,Indore,Madhya Pradesh,Electronics,Monitor,4,13076.64,0.1,47075.89,3804.67,22.7196,75.8577
+ORD-101342,2026-03-30,Indore,Madhya Pradesh,Home & Living,Lamp,3,11350.84,0.05,32349.9,4603.5,22.7196,75.8577
+ORD-101343,2026-03-30,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,9335.9,0.05,17738.22,2418.97,22.7196,75.8577
+ORD-101344,2026-03-30,Indore,Madhya Pradesh,Fashion,Jacket,1,1326.27,0.0,1326.27,377.02,22.7196,75.8577
+ORD-101345,2026-03-30,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,524.1,0.0,524.1,89.41,22.7196,75.8577
+ORD-101346,2026-03-30,Indore,Madhya Pradesh,Fashion,Backpack,1,658.08,0.2,526.46,108.94,22.7196,75.8577
+ORD-101347,2026-03-30,Bhopal,Madhya Pradesh,Electronics,Headphones,3,9641.74,0.15,24586.45,2805.79,23.2599,77.4126
+ORD-101348,2026-03-30,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1210.95,0.0,1210.95,263.7,23.2599,77.4126
+ORD-101349,2026-03-30,Bhopal,Madhya Pradesh,Home & Living,Desk,2,3463.35,0.0,6926.71,1394.39,23.2599,77.4126
+ORD-101350,2026-03-30,Bhopal,Madhya Pradesh,Fashion,Backpack,4,4874.94,0.15,16574.78,4195.4,23.2599,77.4126
+ORD-101351,2026-03-30,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,376.79,0.1,1017.35,108.25,23.2599,77.4126
+ORD-101352,2026-03-30,Bhopal,Madhya Pradesh,Electronics,Laptop,4,12541.07,0.0,50164.28,5785.85,23.2599,77.4126
+ORD-101353,2026-03-30,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,26413.15,0.05,50184.98,5348.65,23.2599,77.4126
+ORD-101354,2026-03-30,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,5524.74,0.05,15745.52,3403.74,23.2599,77.4126
+ORD-101355,2026-03-31,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,3678.6,0.05,13978.67,3589.57,22.7196,75.8577
+ORD-101356,2026-03-31,Indore,Madhya Pradesh,Fashion,Jeans,3,5145.66,0.2,12349.58,3050.34,22.7196,75.8577
+ORD-101357,2026-03-31,Indore,Madhya Pradesh,Electronics,Headphones,4,39146.04,0.1,140925.75,14303.19,22.7196,75.8577
+ORD-101358,2026-03-31,Indore,Madhya Pradesh,Electronics,Laptop,1,10456.92,0.05,9934.07,1332.3,22.7196,75.8577
+ORD-101359,2026-03-31,Indore,Madhya Pradesh,Fashion,Jacket,1,4584.87,0.05,4355.63,851.09,22.7196,75.8577
+ORD-101360,2026-03-31,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1686.2,0.0,6744.79,896.65,22.7196,75.8577
+ORD-101361,2026-03-31,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,558.44,0.05,1591.55,329.64,22.7196,75.8577
+ORD-101362,2026-03-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,819.85,0.15,1393.75,301.89,23.2599,77.4126
+ORD-101363,2026-03-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,2274.16,0.1,4093.48,727.07,23.2599,77.4126
+ORD-101364,2026-03-31,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,1517.44,0.1,5462.8,982.42,23.2599,77.4126
+ORD-101365,2026-03-31,Bhopal,Madhya Pradesh,Fashion,Jeans,4,5438.64,0.05,20666.82,3736.99,23.2599,77.4126
+ORD-101366,2026-03-31,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,227.02,0.1,204.32,42.99,23.2599,77.4126
+ORD-101367,2026-03-31,Bhopal,Madhya Pradesh,Electronics,Tablet,3,26847.83,0.05,76516.31,11686.27,23.2599,77.4126
+ORD-101368,2026-03-31,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,593.55,0.1,534.2,75.17,23.2599,77.4126
+ORD-101369,2026-04-01,Indore,Madhya Pradesh,Electronics,Smartphone,1,51124.07,0.1,46011.67,3693.77,22.7196,75.8577
+ORD-101370,2026-04-01,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,464.36,0.15,394.7,59.82,22.7196,75.8577
+ORD-101371,2026-04-01,Indore,Madhya Pradesh,Fashion,T-Shirt,2,4774.54,0.1,8594.18,2282.07,22.7196,75.8577
+ORD-101372,2026-04-01,Indore,Madhya Pradesh,Fashion,Backpack,1,2727.9,0.15,2318.72,532.09,22.7196,75.8577
+ORD-101373,2026-04-01,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,4842.03,0.0,4842.03,1209.52,22.7196,75.8577
+ORD-101374,2026-04-01,Indore,Madhya Pradesh,Fashion,Jacket,1,1747.22,0.1,1572.5,445.43,22.7196,75.8577
+ORD-101375,2026-04-01,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4220.55,0.1,15193.97,3270.69,23.2599,77.4126
+ORD-101376,2026-04-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,1499.47,0.15,3823.64,1008.39,23.2599,77.4126
+ORD-101377,2026-04-01,Bhopal,Madhya Pradesh,Electronics,Monitor,4,30996.5,0.0,123986.0,13350.02,23.2599,77.4126
+ORD-101378,2026-04-01,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,7908.03,0.05,15025.26,3584.76,23.2599,77.4126
+ORD-101379,2026-04-01,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,2037.43,0.05,7742.22,1485.21,23.2599,77.4126
+ORD-101380,2026-04-02,Indore,Madhya Pradesh,Fashion,Jacket,2,1676.48,0.1,3017.67,718.67,22.7196,75.8577
+ORD-101381,2026-04-02,Indore,Madhya Pradesh,Electronics,Tablet,4,24419.62,0.1,87910.62,7860.35,22.7196,75.8577
+ORD-101382,2026-04-02,Indore,Madhya Pradesh,Electronics,Tablet,2,30262.48,0.2,48419.97,3967.29,22.7196,75.8577
+ORD-101383,2026-04-02,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,774.05,0.1,2786.57,366.62,22.7196,75.8577
+ORD-101384,2026-04-02,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,2559.67,0.0,2559.67,612.55,22.7196,75.8577
+ORD-101385,2026-04-02,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,3833.09,0.1,13799.13,2481.66,22.7196,75.8577
+ORD-101386,2026-04-02,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,2670.11,0.0,2670.11,469.22,22.7196,75.8577
+ORD-101387,2026-04-02,Bhopal,Madhya Pradesh,Home & Living,Desk,4,3318.48,0.0,13273.92,2695.19,23.2599,77.4126
+ORD-101388,2026-04-02,Bhopal,Madhya Pradesh,Electronics,Monitor,3,28936.36,0.1,78128.16,6311.15,23.2599,77.4126
+ORD-101389,2026-04-02,Bhopal,Madhya Pradesh,Electronics,Laptop,4,27394.98,0.0,109579.92,17429.21,23.2599,77.4126
+ORD-101390,2026-04-02,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,941.62,0.1,2542.37,493.95,23.2599,77.4126
+ORD-101391,2026-04-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,4109.88,0.1,14795.57,2948.75,23.2599,77.4126
+ORD-101392,2026-04-02,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,25561.16,0.1,23005.04,3755.67,23.2599,77.4126
+ORD-101393,2026-04-02,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,1142.5,0.05,4341.5,734.76,23.2599,77.4126
+ORD-101394,2026-04-02,Bhopal,Madhya Pradesh,Electronics,Tablet,2,7159.74,0.0,14319.48,1189.82,23.2599,77.4126
+ORD-101395,2026-04-02,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,501.5,0.1,1805.41,352.78,23.2599,77.4126
+ORD-101396,2026-04-03,Indore,Madhya Pradesh,Electronics,Laptop,1,6026.79,0.1,5424.11,787.16,22.7196,75.8577
+ORD-101397,2026-04-03,Indore,Madhya Pradesh,Electronics,Monitor,1,26489.0,0.15,22515.65,2447.87,22.7196,75.8577
+ORD-101398,2026-04-03,Indore,Madhya Pradesh,Food & Beverages,Juice,1,1355.31,0.1,1219.78,226.86,22.7196,75.8577
+ORD-101399,2026-04-03,Indore,Madhya Pradesh,Fashion,T-Shirt,2,1015.39,0.0,2030.79,416.6,22.7196,75.8577
+ORD-101400,2026-04-03,Indore,Madhya Pradesh,Electronics,Smartphone,2,51874.06,0.15,88185.9,7291.38,22.7196,75.8577
+ORD-101401,2026-04-03,Indore,Madhya Pradesh,Electronics,Laptop,2,51614.17,0.1,92905.5,8632.33,22.7196,75.8577
+ORD-101402,2026-04-03,Indore,Madhya Pradesh,Home & Living,Lamp,1,3830.3,0.0,3830.3,469.66,22.7196,75.8577
+ORD-101403,2026-04-03,Indore,Madhya Pradesh,Electronics,Laptop,1,33709.6,0.05,32024.12,4343.14,22.7196,75.8577
+ORD-101404,2026-04-03,Indore,Madhya Pradesh,Fashion,Backpack,2,3165.28,0.05,6014.04,1589.3,22.7196,75.8577
+ORD-101405,2026-04-03,Bhopal,Madhya Pradesh,Electronics,Monitor,3,40914.03,0.1,110467.88,13803.64,23.2599,77.4126
+ORD-101406,2026-04-03,Bhopal,Madhya Pradesh,Electronics,Laptop,1,33865.75,0.05,32172.46,5757.85,23.2599,77.4126
+ORD-101407,2026-04-03,Bhopal,Madhya Pradesh,Electronics,Laptop,4,24425.62,0.15,83047.12,14134.06,23.2599,77.4126
+ORD-101408,2026-04-03,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,9787.45,0.0,19574.91,3173.73,23.2599,77.4126
+ORD-101409,2026-04-03,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,4622.2,0.0,18488.8,3925.38,23.2599,77.4126
+ORD-101410,2026-04-03,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,950.01,0.1,2565.03,265.71,23.2599,77.4126
+ORD-101411,2026-04-03,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,5660.23,0.1,15282.63,3608.18,23.2599,77.4126
+ORD-101412,2026-04-03,Bhopal,Madhya Pradesh,Electronics,Tablet,4,13289.1,0.1,47840.78,7784.62,23.2599,77.4126
+ORD-101413,2026-04-03,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,4028.39,0.1,3625.55,1000.84,23.2599,77.4126
+ORD-101414,2026-04-03,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,43367.03,0.05,82397.36,10233.11,23.2599,77.4126
+ORD-101415,2026-04-04,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,2387.8,0.1,2149.02,479.61,22.7196,75.8577
+ORD-101416,2026-04-04,Indore,Madhya Pradesh,Electronics,Headphones,4,49435.89,0.0,197743.56,28500.22,22.7196,75.8577
+ORD-101417,2026-04-04,Indore,Madhya Pradesh,Home & Living,Desk,1,9196.71,0.2,7357.37,1754.16,22.7196,75.8577
+ORD-101418,2026-04-04,Indore,Madhya Pradesh,Home & Living,Office Chair,2,4237.97,0.15,7204.55,1211.57,22.7196,75.8577
+ORD-101419,2026-04-04,Indore,Madhya Pradesh,Home & Living,Mixer,2,1656.0,0.0,3311.99,662.07,22.7196,75.8577
+ORD-101420,2026-04-04,Indore,Madhya Pradesh,Home & Living,Office Chair,3,7947.39,0.05,22650.07,3631.02,22.7196,75.8577
+ORD-101421,2026-04-04,Indore,Madhya Pradesh,Food & Beverages,Tea,3,1382.87,0.1,3733.74,642.61,22.7196,75.8577
+ORD-101422,2026-04-04,Bhopal,Madhya Pradesh,Electronics,Laptop,4,27733.24,0.1,99839.65,13086.09,23.2599,77.4126
+ORD-101423,2026-04-04,Bhopal,Madhya Pradesh,Electronics,Laptop,4,14101.0,0.0,56404.02,5048.95,23.2599,77.4126
+ORD-101424,2026-04-04,Bhopal,Madhya Pradesh,Electronics,Headphones,1,5585.85,0.15,4747.97,504.05,23.2599,77.4126
+ORD-101425,2026-04-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1266.24,0.15,3228.9,550.12,23.2599,77.4126
+ORD-101426,2026-04-04,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,774.65,0.05,735.92,93.7,23.2599,77.4126
+ORD-101427,2026-04-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,9695.56,0.2,7756.45,1586.19,23.2599,77.4126
+ORD-101428,2026-04-04,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,1367.03,0.15,2323.96,658.83,23.2599,77.4126
+ORD-101429,2026-04-04,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,1134.99,0.1,3064.46,863.78,23.2599,77.4126
+ORD-101430,2026-04-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,966.21,0.15,1642.55,329.08,23.2599,77.4126
+ORD-101431,2026-04-04,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,180.91,0.05,171.87,33.82,23.2599,77.4126
+ORD-101432,2026-04-05,Indore,Madhya Pradesh,Fashion,Jacket,4,4356.49,0.05,16554.67,3177.18,22.7196,75.8577
+ORD-101433,2026-04-05,Indore,Madhya Pradesh,Fashion,Jeans,1,3817.03,0.0,3817.03,1112.26,22.7196,75.8577
+ORD-101434,2026-04-05,Indore,Madhya Pradesh,Electronics,Smartphone,2,39270.71,0.0,78541.43,13290.73,22.7196,75.8577
+ORD-101435,2026-04-05,Indore,Madhya Pradesh,Home & Living,Mixer,1,1023.09,0.05,971.94,157.07,22.7196,75.8577
+ORD-101436,2026-04-05,Indore,Madhya Pradesh,Electronics,Laptop,1,50739.49,0.05,48202.51,5109.02,22.7196,75.8577
+ORD-101437,2026-04-05,Indore,Madhya Pradesh,Electronics,Tablet,4,29839.18,0.05,113388.87,13974.73,22.7196,75.8577
+ORD-101438,2026-04-05,Bhopal,Madhya Pradesh,Electronics,Tablet,2,2558.18,0.0,5116.36,560.91,23.2599,77.4126
+ORD-101439,2026-04-05,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,573.12,0.0,1146.24,143.49,23.2599,77.4126
+ORD-101440,2026-04-05,Bhopal,Madhya Pradesh,Electronics,Tablet,2,24209.55,0.1,43577.18,6782.69,23.2599,77.4126
+ORD-101441,2026-04-05,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,567.27,0.15,1446.53,246.72,23.2599,77.4126
+ORD-101442,2026-04-05,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,9793.92,0.1,17629.06,2227.56,23.2599,77.4126
+ORD-101443,2026-04-05,Bhopal,Madhya Pradesh,Fashion,Backpack,2,2229.99,0.2,3567.98,718.84,23.2599,77.4126
+ORD-101444,2026-04-05,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,1466.39,0.0,2932.78,337.89,23.2599,77.4126
+ORD-101445,2026-04-06,Indore,Madhya Pradesh,Electronics,Monitor,2,23094.87,0.1,41570.76,3550.51,22.7196,75.8577
+ORD-101446,2026-04-06,Indore,Madhya Pradesh,Home & Living,Office Chair,1,8779.13,0.1,7901.21,1526.48,22.7196,75.8577
+ORD-101447,2026-04-06,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,1092.67,0.05,2076.08,412.5,22.7196,75.8577
+ORD-101448,2026-04-06,Indore,Madhya Pradesh,Electronics,Headphones,2,29839.99,0.1,53711.98,5022.69,22.7196,75.8577
+ORD-101449,2026-04-06,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,4673.47,0.1,16824.48,3835.62,22.7196,75.8577
+ORD-101450,2026-04-06,Indore,Madhya Pradesh,Home & Living,Office Chair,1,10494.01,0.05,9969.31,1882.45,22.7196,75.8577
+ORD-101451,2026-04-06,Indore,Madhya Pradesh,Home & Living,Mixer,3,10770.94,0.0,32312.82,5526.04,22.7196,75.8577
+ORD-101452,2026-04-06,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4753.49,0.1,12834.41,3002.72,22.7196,75.8577
+ORD-101453,2026-04-06,Bhopal,Madhya Pradesh,Electronics,Laptop,1,34071.71,0.1,30664.54,3731.88,23.2599,77.4126
+ORD-101454,2026-04-06,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,3334.31,0.1,3000.88,653.56,23.2599,77.4126
+ORD-101455,2026-04-06,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,11352.44,0.1,30651.58,3747.86,23.2599,77.4126
+ORD-101456,2026-04-06,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,6277.79,0.0,18833.37,3309.88,23.2599,77.4126
+ORD-101457,2026-04-06,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1513.59,0.1,4086.7,729.13,23.2599,77.4126
+ORD-101458,2026-04-07,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2239.2,0.15,3806.63,760.12,22.7196,75.8577
+ORD-101459,2026-04-07,Indore,Madhya Pradesh,Electronics,Monitor,4,38460.66,0.05,146150.49,16334.64,22.7196,75.8577
+ORD-101460,2026-04-07,Indore,Madhya Pradesh,Fashion,Jacket,3,4716.36,0.15,12026.71,3602.96,22.7196,75.8577
+ORD-101461,2026-04-07,Indore,Madhya Pradesh,Home & Living,Mixer,4,3101.79,0.15,10546.07,1954.17,22.7196,75.8577
+ORD-101462,2026-04-07,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,926.31,0.05,2639.97,395.45,22.7196,75.8577
+ORD-101463,2026-04-07,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,6702.42,0.0,20107.26,3585.45,22.7196,75.8577
+ORD-101464,2026-04-07,Indore,Madhya Pradesh,Home & Living,Office Chair,4,4257.17,0.0,17028.7,2325.77,22.7196,75.8577
+ORD-101465,2026-04-07,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,6701.45,0.15,11392.46,2321.27,23.2599,77.4126
+ORD-101466,2026-04-07,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,38459.93,0.0,153839.74,17896.98,23.2599,77.4126
+ORD-101467,2026-04-07,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,1004.25,0.05,2862.12,575.5,23.2599,77.4126
+ORD-101468,2026-04-07,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,625.98,0.0,1877.93,238.11,23.2599,77.4126
+ORD-101469,2026-04-07,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,5347.94,0.1,4813.15,1401.78,23.2599,77.4126
+ORD-101470,2026-04-07,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,3802.42,0.1,6844.36,1029.4,23.2599,77.4126
+ORD-101471,2026-04-08,Indore,Madhya Pradesh,Electronics,Tablet,3,42187.57,0.15,107578.31,18486.29,22.7196,75.8577
+ORD-101472,2026-04-08,Indore,Madhya Pradesh,Electronics,Tablet,4,33860.09,0.1,121896.34,11023.41,22.7196,75.8577
+ORD-101473,2026-04-08,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,3633.29,0.15,3088.3,471.85,22.7196,75.8577
+ORD-101474,2026-04-08,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,2918.2,0.0,11672.79,2393.08,22.7196,75.8577
+ORD-101475,2026-04-08,Indore,Madhya Pradesh,Fashion,Jacket,4,2374.26,0.05,9022.18,1480.21,22.7196,75.8577
+ORD-101476,2026-04-08,Indore,Madhya Pradesh,Electronics,Headphones,3,2243.44,0.05,6393.8,805.34,22.7196,75.8577
+ORD-101477,2026-04-08,Bhopal,Madhya Pradesh,Home & Living,Desk,2,1122.86,0.0,2245.72,340.38,23.2599,77.4126
+ORD-101478,2026-04-08,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1766.02,0.0,5298.06,585.65,23.2599,77.4126
+ORD-101479,2026-04-08,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,370.59,0.05,1056.18,152.19,23.2599,77.4126
+ORD-101480,2026-04-08,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,1836.39,0.1,6611.01,798.81,23.2599,77.4126
+ORD-101481,2026-04-08,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1571.61,0.05,4479.09,883.65,23.2599,77.4126
+ORD-101482,2026-04-08,Bhopal,Madhya Pradesh,Electronics,Tablet,3,12433.17,0.1,33569.56,4628.22,23.2599,77.4126
+ORD-101483,2026-04-09,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,1126.79,0.1,1014.11,148.74,22.7196,75.8577
+ORD-101484,2026-04-09,Indore,Madhya Pradesh,Home & Living,Desk,2,5419.31,0.15,9212.83,1441.14,22.7196,75.8577
+ORD-101485,2026-04-09,Indore,Madhya Pradesh,Electronics,Monitor,2,25925.47,0.15,44073.31,5399.42,22.7196,75.8577
+ORD-101486,2026-04-09,Indore,Madhya Pradesh,Fashion,Jeans,1,1564.72,0.0,1564.72,363.88,22.7196,75.8577
+ORD-101487,2026-04-09,Indore,Madhya Pradesh,Electronics,Tablet,4,47374.76,0.05,180024.07,16142.82,22.7196,75.8577
+ORD-101488,2026-04-09,Indore,Madhya Pradesh,Electronics,Laptop,1,33325.49,0.1,29992.94,3055.79,22.7196,75.8577
+ORD-101489,2026-04-09,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2021.93,0.15,1718.64,450.3,23.2599,77.4126
+ORD-101490,2026-04-09,Bhopal,Madhya Pradesh,Fashion,Jeans,4,2225.46,0.0,8901.86,2629.38,23.2599,77.4126
+ORD-101491,2026-04-09,Bhopal,Madhya Pradesh,Electronics,Headphones,2,43138.45,0.1,77649.2,10102.29,23.2599,77.4126
+ORD-101492,2026-04-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,913.62,0.15,3106.31,855.51,23.2599,77.4126
+ORD-101493,2026-04-09,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,1827.04,0.1,1644.34,477.4,23.2599,77.4126
+ORD-101494,2026-04-09,Bhopal,Madhya Pradesh,Electronics,Tablet,3,19523.11,0.05,55640.87,4492.11,23.2599,77.4126
+ORD-101495,2026-04-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,3612.0,0.1,3250.8,794.04,23.2599,77.4126
+ORD-101496,2026-04-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,413.94,0.1,1490.17,338.97,23.2599,77.4126
+ORD-101497,2026-04-09,Bhopal,Madhya Pradesh,Fashion,Jacket,3,4598.36,0.0,13795.08,2234.84,23.2599,77.4126
+ORD-101498,2026-04-09,Bhopal,Madhya Pradesh,Electronics,Monitor,4,2161.93,0.0,8647.74,1519.13,23.2599,77.4126
+ORD-101499,2026-04-10,Indore,Madhya Pradesh,Food & Beverages,Juice,1,595.7,0.05,565.92,97.33,22.7196,75.8577
+ORD-101500,2026-04-10,Indore,Madhya Pradesh,Electronics,Smartphone,4,25690.41,0.1,92485.49,15297.4,22.7196,75.8577
+ORD-101501,2026-04-10,Indore,Madhya Pradesh,Fashion,T-Shirt,3,3634.5,0.15,9267.97,1729.56,22.7196,75.8577
+ORD-101502,2026-04-10,Indore,Madhya Pradesh,Electronics,Tablet,3,16451.98,0.1,44420.36,6731.31,22.7196,75.8577
+ORD-101503,2026-04-10,Indore,Madhya Pradesh,Home & Living,Desk,3,8939.78,0.0,26819.35,5494.64,22.7196,75.8577
+ORD-101504,2026-04-10,Indore,Madhya Pradesh,Home & Living,Lamp,2,2446.23,0.15,4158.59,500.8,22.7196,75.8577
+ORD-101505,2026-04-10,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,4247.88,0.0,16991.51,4829.33,23.2599,77.4126
+ORD-101506,2026-04-10,Bhopal,Madhya Pradesh,Electronics,Headphones,4,17919.35,0.15,60925.79,6210.12,23.2599,77.4126
+ORD-101507,2026-04-10,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,7134.72,0.0,14269.43,1939.6,23.2599,77.4126
+ORD-101508,2026-04-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,274.05,0.0,822.14,130.12,23.2599,77.4126
+ORD-101509,2026-04-10,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,5006.85,0.0,15020.56,2911.49,23.2599,77.4126
+ORD-101510,2026-04-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,2079.43,0.0,8317.72,2043.4,23.2599,77.4126
+ORD-101511,2026-04-11,Indore,Madhya Pradesh,Electronics,Monitor,3,52718.44,0.05,150247.56,16240.5,22.7196,75.8577
+ORD-101512,2026-04-11,Indore,Madhya Pradesh,Electronics,Laptop,1,35932.22,0.1,32339.0,3267.12,22.7196,75.8577
+ORD-101513,2026-04-11,Indore,Madhya Pradesh,Electronics,Monitor,1,31078.91,0.05,29524.96,5004.61,22.7196,75.8577
+ORD-101514,2026-04-11,Indore,Madhya Pradesh,Electronics,Monitor,2,29043.99,0.05,55183.58,4950.7,22.7196,75.8577
+ORD-101515,2026-04-11,Indore,Madhya Pradesh,Electronics,Smartphone,2,20361.8,0.0,40723.59,5930.01,22.7196,75.8577
+ORD-101516,2026-04-11,Indore,Madhya Pradesh,Home & Living,Office Chair,1,6821.19,0.1,6139.07,850.58,22.7196,75.8577
+ORD-101517,2026-04-11,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,4006.37,0.05,11418.15,3067.73,22.7196,75.8577
+ORD-101518,2026-04-11,Indore,Madhya Pradesh,Electronics,Laptop,2,17133.21,0.15,29126.46,4223.28,22.7196,75.8577
+ORD-101519,2026-04-11,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,4359.2,0.2,13949.44,2270.11,23.2599,77.4126
+ORD-101520,2026-04-11,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,5129.75,0.0,15389.25,3513.0,23.2599,77.4126
+ORD-101521,2026-04-11,Bhopal,Madhya Pradesh,Fashion,Jacket,4,5232.26,0.15,17789.69,3816.08,23.2599,77.4126
+ORD-101522,2026-04-11,Bhopal,Madhya Pradesh,Electronics,Laptop,3,52471.35,0.05,149543.34,12435.99,23.2599,77.4126
+ORD-101523,2026-04-11,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,9211.47,0.1,16580.64,3038.78,23.2599,77.4126
+ORD-101524,2026-04-11,Bhopal,Madhya Pradesh,Electronics,Laptop,2,52387.49,0.0,104774.98,18442.4,23.2599,77.4126
+ORD-101525,2026-04-11,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,171.73,0.0,171.73,17.91,23.2599,77.4126
+ORD-101526,2026-04-11,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,11949.23,0.0,35847.7,6177.51,23.2599,77.4126
+ORD-101527,2026-04-11,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,1236.48,0.1,4451.32,921.3,23.2599,77.4126
+ORD-101528,2026-04-12,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,2,4372.61,0.1,7870.7,1842.62,22.7196,75.8577
+ORD-101529,2026-04-12,Indore,Madhya Pradesh,Home & Living,Mixer,2,10884.9,0.1,19592.82,4017.94,22.7196,75.8577
+ORD-101530,2026-04-12,Indore,Madhya Pradesh,Electronics,Smartphone,4,29366.32,0.1,105718.73,15328.86,22.7196,75.8577
+ORD-101531,2026-04-12,Indore,Madhya Pradesh,Home & Living,Office Chair,1,6665.89,0.0,6665.89,832.68,22.7196,75.8577
+ORD-101532,2026-04-12,Indore,Madhya Pradesh,Fashion,T-Shirt,2,4855.14,0.05,9224.77,1503.83,22.7196,75.8577
+ORD-101533,2026-04-12,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,3425.78,0.05,9763.48,1983.56,23.2599,77.4126
+ORD-101534,2026-04-12,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,4499.01,0.0,17996.04,5094.59,23.2599,77.4126
+ORD-101535,2026-04-12,Bhopal,Madhya Pradesh,Fashion,Backpack,3,1375.35,0.1,3713.44,634.11,23.2599,77.4126
+ORD-101536,2026-04-12,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,348.79,0.05,994.06,154.61,23.2599,77.4126
+ORD-101537,2026-04-12,Bhopal,Madhya Pradesh,Electronics,Headphones,4,20199.96,0.1,72719.84,6123.36,23.2599,77.4126
+ORD-101538,2026-04-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,31505.56,0.1,113420.01,17552.56,23.2599,77.4126
+ORD-101539,2026-04-12,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1764.06,0.15,2998.9,547.26,23.2599,77.4126
+ORD-101540,2026-04-12,Bhopal,Madhya Pradesh,Electronics,Tablet,4,21375.65,0.05,81227.49,7013.71,23.2599,77.4126
+ORD-101541,2026-04-13,Indore,Madhya Pradesh,Home & Living,Lamp,4,7110.39,0.05,27019.47,4073.69,22.7196,75.8577
+ORD-101542,2026-04-13,Indore,Madhya Pradesh,Electronics,Monitor,3,32951.72,0.15,84026.88,7298.11,22.7196,75.8577
+ORD-101543,2026-04-13,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,4189.46,0.0,4189.46,657.99,22.7196,75.8577
+ORD-101544,2026-04-13,Indore,Madhya Pradesh,Fashion,Jeans,1,4723.62,0.05,4487.44,1322.71,22.7196,75.8577
+ORD-101545,2026-04-13,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,3811.43,0.15,12958.88,2749.76,22.7196,75.8577
+ORD-101546,2026-04-13,Indore,Madhya Pradesh,Home & Living,Mixer,1,8167.93,0.1,7351.14,1356.24,22.7196,75.8577
+ORD-101547,2026-04-13,Indore,Madhya Pradesh,Electronics,Headphones,1,47751.48,0.0,47751.48,6870.54,22.7196,75.8577
+ORD-101548,2026-04-13,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,10027.48,0.1,18049.47,4069.57,23.2599,77.4126
+ORD-101549,2026-04-13,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,1198.21,0.0,2396.42,487.84,23.2599,77.4126
+ORD-101550,2026-04-13,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,190.2,0.1,171.18,36.05,23.2599,77.4126
+ORD-101551,2026-04-13,Bhopal,Madhya Pradesh,Electronics,Monitor,1,8269.55,0.1,7442.6,680.52,23.2599,77.4126
+ORD-101552,2026-04-13,Bhopal,Madhya Pradesh,Electronics,Laptop,4,5865.09,0.0,23460.35,3703.39,23.2599,77.4126
+ORD-101553,2026-04-13,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,1176.83,0.15,1000.3,198.77,23.2599,77.4126
+ORD-101554,2026-04-13,Bhopal,Madhya Pradesh,Fashion,Jeans,1,1957.57,0.0,1957.57,506.85,23.2599,77.4126
+ORD-101555,2026-04-13,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,5522.11,0.05,5246.0,1526.65,23.2599,77.4126
+ORD-101556,2026-04-13,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,5282.7,0.15,4490.3,1099.36,23.2599,77.4126
+ORD-101557,2026-04-13,Bhopal,Madhya Pradesh,Electronics,Monitor,2,15186.77,0.1,27336.19,2356.42,23.2599,77.4126
+ORD-101558,2026-04-14,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1533.85,0.05,5828.64,711.31,22.7196,75.8577
+ORD-101559,2026-04-14,Indore,Madhya Pradesh,Electronics,Monitor,3,2832.81,0.15,7223.67,665.58,22.7196,75.8577
+ORD-101560,2026-04-14,Indore,Madhya Pradesh,Electronics,Tablet,1,26270.98,0.1,23643.88,2977.26,22.7196,75.8577
+ORD-101561,2026-04-14,Indore,Madhya Pradesh,Fashion,T-Shirt,3,765.87,0.15,1952.97,482.67,22.7196,75.8577
+ORD-101562,2026-04-14,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,1382.08,0.05,3938.93,791.71,22.7196,75.8577
+ORD-101563,2026-04-14,Indore,Madhya Pradesh,Electronics,Smartphone,1,26208.61,0.15,22277.32,2435.99,22.7196,75.8577
+ORD-101564,2026-04-14,Bhopal,Madhya Pradesh,Electronics,Tablet,4,36378.02,0.05,138236.46,23196.35,23.2599,77.4126
+ORD-101565,2026-04-14,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,1436.81,0.1,5172.5,647.95,23.2599,77.4126
+ORD-101566,2026-04-14,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,982.2,0.15,3339.48,898.26,23.2599,77.4126
+ORD-101567,2026-04-14,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,8854.77,0.0,17709.54,2782.13,23.2599,77.4126
+ORD-101568,2026-04-14,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,8335.2,0.0,33340.78,7783.48,23.2599,77.4126
+ORD-101569,2026-04-15,Indore,Madhya Pradesh,Fashion,Jeans,2,2558.92,0.15,4350.16,826.77,22.7196,75.8577
+ORD-101570,2026-04-15,Indore,Madhya Pradesh,Electronics,Smartphone,1,43130.8,0.05,40974.26,4067.78,22.7196,75.8577
+ORD-101571,2026-04-15,Indore,Madhya Pradesh,Electronics,Tablet,1,52895.81,0.05,50251.02,5046.0,22.7196,75.8577
+ORD-101572,2026-04-15,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,2199.46,0.05,2089.49,470.2,22.7196,75.8577
+ORD-101573,2026-04-15,Indore,Madhya Pradesh,Fashion,Backpack,2,1194.83,0.1,2150.69,373.16,22.7196,75.8577
+ORD-101574,2026-04-15,Indore,Madhya Pradesh,Electronics,Tablet,2,4158.94,0.15,7070.19,947.08,22.7196,75.8577
+ORD-101575,2026-04-15,Indore,Madhya Pradesh,Fashion,Jacket,3,3256.97,0.05,9282.37,1879.25,22.7196,75.8577
+ORD-101576,2026-04-15,Indore,Madhya Pradesh,Electronics,Monitor,3,9328.52,0.1,25187.0,2124.76,22.7196,75.8577
+ORD-101577,2026-04-15,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,2856.1,0.1,5140.98,1176.66,23.2599,77.4126
+ORD-101578,2026-04-15,Bhopal,Madhya Pradesh,Fashion,Backpack,2,5703.68,0.05,10836.99,2084.44,23.2599,77.4126
+ORD-101579,2026-04-15,Bhopal,Madhya Pradesh,Fashion,Jacket,2,3906.19,0.0,7812.39,2066.17,23.2599,77.4126
+ORD-101580,2026-04-15,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,17107.42,0.1,61586.7,10128.19,23.2599,77.4126
+ORD-101581,2026-04-15,Bhopal,Madhya Pradesh,Electronics,Laptop,4,42145.79,0.15,143295.69,20612.93,23.2599,77.4126
+ORD-101582,2026-04-15,Bhopal,Madhya Pradesh,Electronics,Tablet,3,19303.65,0.15,49224.31,8816.51,23.2599,77.4126
+ORD-101583,2026-04-15,Bhopal,Madhya Pradesh,Electronics,Monitor,4,2376.85,0.1,8556.67,941.54,23.2599,77.4126
+ORD-101584,2026-04-16,Indore,Madhya Pradesh,Electronics,Smartphone,1,19007.24,0.05,18056.88,3001.73,22.7196,75.8577
+ORD-101585,2026-04-16,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,3367.73,0.15,8587.72,2259.34,22.7196,75.8577
+ORD-101586,2026-04-16,Indore,Madhya Pradesh,Fashion,Jacket,1,4792.58,0.2,3834.07,755.59,22.7196,75.8577
+ORD-101587,2026-04-16,Indore,Madhya Pradesh,Fashion,Jeans,4,2597.34,0.05,9869.9,2717.36,22.7196,75.8577
+ORD-101588,2026-04-16,Indore,Madhya Pradesh,Fashion,Jacket,2,3215.07,0.0,6430.14,1172.78,22.7196,75.8577
+ORD-101589,2026-04-16,Indore,Madhya Pradesh,Fashion,Jacket,3,3952.43,0.1,10671.57,1839.46,22.7196,75.8577
+ORD-101590,2026-04-16,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,246.3,0.0,985.18,189.27,22.7196,75.8577
+ORD-101591,2026-04-16,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,4840.16,0.05,13794.44,3191.85,22.7196,75.8577
+ORD-101592,2026-04-16,Indore,Madhya Pradesh,Fashion,Jacket,2,5404.95,0.1,9728.91,2242.33,22.7196,75.8577
+ORD-101593,2026-04-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,452.25,0.0,1356.75,307.25,23.2599,77.4126
+ORD-101594,2026-04-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,4,839.75,0.1,3023.11,775.89,23.2599,77.4126
+ORD-101595,2026-04-16,Bhopal,Madhya Pradesh,Fashion,Jacket,4,1180.84,0.1,4251.01,1007.17,23.2599,77.4126
+ORD-101596,2026-04-16,Bhopal,Madhya Pradesh,Electronics,Monitor,1,36785.17,0.0,36785.17,3994.56,23.2599,77.4126
+ORD-101597,2026-04-16,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,2285.41,0.1,6170.62,832.49,23.2599,77.4126
+ORD-101598,2026-04-16,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,54802.87,0.1,98645.16,11843.89,23.2599,77.4126
+ORD-101599,2026-04-16,Bhopal,Madhya Pradesh,Fashion,Backpack,2,757.54,0.05,1439.33,366.18,23.2599,77.4126
+ORD-101600,2026-04-16,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,1165.85,0.1,2098.54,269.25,23.2599,77.4126
+ORD-101601,2026-04-16,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,1325.95,0.1,4773.44,499.48,23.2599,77.4126
+ORD-101602,2026-04-17,Indore,Madhya Pradesh,Fashion,Jeans,3,2643.86,0.1,7138.42,1260.6,22.7196,75.8577
+ORD-101603,2026-04-17,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1492.9,0.15,3806.89,841.57,22.7196,75.8577
+ORD-101604,2026-04-17,Indore,Madhya Pradesh,Fashion,Jeans,1,891.77,0.0,891.77,255.24,22.7196,75.8577
+ORD-101605,2026-04-17,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1343.04,0.1,1208.74,258.24,22.7196,75.8577
+ORD-101606,2026-04-17,Indore,Madhya Pradesh,Fashion,Jeans,4,4899.33,0.1,17637.58,4659.9,22.7196,75.8577
+ORD-101607,2026-04-17,Indore,Madhya Pradesh,Home & Living,Desk,1,1985.84,0.0,1985.84,396.42,22.7196,75.8577
+ORD-101608,2026-04-17,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1443.09,0.0,2886.18,549.92,22.7196,75.8577
+ORD-101609,2026-04-17,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,4293.36,0.05,4078.69,983.53,22.7196,75.8577
+ORD-101610,2026-04-17,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,3596.12,0.15,6113.4,1645.37,23.2599,77.4126
+ORD-101611,2026-04-17,Bhopal,Madhya Pradesh,Home & Living,Desk,1,5368.63,0.1,4831.76,892.61,23.2599,77.4126
+ORD-101612,2026-04-17,Bhopal,Madhya Pradesh,Fashion,Jacket,1,3927.58,0.05,3731.2,645.99,23.2599,77.4126
+ORD-101613,2026-04-17,Bhopal,Madhya Pradesh,Fashion,Backpack,2,678.75,0.15,1153.88,322.33,23.2599,77.4126
+ORD-101614,2026-04-17,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3321.97,0.15,2823.68,588.77,23.2599,77.4126
+ORD-101615,2026-04-17,Bhopal,Madhya Pradesh,Fashion,Jacket,4,3493.28,0.2,11178.49,3187.76,23.2599,77.4126
+ORD-101616,2026-04-17,Bhopal,Madhya Pradesh,Electronics,Tablet,1,39842.72,0.05,37850.59,3352.11,23.2599,77.4126
+ORD-101617,2026-04-17,Bhopal,Madhya Pradesh,Electronics,Tablet,2,18188.95,0.1,32740.11,4178.12,23.2599,77.4126
+ORD-101618,2026-04-17,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,2925.85,0.1,2633.26,761.09,23.2599,77.4126
+ORD-101619,2026-04-17,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,1940.79,0.1,6986.86,1259.18,23.2599,77.4126
+ORD-101620,2026-04-18,Indore,Madhya Pradesh,Electronics,Headphones,2,50903.64,0.05,96716.92,8600.54,22.7196,75.8577
+ORD-101621,2026-04-18,Indore,Madhya Pradesh,Home & Living,Desk,1,2575.75,0.15,2189.39,267.47,22.7196,75.8577
+ORD-101622,2026-04-18,Indore,Madhya Pradesh,Electronics,Headphones,2,7202.85,0.05,13685.41,2132.11,22.7196,75.8577
+ORD-101623,2026-04-18,Indore,Madhya Pradesh,Electronics,Monitor,4,14881.37,0.0,59525.49,9459.71,22.7196,75.8577
+ORD-101624,2026-04-18,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,3101.57,0.1,5582.82,1200.89,22.7196,75.8577
+ORD-101625,2026-04-18,Indore,Madhya Pradesh,Electronics,Monitor,2,10600.83,0.05,20141.58,1676.02,22.7196,75.8577
+ORD-101626,2026-04-18,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2598.0,0.0,7794.01,1458.34,22.7196,75.8577
+ORD-101627,2026-04-18,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,4271.88,0.05,16233.14,2812.5,22.7196,75.8577
+ORD-101628,2026-04-18,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,21721.89,0.1,58649.1,6520.54,23.2599,77.4126
+ORD-101629,2026-04-18,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,600.95,0.15,1021.61,116.43,23.2599,77.4126
+ORD-101630,2026-04-18,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,30692.37,0.0,92077.1,7887.38,23.2599,77.4126
+ORD-101631,2026-04-18,Bhopal,Madhya Pradesh,Home & Living,Desk,2,6792.27,0.0,13584.53,3193.91,23.2599,77.4126
+ORD-101632,2026-04-18,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,668.31,0.1,2405.91,426.93,23.2599,77.4126
+ORD-101633,2026-04-18,Bhopal,Madhya Pradesh,Fashion,Backpack,4,4829.55,0.0,19318.18,5655.83,23.2599,77.4126
+ORD-101634,2026-04-18,Bhopal,Madhya Pradesh,Fashion,Jeans,4,5189.53,0.15,17644.42,4326.07,23.2599,77.4126
+ORD-101635,2026-04-19,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,800.7,0.0,3202.79,585.02,22.7196,75.8577
+ORD-101636,2026-04-19,Indore,Madhya Pradesh,Home & Living,Mixer,2,5507.32,0.1,9913.18,1671.84,22.7196,75.8577
+ORD-101637,2026-04-19,Indore,Madhya Pradesh,Electronics,Tablet,4,49976.95,0.05,189912.42,20037.81,22.7196,75.8577
+ORD-101638,2026-04-19,Indore,Madhya Pradesh,Electronics,Headphones,4,10500.78,0.05,39902.95,6686.14,22.7196,75.8577
+ORD-101639,2026-04-19,Indore,Madhya Pradesh,Fashion,Jacket,4,3360.52,0.2,10753.66,2879.99,22.7196,75.8577
+ORD-101640,2026-04-19,Indore,Madhya Pradesh,Home & Living,Office Chair,2,11864.48,0.1,21356.07,2784.93,22.7196,75.8577
+ORD-101641,2026-04-19,Bhopal,Madhya Pradesh,Electronics,Headphones,3,47596.63,0.05,135650.39,12709.94,23.2599,77.4126
+ORD-101642,2026-04-19,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,40840.87,0.1,147027.13,13685.35,23.2599,77.4126
+ORD-101643,2026-04-19,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,231.86,0.05,660.79,127.39,23.2599,77.4126
+ORD-101644,2026-04-19,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,506.33,0.0,506.33,56.24,23.2599,77.4126
+ORD-101645,2026-04-19,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,7824.36,0.0,15648.73,2939.28,23.2599,77.4126
+ORD-101646,2026-04-19,Bhopal,Madhya Pradesh,Electronics,Tablet,1,33818.45,0.05,32127.53,4790.57,23.2599,77.4126
+ORD-101647,2026-04-19,Bhopal,Madhya Pradesh,Home & Living,Desk,4,6681.82,0.1,24054.53,5118.2,23.2599,77.4126
+ORD-101648,2026-04-19,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1210.42,0.15,4115.42,534.74,23.2599,77.4126
+ORD-101649,2026-04-19,Bhopal,Madhya Pradesh,Electronics,Tablet,2,19831.95,0.1,35697.52,3965.67,23.2599,77.4126
+ORD-101650,2026-04-20,Indore,Madhya Pradesh,Fashion,Backpack,1,1209.23,0.0,1209.23,219.2,22.7196,75.8577
+ORD-101651,2026-04-20,Indore,Madhya Pradesh,Electronics,Laptop,4,7399.34,0.1,26637.64,3853.04,22.7196,75.8577
+ORD-101652,2026-04-20,Indore,Madhya Pradesh,Electronics,Tablet,4,16695.15,0.05,63441.56,10225.86,22.7196,75.8577
+ORD-101653,2026-04-20,Indore,Madhya Pradesh,Fashion,Jacket,3,3509.47,0.1,9475.57,1974.94,22.7196,75.8577
+ORD-101654,2026-04-20,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,846.92,0.1,3048.9,320.6,22.7196,75.8577
+ORD-101655,2026-04-20,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2129.91,0.05,2023.42,365.12,23.2599,77.4126
+ORD-101656,2026-04-20,Bhopal,Madhya Pradesh,Fashion,Jacket,2,3464.81,0.1,6236.67,1259.6,23.2599,77.4126
+ORD-101657,2026-04-20,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,844.67,0.05,2407.3,492.99,23.2599,77.4126
+ORD-101658,2026-04-20,Bhopal,Madhya Pradesh,Fashion,Backpack,1,1426.93,0.1,1284.23,288.42,23.2599,77.4126
+ORD-101659,2026-04-20,Bhopal,Madhya Pradesh,Electronics,Monitor,1,32476.51,0.05,30852.69,3153.55,23.2599,77.4126
+ORD-101660,2026-04-20,Bhopal,Madhya Pradesh,Electronics,Headphones,1,28025.01,0.0,28025.01,4960.64,23.2599,77.4126
+ORD-101661,2026-04-20,Bhopal,Madhya Pradesh,Electronics,Monitor,2,45169.91,0.0,90339.82,12523.44,23.2599,77.4126
+ORD-101662,2026-04-21,Indore,Madhya Pradesh,Electronics,Headphones,2,38652.06,0.15,65708.5,9079.23,22.7196,75.8577
+ORD-101663,2026-04-21,Indore,Madhya Pradesh,Fashion,T-Shirt,1,5446.84,0.0,5446.84,1519.53,22.7196,75.8577
+ORD-101664,2026-04-21,Indore,Madhya Pradesh,Fashion,Jeans,1,1153.64,0.0,1153.64,337.78,22.7196,75.8577
+ORD-101665,2026-04-21,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,1170.09,0.15,994.58,177.92,22.7196,75.8577
+ORD-101666,2026-04-21,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1693.17,0.0,6772.7,938.08,22.7196,75.8577
+ORD-101667,2026-04-21,Indore,Madhya Pradesh,Fashion,Jeans,2,2835.43,0.0,5670.87,1499.62,22.7196,75.8577
+ORD-101668,2026-04-21,Indore,Madhya Pradesh,Fashion,Backpack,3,5125.51,0.15,13070.06,2993.3,22.7196,75.8577
+ORD-101669,2026-04-21,Bhopal,Madhya Pradesh,Electronics,Headphones,4,39594.62,0.1,142540.64,13623.06,23.2599,77.4126
+ORD-101670,2026-04-21,Bhopal,Madhya Pradesh,Fashion,Jacket,2,899.25,0.15,1528.72,415.98,23.2599,77.4126
+ORD-101671,2026-04-21,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,1398.91,0.1,1259.02,209.48,23.2599,77.4126
+ORD-101672,2026-04-21,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,5230.23,0.2,8368.37,2133.79,23.2599,77.4126
+ORD-101673,2026-04-21,Bhopal,Madhya Pradesh,Electronics,Headphones,1,16243.51,0.0,16243.51,2647.47,23.2599,77.4126
+ORD-101674,2026-04-21,Bhopal,Madhya Pradesh,Home & Living,Desk,4,8511.73,0.1,30642.24,6615.76,23.2599,77.4126
+ORD-101675,2026-04-21,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1357.71,0.1,1221.94,173.09,23.2599,77.4126
+ORD-101676,2026-04-21,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,1477.99,0.0,4433.98,934.88,23.2599,77.4126
+ORD-101677,2026-04-21,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,465.53,0.0,465.53,82.47,23.2599,77.4126
+ORD-101678,2026-04-22,Indore,Madhya Pradesh,Food & Beverages,Juice,1,553.37,0.05,525.7,86.39,22.7196,75.8577
+ORD-101679,2026-04-22,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,4285.89,0.0,4285.89,1169.14,22.7196,75.8577
+ORD-101680,2026-04-22,Indore,Madhya Pradesh,Fashion,T-Shirt,4,2837.05,0.2,9078.57,1928.38,22.7196,75.8577
+ORD-101681,2026-04-22,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,1031.27,0.1,3712.58,830.95,22.7196,75.8577
+ORD-101682,2026-04-22,Indore,Madhya Pradesh,Electronics,Smartphone,4,13994.15,0.05,53177.77,5312.1,22.7196,75.8577
+ORD-101683,2026-04-22,Indore,Madhya Pradesh,Electronics,Monitor,2,27345.44,0.0,54690.87,4520.74,22.7196,75.8577
+ORD-101684,2026-04-22,Indore,Madhya Pradesh,Electronics,Laptop,1,2829.85,0.1,2546.87,310.72,22.7196,75.8577
+ORD-101685,2026-04-22,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,6045.86,0.05,17230.69,2517.11,23.2599,77.4126
+ORD-101686,2026-04-22,Bhopal,Madhya Pradesh,Electronics,Tablet,4,26470.62,0.1,95294.23,9385.96,23.2599,77.4126
+ORD-101687,2026-04-22,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,5416.33,0.15,9207.76,1539.91,23.2599,77.4126
+ORD-101688,2026-04-22,Bhopal,Madhya Pradesh,Electronics,Headphones,4,6015.23,0.15,20451.8,2290.6,23.2599,77.4126
+ORD-101689,2026-04-22,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,2061.75,0.0,8247.0,1404.14,23.2599,77.4126
+ORD-101690,2026-04-22,Bhopal,Madhya Pradesh,Electronics,Monitor,2,8120.93,0.15,13805.58,1940.85,23.2599,77.4126
+ORD-101691,2026-04-22,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,284.35,0.15,483.39,71.67,23.2599,77.4126
+ORD-101692,2026-04-22,Bhopal,Madhya Pradesh,Fashion,Jeans,2,5613.85,0.15,9543.55,1749.54,23.2599,77.4126
+ORD-101693,2026-04-22,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,640.78,0.0,2563.12,427.94,23.2599,77.4126
+ORD-101694,2026-04-23,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,597.07,0.1,1612.1,190.86,22.7196,75.8577
+ORD-101695,2026-04-23,Indore,Madhya Pradesh,Electronics,Smartphone,3,8588.18,0.15,21899.87,2278.09,22.7196,75.8577
+ORD-101696,2026-04-23,Indore,Madhya Pradesh,Fashion,Backpack,1,5142.1,0.0,5142.1,992.43,22.7196,75.8577
+ORD-101697,2026-04-23,Indore,Madhya Pradesh,Fashion,Jacket,1,2141.95,0.2,1713.56,501.19,22.7196,75.8577
+ORD-101698,2026-04-23,Indore,Madhya Pradesh,Electronics,Smartphone,2,44593.71,0.1,80268.67,12301.94,22.7196,75.8577
+ORD-101699,2026-04-23,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,4265.48,0.0,17061.92,4214.86,22.7196,75.8577
+ORD-101700,2026-04-23,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,1452.59,0.1,3921.99,788.85,22.7196,75.8577
+ORD-101701,2026-04-23,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,515.37,0.05,1958.39,263.47,22.7196,75.8577
+ORD-101702,2026-04-23,Indore,Madhya Pradesh,Electronics,Smartphone,4,3064.19,0.1,11031.08,1511.51,22.7196,75.8577
+ORD-101703,2026-04-23,Bhopal,Madhya Pradesh,Electronics,Headphones,2,34585.63,0.0,69171.26,7821.13,23.2599,77.4126
+ORD-101704,2026-04-23,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,7751.29,0.0,31005.17,6546.29,23.2599,77.4126
+ORD-101705,2026-04-23,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,381.16,0.05,1086.32,153.38,23.2599,77.4126
+ORD-101706,2026-04-23,Bhopal,Madhya Pradesh,Electronics,Laptop,4,42486.92,0.05,161450.3,25036.79,23.2599,77.4126
+ORD-101707,2026-04-23,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,6240.79,0.0,6240.79,816.02,23.2599,77.4126
+ORD-101708,2026-04-23,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1208.23,0.15,2054.0,261.6,23.2599,77.4126
+ORD-101709,2026-04-23,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,3754.9,0.1,6758.82,1521.27,23.2599,77.4126
+ORD-101710,2026-04-23,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,6844.15,0.05,13003.89,1744.21,23.2599,77.4126
+ORD-101711,2026-04-23,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,1579.4,0.0,1579.4,323.25,23.2599,77.4126
+ORD-101712,2026-04-24,Indore,Madhya Pradesh,Electronics,Monitor,1,34457.94,0.1,31012.15,3353.24,22.7196,75.8577
+ORD-101713,2026-04-24,Indore,Madhya Pradesh,Electronics,Monitor,4,27046.96,0.15,91959.65,11300.98,22.7196,75.8577
+ORD-101714,2026-04-24,Indore,Madhya Pradesh,Home & Living,Office Chair,3,7886.42,0.05,22476.29,3107.33,22.7196,75.8577
+ORD-101715,2026-04-24,Indore,Madhya Pradesh,Home & Living,Lamp,4,5641.92,0.1,20310.9,4317.49,22.7196,75.8577
+ORD-101716,2026-04-24,Indore,Madhya Pradesh,Fashion,Backpack,2,4964.17,0.15,8439.09,1397.44,22.7196,75.8577
+ORD-101717,2026-04-24,Indore,Madhya Pradesh,Electronics,Headphones,1,43589.8,0.15,37051.33,4509.84,22.7196,75.8577
+ORD-101718,2026-04-24,Indore,Madhya Pradesh,Electronics,Headphones,3,8841.29,0.1,23871.49,3923.68,22.7196,75.8577
+ORD-101719,2026-04-24,Indore,Madhya Pradesh,Electronics,Laptop,4,13806.72,0.15,46942.85,4214.19,22.7196,75.8577
+ORD-101720,2026-04-24,Indore,Madhya Pradesh,Home & Living,Mixer,3,9659.23,0.0,28977.68,4459.2,22.7196,75.8577
+ORD-101721,2026-04-24,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,5361.07,0.05,10186.04,1981.5,23.2599,77.4126
+ORD-101722,2026-04-24,Bhopal,Madhya Pradesh,Fashion,Jeans,3,4346.53,0.2,10431.68,2297.36,23.2599,77.4126
+ORD-101723,2026-04-24,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4558.33,0.15,3874.58,1034.43,23.2599,77.4126
+ORD-101724,2026-04-24,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,548.92,0.0,1097.84,210.51,23.2599,77.4126
+ORD-101725,2026-04-24,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,9386.81,0.0,28160.43,5723.31,23.2599,77.4126
+ORD-101726,2026-04-24,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,2,3725.28,0.05,7078.03,1616.76,23.2599,77.4126
+ORD-101727,2026-04-24,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2284.19,0.2,7309.4,1665.71,23.2599,77.4126
+ORD-101728,2026-04-24,Bhopal,Madhya Pradesh,Electronics,Laptop,2,14446.11,0.0,28892.21,3330.06,23.2599,77.4126
+ORD-101729,2026-04-25,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,133.31,0.15,226.63,24.86,22.7196,75.8577
+ORD-101730,2026-04-25,Indore,Madhya Pradesh,Electronics,Smartphone,2,22572.06,0.1,40629.71,6416.88,22.7196,75.8577
+ORD-101731,2026-04-25,Indore,Madhya Pradesh,Fashion,Jacket,3,3351.67,0.05,9552.25,2555.23,22.7196,75.8577
+ORD-101732,2026-04-25,Indore,Madhya Pradesh,Electronics,Laptop,1,32496.84,0.0,32496.84,3956.07,22.7196,75.8577
+ORD-101733,2026-04-25,Indore,Madhya Pradesh,Food & Beverages,Tea,2,674.24,0.05,1281.05,196.94,22.7196,75.8577
+ORD-101734,2026-04-25,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2026.85,0.05,5776.53,1361.06,22.7196,75.8577
+ORD-101735,2026-04-25,Bhopal,Madhya Pradesh,Electronics,Laptop,3,44553.59,0.0,133660.77,22328.51,23.2599,77.4126
+ORD-101736,2026-04-25,Bhopal,Madhya Pradesh,Electronics,Headphones,2,9641.59,0.05,18319.01,2521.0,23.2599,77.4126
+ORD-101737,2026-04-25,Bhopal,Madhya Pradesh,Electronics,Tablet,3,48459.42,0.1,130840.42,19384.39,23.2599,77.4126
+ORD-101738,2026-04-25,Bhopal,Madhya Pradesh,Fashion,Backpack,1,5519.44,0.1,4967.49,1435.49,23.2599,77.4126
+ORD-101739,2026-04-25,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,53622.31,0.1,144780.24,18288.76,23.2599,77.4126
+ORD-101740,2026-04-25,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,52822.13,0.1,95079.83,8647.81,23.2599,77.4126
+ORD-101741,2026-04-25,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,636.66,0.15,1082.33,313.29,23.2599,77.4126
+ORD-101742,2026-04-25,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4274.87,0.1,3847.38,1087.2,23.2599,77.4126
+ORD-101743,2026-04-25,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,1488.68,0.05,5656.97,737.48,23.2599,77.4126
+ORD-101744,2026-04-25,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3922.7,0.0,7845.39,1284.9,23.2599,77.4126
+ORD-101745,2026-04-26,Indore,Madhya Pradesh,Home & Living,Desk,3,1921.68,0.0,5765.05,841.36,22.7196,75.8577
+ORD-101746,2026-04-26,Indore,Madhya Pradesh,Home & Living,Mixer,4,4653.04,0.05,17681.54,3544.73,22.7196,75.8577
+ORD-101747,2026-04-26,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,1738.0,0.1,1564.2,347.5,22.7196,75.8577
+ORD-101748,2026-04-26,Indore,Madhya Pradesh,Electronics,Headphones,3,3351.51,0.2,8043.63,872.44,22.7196,75.8577
+ORD-101749,2026-04-26,Indore,Madhya Pradesh,Electronics,Headphones,3,37652.65,0.1,101662.16,16614.39,22.7196,75.8577
+ORD-101750,2026-04-26,Indore,Madhya Pradesh,Electronics,Tablet,3,22281.3,0.15,56817.3,9939.41,22.7196,75.8577
+ORD-101751,2026-04-26,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,11417.32,0.15,29114.17,3903.67,22.7196,75.8577
+ORD-101752,2026-04-26,Indore,Madhya Pradesh,Fashion,Jacket,1,2553.93,0.0,2553.93,699.34,22.7196,75.8577
+ORD-101753,2026-04-26,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2422.4,0.05,6903.85,1320.59,23.2599,77.4126
+ORD-101754,2026-04-26,Bhopal,Madhya Pradesh,Fashion,Backpack,3,2211.53,0.0,6634.58,1741.82,23.2599,77.4126
+ORD-101755,2026-04-26,Bhopal,Madhya Pradesh,Electronics,Tablet,1,51437.4,0.05,48865.53,4363.37,23.2599,77.4126
+ORD-101756,2026-04-26,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,4508.45,0.1,12172.81,1505.99,23.2599,77.4126
+ORD-101757,2026-04-26,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,7444.15,0.15,12655.06,2361.91,23.2599,77.4126
+ORD-101758,2026-04-26,Bhopal,Madhya Pradesh,Electronics,Monitor,2,50353.14,0.05,95670.96,12867.51,23.2599,77.4126
+ORD-101759,2026-04-26,Bhopal,Madhya Pradesh,Electronics,Laptop,2,36220.4,0.05,68818.75,6172.4,23.2599,77.4126
+ORD-101760,2026-04-27,Indore,Madhya Pradesh,Food & Beverages,Tea,1,679.85,0.05,645.86,95.07,22.7196,75.8577
+ORD-101761,2026-04-27,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,545.68,0.0,1637.03,298.72,22.7196,75.8577
+ORD-101762,2026-04-27,Indore,Madhya Pradesh,Electronics,Headphones,1,45642.56,0.1,41078.31,5946.37,22.7196,75.8577
+ORD-101763,2026-04-27,Indore,Madhya Pradesh,Home & Living,Office Chair,4,9129.17,0.2,29213.34,4075.48,22.7196,75.8577
+ORD-101764,2026-04-27,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,1423.37,0.15,1209.87,308.17,22.7196,75.8577
+ORD-101765,2026-04-27,Indore,Madhya Pradesh,Fashion,Jacket,4,4762.66,0.05,18098.11,3219.25,22.7196,75.8577
+ORD-101766,2026-04-27,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,542.26,0.1,1952.13,288.73,22.7196,75.8577
+ORD-101767,2026-04-27,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,2017.44,0.05,1916.56,467.63,22.7196,75.8577
+ORD-101768,2026-04-27,Indore,Madhya Pradesh,Home & Living,Lamp,1,1371.11,0.15,1165.45,225.43,22.7196,75.8577
+ORD-101769,2026-04-27,Indore,Madhya Pradesh,Home & Living,Desk,2,6492.14,0.0,12984.27,2115.42,22.7196,75.8577
+ORD-101770,2026-04-27,Indore,Madhya Pradesh,Electronics,Monitor,2,48375.34,0.05,91913.15,8254.88,22.7196,75.8577
+ORD-101771,2026-04-27,Bhopal,Madhya Pradesh,Fashion,Jacket,2,4928.59,0.1,8871.46,2314.35,23.2599,77.4126
+ORD-101772,2026-04-27,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,10051.42,0.1,27138.84,3987.26,23.2599,77.4126
+ORD-101773,2026-04-27,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,541.04,0.05,2055.94,279.7,23.2599,77.4126
+ORD-101774,2026-04-27,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,4633.41,0.1,12510.21,3612.84,23.2599,77.4126
+ORD-101775,2026-04-27,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,1287.06,0.0,3861.18,574.46,23.2599,77.4126
+ORD-101776,2026-04-27,Bhopal,Madhya Pradesh,Electronics,Tablet,2,18969.22,0.0,37938.43,4775.96,23.2599,77.4126
+ORD-101777,2026-04-27,Bhopal,Madhya Pradesh,Fashion,Jeans,2,5715.16,0.1,10287.29,2272.92,23.2599,77.4126
+ORD-101778,2026-04-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,435.79,0.0,871.58,150.41,23.2599,77.4126
+ORD-101779,2026-04-27,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,1050.71,0.15,3572.4,595.82,23.2599,77.4126
+ORD-101780,2026-04-27,Bhopal,Madhya Pradesh,Electronics,Monitor,4,43252.21,0.2,138407.06,11404.01,23.2599,77.4126
+ORD-101781,2026-04-28,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,683.5,0.0,2050.51,438.96,22.7196,75.8577
+ORD-101782,2026-04-28,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,1566.89,0.15,5327.44,941.68,22.7196,75.8577
+ORD-101783,2026-04-28,Indore,Madhya Pradesh,Electronics,Tablet,1,4119.89,0.1,3707.9,590.7,22.7196,75.8577
+ORD-101784,2026-04-28,Indore,Madhya Pradesh,Electronics,Smartphone,1,53396.78,0.0,53396.78,8403.49,22.7196,75.8577
+ORD-101785,2026-04-28,Indore,Madhya Pradesh,Electronics,Headphones,2,12857.69,0.1,23143.85,2145.32,22.7196,75.8577
+ORD-101786,2026-04-28,Indore,Madhya Pradesh,Fashion,Jacket,2,5982.79,0.0,11965.58,3040.15,22.7196,75.8577
+ORD-101787,2026-04-28,Indore,Madhya Pradesh,Food & Beverages,Juice,1,192.66,0.1,173.39,37.33,22.7196,75.8577
+ORD-101788,2026-04-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,9101.24,0.1,24573.34,3396.79,23.2599,77.4126
+ORD-101789,2026-04-28,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,871.2,0.0,3484.78,531.73,23.2599,77.4126
+ORD-101790,2026-04-28,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,2307.7,0.05,8769.26,2562.11,23.2599,77.4126
+ORD-101791,2026-04-28,Bhopal,Madhya Pradesh,Fashion,Backpack,4,1379.61,0.1,4966.58,1225.91,23.2599,77.4126
+ORD-101792,2026-04-28,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,1334.02,0.1,1200.62,223.31,23.2599,77.4126
+ORD-101793,2026-04-29,Indore,Madhya Pradesh,Electronics,Monitor,4,30566.98,0.1,110041.12,14314.14,22.7196,75.8577
+ORD-101794,2026-04-29,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,988.72,0.0,2966.17,621.46,22.7196,75.8577
+ORD-101795,2026-04-29,Indore,Madhya Pradesh,Electronics,Smartphone,1,16305.61,0.1,14675.05,2059.13,22.7196,75.8577
+ORD-101796,2026-04-29,Indore,Madhya Pradesh,Electronics,Tablet,1,26042.16,0.2,20833.73,2261.32,22.7196,75.8577
+ORD-101797,2026-04-29,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,1785.42,0.0,3570.84,481.45,22.7196,75.8577
+ORD-101798,2026-04-29,Indore,Madhya Pradesh,Electronics,Monitor,1,53506.68,0.1,48156.01,6645.52,22.7196,75.8577
+ORD-101799,2026-04-29,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,3504.56,0.05,9987.99,2504.29,22.7196,75.8577
+ORD-101800,2026-04-29,Indore,Madhya Pradesh,Home & Living,Office Chair,1,10645.76,0.0,10645.76,1736.37,22.7196,75.8577
+ORD-101801,2026-04-29,Indore,Madhya Pradesh,Fashion,T-Shirt,2,1821.32,0.15,3096.25,765.47,22.7196,75.8577
+ORD-101802,2026-04-29,Indore,Madhya Pradesh,Fashion,Jeans,1,4863.54,0.1,4377.19,879.58,22.7196,75.8577
+ORD-101803,2026-04-29,Indore,Madhya Pradesh,Home & Living,Mixer,1,4470.49,0.0,4470.49,1057.79,22.7196,75.8577
+ORD-101804,2026-04-29,Bhopal,Madhya Pradesh,Electronics,Headphones,2,17376.24,0.0,34752.49,2790.66,23.2599,77.4126
+ORD-101805,2026-04-29,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,901.02,0.05,3423.88,480.41,23.2599,77.4126
+ORD-101806,2026-04-29,Bhopal,Madhya Pradesh,Electronics,Headphones,3,12314.11,0.1,33248.11,2761.57,23.2599,77.4126
+ORD-101807,2026-04-29,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,5696.74,0.1,20508.26,4476.42,23.2599,77.4126
+ORD-101808,2026-04-29,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,1521.68,0.15,1293.43,240.57,23.2599,77.4126
+ORD-101809,2026-04-30,Indore,Madhya Pradesh,Fashion,Jeans,2,1032.26,0.1,1858.07,349.86,22.7196,75.8577
+ORD-101810,2026-04-30,Indore,Madhya Pradesh,Home & Living,Lamp,4,11771.14,0.05,44730.33,10616.26,22.7196,75.8577
+ORD-101811,2026-04-30,Indore,Madhya Pradesh,Electronics,Headphones,3,47594.49,0.05,135644.29,17277.18,22.7196,75.8577
+ORD-101812,2026-04-30,Indore,Madhya Pradesh,Fashion,Jeans,4,4168.76,0.0,16675.03,4308.77,22.7196,75.8577
+ORD-101813,2026-04-30,Indore,Madhya Pradesh,Home & Living,Office Chair,3,11241.11,0.05,32037.16,7539.64,22.7196,75.8577
+ORD-101814,2026-04-30,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,3586.55,0.1,9683.68,2435.32,22.7196,75.8577
+ORD-101815,2026-04-30,Indore,Madhya Pradesh,Fashion,Jeans,4,4826.57,0.1,17375.64,3632.39,22.7196,75.8577
+ORD-101816,2026-04-30,Bhopal,Madhya Pradesh,Electronics,Headphones,1,49545.21,0.05,47067.95,6219.52,23.2599,77.4126
+ORD-101817,2026-04-30,Bhopal,Madhya Pradesh,Electronics,Tablet,1,19364.13,0.1,17427.71,3044.97,23.2599,77.4126
+ORD-101818,2026-04-30,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,664.8,0.05,1263.12,264.94,23.2599,77.4126
+ORD-101819,2026-04-30,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,3703.3,0.05,14072.54,2095.7,23.2599,77.4126
+ORD-101820,2026-04-30,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,50777.69,0.0,101555.39,8235.92,23.2599,77.4126
+ORD-101821,2026-04-30,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,7445.67,0.2,5956.53,1298.17,23.2599,77.4126
+ORD-101822,2026-05-01,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,3623.26,0.0,10869.77,2526.02,22.7196,75.8577
+ORD-101823,2026-05-01,Indore,Madhya Pradesh,Fashion,Jacket,2,1303.99,0.1,2347.19,616.78,22.7196,75.8577
+ORD-101824,2026-05-01,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,843.57,0.05,2404.17,400.37,22.7196,75.8577
+ORD-101825,2026-05-01,Indore,Madhya Pradesh,Electronics,Headphones,3,26490.85,0.1,71525.29,9173.75,22.7196,75.8577
+ORD-101826,2026-05-01,Indore,Madhya Pradesh,Electronics,Headphones,4,25068.7,0.05,95261.07,7732.64,22.7196,75.8577
+ORD-101827,2026-05-01,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,3638.73,0.1,6549.71,1631.77,22.7196,75.8577
+ORD-101828,2026-05-01,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,3196.87,0.2,10229.98,2605.0,22.7196,75.8577
+ORD-101829,2026-05-01,Indore,Madhya Pradesh,Fashion,T-Shirt,1,4460.09,0.05,4237.08,1036.55,22.7196,75.8577
+ORD-101830,2026-05-01,Bhopal,Madhya Pradesh,Electronics,Headphones,1,5244.79,0.0,5244.79,817.52,23.2599,77.4126
+ORD-101831,2026-05-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,2332.32,0.05,6647.11,1359.57,23.2599,77.4126
+ORD-101832,2026-05-01,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,5473.83,0.1,14779.34,3760.43,23.2599,77.4126
+ORD-101833,2026-05-01,Bhopal,Madhya Pradesh,Electronics,Tablet,3,20638.29,0.1,55723.38,5049.11,23.2599,77.4126
+ORD-101834,2026-05-01,Bhopal,Madhya Pradesh,Electronics,Laptop,1,22566.13,0.1,20309.52,2882.77,23.2599,77.4126
+ORD-101835,2026-05-01,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1180.26,0.15,3009.67,609.16,23.2599,77.4126
+ORD-101836,2026-05-01,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1140.04,0.15,969.03,123.16,23.2599,77.4126
+ORD-101837,2026-05-01,Bhopal,Madhya Pradesh,Home & Living,Desk,3,6985.16,0.05,19907.69,3447.09,23.2599,77.4126
+ORD-101838,2026-05-02,Indore,Madhya Pradesh,Electronics,Smartphone,2,17920.27,0.2,28672.43,3245.61,22.7196,75.8577
+ORD-101839,2026-05-02,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,517.2,0.05,1965.36,338.02,22.7196,75.8577
+ORD-101840,2026-05-02,Indore,Madhya Pradesh,Fashion,T-Shirt,1,4674.62,0.0,4674.62,1307.81,22.7196,75.8577
+ORD-101841,2026-05-02,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,11703.57,0.05,22236.79,3891.49,22.7196,75.8577
+ORD-101842,2026-05-02,Indore,Madhya Pradesh,Electronics,Smartphone,2,3086.41,0.05,5864.18,597.6,22.7196,75.8577
+ORD-101843,2026-05-02,Indore,Madhya Pradesh,Electronics,Smartphone,4,33699.49,0.1,121318.17,18056.98,22.7196,75.8577
+ORD-101844,2026-05-02,Indore,Madhya Pradesh,Food & Beverages,Tea,3,666.34,0.0,1999.02,363.25,22.7196,75.8577
+ORD-101845,2026-05-02,Indore,Madhya Pradesh,Electronics,Headphones,4,49082.9,0.05,186515.04,25101.31,22.7196,75.8577
+ORD-101846,2026-05-02,Indore,Madhya Pradesh,Fashion,Backpack,4,2447.7,0.0,9790.81,1689.22,22.7196,75.8577
+ORD-101847,2026-05-02,Indore,Madhya Pradesh,Electronics,Monitor,1,13951.28,0.0,13951.28,1424.71,22.7196,75.8577
+ORD-101848,2026-05-02,Indore,Madhya Pradesh,Electronics,Smartphone,1,24449.75,0.1,22004.78,3920.75,22.7196,75.8577
+ORD-101849,2026-05-02,Bhopal,Madhya Pradesh,Electronics,Laptop,3,14442.83,0.15,36829.21,4064.9,23.2599,77.4126
+ORD-101850,2026-05-02,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,4314.28,0.2,6902.85,1267.87,23.2599,77.4126
+ORD-101851,2026-05-02,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,1408.27,0.1,1267.45,305.18,23.2599,77.4126
+ORD-101852,2026-05-02,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,36389.85,0.05,138281.44,23493.9,23.2599,77.4126
+ORD-101853,2026-05-02,Bhopal,Madhya Pradesh,Electronics,Monitor,1,50670.67,0.2,40536.54,5163.75,23.2599,77.4126
+ORD-101854,2026-05-02,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,743.9,0.0,1487.79,291.91,23.2599,77.4126
+ORD-101855,2026-05-02,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,1683.73,0.05,4798.64,773.46,23.2599,77.4126
+ORD-101856,2026-05-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,763.72,0.05,2176.6,392.33,23.2599,77.4126
+ORD-101857,2026-05-02,Bhopal,Madhya Pradesh,Fashion,Jeans,3,2986.64,0.15,7615.92,1253.55,23.2599,77.4126
+ORD-101858,2026-05-03,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,4841.18,0.0,19364.71,5309.27,22.7196,75.8577
+ORD-101859,2026-05-03,Indore,Madhya Pradesh,Home & Living,Desk,4,4163.84,0.0,16655.37,3290.72,22.7196,75.8577
+ORD-101860,2026-05-03,Indore,Madhya Pradesh,Fashion,Backpack,3,2269.15,0.15,5786.33,1528.02,22.7196,75.8577
+ORD-101861,2026-05-03,Indore,Madhya Pradesh,Electronics,Smartphone,1,16897.46,0.1,15207.71,2736.78,22.7196,75.8577
+ORD-101862,2026-05-03,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1030.31,0.0,3090.92,624.26,22.7196,75.8577
+ORD-101863,2026-05-03,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,5500.67,0.0,16502.02,4605.11,22.7196,75.8577
+ORD-101864,2026-05-03,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,1007.75,0.05,957.36,264.72,22.7196,75.8577
+ORD-101865,2026-05-03,Bhopal,Madhya Pradesh,Electronics,Laptop,4,31812.82,0.1,114526.15,9275.91,23.2599,77.4126
+ORD-101866,2026-05-03,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,4277.85,0.0,12833.55,2785.09,23.2599,77.4126
+ORD-101867,2026-05-03,Bhopal,Madhya Pradesh,Electronics,Tablet,3,27344.72,0.0,82034.17,7512.65,23.2599,77.4126
+ORD-101868,2026-05-03,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,641.51,0.0,1924.53,499.8,23.2599,77.4126
+ORD-101869,2026-05-03,Bhopal,Madhya Pradesh,Electronics,Laptop,4,48452.84,0.1,174430.24,22866.19,23.2599,77.4126
+ORD-101870,2026-05-03,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,1203.94,0.05,4574.99,538.12,23.2599,77.4126
+ORD-101871,2026-05-03,Bhopal,Madhya Pradesh,Electronics,Monitor,1,50026.41,0.05,47525.09,4896.46,23.2599,77.4126
+ORD-101872,2026-05-03,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1515.28,0.0,6061.11,1074.24,23.2599,77.4126
+ORD-101873,2026-05-03,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,1082.46,0.0,3247.38,662.45,23.2599,77.4126
+ORD-101874,2026-05-03,Bhopal,Madhya Pradesh,Fashion,Jeans,3,3515.45,0.05,10019.03,2099.44,23.2599,77.4126
+ORD-101875,2026-05-04,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,263.24,0.05,1000.32,123.28,22.7196,75.8577
+ORD-101876,2026-05-04,Indore,Madhya Pradesh,Electronics,Headphones,2,29341.51,0.1,52814.73,5012.77,22.7196,75.8577
+ORD-101877,2026-05-04,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1224.71,0.15,1041.0,219.27,22.7196,75.8577
+ORD-101878,2026-05-04,Indore,Madhya Pradesh,Fashion,Jacket,2,2745.42,0.05,5216.3,1282.46,22.7196,75.8577
+ORD-101879,2026-05-04,Indore,Madhya Pradesh,Electronics,Laptop,1,16072.87,0.1,14465.58,1364.1,22.7196,75.8577
+ORD-101880,2026-05-04,Bhopal,Madhya Pradesh,Electronics,Laptop,4,9670.46,0.2,30945.46,3264.2,23.2599,77.4126
+ORD-101881,2026-05-04,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,2970.15,0.0,2970.15,439.24,23.2599,77.4126
+ORD-101882,2026-05-04,Bhopal,Madhya Pradesh,Electronics,Headphones,2,43998.3,0.1,79196.94,14221.93,23.2599,77.4126
+ORD-101883,2026-05-04,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,5464.7,0.1,4918.23,1063.58,23.2599,77.4126
+ORD-101884,2026-05-04,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4850.9,0.0,4850.9,821.42,23.2599,77.4126
+ORD-101885,2026-05-04,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,5227.99,0.1,14115.56,2664.96,23.2599,77.4126
+ORD-101886,2026-05-04,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,47014.13,0.05,133990.27,16700.12,23.2599,77.4126
+ORD-101887,2026-05-04,Bhopal,Madhya Pradesh,Electronics,Tablet,3,19176.91,0.2,46024.59,8257.07,23.2599,77.4126
+ORD-101888,2026-05-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,2904.24,0.05,11036.11,1383.53,23.2599,77.4126
+ORD-101889,2026-05-05,Indore,Madhya Pradesh,Electronics,Headphones,4,46986.6,0.0,187946.41,28596.42,22.7196,75.8577
+ORD-101890,2026-05-05,Indore,Madhya Pradesh,Fashion,Jacket,4,3509.32,0.1,12633.57,2442.61,22.7196,75.8577
+ORD-101891,2026-05-05,Indore,Madhya Pradesh,Electronics,Monitor,4,52927.74,0.0,211710.94,34520.44,22.7196,75.8577
+ORD-101892,2026-05-05,Indore,Madhya Pradesh,Fashion,Backpack,1,5643.49,0.1,5079.14,1149.02,22.7196,75.8577
+ORD-101893,2026-05-05,Indore,Madhya Pradesh,Electronics,Smartphone,1,27331.79,0.1,24598.62,2896.22,22.7196,75.8577
+ORD-101894,2026-05-05,Indore,Madhya Pradesh,Electronics,Laptop,2,39997.54,0.0,79995.07,12939.73,22.7196,75.8577
+ORD-101895,2026-05-05,Indore,Madhya Pradesh,Fashion,Jeans,3,1948.41,0.0,5845.23,1655.6,22.7196,75.8577
+ORD-101896,2026-05-05,Bhopal,Madhya Pradesh,Electronics,Tablet,4,3024.08,0.2,9677.05,1286.06,23.2599,77.4126
+ORD-101897,2026-05-05,Bhopal,Madhya Pradesh,Electronics,Laptop,4,9940.62,0.1,35786.24,3732.84,23.2599,77.4126
+ORD-101898,2026-05-05,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4694.04,0.15,3989.93,988.51,23.2599,77.4126
+ORD-101899,2026-05-05,Bhopal,Madhya Pradesh,Electronics,Monitor,2,21099.66,0.1,37979.39,3838.8,23.2599,77.4126
+ORD-101900,2026-05-05,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,1839.28,0.2,2942.85,795.66,23.2599,77.4126
+ORD-101901,2026-05-05,Bhopal,Madhya Pradesh,Fashion,Jeans,1,1437.8,0.15,1222.13,211.65,23.2599,77.4126
+ORD-101902,2026-05-05,Bhopal,Madhya Pradesh,Fashion,Jacket,1,2017.04,0.05,1916.19,325.17,23.2599,77.4126
+ORD-101903,2026-05-05,Bhopal,Madhya Pradesh,Fashion,Backpack,1,5558.99,0.1,5003.09,1254.26,23.2599,77.4126
+ORD-101904,2026-05-06,Indore,Madhya Pradesh,Home & Living,Desk,4,3770.07,0.1,13572.27,3079.85,22.7196,75.8577
+ORD-101905,2026-05-06,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,1514.95,0.0,3029.91,318.76,22.7196,75.8577
+ORD-101906,2026-05-06,Indore,Madhya Pradesh,Home & Living,Desk,1,7725.71,0.1,6953.14,902.76,22.7196,75.8577
+ORD-101907,2026-05-06,Indore,Madhya Pradesh,Electronics,Monitor,4,15912.13,0.05,60466.11,7468.23,22.7196,75.8577
+ORD-101908,2026-05-06,Indore,Madhya Pradesh,Electronics,Tablet,3,6585.2,0.15,16792.25,2618.66,22.7196,75.8577
+ORD-101909,2026-05-06,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,3603.22,0.1,3242.9,595.84,22.7196,75.8577
+ORD-101910,2026-05-06,Indore,Madhya Pradesh,Electronics,Headphones,2,6193.56,0.05,11767.76,1918.24,22.7196,75.8577
+ORD-101911,2026-05-06,Indore,Madhya Pradesh,Electronics,Laptop,2,34877.39,0.1,62779.3,9534.49,22.7196,75.8577
+ORD-101912,2026-05-06,Bhopal,Madhya Pradesh,Electronics,Laptop,2,18193.58,0.1,32748.44,3071.38,23.2599,77.4126
+ORD-101913,2026-05-06,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,7970.11,0.0,23910.34,3997.66,23.2599,77.4126
+ORD-101914,2026-05-06,Bhopal,Madhya Pradesh,Electronics,Tablet,2,31318.3,0.15,53241.12,6622.58,23.2599,77.4126
+ORD-101915,2026-05-06,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,10565.2,0.1,28526.04,4131.23,23.2599,77.4126
+ORD-101916,2026-05-06,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4397.46,0.05,16710.36,4563.13,23.2599,77.4126
+ORD-101917,2026-05-06,Bhopal,Madhya Pradesh,Electronics,Headphones,3,27488.9,0.05,78343.37,11377.37,23.2599,77.4126
+ORD-101918,2026-05-06,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,2326.91,0.0,9307.63,1855.62,23.2599,77.4126
+ORD-101919,2026-05-07,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,1173.72,0.15,2992.99,657.59,22.7196,75.8577
+ORD-101920,2026-05-07,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1228.69,0.0,4914.75,1324.77,22.7196,75.8577
+ORD-101921,2026-05-07,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,1179.7,0.1,4246.9,1093.87,22.7196,75.8577
+ORD-101922,2026-05-07,Indore,Madhya Pradesh,Fashion,T-Shirt,1,1779.27,0.2,1423.41,318.06,22.7196,75.8577
+ORD-101923,2026-05-07,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,7227.84,0.0,7227.84,1652.04,22.7196,75.8577
+ORD-101924,2026-05-07,Indore,Madhya Pradesh,Electronics,Laptop,2,29539.91,0.1,53171.85,8848.93,22.7196,75.8577
+ORD-101925,2026-05-07,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1133.11,0.0,3399.34,450.89,22.7196,75.8577
+ORD-101926,2026-05-07,Indore,Madhya Pradesh,Fashion,T-Shirt,2,1329.67,0.15,2260.44,603.41,22.7196,75.8577
+ORD-101927,2026-05-07,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2489.3,0.05,9459.33,1562.88,23.2599,77.4126
+ORD-101928,2026-05-07,Bhopal,Madhya Pradesh,Electronics,Laptop,2,28095.15,0.15,47761.76,4684.24,23.2599,77.4126
+ORD-101929,2026-05-07,Bhopal,Madhya Pradesh,Electronics,Laptop,1,45102.28,0.0,45102.28,4238.96,23.2599,77.4126
+ORD-101930,2026-05-07,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,11059.45,0.2,8847.56,1189.1,23.2599,77.4126
+ORD-101931,2026-05-07,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,5620.1,0.15,4777.08,973.45,23.2599,77.4126
+ORD-101932,2026-05-07,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1429.81,0.0,2859.62,500.74,23.2599,77.4126
+ORD-101933,2026-05-08,Indore,Madhya Pradesh,Electronics,Laptop,4,43225.29,0.1,155611.04,26169.86,22.7196,75.8577
+ORD-101934,2026-05-08,Indore,Madhya Pradesh,Electronics,Tablet,1,19705.77,0.05,18720.48,2953.45,22.7196,75.8577
+ORD-101935,2026-05-08,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4189.66,0.15,10683.63,1893.6,22.7196,75.8577
+ORD-101936,2026-05-08,Indore,Madhya Pradesh,Electronics,Laptop,1,32774.03,0.1,29496.63,5170.6,22.7196,75.8577
+ORD-101937,2026-05-08,Indore,Madhya Pradesh,Electronics,Headphones,1,7726.52,0.0,7726.52,723.47,22.7196,75.8577
+ORD-101938,2026-05-08,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,2298.69,0.0,2298.69,614.36,22.7196,75.8577
+ORD-101939,2026-05-08,Indore,Madhya Pradesh,Home & Living,Lamp,2,3830.47,0.1,6894.85,1615.14,22.7196,75.8577
+ORD-101940,2026-05-08,Indore,Madhya Pradesh,Home & Living,Office Chair,1,4671.0,0.0,4671.0,592.9,22.7196,75.8577
+ORD-101941,2026-05-08,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,1078.02,0.2,2587.24,585.34,22.7196,75.8577
+ORD-101942,2026-05-08,Indore,Madhya Pradesh,Fashion,Backpack,2,3087.61,0.05,5866.45,1588.14,22.7196,75.8577
+ORD-101943,2026-05-08,Indore,Madhya Pradesh,Electronics,Smartphone,1,19926.2,0.1,17933.58,1565.71,22.7196,75.8577
+ORD-101944,2026-05-08,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,328.99,0.05,937.62,137.92,23.2599,77.4126
+ORD-101945,2026-05-08,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,4547.04,0.15,15459.92,4526.7,23.2599,77.4126
+ORD-101946,2026-05-08,Bhopal,Madhya Pradesh,Home & Living,Desk,4,6942.34,0.05,26380.88,4283.79,23.2599,77.4126
+ORD-101947,2026-05-08,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,4839.84,0.1,8711.72,1168.86,23.2599,77.4126
+ORD-101948,2026-05-08,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,4753.75,0.15,4040.68,746.14,23.2599,77.4126
+ORD-101949,2026-05-08,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,4268.6,0.2,3414.88,895.77,23.2599,77.4126
+ORD-101950,2026-05-08,Bhopal,Madhya Pradesh,Electronics,Laptop,4,37480.72,0.0,149922.88,15870.73,23.2599,77.4126
+ORD-101951,2026-05-09,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,1384.05,0.1,1245.65,252.4,22.7196,75.8577
+ORD-101952,2026-05-09,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,2957.73,0.1,10647.83,2197.58,22.7196,75.8577
+ORD-101953,2026-05-09,Indore,Madhya Pradesh,Electronics,Laptop,2,50517.76,0.1,90931.97,10303.82,22.7196,75.8577
+ORD-101954,2026-05-09,Indore,Madhya Pradesh,Electronics,Headphones,1,5581.6,0.0,5581.6,957.03,22.7196,75.8577
+ORD-101955,2026-05-09,Indore,Madhya Pradesh,Electronics,Smartphone,2,40103.22,0.05,76196.12,12686.74,22.7196,75.8577
+ORD-101956,2026-05-09,Indore,Madhya Pradesh,Electronics,Smartphone,3,23698.92,0.0,71096.76,10022.13,22.7196,75.8577
+ORD-101957,2026-05-09,Indore,Madhya Pradesh,Home & Living,Mixer,3,3421.11,0.05,9750.16,1518.69,22.7196,75.8577
+ORD-101958,2026-05-09,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,412.86,0.1,371.57,44.34,22.7196,75.8577
+ORD-101959,2026-05-09,Indore,Madhya Pradesh,Electronics,Laptop,4,50572.89,0.15,171947.81,22987.64,22.7196,75.8577
+ORD-101960,2026-05-09,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,10245.92,0.1,36885.31,7725.95,23.2599,77.4126
+ORD-101961,2026-05-09,Bhopal,Madhya Pradesh,Fashion,Jacket,4,5276.18,0.05,20049.48,5151.75,23.2599,77.4126
+ORD-101962,2026-05-09,Bhopal,Madhya Pradesh,Electronics,Laptop,1,31175.34,0.1,28057.81,2689.0,23.2599,77.4126
+ORD-101963,2026-05-09,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,987.36,0.0,2962.08,531.0,23.2599,77.4126
+ORD-101964,2026-05-09,Bhopal,Madhya Pradesh,Fashion,Jacket,2,4900.69,0.1,8821.24,1939.27,23.2599,77.4126
+ORD-101965,2026-05-09,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,6085.07,0.15,15516.94,3685.64,23.2599,77.4126
+ORD-101966,2026-05-09,Bhopal,Madhya Pradesh,Electronics,Headphones,2,52375.19,0.0,104750.38,14521.88,23.2599,77.4126
+ORD-101967,2026-05-09,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,759.47,0.05,1442.98,276.55,23.2599,77.4126
+ORD-101968,2026-05-10,Indore,Madhya Pradesh,Electronics,Monitor,3,15042.65,0.05,42871.54,7048.95,22.7196,75.8577
+ORD-101969,2026-05-10,Indore,Madhya Pradesh,Home & Living,Mixer,3,1100.09,0.15,2805.24,594.94,22.7196,75.8577
+ORD-101970,2026-05-10,Indore,Madhya Pradesh,Fashion,T-Shirt,4,2663.36,0.0,10653.44,2515.97,22.7196,75.8577
+ORD-101971,2026-05-10,Indore,Madhya Pradesh,Electronics,Monitor,3,8272.69,0.15,21095.36,2101.23,22.7196,75.8577
+ORD-101972,2026-05-10,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,921.49,0.1,3317.36,713.59,22.7196,75.8577
+ORD-101973,2026-05-10,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1460.33,0.0,1460.33,193.83,22.7196,75.8577
+ORD-101974,2026-05-10,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,3227.26,0.15,8229.51,2066.66,22.7196,75.8577
+ORD-101975,2026-05-10,Indore,Madhya Pradesh,Fashion,Jacket,1,4722.91,0.05,4486.77,1137.55,22.7196,75.8577
+ORD-101976,2026-05-10,Indore,Madhya Pradesh,Electronics,Smartphone,2,28500.42,0.1,51300.75,8179.58,22.7196,75.8577
+ORD-101977,2026-05-10,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,39157.72,0.0,117473.16,10112.66,23.2599,77.4126
+ORD-101978,2026-05-10,Bhopal,Madhya Pradesh,Home & Living,Desk,2,8336.67,0.05,15839.68,3321.61,23.2599,77.4126
+ORD-101979,2026-05-10,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,1684.78,0.05,3201.09,326.29,23.2599,77.4126
+ORD-101980,2026-05-10,Bhopal,Madhya Pradesh,Electronics,Monitor,2,36744.95,0.05,69815.41,11971.01,23.2599,77.4126
+ORD-101981,2026-05-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,4987.36,0.0,4987.36,776.61,23.2599,77.4126
+ORD-101982,2026-05-10,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,294.04,0.15,999.75,187.29,23.2599,77.4126
+ORD-101983,2026-05-10,Bhopal,Madhya Pradesh,Electronics,Monitor,4,7035.07,0.05,26733.27,3356.47,23.2599,77.4126
+ORD-101984,2026-05-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,661.39,0.1,2380.99,487.18,23.2599,77.4126
+ORD-101985,2026-05-10,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,8174.17,0.1,29427.03,5081.74,23.2599,77.4126
+ORD-101986,2026-05-10,Bhopal,Madhya Pradesh,Electronics,Headphones,2,39440.12,0.05,74936.23,6883.8,23.2599,77.4126
+ORD-101987,2026-05-11,Indore,Madhya Pradesh,Electronics,Smartphone,1,48535.31,0.1,43681.78,6489.08,22.7196,75.8577
+ORD-101988,2026-05-11,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,2,1479.2,0.2,2366.72,387.99,22.7196,75.8577
+ORD-101989,2026-05-11,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,5812.88,0.15,19763.78,3735.52,22.7196,75.8577
+ORD-101990,2026-05-11,Indore,Madhya Pradesh,Fashion,Backpack,1,4026.01,0.0,4026.01,679.76,22.7196,75.8577
+ORD-101991,2026-05-11,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,1206.73,0.1,4344.22,1194.98,22.7196,75.8577
+ORD-101992,2026-05-11,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2512.05,0.0,7536.14,1669.46,23.2599,77.4126
+ORD-101993,2026-05-11,Bhopal,Madhya Pradesh,Electronics,Tablet,1,3100.86,0.05,2945.82,242.06,23.2599,77.4126
+ORD-101994,2026-05-11,Bhopal,Madhya Pradesh,Electronics,Headphones,2,46083.62,0.15,78342.16,10925.29,23.2599,77.4126
+ORD-101995,2026-05-11,Bhopal,Madhya Pradesh,Electronics,Headphones,3,3642.75,0.05,10381.82,1204.66,23.2599,77.4126
+ORD-101996,2026-05-11,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,5034.85,0.1,18125.45,3828.27,23.2599,77.4126
+ORD-101997,2026-05-12,Indore,Madhya Pradesh,Electronics,Smartphone,1,26936.16,0.0,26936.16,2953.78,22.7196,75.8577
+ORD-101998,2026-05-12,Indore,Madhya Pradesh,Electronics,Monitor,2,33703.65,0.0,67407.31,11288.69,22.7196,75.8577
+ORD-101999,2026-05-12,Indore,Madhya Pradesh,Fashion,Jacket,2,1709.5,0.1,3077.1,626.98,22.7196,75.8577
+ORD-102000,2026-05-12,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,5646.69,0.1,15246.05,2466.53,22.7196,75.8577
+ORD-102001,2026-05-12,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,447.42,0.15,1140.92,177.2,22.7196,75.8577
+ORD-102002,2026-05-12,Indore,Madhya Pradesh,Fashion,Jacket,1,4448.1,0.05,4225.69,975.4,22.7196,75.8577
+ORD-102003,2026-05-12,Indore,Madhya Pradesh,Electronics,Smartphone,4,22128.41,0.15,75236.6,13097.2,22.7196,75.8577
+ORD-102004,2026-05-12,Indore,Madhya Pradesh,Home & Living,Office Chair,3,3207.15,0.1,8659.3,1211.18,22.7196,75.8577
+ORD-102005,2026-05-12,Indore,Madhya Pradesh,Electronics,Tablet,2,34780.93,0.15,59127.58,7643.52,22.7196,75.8577
+ORD-102006,2026-05-12,Bhopal,Madhya Pradesh,Electronics,Headphones,4,28073.37,0.15,95449.46,9885.26,23.2599,77.4126
+ORD-102007,2026-05-12,Bhopal,Madhya Pradesh,Home & Living,Desk,1,7454.66,0.15,6336.46,1292.71,23.2599,77.4126
+ORD-102008,2026-05-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,10384.94,0.0,31154.83,2567.2,23.2599,77.4126
+ORD-102009,2026-05-12,Bhopal,Madhya Pradesh,Electronics,Monitor,3,18972.38,0.1,51225.44,6589.98,23.2599,77.4126
+ORD-102010,2026-05-12,Bhopal,Madhya Pradesh,Electronics,Headphones,2,8741.29,0.1,15734.33,1283.2,23.2599,77.4126
+ORD-102011,2026-05-13,Indore,Madhya Pradesh,Fashion,Jeans,1,5252.08,0.1,4726.87,971.29,22.7196,75.8577
+ORD-102012,2026-05-13,Indore,Madhya Pradesh,Home & Living,Desk,3,10339.8,0.1,27917.46,4865.65,22.7196,75.8577
+ORD-102013,2026-05-13,Indore,Madhya Pradesh,Electronics,Laptop,3,15657.06,0.15,39925.5,4812.14,22.7196,75.8577
+ORD-102014,2026-05-13,Indore,Madhya Pradesh,Electronics,Headphones,1,10568.74,0.1,9511.87,1109.05,22.7196,75.8577
+ORD-102015,2026-05-13,Indore,Madhya Pradesh,Home & Living,Mixer,3,2795.36,0.05,7966.78,1384.78,22.7196,75.8577
+ORD-102016,2026-05-13,Indore,Madhya Pradesh,Home & Living,Mixer,4,6517.32,0.05,24765.81,4574.08,22.7196,75.8577
+ORD-102017,2026-05-13,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,1153.26,0.0,1153.26,303.59,22.7196,75.8577
+ORD-102018,2026-05-13,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,2227.22,0.05,4231.72,927.78,23.2599,77.4126
+ORD-102019,2026-05-13,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3523.42,0.1,3171.08,707.08,23.2599,77.4126
+ORD-102020,2026-05-13,Bhopal,Madhya Pradesh,Fashion,Jeans,1,5581.19,0.2,4464.95,1308.17,23.2599,77.4126
+ORD-102021,2026-05-13,Bhopal,Madhya Pradesh,Fashion,Jacket,3,4791.81,0.1,12937.88,3222.51,23.2599,77.4126
+ORD-102022,2026-05-13,Bhopal,Madhya Pradesh,Fashion,Jacket,3,4316.94,0.15,11008.19,3168.96,23.2599,77.4126
+ORD-102023,2026-05-13,Bhopal,Madhya Pradesh,Electronics,Tablet,1,51861.5,0.1,46675.35,5359.37,23.2599,77.4126
+ORD-102024,2026-05-14,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1636.2,0.0,1636.2,235.04,22.7196,75.8577
+ORD-102025,2026-05-14,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,1384.34,0.0,5537.36,1038.4,22.7196,75.8577
+ORD-102026,2026-05-14,Indore,Madhya Pradesh,Home & Living,Mixer,4,11945.93,0.1,43005.36,8601.09,22.7196,75.8577
+ORD-102027,2026-05-14,Indore,Madhya Pradesh,Electronics,Headphones,1,31142.96,0.15,26471.52,3361.66,22.7196,75.8577
+ORD-102028,2026-05-14,Indore,Madhya Pradesh,Electronics,Laptop,4,38379.56,0.0,153518.23,24461.55,22.7196,75.8577
+ORD-102029,2026-05-14,Indore,Madhya Pradesh,Home & Living,Mixer,1,5587.42,0.15,4749.31,921.5,22.7196,75.8577
+ORD-102030,2026-05-14,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,5502.71,0.2,8804.34,2312.73,23.2599,77.4126
+ORD-102031,2026-05-14,Bhopal,Madhya Pradesh,Electronics,Laptop,2,14020.54,0.05,26639.04,3044.67,23.2599,77.4126
+ORD-102032,2026-05-14,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,10562.51,0.05,30103.14,6185.07,23.2599,77.4126
+ORD-102033,2026-05-14,Bhopal,Madhya Pradesh,Fashion,Backpack,3,3008.69,0.1,8123.46,2110.21,23.2599,77.4126
+ORD-102034,2026-05-14,Bhopal,Madhya Pradesh,Electronics,Laptop,3,14171.18,0.05,40387.87,3870.87,23.2599,77.4126
+ORD-102035,2026-05-14,Bhopal,Madhya Pradesh,Fashion,Jeans,3,4860.56,0.0,14581.67,4025.85,23.2599,77.4126
+ORD-102036,2026-05-14,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,912.21,0.1,2462.96,435.73,23.2599,77.4126
+ORD-102037,2026-05-14,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,2640.87,0.05,2508.82,520.46,23.2599,77.4126
+ORD-102038,2026-05-15,Indore,Madhya Pradesh,Home & Living,Office Chair,4,5159.41,0.15,17542.01,2479.61,22.7196,75.8577
+ORD-102039,2026-05-15,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,477.03,0.15,1216.42,220.11,22.7196,75.8577
+ORD-102040,2026-05-15,Indore,Madhya Pradesh,Electronics,Smartphone,4,47408.47,0.05,180152.19,20609.46,22.7196,75.8577
+ORD-102041,2026-05-15,Indore,Madhya Pradesh,Fashion,Jeans,3,5789.85,0.05,16501.07,3429.92,22.7196,75.8577
+ORD-102042,2026-05-15,Indore,Madhya Pradesh,Electronics,Tablet,1,33211.09,0.05,31550.53,2941.32,22.7196,75.8577
+ORD-102043,2026-05-15,Indore,Madhya Pradesh,Electronics,Laptop,1,25066.4,0.05,23813.08,3586.11,22.7196,75.8577
+ORD-102044,2026-05-15,Indore,Madhya Pradesh,Home & Living,Mixer,1,3986.53,0.0,3986.53,804.55,22.7196,75.8577
+ORD-102045,2026-05-15,Indore,Madhya Pradesh,Fashion,Backpack,2,1662.49,0.1,2992.48,820.0,22.7196,75.8577
+ORD-102046,2026-05-15,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3088.42,0.05,2933.99,545.58,22.7196,75.8577
+ORD-102047,2026-05-15,Indore,Madhya Pradesh,Home & Living,Office Chair,4,9937.3,0.05,37761.75,7001.72,22.7196,75.8577
+ORD-102048,2026-05-15,Indore,Madhya Pradesh,Fashion,Jacket,1,1328.28,0.05,1261.87,345.25,22.7196,75.8577
+ORD-102049,2026-05-15,Bhopal,Madhya Pradesh,Electronics,Monitor,3,50777.3,0.1,137098.72,19039.38,23.2599,77.4126
+ORD-102050,2026-05-15,Bhopal,Madhya Pradesh,Electronics,Laptop,2,26330.21,0.0,52660.42,6094.89,23.2599,77.4126
+ORD-102051,2026-05-15,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,5921.75,0.1,5329.58,1251.88,23.2599,77.4126
+ORD-102052,2026-05-15,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,50005.59,0.0,200022.34,25134.9,23.2599,77.4126
+ORD-102053,2026-05-15,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5361.42,0.0,5361.42,1034.63,23.2599,77.4126
+ORD-102054,2026-05-15,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,2056.5,0.1,3701.7,575.16,23.2599,77.4126
+ORD-102055,2026-05-15,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1455.77,0.05,2765.96,379.82,23.2599,77.4126
+ORD-102056,2026-05-15,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5625.16,0.0,5625.16,1458.03,23.2599,77.4126
+ORD-102057,2026-05-15,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4389.85,0.0,13169.56,3064.58,23.2599,77.4126
+ORD-102058,2026-05-16,Indore,Madhya Pradesh,Electronics,Monitor,4,2677.06,0.0,10708.23,1788.01,22.7196,75.8577
+ORD-102059,2026-05-16,Indore,Madhya Pradesh,Fashion,T-Shirt,2,4364.28,0.0,8728.56,2417.6,22.7196,75.8577
+ORD-102060,2026-05-16,Indore,Madhya Pradesh,Electronics,Smartphone,1,40708.8,0.1,36637.92,6515.28,22.7196,75.8577
+ORD-102061,2026-05-16,Indore,Madhya Pradesh,Electronics,Smartphone,1,38199.15,0.15,32469.28,2971.45,22.7196,75.8577
+ORD-102062,2026-05-16,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,3524.22,0.1,6343.6,1129.35,22.7196,75.8577
+ORD-102063,2026-05-16,Indore,Madhya Pradesh,Electronics,Headphones,1,42208.61,0.05,40098.18,6980.73,22.7196,75.8577
+ORD-102064,2026-05-16,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,9974.88,0.05,37904.54,6343.34,22.7196,75.8577
+ORD-102065,2026-05-16,Indore,Madhya Pradesh,Electronics,Monitor,3,46000.75,0.1,124202.04,20226.04,22.7196,75.8577
+ORD-102066,2026-05-16,Bhopal,Madhya Pradesh,Electronics,Headphones,1,23793.7,0.15,20224.65,2692.7,23.2599,77.4126
+ORD-102067,2026-05-16,Bhopal,Madhya Pradesh,Electronics,Monitor,4,36773.15,0.05,139737.98,16753.71,23.2599,77.4126
+ORD-102068,2026-05-16,Bhopal,Madhya Pradesh,Fashion,Jacket,3,3816.26,0.1,10303.91,2987.95,23.2599,77.4126
+ORD-102069,2026-05-16,Bhopal,Madhya Pradesh,Fashion,Jacket,4,5073.77,0.0,20295.07,4997.44,23.2599,77.4126
+ORD-102070,2026-05-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,3235.19,0.2,5176.31,1042.89,23.2599,77.4126
+ORD-102071,2026-05-16,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,2309.12,0.15,5888.26,1033.64,23.2599,77.4126
+ORD-102072,2026-05-16,Bhopal,Madhya Pradesh,Home & Living,Desk,4,11243.11,0.1,40475.19,5441.9,23.2599,77.4126
+ORD-102073,2026-05-17,Indore,Madhya Pradesh,Home & Living,Mixer,3,6555.0,0.05,18681.76,2381.93,22.7196,75.8577
+ORD-102074,2026-05-17,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1134.01,0.0,4536.02,767.74,22.7196,75.8577
+ORD-102075,2026-05-17,Indore,Madhya Pradesh,Electronics,Smartphone,3,8675.08,0.1,23422.73,2199.47,22.7196,75.8577
+ORD-102076,2026-05-17,Indore,Madhya Pradesh,Electronics,Smartphone,2,41205.51,0.1,74169.91,8255.52,22.7196,75.8577
+ORD-102077,2026-05-17,Indore,Madhya Pradesh,Fashion,Jacket,1,5321.02,0.1,4788.92,1209.7,22.7196,75.8577
+ORD-102078,2026-05-17,Indore,Madhya Pradesh,Electronics,Monitor,1,44509.35,0.05,42283.88,7545.97,22.7196,75.8577
+ORD-102079,2026-05-17,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1344.92,0.15,4572.74,493.58,22.7196,75.8577
+ORD-102080,2026-05-17,Indore,Madhya Pradesh,Electronics,Headphones,3,21253.63,0.0,63760.88,10729.5,22.7196,75.8577
+ORD-102081,2026-05-17,Indore,Madhya Pradesh,Electronics,Smartphone,3,23331.8,0.0,69995.4,11599.4,22.7196,75.8577
+ORD-102082,2026-05-17,Indore,Madhya Pradesh,Electronics,Monitor,4,39230.98,0.1,141231.52,24837.33,22.7196,75.8577
+ORD-102083,2026-05-17,Indore,Madhya Pradesh,Electronics,Monitor,4,7088.4,0.05,26935.91,3286.98,22.7196,75.8577
+ORD-102084,2026-05-17,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,866.09,0.1,2338.45,333.75,23.2599,77.4126
+ORD-102085,2026-05-17,Bhopal,Madhya Pradesh,Electronics,Laptop,1,16128.13,0.05,15321.73,1270.93,23.2599,77.4126
+ORD-102086,2026-05-17,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4310.69,0.1,3879.62,1062.75,23.2599,77.4126
+ORD-102087,2026-05-17,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,11497.79,0.1,20696.03,3483.36,23.2599,77.4126
+ORD-102088,2026-05-17,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3747.0,0.0,3747.0,664.16,23.2599,77.4126
+ORD-102089,2026-05-17,Bhopal,Madhya Pradesh,Home & Living,Desk,2,6658.87,0.15,11320.08,1922.75,23.2599,77.4126
+ORD-102090,2026-05-17,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,1014.55,0.1,2739.29,616.51,23.2599,77.4126
+ORD-102091,2026-05-17,Bhopal,Madhya Pradesh,Electronics,Tablet,1,5066.46,0.2,4053.17,416.09,23.2599,77.4126
+ORD-102092,2026-05-17,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,958.2,0.1,2587.13,439.26,23.2599,77.4126
+ORD-102093,2026-05-17,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,4,525.81,0.1,1892.92,483.98,23.2599,77.4126
+ORD-102094,2026-05-18,Indore,Madhya Pradesh,Fashion,Backpack,3,3967.26,0.1,10711.61,2913.33,22.7196,75.8577
+ORD-102095,2026-05-18,Indore,Madhya Pradesh,Home & Living,Lamp,4,5798.99,0.15,19716.57,3598.59,22.7196,75.8577
+ORD-102096,2026-05-18,Indore,Madhya Pradesh,Home & Living,Desk,4,7329.14,0.0,29316.57,6667.14,22.7196,75.8577
+ORD-102097,2026-05-18,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,462.83,0.2,370.26,83.29,22.7196,75.8577
+ORD-102098,2026-05-18,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,3,2840.71,0.05,8096.01,1449.17,22.7196,75.8577
+ORD-102099,2026-05-18,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,904.16,0.0,904.16,170.5,22.7196,75.8577
+ORD-102100,2026-05-18,Indore,Madhya Pradesh,Fashion,T-Shirt,1,4828.31,0.05,4586.89,987.36,22.7196,75.8577
+ORD-102101,2026-05-18,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,3703.19,0.15,12590.85,2407.1,22.7196,75.8577
+ORD-102102,2026-05-18,Indore,Madhya Pradesh,Home & Living,Office Chair,3,10544.9,0.1,28471.24,3784.69,22.7196,75.8577
+ORD-102103,2026-05-18,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,985.66,0.0,985.66,163.9,22.7196,75.8577
+ORD-102104,2026-05-18,Indore,Madhya Pradesh,Fashion,Jeans,1,5527.14,0.05,5250.78,1389.32,22.7196,75.8577
+ORD-102105,2026-05-18,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,737.18,0.1,663.46,70.38,23.2599,77.4126
+ORD-102106,2026-05-18,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,879.31,0.15,2242.23,346.51,23.2599,77.4126
+ORD-102107,2026-05-18,Bhopal,Madhya Pradesh,Fashion,Backpack,3,5078.26,0.05,14473.04,3817.17,23.2599,77.4126
+ORD-102108,2026-05-18,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,3,1679.21,0.0,5037.62,929.92,23.2599,77.4126
+ORD-102109,2026-05-18,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,5758.56,0.1,15548.12,2866.45,23.2599,77.4126
+ORD-102110,2026-05-19,Indore,Madhya Pradesh,Electronics,Headphones,2,38367.42,0.1,69061.35,8335.02,22.7196,75.8577
+ORD-102111,2026-05-19,Indore,Madhya Pradesh,Electronics,Laptop,2,16453.2,0.05,31261.08,3379.84,22.7196,75.8577
+ORD-102112,2026-05-19,Indore,Madhya Pradesh,Fashion,Backpack,1,4298.96,0.0,4298.96,1079.24,22.7196,75.8577
+ORD-102113,2026-05-19,Indore,Madhya Pradesh,Electronics,Smartphone,1,49402.72,0.1,44462.45,5096.22,22.7196,75.8577
+ORD-102114,2026-05-19,Indore,Madhya Pradesh,Electronics,Headphones,4,20576.81,0.0,82307.23,12550.66,22.7196,75.8577
+ORD-102115,2026-05-19,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1649.8,0.1,5939.28,1211.59,22.7196,75.8577
+ORD-102116,2026-05-19,Indore,Madhya Pradesh,Electronics,Monitor,4,12713.81,0.1,45769.73,5824.41,22.7196,75.8577
+ORD-102117,2026-05-19,Indore,Madhya Pradesh,Fashion,Backpack,3,2420.55,0.1,6535.47,1430.74,22.7196,75.8577
+ORD-102118,2026-05-19,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1733.08,0.15,5892.47,1196.58,22.7196,75.8577
+ORD-102119,2026-05-19,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,11333.42,0.0,11333.42,1979.74,23.2599,77.4126
+ORD-102120,2026-05-19,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,1629.59,0.2,2607.34,382.48,23.2599,77.4126
+ORD-102121,2026-05-19,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,645.32,0.1,2323.14,504.9,23.2599,77.4126
+ORD-102122,2026-05-19,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,1357.76,0.1,4887.92,559.28,23.2599,77.4126
+ORD-102123,2026-05-19,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,5037.22,0.05,19141.45,5501.01,23.2599,77.4126
+ORD-102124,2026-05-19,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,4248.09,0.05,12107.04,3010.71,23.2599,77.4126
+ORD-102125,2026-05-20,Indore,Madhya Pradesh,Electronics,Headphones,2,39560.74,0.15,67253.26,6078.9,22.7196,75.8577
+ORD-102126,2026-05-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,874.1,0.0,3496.42,728.55,22.7196,75.8577
+ORD-102127,2026-05-20,Indore,Madhya Pradesh,Electronics,Laptop,4,10986.37,0.1,39550.94,5218.25,22.7196,75.8577
+ORD-102128,2026-05-20,Indore,Madhya Pradesh,Fashion,Backpack,3,1789.15,0.1,4830.7,943.11,22.7196,75.8577
+ORD-102129,2026-05-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,3043.11,0.05,5781.91,1303.93,22.7196,75.8577
+ORD-102130,2026-05-20,Indore,Madhya Pradesh,Electronics,Headphones,3,21518.84,0.2,51645.22,4514.37,22.7196,75.8577
+ORD-102131,2026-05-20,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,354.77,0.1,319.29,62.66,22.7196,75.8577
+ORD-102132,2026-05-20,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,4197.97,0.05,7976.14,1714.56,23.2599,77.4126
+ORD-102133,2026-05-20,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1573.15,0.1,2831.67,564.3,23.2599,77.4126
+ORD-102134,2026-05-20,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,2854.91,0.05,2712.16,593.9,23.2599,77.4126
+ORD-102135,2026-05-20,Bhopal,Madhya Pradesh,Electronics,Headphones,1,39800.49,0.05,37810.47,4718.77,23.2599,77.4126
+ORD-102136,2026-05-20,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,2490.55,0.1,6724.5,887.44,23.2599,77.4126
+ORD-102137,2026-05-20,Bhopal,Madhya Pradesh,Fashion,Jacket,2,3413.24,0.1,6143.84,1033.03,23.2599,77.4126
+ORD-102138,2026-05-20,Bhopal,Madhya Pradesh,Home & Living,Desk,4,1650.75,0.05,6272.87,875.07,23.2599,77.4126
+ORD-102139,2026-05-20,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,3496.94,0.05,6644.18,824.69,23.2599,77.4126
+ORD-102140,2026-05-21,Indore,Madhya Pradesh,Fashion,Jeans,4,2327.11,0.1,8377.6,1578.0,22.7196,75.8577
+ORD-102141,2026-05-21,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,472.96,0.05,1797.24,382.91,22.7196,75.8577
+ORD-102142,2026-05-21,Indore,Madhya Pradesh,Home & Living,Desk,3,6448.3,0.05,18377.67,3280.27,22.7196,75.8577
+ORD-102143,2026-05-21,Indore,Madhya Pradesh,Home & Living,Mixer,1,9430.57,0.15,8015.99,1245.61,22.7196,75.8577
+ORD-102144,2026-05-21,Indore,Madhya Pradesh,Home & Living,Lamp,3,11652.37,0.05,33209.26,4603.55,22.7196,75.8577
+ORD-102145,2026-05-21,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,3747.4,0.15,12741.17,2080.48,23.2599,77.4126
+ORD-102146,2026-05-21,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5295.26,0.15,4500.97,818.71,23.2599,77.4126
+ORD-102147,2026-05-21,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,6278.07,0.15,5336.36,1239.52,23.2599,77.4126
+ORD-102148,2026-05-21,Bhopal,Madhya Pradesh,Electronics,Tablet,3,39046.41,0.0,117139.23,14717.17,23.2599,77.4126
+ORD-102149,2026-05-21,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,1742.57,0.05,3310.89,587.59,23.2599,77.4126
+ORD-102150,2026-05-21,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1042.5,0.1,3752.98,489.56,23.2599,77.4126
+ORD-102151,2026-05-21,Bhopal,Madhya Pradesh,Home & Living,Desk,2,5761.25,0.15,9794.13,2011.36,23.2599,77.4126
+ORD-102152,2026-05-21,Bhopal,Madhya Pradesh,Electronics,Tablet,1,25319.88,0.05,24053.89,1993.82,23.2599,77.4126
+ORD-102153,2026-05-21,Bhopal,Madhya Pradesh,Home & Living,Desk,1,6349.84,0.0,6349.84,1068.36,23.2599,77.4126
+ORD-102154,2026-05-21,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2403.47,0.05,2283.29,622.49,23.2599,77.4126
+ORD-102155,2026-05-22,Indore,Madhya Pradesh,Electronics,Smartphone,2,29588.64,0.05,56218.42,9919.31,22.7196,75.8577
+ORD-102156,2026-05-22,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,4710.7,0.1,4239.63,677.85,22.7196,75.8577
+ORD-102157,2026-05-22,Indore,Madhya Pradesh,Fashion,Jeans,2,2728.82,0.1,4911.88,1381.57,22.7196,75.8577
+ORD-102158,2026-05-22,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,4022.94,0.15,3419.5,577.01,22.7196,75.8577
+ORD-102159,2026-05-22,Indore,Madhya Pradesh,Electronics,Headphones,2,52893.11,0.0,105786.21,11788.25,22.7196,75.8577
+ORD-102160,2026-05-22,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,1213.82,0.15,2063.5,352.45,23.2599,77.4126
+ORD-102161,2026-05-22,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,11081.36,0.05,31581.86,4964.12,23.2599,77.4126
+ORD-102162,2026-05-22,Bhopal,Madhya Pradesh,Electronics,Headphones,4,54368.09,0.05,206598.73,28950.95,23.2599,77.4126
+ORD-102163,2026-05-22,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,474.23,0.15,403.1,51.69,23.2599,77.4126
+ORD-102164,2026-05-22,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,543.33,0.0,543.33,132.61,23.2599,77.4126
+ORD-102165,2026-05-22,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,11552.3,0.0,23104.6,3605.81,23.2599,77.4126
+ORD-102166,2026-05-22,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,864.99,0.05,2465.22,449.27,23.2599,77.4126
+ORD-102167,2026-05-22,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,823.55,0.1,741.2,205.05,23.2599,77.4126
+ORD-102168,2026-05-22,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,6806.54,0.1,24503.55,5202.16,23.2599,77.4126
+ORD-102169,2026-05-22,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,4755.49,0.15,16168.65,2445.33,23.2599,77.4126
+ORD-102170,2026-05-23,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,1783.01,0.05,5081.58,893.85,22.7196,75.8577
+ORD-102171,2026-05-23,Indore,Madhya Pradesh,Home & Living,Mixer,3,1018.99,0.05,2904.12,398.26,22.7196,75.8577
+ORD-102172,2026-05-23,Indore,Madhya Pradesh,Home & Living,Office Chair,2,8760.48,0.1,15768.86,3164.65,22.7196,75.8577
+ORD-102173,2026-05-23,Indore,Madhya Pradesh,Fashion,Backpack,4,3920.55,0.0,15682.2,4023.79,22.7196,75.8577
+ORD-102174,2026-05-23,Indore,Madhya Pradesh,Home & Living,Mixer,4,2085.07,0.05,7923.26,1681.91,22.7196,75.8577
+ORD-102175,2026-05-23,Indore,Madhya Pradesh,Electronics,Headphones,2,50036.0,0.0,100072.0,13608.33,22.7196,75.8577
+ORD-102176,2026-05-23,Indore,Madhya Pradesh,Fashion,Jacket,1,1854.12,0.0,1854.12,531.79,22.7196,75.8577
+ORD-102177,2026-05-23,Indore,Madhya Pradesh,Fashion,Jeans,4,1166.03,0.2,3731.29,971.76,22.7196,75.8577
+ORD-102178,2026-05-23,Indore,Madhya Pradesh,Electronics,Monitor,1,2903.34,0.05,2758.18,268.0,22.7196,75.8577
+ORD-102179,2026-05-23,Indore,Madhya Pradesh,Electronics,Monitor,3,14846.19,0.05,42311.64,4845.0,22.7196,75.8577
+ORD-102180,2026-05-23,Indore,Madhya Pradesh,Electronics,Tablet,2,54653.5,0.0,109307.01,17421.59,22.7196,75.8577
+ORD-102181,2026-05-23,Bhopal,Madhya Pradesh,Electronics,Headphones,2,19267.7,0.1,34681.87,3990.26,23.2599,77.4126
+ORD-102182,2026-05-23,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,2249.67,0.1,8098.81,1205.93,23.2599,77.4126
+ORD-102183,2026-05-23,Bhopal,Madhya Pradesh,Electronics,Laptop,3,10577.98,0.2,25387.14,4075.19,23.2599,77.4126
+ORD-102184,2026-05-23,Bhopal,Madhya Pradesh,Electronics,Tablet,2,14897.68,0.0,29795.36,4992.63,23.2599,77.4126
+ORD-102185,2026-05-23,Bhopal,Madhya Pradesh,Fashion,Backpack,1,2538.47,0.15,2157.7,498.67,23.2599,77.4126
+ORD-102186,2026-05-23,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,9209.26,0.05,34995.18,7951.5,23.2599,77.4126
+ORD-102187,2026-05-23,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,5670.66,0.0,17011.97,2074.56,23.2599,77.4126
+ORD-102188,2026-05-23,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,3785.24,0.05,10787.95,2360.0,23.2599,77.4126
+ORD-102189,2026-05-24,Indore,Madhya Pradesh,Fashion,T-Shirt,4,4038.82,0.1,14539.77,3122.19,22.7196,75.8577
+ORD-102190,2026-05-24,Indore,Madhya Pradesh,Home & Living,Lamp,1,7604.69,0.05,7224.46,1398.53,22.7196,75.8577
+ORD-102191,2026-05-24,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,4659.19,0.05,17704.91,3647.92,22.7196,75.8577
+ORD-102192,2026-05-24,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3487.43,0.1,12554.74,1962.4,22.7196,75.8577
+ORD-102193,2026-05-24,Indore,Madhya Pradesh,Home & Living,Desk,1,2372.0,0.05,2253.4,510.86,22.7196,75.8577
+ORD-102194,2026-05-24,Indore,Madhya Pradesh,Electronics,Smartphone,3,2643.63,0.15,6741.24,1040.73,22.7196,75.8577
+ORD-102195,2026-05-24,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2783.91,0.15,7098.96,2039.12,23.2599,77.4126
+ORD-102196,2026-05-24,Bhopal,Madhya Pradesh,Electronics,Tablet,4,28084.95,0.05,106722.8,17840.02,23.2599,77.4126
+ORD-102197,2026-05-24,Bhopal,Madhya Pradesh,Electronics,Laptop,1,53362.93,0.0,53362.93,5323.29,23.2599,77.4126
+ORD-102198,2026-05-24,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,7819.57,0.1,28150.45,4365.49,23.2599,77.4126
+ORD-102199,2026-05-24,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,6004.44,0.1,10807.98,2284.13,23.2599,77.4126
+ORD-102200,2026-05-24,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4752.35,0.15,4039.5,957.6,23.2599,77.4126
+ORD-102201,2026-05-24,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,10176.77,0.1,9159.09,1988.53,23.2599,77.4126
+ORD-102202,2026-05-24,Bhopal,Madhya Pradesh,Electronics,Monitor,3,33784.07,0.0,101352.21,9167.95,23.2599,77.4126
+ORD-102203,2026-05-24,Bhopal,Madhya Pradesh,Fashion,Backpack,4,3510.01,0.05,13338.05,3550.6,23.2599,77.4126
+ORD-102204,2026-05-25,Indore,Madhya Pradesh,Electronics,Headphones,3,4946.34,0.15,12613.16,1627.13,22.7196,75.8577
+ORD-102205,2026-05-25,Indore,Madhya Pradesh,Electronics,Laptop,1,53439.64,0.0,53439.64,9124.57,22.7196,75.8577
+ORD-102206,2026-05-25,Indore,Madhya Pradesh,Electronics,Headphones,2,5323.68,0.1,9582.63,1504.12,22.7196,75.8577
+ORD-102207,2026-05-25,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,1264.01,0.2,1011.21,191.26,22.7196,75.8577
+ORD-102208,2026-05-25,Indore,Madhya Pradesh,Home & Living,Lamp,2,11766.0,0.0,23531.99,4007.45,22.7196,75.8577
+ORD-102209,2026-05-25,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,654.39,0.05,1865.0,478.33,22.7196,75.8577
+ORD-102210,2026-05-25,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,3933.67,0.0,15734.67,3362.32,23.2599,77.4126
+ORD-102211,2026-05-25,Bhopal,Madhya Pradesh,Fashion,Jacket,3,5125.39,0.05,14607.35,2910.0,23.2599,77.4126
+ORD-102212,2026-05-25,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,1170.02,0.05,2223.05,347.54,23.2599,77.4126
+ORD-102213,2026-05-25,Bhopal,Madhya Pradesh,Fashion,Backpack,3,4263.8,0.0,12791.39,2180.36,23.2599,77.4126
+ORD-102214,2026-05-25,Bhopal,Madhya Pradesh,Electronics,Tablet,1,3832.15,0.05,3640.54,447.73,23.2599,77.4126
+ORD-102215,2026-05-26,Indore,Madhya Pradesh,Fashion,Jacket,1,5394.98,0.1,4855.48,1262.49,22.7196,75.8577
+ORD-102216,2026-05-26,Indore,Madhya Pradesh,Electronics,Smartphone,1,22688.12,0.15,19284.9,3054.74,22.7196,75.8577
+ORD-102217,2026-05-26,Indore,Madhya Pradesh,Electronics,Smartphone,2,47559.98,0.05,90363.97,13305.29,22.7196,75.8577
+ORD-102218,2026-05-26,Indore,Madhya Pradesh,Home & Living,Office Chair,2,11324.44,0.05,21516.43,2643.31,22.7196,75.8577
+ORD-102219,2026-05-26,Indore,Madhya Pradesh,Fashion,Backpack,3,3398.77,0.0,10196.31,2811.64,22.7196,75.8577
+ORD-102220,2026-05-26,Indore,Madhya Pradesh,Home & Living,Mixer,4,10413.13,0.1,37487.28,5125.84,22.7196,75.8577
+ORD-102221,2026-05-26,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,287.23,0.15,244.14,51.22,22.7196,75.8577
+ORD-102222,2026-05-26,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,46127.15,0.15,117624.23,13663.71,23.2599,77.4126
+ORD-102223,2026-05-26,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,10574.33,0.05,20091.22,3896.74,23.2599,77.4126
+ORD-102224,2026-05-26,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,2,1617.92,0.0,3235.85,550.02,23.2599,77.4126
+ORD-102225,2026-05-26,Bhopal,Madhya Pradesh,Electronics,Monitor,1,48797.91,0.05,46358.01,4802.31,23.2599,77.4126
+ORD-102226,2026-05-26,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,165.04,0.0,660.16,67.87,23.2599,77.4126
+ORD-102227,2026-05-26,Bhopal,Madhya Pradesh,Electronics,Tablet,4,38410.25,0.0,153640.98,14952.09,23.2599,77.4126
+ORD-102228,2026-05-26,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,4510.87,0.15,15336.97,2713.26,23.2599,77.4126
+ORD-102229,2026-05-26,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,3353.8,0.0,6707.61,1774.4,23.2599,77.4126
+ORD-102230,2026-05-26,Bhopal,Madhya Pradesh,Electronics,Headphones,2,19711.31,0.1,35480.36,4733.2,23.2599,77.4126
+ORD-102231,2026-05-26,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,2998.06,0.05,11392.63,2846.82,23.2599,77.4126
+ORD-102232,2026-05-27,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,2,274.33,0.15,466.37,112.91,22.7196,75.8577
+ORD-102233,2026-05-27,Indore,Madhya Pradesh,Fashion,Jacket,1,1886.46,0.1,1697.81,385.21,22.7196,75.8577
+ORD-102234,2026-05-27,Indore,Madhya Pradesh,Electronics,Smartphone,1,44737.02,0.1,40263.32,5705.04,22.7196,75.8577
+ORD-102235,2026-05-27,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,9089.07,0.05,8634.61,1857.48,22.7196,75.8577
+ORD-102236,2026-05-27,Indore,Madhya Pradesh,Home & Living,Desk,3,11274.39,0.1,30440.87,4791.95,22.7196,75.8577
+ORD-102237,2026-05-27,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,265.4,0.0,796.2,111.92,22.7196,75.8577
+ORD-102238,2026-05-27,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,181.33,0.0,543.99,86.35,22.7196,75.8577
+ORD-102239,2026-05-27,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1448.71,0.1,1303.84,228.28,22.7196,75.8577
+ORD-102240,2026-05-27,Indore,Madhya Pradesh,Electronics,Smartphone,4,9874.19,0.1,35547.07,5972.73,22.7196,75.8577
+ORD-102241,2026-05-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,4565.98,0.0,18263.93,3939.85,23.2599,77.4126
+ORD-102242,2026-05-27,Bhopal,Madhya Pradesh,Electronics,Laptop,2,20321.39,0.1,36578.5,3808.72,23.2599,77.4126
+ORD-102243,2026-05-27,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,3488.88,0.0,13955.52,1147.07,23.2599,77.4126
+ORD-102244,2026-05-27,Bhopal,Madhya Pradesh,Home & Living,Desk,1,9798.56,0.0,9798.56,2022.29,23.2599,77.4126
+ORD-102245,2026-05-27,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,52359.54,0.15,178022.43,29238.93,23.2599,77.4126
+ORD-102246,2026-05-27,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4949.78,0.0,14849.34,4250.06,23.2599,77.4126
+ORD-102247,2026-05-27,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,2796.67,0.1,5034.01,750.4,23.2599,77.4126
+ORD-102248,2026-05-27,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,5072.5,0.0,20290.0,3706.06,23.2599,77.4126
+ORD-102249,2026-05-28,Indore,Madhya Pradesh,Fashion,Jeans,3,2325.41,0.05,6627.43,1916.36,22.7196,75.8577
+ORD-102250,2026-05-28,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1089.48,0.2,1743.16,373.18,22.7196,75.8577
+ORD-102251,2026-05-28,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1686.96,0.15,4301.75,760.71,22.7196,75.8577
+ORD-102252,2026-05-28,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,1439.6,0.05,4102.86,652.84,22.7196,75.8577
+ORD-102253,2026-05-28,Indore,Madhya Pradesh,Food & Beverages,Tea,2,555.41,0.05,1055.28,231.6,22.7196,75.8577
+ORD-102254,2026-05-28,Indore,Madhya Pradesh,Home & Living,Office Chair,4,3894.96,0.0,15579.83,3447.83,22.7196,75.8577
+ORD-102255,2026-05-28,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,2684.01,0.2,8588.83,2159.31,22.7196,75.8577
+ORD-102256,2026-05-28,Bhopal,Madhya Pradesh,Electronics,Headphones,3,23356.12,0.2,56054.69,5687.81,23.2599,77.4126
+ORD-102257,2026-05-28,Bhopal,Madhya Pradesh,Electronics,Laptop,1,12099.58,0.15,10284.64,1720.91,23.2599,77.4126
+ORD-102258,2026-05-28,Bhopal,Madhya Pradesh,Electronics,Laptop,3,7416.05,0.0,22248.14,2572.74,23.2599,77.4126
+ORD-102259,2026-05-28,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,5438.63,0.05,10333.4,1598.6,23.2599,77.4126
+ORD-102260,2026-05-28,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1012.91,0.15,1721.95,346.09,23.2599,77.4126
+ORD-102261,2026-05-28,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4581.44,0.0,13744.33,3458.67,23.2599,77.4126
+ORD-102262,2026-05-28,Bhopal,Madhya Pradesh,Electronics,Laptop,4,43754.09,0.0,175016.37,22983.54,23.2599,77.4126
+ORD-102263,2026-05-28,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1720.15,0.1,3096.27,665.59,23.2599,77.4126
+ORD-102264,2026-05-28,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,2404.42,0.15,8175.03,1774.39,23.2599,77.4126
+ORD-102265,2026-05-29,Indore,Madhya Pradesh,Home & Living,Desk,1,4832.62,0.1,4349.36,764.31,22.7196,75.8577
+ORD-102266,2026-05-29,Indore,Madhya Pradesh,Electronics,Tablet,3,46797.26,0.05,133372.2,12773.45,22.7196,75.8577
+ORD-102267,2026-05-29,Indore,Madhya Pradesh,Electronics,Monitor,1,10382.61,0.15,8825.22,1279.85,22.7196,75.8577
+ORD-102268,2026-05-29,Indore,Madhya Pradesh,Electronics,Monitor,4,42980.83,0.0,171923.32,21670.38,22.7196,75.8577
+ORD-102269,2026-05-29,Indore,Madhya Pradesh,Home & Living,Office Chair,2,6192.17,0.05,11765.12,2238.49,22.7196,75.8577
+ORD-102270,2026-05-29,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,6450.61,0.0,12901.22,2692.4,22.7196,75.8577
+ORD-102271,2026-05-29,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1332.84,0.15,2265.83,372.7,22.7196,75.8577
+ORD-102272,2026-05-29,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1202.8,0.1,4330.08,539.04,23.2599,77.4126
+ORD-102273,2026-05-29,Bhopal,Madhya Pradesh,Electronics,Tablet,1,46659.05,0.0,46659.05,3748.5,23.2599,77.4126
+ORD-102274,2026-05-29,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3352.04,0.1,3016.84,632.2,23.2599,77.4126
+ORD-102275,2026-05-29,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,2183.78,0.05,8298.35,1749.16,23.2599,77.4126
+ORD-102276,2026-05-29,Bhopal,Madhya Pradesh,Fashion,Jeans,3,3253.7,0.05,9273.05,2661.56,23.2599,77.4126
+ORD-102277,2026-05-30,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,3903.58,0.05,3708.4,659.88,22.7196,75.8577
+ORD-102278,2026-05-30,Indore,Madhya Pradesh,Electronics,Headphones,1,46390.74,0.15,39432.13,7023.73,22.7196,75.8577
+ORD-102279,2026-05-30,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,1984.01,0.0,3968.02,593.96,22.7196,75.8577
+ORD-102280,2026-05-30,Indore,Madhya Pradesh,Electronics,Monitor,1,2771.03,0.1,2493.92,402.47,22.7196,75.8577
+ORD-102281,2026-05-30,Indore,Madhya Pradesh,Fashion,Jeans,2,4366.68,0.05,8296.69,2005.35,22.7196,75.8577
+ORD-102282,2026-05-30,Indore,Madhya Pradesh,Home & Living,Desk,4,4799.89,0.1,17279.59,3412.38,22.7196,75.8577
+ORD-102283,2026-05-30,Indore,Madhya Pradesh,Home & Living,Desk,4,2107.06,0.15,7163.99,1146.06,22.7196,75.8577
+ORD-102284,2026-05-30,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1528.99,0.1,1376.09,153.76,23.2599,77.4126
+ORD-102285,2026-05-30,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,642.09,0.05,2439.93,495.48,23.2599,77.4126
+ORD-102286,2026-05-30,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,130.21,0.1,468.76,70.82,23.2599,77.4126
+ORD-102287,2026-05-30,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,502.29,0.1,1808.25,193.49,23.2599,77.4126
+ORD-102288,2026-05-30,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,10098.1,0.1,9088.29,1511.47,23.2599,77.4126
+ORD-102289,2026-05-30,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,4746.75,0.1,8544.15,1754.22,23.2599,77.4126
+ORD-102290,2026-05-30,Bhopal,Madhya Pradesh,Electronics,Laptop,1,37138.11,0.1,33424.3,3972.05,23.2599,77.4126
+ORD-102291,2026-05-30,Bhopal,Madhya Pradesh,Electronics,Laptop,3,31185.78,0.1,84201.61,11359.17,23.2599,77.4126
+ORD-102292,2026-05-31,Indore,Madhya Pradesh,Electronics,Monitor,1,29788.55,0.0,29788.55,5109.11,22.7196,75.8577
+ORD-102293,2026-05-31,Indore,Madhya Pradesh,Electronics,Monitor,3,54415.34,0.15,138759.11,18378.54,22.7196,75.8577
+ORD-102294,2026-05-31,Indore,Madhya Pradesh,Electronics,Smartphone,1,18334.15,0.1,16500.74,1672.8,22.7196,75.8577
+ORD-102295,2026-05-31,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,231.05,0.05,438.99,77.69,22.7196,75.8577
+ORD-102296,2026-05-31,Indore,Madhya Pradesh,Electronics,Smartphone,1,54470.12,0.05,51746.62,9026.09,22.7196,75.8577
+ORD-102297,2026-05-31,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,24198.07,0.0,48396.14,7186.01,23.2599,77.4126
+ORD-102298,2026-05-31,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,184.36,0.1,165.92,36.06,23.2599,77.4126
+ORD-102299,2026-05-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,3678.95,0.1,9933.16,2129.69,23.2599,77.4126
+ORD-102300,2026-05-31,Bhopal,Madhya Pradesh,Fashion,Backpack,4,3991.47,0.2,12772.7,3773.14,23.2599,77.4126
+ORD-102301,2026-05-31,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,1689.58,0.0,5068.75,991.5,23.2599,77.4126
+ORD-102302,2026-05-31,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,2408.57,0.0,2408.57,430.57,23.2599,77.4126
+ORD-102303,2026-05-31,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,1441.81,0.05,4109.15,455.48,23.2599,77.4126
+ORD-102304,2026-06-01,Indore,Madhya Pradesh,Home & Living,Mixer,1,10138.69,0.0,10138.69,2088.92,22.7196,75.8577
+ORD-102305,2026-06-01,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1750.66,0.2,2801.06,280.99,22.7196,75.8577
+ORD-102306,2026-06-01,Indore,Madhya Pradesh,Electronics,Laptop,1,52241.53,0.15,44405.3,4430.01,22.7196,75.8577
+ORD-102307,2026-06-01,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,4640.17,0.05,4408.16,1123.67,22.7196,75.8577
+ORD-102308,2026-06-01,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,2870.36,0.0,8611.09,1943.34,22.7196,75.8577
+ORD-102309,2026-06-01,Bhopal,Madhya Pradesh,Electronics,Laptop,1,30187.22,0.05,28677.86,2715.12,23.2599,77.4126
+ORD-102310,2026-06-01,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,4498.76,0.15,3823.94,551.43,23.2599,77.4126
+ORD-102311,2026-06-01,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2373.38,0.2,7594.81,1340.63,23.2599,77.4126
+ORD-102312,2026-06-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,2517.85,0.2,6042.85,1246.8,23.2599,77.4126
+ORD-102313,2026-06-01,Bhopal,Madhya Pradesh,Home & Living,Desk,3,7691.98,0.1,20768.35,2908.25,23.2599,77.4126
+ORD-102314,2026-06-01,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,831.47,0.05,3159.59,354.03,23.2599,77.4126
+ORD-102315,2026-06-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,291.01,0.0,291.01,62.1,23.2599,77.4126
+ORD-102316,2026-06-01,Bhopal,Madhya Pradesh,Fashion,Backpack,2,5595.12,0.0,11190.24,3262.9,23.2599,77.4126
+ORD-102317,2026-06-01,Bhopal,Madhya Pradesh,Fashion,Jacket,2,1844.74,0.15,3136.06,770.47,23.2599,77.4126
+ORD-102318,2026-06-01,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,3635.55,0.1,3272.0,925.75,23.2599,77.4126
+ORD-102319,2026-06-02,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2126.16,0.2,3401.85,789.12,22.7196,75.8577
+ORD-102320,2026-06-02,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,4596.84,0.1,16548.62,3564.76,22.7196,75.8577
+ORD-102321,2026-06-02,Indore,Madhya Pradesh,Home & Living,Mixer,1,4303.58,0.1,3873.23,500.25,22.7196,75.8577
+ORD-102322,2026-06-02,Indore,Madhya Pradesh,Home & Living,Office Chair,4,4283.91,0.1,15422.09,3435.04,22.7196,75.8577
+ORD-102323,2026-06-02,Indore,Madhya Pradesh,Fashion,Jeans,2,2611.7,0.1,4701.05,1014.58,22.7196,75.8577
+ORD-102324,2026-06-02,Indore,Madhya Pradesh,Home & Living,Lamp,3,3810.18,0.15,9715.96,1661.37,22.7196,75.8577
+ORD-102325,2026-06-02,Indore,Madhya Pradesh,Fashion,T-Shirt,2,5401.9,0.05,10263.62,1873.12,22.7196,75.8577
+ORD-102326,2026-06-02,Indore,Madhya Pradesh,Electronics,Headphones,1,13521.17,0.2,10816.93,1866.12,22.7196,75.8577
+ORD-102327,2026-06-02,Indore,Madhya Pradesh,Home & Living,Lamp,3,1693.62,0.0,5080.86,1098.17,22.7196,75.8577
+ORD-102328,2026-06-02,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,8619.62,0.05,8188.64,1725.32,23.2599,77.4126
+ORD-102329,2026-06-02,Bhopal,Madhya Pradesh,Electronics,Headphones,1,14528.22,0.0,14528.22,1489.88,23.2599,77.4126
+ORD-102330,2026-06-02,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,3138.82,0.05,8945.63,2614.47,23.2599,77.4126
+ORD-102331,2026-06-02,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,11096.63,0.0,44386.5,7908.78,23.2599,77.4126
+ORD-102332,2026-06-02,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,1505.28,0.05,2860.03,571.05,23.2599,77.4126
+ORD-102333,2026-06-03,Indore,Madhya Pradesh,Electronics,Smartphone,1,30883.49,0.0,30883.49,4888.2,22.7196,75.8577
+ORD-102334,2026-06-03,Indore,Madhya Pradesh,Home & Living,Lamp,3,11776.27,0.05,33562.38,8017.93,22.7196,75.8577
+ORD-102335,2026-06-03,Indore,Madhya Pradesh,Electronics,Laptop,2,36677.18,0.05,69686.65,8010.8,22.7196,75.8577
+ORD-102336,2026-06-03,Indore,Madhya Pradesh,Home & Living,Mixer,3,10690.14,0.1,28863.38,5207.05,22.7196,75.8577
+ORD-102337,2026-06-03,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,8881.32,0.0,35525.27,8394.16,22.7196,75.8577
+ORD-102338,2026-06-03,Indore,Madhya Pradesh,Electronics,Tablet,1,6694.18,0.1,6024.76,813.55,22.7196,75.8577
+ORD-102339,2026-06-03,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,819.07,0.1,737.16,87.02,22.7196,75.8577
+ORD-102340,2026-06-03,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,5097.71,0.1,13763.82,3004.59,22.7196,75.8577
+ORD-102341,2026-06-03,Bhopal,Madhya Pradesh,Electronics,Monitor,3,29671.4,0.1,80112.79,8500.24,23.2599,77.4126
+ORD-102342,2026-06-03,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,5771.96,0.1,5194.76,1192.04,23.2599,77.4126
+ORD-102343,2026-06-03,Bhopal,Madhya Pradesh,Electronics,Tablet,4,45986.22,0.1,165550.4,18013.69,23.2599,77.4126
+ORD-102344,2026-06-03,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,5651.67,0.0,11303.34,2588.36,23.2599,77.4126
+ORD-102345,2026-06-03,Bhopal,Madhya Pradesh,Electronics,Monitor,3,22491.97,0.05,64102.12,7907.64,23.2599,77.4126
+ORD-102346,2026-06-03,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,4588.95,0.2,14684.65,3599.23,23.2599,77.4126
+ORD-102347,2026-06-03,Bhopal,Madhya Pradesh,Fashion,Jeans,2,5127.46,0.0,10254.92,1988.46,23.2599,77.4126
+ORD-102348,2026-06-03,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,7285.7,0.1,6557.13,1301.24,23.2599,77.4126
+ORD-102349,2026-06-04,Indore,Madhya Pradesh,Fashion,Jacket,3,5584.8,0.0,16754.41,3647.98,22.7196,75.8577
+ORD-102350,2026-06-04,Indore,Madhya Pradesh,Electronics,Smartphone,4,16334.87,0.1,58805.55,7840.24,22.7196,75.8577
+ORD-102351,2026-06-04,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1847.03,0.1,4986.97,1225.55,22.7196,75.8577
+ORD-102352,2026-06-04,Indore,Madhya Pradesh,Electronics,Headphones,1,20183.75,0.05,19174.56,2070.19,22.7196,75.8577
+ORD-102353,2026-06-04,Indore,Madhya Pradesh,Fashion,Jacket,4,1297.19,0.0,5188.76,961.21,22.7196,75.8577
+ORD-102354,2026-06-04,Indore,Madhya Pradesh,Electronics,Smartphone,4,17374.98,0.05,66024.93,8554.64,22.7196,75.8577
+ORD-102355,2026-06-04,Indore,Madhya Pradesh,Fashion,T-Shirt,4,1806.12,0.1,6502.04,1877.48,22.7196,75.8577
+ORD-102356,2026-06-04,Indore,Madhya Pradesh,Electronics,Headphones,2,5950.87,0.15,10116.47,1487.9,22.7196,75.8577
+ORD-102357,2026-06-04,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,1637.31,0.2,1309.85,174.16,22.7196,75.8577
+ORD-102358,2026-06-04,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1415.25,0.05,1344.48,266.72,22.7196,75.8577
+ORD-102359,2026-06-04,Indore,Madhya Pradesh,Fashion,Backpack,1,3978.79,0.1,3580.92,816.3,22.7196,75.8577
+ORD-102360,2026-06-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,4618.18,0.15,11776.35,2262.47,23.2599,77.4126
+ORD-102361,2026-06-04,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,11812.47,0.1,31893.67,4070.3,23.2599,77.4126
+ORD-102362,2026-06-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,10639.21,0.1,28725.86,4774.65,23.2599,77.4126
+ORD-102363,2026-06-04,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,2035.69,0.0,4071.39,840.44,23.2599,77.4126
+ORD-102364,2026-06-04,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,4851.87,0.15,12372.26,2472.34,23.2599,77.4126
+ORD-102365,2026-06-04,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,40396.06,0.1,145425.83,13983.47,23.2599,77.4126
+ORD-102366,2026-06-04,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,4872.39,0.05,13886.3,2925.93,23.2599,77.4126
+ORD-102367,2026-06-04,Bhopal,Madhya Pradesh,Electronics,Monitor,4,46650.73,0.05,177272.78,15238.65,23.2599,77.4126
+ORD-102368,2026-06-04,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,829.99,0.1,2240.97,301.39,23.2599,77.4126
+ORD-102369,2026-06-05,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1639.38,0.05,6229.64,1455.81,22.7196,75.8577
+ORD-102370,2026-06-05,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,1135.86,0.0,1135.86,225.01,22.7196,75.8577
+ORD-102371,2026-06-05,Indore,Madhya Pradesh,Electronics,Laptop,3,22602.52,0.1,61026.8,6643.98,22.7196,75.8577
+ORD-102372,2026-06-05,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,4079.5,0.1,14686.19,3375.74,22.7196,75.8577
+ORD-102373,2026-06-05,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,3143.85,0.1,5658.93,1434.78,22.7196,75.8577
+ORD-102374,2026-06-05,Indore,Madhya Pradesh,Home & Living,Desk,3,6043.26,0.0,18129.78,2207.31,22.7196,75.8577
+ORD-102375,2026-06-05,Indore,Madhya Pradesh,Home & Living,Lamp,1,9329.35,0.2,7463.48,921.76,22.7196,75.8577
+ORD-102376,2026-06-05,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,161.9,0.0,485.71,48.82,22.7196,75.8577
+ORD-102377,2026-06-05,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,414.82,0.1,1493.35,263.92,22.7196,75.8577
+ORD-102378,2026-06-05,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1309.25,0.0,3927.75,520.5,22.7196,75.8577
+ORD-102379,2026-06-05,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,2719.59,0.1,2447.63,612.0,22.7196,75.8577
+ORD-102380,2026-06-05,Bhopal,Madhya Pradesh,Electronics,Laptop,2,22795.37,0.1,41031.66,6172.77,23.2599,77.4126
+ORD-102381,2026-06-05,Bhopal,Madhya Pradesh,Electronics,Headphones,4,19463.64,0.0,77854.54,13889.86,23.2599,77.4126
+ORD-102382,2026-06-05,Bhopal,Madhya Pradesh,Electronics,Laptop,4,7468.65,0.1,26887.13,2225.1,23.2599,77.4126
+ORD-102383,2026-06-05,Bhopal,Madhya Pradesh,Electronics,Tablet,2,34551.07,0.1,62191.92,5696.06,23.2599,77.4126
+ORD-102384,2026-06-05,Bhopal,Madhya Pradesh,Electronics,Monitor,1,51836.31,0.0,51836.31,4729.1,23.2599,77.4126
+ORD-102385,2026-06-05,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,1118.19,0.0,2236.38,494.77,23.2599,77.4126
+ORD-102386,2026-06-05,Bhopal,Madhya Pradesh,Fashion,Jeans,4,890.94,0.15,3029.21,745.82,23.2599,77.4126
+ORD-102387,2026-06-05,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,11826.85,0.1,21288.33,4415.21,23.2599,77.4126
+ORD-102388,2026-06-06,Indore,Madhya Pradesh,Fashion,Jeans,3,2811.03,0.1,7589.78,1685.97,22.7196,75.8577
+ORD-102389,2026-06-06,Indore,Madhya Pradesh,Electronics,Monitor,1,42984.61,0.0,42984.61,3880.56,22.7196,75.8577
+ORD-102390,2026-06-06,Indore,Madhya Pradesh,Home & Living,Lamp,1,10862.19,0.15,9232.86,1385.99,22.7196,75.8577
+ORD-102391,2026-06-06,Indore,Madhya Pradesh,Electronics,Tablet,3,46978.51,0.05,133888.76,16904.05,22.7196,75.8577
+ORD-102392,2026-06-06,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,2903.25,0.05,2758.08,516.39,22.7196,75.8577
+ORD-102393,2026-06-06,Indore,Madhya Pradesh,Home & Living,Office Chair,3,8705.82,0.05,24811.59,3856.98,22.7196,75.8577
+ORD-102394,2026-06-06,Bhopal,Madhya Pradesh,Fashion,Jeans,4,3027.33,0.05,11503.84,2799.98,23.2599,77.4126
+ORD-102395,2026-06-06,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,39990.61,0.05,151964.33,16795.4,23.2599,77.4126
+ORD-102396,2026-06-06,Bhopal,Madhya Pradesh,Fashion,Jacket,2,872.9,0.0,1745.81,334.29,23.2599,77.4126
+ORD-102397,2026-06-06,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,10854.98,0.05,30936.7,4474.98,23.2599,77.4126
+ORD-102398,2026-06-06,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,4872.13,0.15,4141.31,1200.22,23.2599,77.4126
+ORD-102399,2026-06-06,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,471.23,0.1,1696.43,239.35,23.2599,77.4126
+ORD-102400,2026-06-06,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,35225.46,0.1,31702.92,3491.49,23.2599,77.4126
+ORD-102401,2026-06-06,Bhopal,Madhya Pradesh,Electronics,Monitor,1,9733.78,0.15,8273.72,1362.35,23.2599,77.4126
+ORD-102402,2026-06-06,Bhopal,Madhya Pradesh,Fashion,Backpack,3,1778.95,0.1,4803.16,1211.02,23.2599,77.4126
+ORD-102403,2026-06-07,Indore,Madhya Pradesh,Electronics,Monitor,2,41882.68,0.1,75388.82,9793.01,22.7196,75.8577
+ORD-102404,2026-06-07,Indore,Madhya Pradesh,Electronics,Monitor,2,22490.18,0.15,38233.3,3537.53,22.7196,75.8577
+ORD-102405,2026-06-07,Indore,Madhya Pradesh,Fashion,Jacket,1,1213.96,0.05,1153.27,230.83,22.7196,75.8577
+ORD-102406,2026-06-07,Indore,Madhya Pradesh,Home & Living,Office Chair,1,5838.62,0.05,5546.69,690.29,22.7196,75.8577
+ORD-102407,2026-06-07,Indore,Madhya Pradesh,Electronics,Monitor,2,41630.39,0.0,83260.79,7391.16,22.7196,75.8577
+ORD-102408,2026-06-07,Bhopal,Madhya Pradesh,Home & Living,Desk,3,11848.7,0.2,28436.87,5218.43,23.2599,77.4126
+ORD-102409,2026-06-07,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,5013.9,0.15,4261.82,1243.86,23.2599,77.4126
+ORD-102410,2026-06-07,Bhopal,Madhya Pradesh,Electronics,Laptop,2,41048.86,0.2,65678.18,7932.18,23.2599,77.4126
+ORD-102411,2026-06-07,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,11619.0,0.1,41828.38,6333.28,23.2599,77.4126
+ORD-102412,2026-06-07,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,783.61,0.15,1998.21,335.62,23.2599,77.4126
+ORD-102413,2026-06-07,Bhopal,Madhya Pradesh,Electronics,Tablet,1,25542.46,0.05,24265.34,4126.75,23.2599,77.4126
+ORD-102414,2026-06-08,Indore,Madhya Pradesh,Electronics,Monitor,3,32246.5,0.05,91902.51,15847.43,22.7196,75.8577
+ORD-102415,2026-06-08,Indore,Madhya Pradesh,Fashion,Backpack,1,924.64,0.0,924.64,253.6,22.7196,75.8577
+ORD-102416,2026-06-08,Indore,Madhya Pradesh,Fashion,Jacket,2,2526.39,0.15,4294.86,916.88,22.7196,75.8577
+ORD-102417,2026-06-08,Indore,Madhya Pradesh,Electronics,Tablet,1,52709.61,0.0,52709.61,8773.59,22.7196,75.8577
+ORD-102418,2026-06-08,Indore,Madhya Pradesh,Electronics,Smartphone,3,9289.63,0.05,26475.44,3216.06,22.7196,75.8577
+ORD-102419,2026-06-08,Indore,Madhya Pradesh,Food & Beverages,Juice,2,219.27,0.05,416.61,59.21,22.7196,75.8577
+ORD-102420,2026-06-08,Indore,Madhya Pradesh,Electronics,Smartphone,1,27818.64,0.05,26427.71,2834.06,22.7196,75.8577
+ORD-102421,2026-06-08,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,5653.97,0.2,4523.17,1010.26,23.2599,77.4126
+ORD-102422,2026-06-08,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,19975.51,0.1,35955.92,3328.74,23.2599,77.4126
+ORD-102423,2026-06-08,Bhopal,Madhya Pradesh,Electronics,Monitor,2,45210.94,0.1,81379.69,7074.35,23.2599,77.4126
+ORD-102424,2026-06-08,Bhopal,Madhya Pradesh,Electronics,Tablet,1,2701.9,0.05,2566.8,279.93,23.2599,77.4126
+ORD-102425,2026-06-08,Bhopal,Madhya Pradesh,Electronics,Monitor,1,29984.27,0.05,28485.05,3595.5,23.2599,77.4126
+ORD-102426,2026-06-08,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,5297.37,0.15,13508.29,2468.68,23.2599,77.4126
+ORD-102427,2026-06-09,Indore,Madhya Pradesh,Electronics,Monitor,1,16035.87,0.0,16035.87,2103.02,22.7196,75.8577
+ORD-102428,2026-06-09,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1454.21,0.1,5235.15,870.39,22.7196,75.8577
+ORD-102429,2026-06-09,Indore,Madhya Pradesh,Fashion,Backpack,1,4807.98,0.15,4086.79,997.67,22.7196,75.8577
+ORD-102430,2026-06-09,Indore,Madhya Pradesh,Fashion,Jeans,3,1660.64,0.1,4483.73,967.77,22.7196,75.8577
+ORD-102431,2026-06-09,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,1863.46,0.05,3540.57,686.69,22.7196,75.8577
+ORD-102432,2026-06-09,Indore,Madhya Pradesh,Home & Living,Desk,4,4985.18,0.0,19940.72,3612.87,22.7196,75.8577
+ORD-102433,2026-06-09,Bhopal,Madhya Pradesh,Electronics,Laptop,3,43740.91,0.1,118100.45,19577.65,23.2599,77.4126
+ORD-102434,2026-06-09,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,21847.41,0.0,65542.22,6343.49,23.2599,77.4126
+ORD-102435,2026-06-09,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,1462.79,0.2,2340.47,467.4,23.2599,77.4126
+ORD-102436,2026-06-09,Bhopal,Madhya Pradesh,Electronics,Laptop,1,11395.0,0.05,10825.25,1309.06,23.2599,77.4126
+ORD-102437,2026-06-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,3,2734.43,0.0,8203.3,2113.54,23.2599,77.4126
+ORD-102438,2026-06-09,Bhopal,Madhya Pradesh,Electronics,Laptop,3,39046.62,0.15,99568.89,16083.73,23.2599,77.4126
+ORD-102439,2026-06-09,Bhopal,Madhya Pradesh,Electronics,Tablet,1,6801.7,0.1,6121.53,717.73,23.2599,77.4126
+ORD-102440,2026-06-09,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,4565.56,0.0,13696.69,3238.64,23.2599,77.4126
+ORD-102441,2026-06-09,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,11736.73,0.1,31689.18,5262.35,23.2599,77.4126
+ORD-102442,2026-06-09,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,2848.19,0.05,2705.78,734.51,23.2599,77.4126
+ORD-102443,2026-06-10,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,3508.82,0.15,2982.5,770.94,22.7196,75.8577
+ORD-102444,2026-06-10,Indore,Madhya Pradesh,Home & Living,Desk,4,7952.24,0.1,28628.08,3918.67,22.7196,75.8577
+ORD-102445,2026-06-10,Indore,Madhya Pradesh,Home & Living,Office Chair,1,9333.3,0.05,8866.63,1208.92,22.7196,75.8577
+ORD-102446,2026-06-10,Indore,Madhya Pradesh,Fashion,Jeans,4,5753.47,0.0,23013.86,3809.67,22.7196,75.8577
+ORD-102447,2026-06-10,Indore,Madhya Pradesh,Fashion,Jeans,2,2791.65,0.1,5024.96,1320.23,22.7196,75.8577
+ORD-102448,2026-06-10,Indore,Madhya Pradesh,Home & Living,Lamp,3,8019.1,0.0,24057.31,4395.86,22.7196,75.8577
+ORD-102449,2026-06-10,Indore,Madhya Pradesh,Electronics,Smartphone,1,17253.43,0.1,15528.08,2061.45,22.7196,75.8577
+ORD-102450,2026-06-10,Indore,Madhya Pradesh,Electronics,Smartphone,3,9825.53,0.0,29476.6,5283.21,22.7196,75.8577
+ORD-102451,2026-06-10,Indore,Madhya Pradesh,Fashion,Jeans,4,1503.19,0.2,4810.21,1302.5,22.7196,75.8577
+ORD-102452,2026-06-10,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,3000.57,0.1,2700.51,529.94,22.7196,75.8577
+ORD-102453,2026-06-10,Indore,Madhya Pradesh,Electronics,Smartphone,2,47240.94,0.15,80309.59,10861.0,22.7196,75.8577
+ORD-102454,2026-06-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,1532.08,0.0,1532.08,366.41,23.2599,77.4126
+ORD-102455,2026-06-10,Bhopal,Madhya Pradesh,Electronics,Headphones,2,3574.23,0.05,6791.03,1104.4,23.2599,77.4126
+ORD-102456,2026-06-10,Bhopal,Madhya Pradesh,Home & Living,Desk,1,5098.94,0.15,4334.1,588.03,23.2599,77.4126
+ORD-102457,2026-06-10,Bhopal,Madhya Pradesh,Electronics,Laptop,4,42375.73,0.05,161027.78,15221.74,23.2599,77.4126
+ORD-102458,2026-06-10,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,3733.29,0.05,10639.88,3081.21,23.2599,77.4126
+ORD-102459,2026-06-10,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,400.53,0.15,1021.34,180.8,23.2599,77.4126
+ORD-102460,2026-06-10,Bhopal,Madhya Pradesh,Fashion,Jacket,2,2251.12,0.1,4052.01,965.69,23.2599,77.4126
+ORD-102461,2026-06-10,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4651.29,0.1,4186.16,1102.38,23.2599,77.4126
+ORD-102462,2026-06-10,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,11672.36,0.05,33266.23,6490.38,23.2599,77.4126
+ORD-102463,2026-06-11,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,4428.17,0.1,7970.71,1144.02,22.7196,75.8577
+ORD-102464,2026-06-11,Indore,Madhya Pradesh,Fashion,T-Shirt,3,3260.58,0.0,9781.75,2786.02,22.7196,75.8577
+ORD-102465,2026-06-11,Indore,Madhya Pradesh,Food & Beverages,Tea,1,914.66,0.15,777.46,99.28,22.7196,75.8577
+ORD-102466,2026-06-11,Indore,Madhya Pradesh,Electronics,Smartphone,1,27182.68,0.1,24464.42,3060.85,22.7196,75.8577
+ORD-102467,2026-06-11,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,134.02,0.1,361.86,43.43,22.7196,75.8577
+ORD-102468,2026-06-11,Indore,Madhya Pradesh,Electronics,Monitor,3,34005.86,0.0,102017.59,11602.61,22.7196,75.8577
+ORD-102469,2026-06-11,Indore,Madhya Pradesh,Electronics,Headphones,4,41872.65,0.1,150741.55,23008.87,22.7196,75.8577
+ORD-102470,2026-06-11,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,426.01,0.1,1150.24,242.19,22.7196,75.8577
+ORD-102471,2026-06-11,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1368.25,0.15,3489.03,509.84,22.7196,75.8577
+ORD-102472,2026-06-11,Indore,Madhya Pradesh,Electronics,Tablet,2,40636.38,0.05,77209.11,7895.9,22.7196,75.8577
+ORD-102473,2026-06-11,Indore,Madhya Pradesh,Fashion,T-Shirt,1,747.2,0.1,672.48,127.61,22.7196,75.8577
+ORD-102474,2026-06-11,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,504.58,0.2,403.66,69.12,23.2599,77.4126
+ORD-102475,2026-06-11,Bhopal,Madhya Pradesh,Electronics,Laptop,4,3351.61,0.1,12065.81,1804.99,23.2599,77.4126
+ORD-102476,2026-06-11,Bhopal,Madhya Pradesh,Fashion,Jacket,4,3357.43,0.0,13429.71,2438.98,23.2599,77.4126
+ORD-102477,2026-06-11,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1604.61,0.05,3048.76,584.8,23.2599,77.4126
+ORD-102478,2026-06-11,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,353.82,0.05,672.26,101.12,23.2599,77.4126
+ORD-102479,2026-06-12,Indore,Madhya Pradesh,Fashion,Jacket,1,2103.56,0.2,1682.85,373.23,22.7196,75.8577
+ORD-102480,2026-06-12,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2586.8,0.0,5173.6,982.38,22.7196,75.8577
+ORD-102481,2026-06-12,Indore,Madhya Pradesh,Fashion,Jeans,4,4965.71,0.2,15890.26,4227.61,22.7196,75.8577
+ORD-102482,2026-06-12,Indore,Madhya Pradesh,Electronics,Laptop,4,54235.44,0.1,195247.59,15846.54,22.7196,75.8577
+ORD-102483,2026-06-12,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4448.66,0.0,13345.97,3306.11,22.7196,75.8577
+ORD-102484,2026-06-12,Indore,Madhya Pradesh,Electronics,Monitor,4,3990.73,0.0,15962.91,1955.55,22.7196,75.8577
+ORD-102485,2026-06-12,Indore,Madhya Pradesh,Fashion,T-Shirt,2,3460.56,0.05,6575.06,1789.12,22.7196,75.8577
+ORD-102486,2026-06-12,Indore,Madhya Pradesh,Electronics,Headphones,3,45382.91,0.15,115726.41,12203.21,22.7196,75.8577
+ORD-102487,2026-06-12,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,8293.52,0.0,33174.07,4367.88,23.2599,77.4126
+ORD-102488,2026-06-12,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,1218.46,0.15,3107.07,831.2,23.2599,77.4126
+ORD-102489,2026-06-12,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,11880.78,0.05,11286.75,2657.1,23.2599,77.4126
+ORD-102490,2026-06-12,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,379.91,0.0,1519.64,177.69,23.2599,77.4126
+ORD-102491,2026-06-12,Bhopal,Madhya Pradesh,Electronics,Tablet,1,37768.44,0.1,33991.6,2879.44,23.2599,77.4126
+ORD-102492,2026-06-12,Bhopal,Madhya Pradesh,Electronics,Laptop,4,29266.68,0.0,117066.72,12458.54,23.2599,77.4126
+ORD-102493,2026-06-12,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,3403.19,0.1,3062.87,612.05,23.2599,77.4126
+ORD-102494,2026-06-12,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,159.5,0.1,574.2,110.08,23.2599,77.4126
+ORD-102495,2026-06-13,Indore,Madhya Pradesh,Fashion,T-Shirt,1,731.19,0.1,658.07,182.58,22.7196,75.8577
+ORD-102496,2026-06-13,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,604.88,0.05,574.63,135.83,22.7196,75.8577
+ORD-102497,2026-06-13,Indore,Madhya Pradesh,Electronics,Headphones,1,18237.49,0.1,16413.74,2017.57,22.7196,75.8577
+ORD-102498,2026-06-13,Indore,Madhya Pradesh,Electronics,Laptop,2,34548.9,0.05,65642.9,9583.9,22.7196,75.8577
+ORD-102499,2026-06-13,Indore,Madhya Pradesh,Electronics,Tablet,4,2612.31,0.2,8359.4,724.79,22.7196,75.8577
+ORD-102500,2026-06-13,Indore,Madhya Pradesh,Fashion,Backpack,1,2490.36,0.1,2241.32,551.34,22.7196,75.8577
+ORD-102501,2026-06-13,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,3408.07,0.05,12950.68,2787.62,22.7196,75.8577
+ORD-102502,2026-06-13,Indore,Madhya Pradesh,Electronics,Tablet,4,12976.73,0.0,51906.9,7451.31,22.7196,75.8577
+ORD-102503,2026-06-13,Indore,Madhya Pradesh,Electronics,Smartphone,4,9825.25,0.1,35370.89,5503.98,22.7196,75.8577
+ORD-102504,2026-06-13,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,5159.51,0.0,15478.52,2707.4,23.2599,77.4126
+ORD-102505,2026-06-13,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,497.62,0.1,1791.42,230.08,23.2599,77.4126
+ORD-102506,2026-06-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,3212.94,0.1,11566.58,3092.71,23.2599,77.4126
+ORD-102507,2026-06-13,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,35352.17,0.15,120197.37,14602.81,23.2599,77.4126
+ORD-102508,2026-06-13,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,436.3,0.05,1243.46,162.15,23.2599,77.4126
+ORD-102509,2026-06-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,3046.38,0.1,2741.74,636.06,23.2599,77.4126
+ORD-102510,2026-06-13,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,49250.0,0.1,177299.98,29714.79,23.2599,77.4126
+ORD-102511,2026-06-13,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,8585.43,0.05,8156.16,1413.73,23.2599,77.4126
+ORD-102512,2026-06-13,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,5573.39,0.05,5294.72,683.02,23.2599,77.4126
+ORD-102513,2026-06-13,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,3139.83,0.1,5651.7,1154.78,23.2599,77.4126
+ORD-102514,2026-06-14,Indore,Madhya Pradesh,Fashion,Jacket,2,3075.36,0.1,5535.65,1249.76,22.7196,75.8577
+ORD-102515,2026-06-14,Indore,Madhya Pradesh,Electronics,Tablet,4,28121.17,0.05,106860.43,18126.25,22.7196,75.8577
+ORD-102516,2026-06-14,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1457.91,0.0,4373.73,692.61,22.7196,75.8577
+ORD-102517,2026-06-14,Indore,Madhya Pradesh,Electronics,Headphones,3,15543.01,0.05,44297.59,4955.01,22.7196,75.8577
+ORD-102518,2026-06-14,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,5970.27,0.15,15224.2,2854.34,22.7196,75.8577
+ORD-102519,2026-06-14,Indore,Madhya Pradesh,Electronics,Headphones,2,38650.47,0.0,77300.93,10915.67,22.7196,75.8577
+ORD-102520,2026-06-14,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,408.06,0.1,367.25,68.31,22.7196,75.8577
+ORD-102521,2026-06-14,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,3354.51,0.05,6373.56,1520.59,23.2599,77.4126
+ORD-102522,2026-06-14,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,3368.18,0.0,13472.71,2956.73,23.2599,77.4126
+ORD-102523,2026-06-14,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4585.22,0.05,13067.89,2378.2,23.2599,77.4126
+ORD-102524,2026-06-14,Bhopal,Madhya Pradesh,Electronics,Headphones,1,24082.76,0.1,21674.49,1799.99,23.2599,77.4126
+ORD-102525,2026-06-14,Bhopal,Madhya Pradesh,Electronics,Laptop,1,8899.49,0.0,8899.49,1024.32,23.2599,77.4126
+ORD-102526,2026-06-14,Bhopal,Madhya Pradesh,Electronics,Laptop,1,42129.98,0.0,42129.98,3772.78,23.2599,77.4126
+ORD-102527,2026-06-14,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,5322.62,0.15,18096.9,3639.29,23.2599,77.4126
+ORD-102528,2026-06-14,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,3,2123.5,0.1,5733.45,1552.68,23.2599,77.4126
+ORD-102529,2026-06-14,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,3131.31,0.15,2661.61,593.6,23.2599,77.4126
+ORD-102530,2026-06-14,Bhopal,Madhya Pradesh,Electronics,Laptop,4,8337.06,0.1,30013.42,2938.83,23.2599,77.4126
+ORD-102531,2026-06-15,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1814.07,0.1,4897.99,1190.86,22.7196,75.8577
+ORD-102532,2026-06-15,Indore,Madhya Pradesh,Electronics,Headphones,4,10069.31,0.15,34235.65,5730.93,22.7196,75.8577
+ORD-102533,2026-06-15,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1757.2,0.1,3162.97,652.06,22.7196,75.8577
+ORD-102534,2026-06-15,Indore,Madhya Pradesh,Electronics,Headphones,2,37714.24,0.0,75428.47,8195.56,22.7196,75.8577
+ORD-102535,2026-06-15,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5294.16,0.1,19058.98,4751.83,22.7196,75.8577
+ORD-102536,2026-06-15,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,3031.14,0.0,3031.14,621.55,23.2599,77.4126
+ORD-102537,2026-06-15,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,6596.33,0.1,5936.7,1324.78,23.2599,77.4126
+ORD-102538,2026-06-15,Bhopal,Madhya Pradesh,Electronics,Tablet,1,17348.08,0.0,17348.08,1662.62,23.2599,77.4126
+ORD-102539,2026-06-15,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,2262.91,0.1,4073.24,1168.33,23.2599,77.4126
+ORD-102540,2026-06-15,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,108.28,0.0,216.55,32.22,23.2599,77.4126
+ORD-102541,2026-06-16,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,594.79,0.2,1903.33,350.6,22.7196,75.8577
+ORD-102542,2026-06-16,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,4669.6,0.0,4669.6,1071.26,22.7196,75.8577
+ORD-102543,2026-06-16,Indore,Madhya Pradesh,Fashion,Jeans,2,1862.62,0.15,3166.45,562.63,22.7196,75.8577
+ORD-102544,2026-06-16,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,4915.62,0.05,4669.84,1288.55,22.7196,75.8577
+ORD-102545,2026-06-16,Indore,Madhya Pradesh,Electronics,Tablet,2,29724.72,0.1,53504.5,9230.28,22.7196,75.8577
+ORD-102546,2026-06-16,Indore,Madhya Pradesh,Electronics,Monitor,1,25098.12,0.05,23843.21,3934.33,22.7196,75.8577
+ORD-102547,2026-06-16,Indore,Madhya Pradesh,Fashion,T-Shirt,3,5035.28,0.05,14350.54,3355.29,22.7196,75.8577
+ORD-102548,2026-06-16,Bhopal,Madhya Pradesh,Home & Living,Desk,3,6286.81,0.05,17917.41,3457.95,23.2599,77.4126
+ORD-102549,2026-06-16,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,8466.11,0.1,15238.99,2126.37,23.2599,77.4126
+ORD-102550,2026-06-16,Bhopal,Madhya Pradesh,Fashion,Backpack,3,3957.85,0.15,10092.51,2077.21,23.2599,77.4126
+ORD-102551,2026-06-16,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,947.26,0.05,2699.7,531.72,23.2599,77.4126
+ORD-102552,2026-06-16,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4257.74,0.15,10857.24,3221.93,23.2599,77.4126
+ORD-102553,2026-06-17,Indore,Madhya Pradesh,Food & Beverages,Tea,1,217.51,0.15,184.88,39.71,22.7196,75.8577
+ORD-102554,2026-06-17,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,426.21,0.05,404.9,63.27,22.7196,75.8577
+ORD-102555,2026-06-17,Indore,Madhya Pradesh,Fashion,Jeans,2,2930.09,0.1,5274.16,1120.9,22.7196,75.8577
+ORD-102556,2026-06-17,Indore,Madhya Pradesh,Electronics,Laptop,4,32625.66,0.05,123977.5,16759.32,22.7196,75.8577
+ORD-102557,2026-06-17,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1185.96,0.1,3202.1,337.43,22.7196,75.8577
+ORD-102558,2026-06-17,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,2832.25,0.1,5098.05,1018.46,22.7196,75.8577
+ORD-102559,2026-06-17,Indore,Madhya Pradesh,Fashion,Jeans,3,5241.31,0.0,15723.92,3172.51,22.7196,75.8577
+ORD-102560,2026-06-17,Indore,Madhya Pradesh,Fashion,Backpack,3,4080.74,0.1,11018.0,2983.44,22.7196,75.8577
+ORD-102561,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Laptop,2,42800.09,0.1,77040.16,6390.34,23.2599,77.4126
+ORD-102562,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Laptop,1,15133.82,0.15,12863.74,2070.18,23.2599,77.4126
+ORD-102563,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Tablet,2,15200.21,0.2,24320.33,2680.32,23.2599,77.4126
+ORD-102564,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Monitor,1,35040.81,0.05,33288.77,3182.93,23.2599,77.4126
+ORD-102565,2026-06-17,Bhopal,Madhya Pradesh,Fashion,Backpack,1,4534.48,0.05,4307.75,1105.84,23.2599,77.4126
+ORD-102566,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Headphones,2,26533.34,0.05,50413.35,5173.07,23.2599,77.4126
+ORD-102567,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Tablet,3,50966.99,0.1,137610.88,16165.4,23.2599,77.4126
+ORD-102568,2026-06-17,Bhopal,Madhya Pradesh,Electronics,Tablet,4,14268.55,0.1,51366.78,6705.77,23.2599,77.4126
+ORD-102569,2026-06-17,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,1311.47,0.1,1180.33,190.1,23.2599,77.4126
+ORD-102570,2026-06-17,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1581.3,0.15,1344.1,147.41,23.2599,77.4126
+ORD-102571,2026-06-18,Indore,Madhya Pradesh,Electronics,Laptop,4,15804.92,0.15,53736.73,7106.12,22.7196,75.8577
+ORD-102572,2026-06-18,Indore,Madhya Pradesh,Electronics,Monitor,2,30897.17,0.05,58704.63,9202.04,22.7196,75.8577
+ORD-102573,2026-06-18,Indore,Madhya Pradesh,Fashion,T-Shirt,3,5660.46,0.1,15283.25,3844.46,22.7196,75.8577
+ORD-102574,2026-06-18,Indore,Madhya Pradesh,Fashion,Backpack,1,4533.01,0.05,4306.36,1227.74,22.7196,75.8577
+ORD-102575,2026-06-18,Indore,Madhya Pradesh,Electronics,Headphones,2,23795.72,0.0,47591.44,5156.68,22.7196,75.8577
+ORD-102576,2026-06-18,Indore,Madhya Pradesh,Fashion,Jacket,1,3404.19,0.2,2723.35,456.52,22.7196,75.8577
+ORD-102577,2026-06-18,Indore,Madhya Pradesh,Electronics,Tablet,4,24211.48,0.0,96845.94,14419.57,22.7196,75.8577
+ORD-102578,2026-06-18,Indore,Madhya Pradesh,Fashion,Jacket,3,5631.82,0.05,16050.69,3901.06,22.7196,75.8577
+ORD-102579,2026-06-18,Indore,Madhya Pradesh,Electronics,Tablet,3,38452.37,0.05,109589.26,12576.2,22.7196,75.8577
+ORD-102580,2026-06-18,Indore,Madhya Pradesh,Electronics,Smartphone,3,14947.37,0.15,38115.78,5581.5,22.7196,75.8577
+ORD-102581,2026-06-18,Indore,Madhya Pradesh,Fashion,Jacket,2,2554.24,0.15,4342.22,1230.96,22.7196,75.8577
+ORD-102582,2026-06-18,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,4352.5,0.15,3699.63,686.91,23.2599,77.4126
+ORD-102583,2026-06-18,Bhopal,Madhya Pradesh,Home & Living,Desk,2,5164.99,0.05,9813.49,2054.04,23.2599,77.4126
+ORD-102584,2026-06-18,Bhopal,Madhya Pradesh,Fashion,Jeans,4,1205.99,0.1,4341.57,1066.96,23.2599,77.4126
+ORD-102585,2026-06-18,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,373.94,0.0,747.88,162.89,23.2599,77.4126
+ORD-102586,2026-06-18,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,9581.79,0.05,9102.71,1432.85,23.2599,77.4126
+ORD-102587,2026-06-19,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,3680.58,0.1,6625.04,1967.11,22.7196,75.8577
+ORD-102588,2026-06-19,Indore,Madhya Pradesh,Electronics,Monitor,3,23728.84,0.0,71186.51,6327.38,22.7196,75.8577
+ORD-102589,2026-06-19,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,2867.78,0.15,9750.44,2336.43,22.7196,75.8577
+ORD-102590,2026-06-19,Indore,Madhya Pradesh,Home & Living,Mixer,4,4492.31,0.0,17969.22,2503.27,22.7196,75.8577
+ORD-102591,2026-06-19,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,1845.94,0.1,3322.7,562.24,22.7196,75.8577
+ORD-102592,2026-06-19,Indore,Madhya Pradesh,Electronics,Headphones,3,7984.51,0.0,23953.53,3009.92,22.7196,75.8577
+ORD-102593,2026-06-19,Indore,Madhya Pradesh,Electronics,Monitor,1,40724.93,0.0,40724.93,4667.07,22.7196,75.8577
+ORD-102594,2026-06-19,Indore,Madhya Pradesh,Fashion,Jacket,1,3687.45,0.15,3134.33,788.24,22.7196,75.8577
+ORD-102595,2026-06-19,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,1062.94,0.15,3613.99,678.1,22.7196,75.8577
+ORD-102596,2026-06-19,Indore,Madhya Pradesh,Home & Living,Lamp,1,7322.31,0.1,6590.08,1343.85,22.7196,75.8577
+ORD-102597,2026-06-19,Indore,Madhya Pradesh,Food & Beverages,Tea,3,1121.09,0.0,3363.28,396.5,22.7196,75.8577
+ORD-102598,2026-06-19,Bhopal,Madhya Pradesh,Fashion,Jacket,3,3323.64,0.05,9472.38,1947.92,23.2599,77.4126
+ORD-102599,2026-06-19,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,3065.62,0.1,11036.24,1477.53,23.2599,77.4126
+ORD-102600,2026-06-19,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,801.68,0.1,2164.54,371.68,23.2599,77.4126
+ORD-102601,2026-06-19,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,4359.71,0.1,7847.48,2108.95,23.2599,77.4126
+ORD-102602,2026-06-19,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,480.97,0.1,1298.61,157.95,23.2599,77.4126
+ORD-102603,2026-06-19,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,7137.9,0.1,25696.43,3182.57,23.2599,77.4126
+ORD-102604,2026-06-19,Bhopal,Madhya Pradesh,Fashion,Backpack,1,3524.09,0.2,2819.27,698.72,23.2599,77.4126
+ORD-102605,2026-06-19,Bhopal,Madhya Pradesh,Home & Living,Desk,3,3824.36,0.05,10899.43,1811.43,23.2599,77.4126
+ORD-102606,2026-06-20,Indore,Madhya Pradesh,Fashion,Backpack,2,3683.94,0.05,6999.49,1316.16,22.7196,75.8577
+ORD-102607,2026-06-20,Indore,Madhya Pradesh,Electronics,Laptop,1,43743.88,0.05,41556.69,5477.92,22.7196,75.8577
+ORD-102608,2026-06-20,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,3219.1,0.15,2736.24,733.61,22.7196,75.8577
+ORD-102609,2026-06-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,1828.03,0.0,5484.09,930.1,22.7196,75.8577
+ORD-102610,2026-06-20,Indore,Madhya Pradesh,Fashion,T-Shirt,2,4315.98,0.0,8631.95,2501.3,22.7196,75.8577
+ORD-102611,2026-06-20,Bhopal,Madhya Pradesh,Electronics,Laptop,4,8497.67,0.05,32291.15,3059.63,23.2599,77.4126
+ORD-102612,2026-06-20,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,2572.95,0.0,2572.95,631.57,23.2599,77.4126
+ORD-102613,2026-06-20,Bhopal,Madhya Pradesh,Fashion,Jacket,2,638.71,0.1,1149.68,297.0,23.2599,77.4126
+ORD-102614,2026-06-20,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,33651.34,0.15,28603.64,2670.25,23.2599,77.4126
+ORD-102615,2026-06-20,Bhopal,Madhya Pradesh,Electronics,Tablet,4,45621.72,0.05,173362.52,28616.38,23.2599,77.4126
+ORD-102616,2026-06-20,Bhopal,Madhya Pradesh,Food & Beverages,Juice,2,1437.34,0.0,2874.69,365.12,23.2599,77.4126
+ORD-102617,2026-06-21,Indore,Madhya Pradesh,Fashion,Backpack,4,5419.26,0.0,21677.06,5499.01,22.7196,75.8577
+ORD-102618,2026-06-21,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,1125.78,0.0,4503.1,534.37,22.7196,75.8577
+ORD-102619,2026-06-21,Indore,Madhya Pradesh,Fashion,T-Shirt,1,2688.64,0.05,2554.21,484.27,22.7196,75.8577
+ORD-102620,2026-06-21,Indore,Madhya Pradesh,Electronics,Headphones,1,24135.97,0.1,21722.38,1782.3,22.7196,75.8577
+ORD-102621,2026-06-21,Indore,Madhya Pradesh,Home & Living,Lamp,2,8957.8,0.0,17915.61,3156.59,22.7196,75.8577
+ORD-102622,2026-06-21,Bhopal,Madhya Pradesh,Electronics,Tablet,2,26196.31,0.0,52392.62,5555.25,23.2599,77.4126
+ORD-102623,2026-06-21,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,1453.16,0.1,3923.54,832.96,23.2599,77.4126
+ORD-102624,2026-06-21,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,5242.33,0.05,19920.86,3130.35,23.2599,77.4126
+ORD-102625,2026-06-21,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,2744.35,0.0,10977.42,1796.23,23.2599,77.4126
+ORD-102626,2026-06-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,2076.85,0.1,1869.16,320.64,23.2599,77.4126
+ORD-102627,2026-06-21,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,1661.27,0.0,1661.27,362.92,23.2599,77.4126
+ORD-102628,2026-06-21,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,3162.8,0.15,8065.15,1403.27,23.2599,77.4126
+ORD-102629,2026-06-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,1728.03,0.1,1555.23,252.83,23.2599,77.4126
+ORD-102630,2026-06-22,Indore,Madhya Pradesh,Home & Living,Desk,4,11604.04,0.2,37132.93,8275.85,22.7196,75.8577
+ORD-102631,2026-06-22,Indore,Madhya Pradesh,Home & Living,Mixer,3,2168.15,0.1,5854.01,1386.8,22.7196,75.8577
+ORD-102632,2026-06-22,Indore,Madhya Pradesh,Fashion,Jeans,4,1669.94,0.0,6679.76,1906.86,22.7196,75.8577
+ORD-102633,2026-06-22,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,5280.75,0.1,14258.02,3701.58,22.7196,75.8577
+ORD-102634,2026-06-22,Indore,Madhya Pradesh,Electronics,Headphones,1,44109.07,0.0,44109.07,4633.68,22.7196,75.8577
+ORD-102635,2026-06-22,Indore,Madhya Pradesh,Home & Living,Lamp,1,8046.7,0.05,7644.37,1499.86,22.7196,75.8577
+ORD-102636,2026-06-22,Indore,Madhya Pradesh,Home & Living,Desk,1,4234.19,0.1,3810.77,608.13,22.7196,75.8577
+ORD-102637,2026-06-22,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,2033.41,0.1,7320.26,1334.15,22.7196,75.8577
+ORD-102638,2026-06-22,Indore,Madhya Pradesh,Electronics,Smartphone,1,22262.25,0.15,18922.91,3255.26,22.7196,75.8577
+ORD-102639,2026-06-22,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,2843.47,0.0,11373.89,2054.61,23.2599,77.4126
+ORD-102640,2026-06-22,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,5995.0,0.1,16186.49,3313.55,23.2599,77.4126
+ORD-102641,2026-06-22,Bhopal,Madhya Pradesh,Electronics,Laptop,4,35907.7,0.1,129267.73,22503.66,23.2599,77.4126
+ORD-102642,2026-06-22,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,1785.78,0.15,3035.83,545.6,23.2599,77.4126
+ORD-102643,2026-06-22,Bhopal,Madhya Pradesh,Electronics,Headphones,2,52096.75,0.15,88564.48,15257.06,23.2599,77.4126
+ORD-102644,2026-06-23,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1133.46,0.0,2266.92,321.99,22.7196,75.8577
+ORD-102645,2026-06-23,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,1144.51,0.0,1144.51,115.89,22.7196,75.8577
+ORD-102646,2026-06-23,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,4042.65,0.15,10308.77,1936.95,22.7196,75.8577
+ORD-102647,2026-06-23,Indore,Madhya Pradesh,Electronics,Monitor,3,31258.62,0.1,84398.28,9145.61,22.7196,75.8577
+ORD-102648,2026-06-23,Indore,Madhya Pradesh,Home & Living,Desk,3,2141.68,0.1,5782.53,1018.81,22.7196,75.8577
+ORD-102649,2026-06-23,Indore,Madhya Pradesh,Electronics,Monitor,1,14397.74,0.0,14397.74,1682.69,22.7196,75.8577
+ORD-102650,2026-06-23,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2247.93,0.05,6406.61,1520.57,22.7196,75.8577
+ORD-102651,2026-06-23,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,4455.46,0.0,8910.91,2464.71,23.2599,77.4126
+ORD-102652,2026-06-23,Bhopal,Madhya Pradesh,Electronics,Laptop,4,42303.86,0.2,135372.34,21911.24,23.2599,77.4126
+ORD-102653,2026-06-23,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,2054.8,0.15,3493.15,746.31,23.2599,77.4126
+ORD-102654,2026-06-23,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,295.04,0.05,560.58,60.03,23.2599,77.4126
+ORD-102655,2026-06-23,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,404.16,0.05,767.91,141.25,23.2599,77.4126
+ORD-102656,2026-06-23,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,1499.77,0.1,4049.38,501.07,23.2599,77.4126
+ORD-102657,2026-06-23,Bhopal,Madhya Pradesh,Electronics,Headphones,2,42526.87,0.15,72295.67,11778.78,23.2599,77.4126
+ORD-102658,2026-06-23,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,4140.29,0.05,15733.11,4384.3,23.2599,77.4126
+ORD-102659,2026-06-23,Bhopal,Madhya Pradesh,Electronics,Monitor,1,11601.97,0.05,11021.87,1586.05,23.2599,77.4126
+ORD-102660,2026-06-24,Indore,Madhya Pradesh,Fashion,Jeans,2,3486.95,0.05,6625.21,1845.28,22.7196,75.8577
+ORD-102661,2026-06-24,Indore,Madhya Pradesh,Electronics,Headphones,3,13368.66,0.0,40105.98,5307.56,22.7196,75.8577
+ORD-102662,2026-06-24,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,1450.92,0.2,4642.94,469.01,22.7196,75.8577
+ORD-102663,2026-06-24,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,2819.44,0.0,8458.32,2068.87,22.7196,75.8577
+ORD-102664,2026-06-24,Indore,Madhya Pradesh,Electronics,Tablet,3,31850.86,0.0,95552.57,14596.42,22.7196,75.8577
+ORD-102665,2026-06-24,Indore,Madhya Pradesh,Fashion,Jeans,2,700.44,0.15,1190.74,237.84,22.7196,75.8577
+ORD-102666,2026-06-24,Bhopal,Madhya Pradesh,Electronics,Monitor,4,35559.79,0.1,128015.23,11419.34,23.2599,77.4126
+ORD-102667,2026-06-24,Bhopal,Madhya Pradesh,Electronics,Monitor,4,31306.5,0.0,125225.99,20319.5,23.2599,77.4126
+ORD-102668,2026-06-24,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,739.59,0.05,2107.83,262.86,23.2599,77.4126
+ORD-102669,2026-06-24,Bhopal,Madhya Pradesh,Electronics,Monitor,1,49714.05,0.15,42256.95,6887.92,23.2599,77.4126
+ORD-102670,2026-06-24,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,1947.36,0.1,3505.25,930.71,23.2599,77.4126
+ORD-102671,2026-06-24,Bhopal,Madhya Pradesh,Food & Beverages,Juice,1,288.81,0.05,274.37,46.09,23.2599,77.4126
+ORD-102672,2026-06-24,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3178.44,0.1,5721.19,1555.78,23.2599,77.4126
+ORD-102673,2026-06-25,Indore,Madhya Pradesh,Fashion,T-Shirt,1,2760.54,0.0,2760.54,724.01,22.7196,75.8577
+ORD-102674,2026-06-25,Indore,Madhya Pradesh,Electronics,Monitor,2,43052.66,0.0,86105.33,12669.44,22.7196,75.8577
+ORD-102675,2026-06-25,Indore,Madhya Pradesh,Fashion,Backpack,3,1445.48,0.1,3902.8,751.89,22.7196,75.8577
+ORD-102676,2026-06-25,Indore,Madhya Pradesh,Food & Beverages,Juice,3,630.49,0.0,1891.47,383.53,22.7196,75.8577
+ORD-102677,2026-06-25,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,3005.13,0.15,2554.36,474.22,22.7196,75.8577
+ORD-102678,2026-06-25,Bhopal,Madhya Pradesh,Electronics,Monitor,2,32032.29,0.15,54454.88,8253.76,23.2599,77.4126
+ORD-102679,2026-06-25,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,6216.16,0.05,17716.06,2418.9,23.2599,77.4126
+ORD-102680,2026-06-25,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,1552.25,0.0,3104.5,619.52,23.2599,77.4126
+ORD-102681,2026-06-25,Bhopal,Madhya Pradesh,Fashion,Backpack,4,5299.38,0.05,20137.65,5510.55,23.2599,77.4126
+ORD-102682,2026-06-25,Bhopal,Madhya Pradesh,Electronics,Monitor,1,44588.6,0.05,42359.17,6745.15,23.2599,77.4126
+ORD-102683,2026-06-25,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,4664.03,0.0,4664.03,776.13,23.2599,77.4126
+ORD-102684,2026-06-25,Bhopal,Madhya Pradesh,Fashion,Jeans,4,3188.86,0.0,12755.43,3415.23,23.2599,77.4126
+ORD-102685,2026-06-26,Indore,Madhya Pradesh,Fashion,T-Shirt,4,3868.52,0.0,15474.08,2766.18,22.7196,75.8577
+ORD-102686,2026-06-26,Indore,Madhya Pradesh,Home & Living,Lamp,2,7359.23,0.15,12510.69,2052.82,22.7196,75.8577
+ORD-102687,2026-06-26,Indore,Madhya Pradesh,Electronics,Laptop,3,41396.3,0.1,111770.01,18862.32,22.7196,75.8577
+ORD-102688,2026-06-26,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1104.85,0.2,3535.52,396.47,22.7196,75.8577
+ORD-102689,2026-06-26,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,804.55,0.0,1609.09,366.75,22.7196,75.8577
+ORD-102690,2026-06-26,Indore,Madhya Pradesh,Fashion,Jacket,3,1272.49,0.1,3435.72,752.84,22.7196,75.8577
+ORD-102691,2026-06-26,Indore,Madhya Pradesh,Home & Living,Desk,1,929.34,0.05,882.87,109.65,22.7196,75.8577
+ORD-102692,2026-06-26,Indore,Madhya Pradesh,Electronics,Laptop,4,34836.93,0.1,125412.95,10067.96,22.7196,75.8577
+ORD-102693,2026-06-26,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,247.13,0.05,234.78,49.37,22.7196,75.8577
+ORD-102694,2026-06-26,Indore,Madhya Pradesh,Home & Living,Lamp,1,7932.53,0.05,7535.91,1018.46,22.7196,75.8577
+ORD-102695,2026-06-26,Indore,Madhya Pradesh,Home & Living,Office Chair,2,9384.05,0.0,18768.1,2854.34,22.7196,75.8577
+ORD-102696,2026-06-26,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,746.42,0.0,746.42,184.32,23.2599,77.4126
+ORD-102697,2026-06-26,Bhopal,Madhya Pradesh,Home & Living,Desk,2,7201.68,0.05,13683.2,1714.44,23.2599,77.4126
+ORD-102698,2026-06-26,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,2629.18,0.05,7493.17,1190.29,23.2599,77.4126
+ORD-102699,2026-06-26,Bhopal,Madhya Pradesh,Fashion,Jeans,3,1008.51,0.05,2874.25,578.9,23.2599,77.4126
+ORD-102700,2026-06-26,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,7788.38,0.15,26480.49,5014.44,23.2599,77.4126
+ORD-102701,2026-06-26,Bhopal,Madhya Pradesh,Electronics,Tablet,2,32384.95,0.1,58292.9,5032.72,23.2599,77.4126
+ORD-102702,2026-06-26,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,11912.9,0.05,45269.02,9573.15,23.2599,77.4126
+ORD-102703,2026-06-27,Indore,Madhya Pradesh,Electronics,Headphones,1,7964.78,0.1,7168.3,723.01,22.7196,75.8577
+ORD-102704,2026-06-27,Indore,Madhya Pradesh,Fashion,Jacket,3,2738.72,0.0,8216.17,1990.17,22.7196,75.8577
+ORD-102705,2026-06-27,Indore,Madhya Pradesh,Electronics,Tablet,1,5749.61,0.0,5749.61,590.74,22.7196,75.8577
+ORD-102706,2026-06-27,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,322.29,0.1,1160.25,179.12,22.7196,75.8577
+ORD-102707,2026-06-27,Indore,Madhya Pradesh,Electronics,Headphones,1,14025.0,0.1,12622.5,1728.53,22.7196,75.8577
+ORD-102708,2026-06-27,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,2689.91,0.2,8607.73,1498.51,22.7196,75.8577
+ORD-102709,2026-06-27,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,635.64,0.1,1716.22,336.07,22.7196,75.8577
+ORD-102710,2026-06-27,Indore,Madhya Pradesh,Electronics,Tablet,2,22997.64,0.1,41395.76,4768.08,22.7196,75.8577
+ORD-102711,2026-06-27,Indore,Madhya Pradesh,Fashion,Backpack,1,678.46,0.05,644.54,129.56,22.7196,75.8577
+ORD-102712,2026-06-27,Bhopal,Madhya Pradesh,Fashion,Jacket,2,2426.74,0.0,4853.48,968.9,23.2599,77.4126
+ORD-102713,2026-06-27,Bhopal,Madhya Pradesh,Fashion,Backpack,3,969.89,0.0,2909.67,759.53,23.2599,77.4126
+ORD-102714,2026-06-27,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,750.0,0.05,1425.0,201.23,23.2599,77.4126
+ORD-102715,2026-06-27,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,3406.26,0.05,3235.95,609.33,23.2599,77.4126
+ORD-102716,2026-06-27,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,825.17,0.2,1320.26,277.87,23.2599,77.4126
+ORD-102717,2026-06-27,Bhopal,Madhya Pradesh,Fashion,Jeans,4,3705.95,0.15,12600.25,2350.75,23.2599,77.4126
+ORD-102718,2026-06-27,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,1658.17,0.05,6301.06,1801.36,23.2599,77.4126
+ORD-102719,2026-06-27,Bhopal,Madhya Pradesh,Electronics,Monitor,4,46398.51,0.0,185594.03,19258.12,23.2599,77.4126
+ORD-102720,2026-06-27,Bhopal,Madhya Pradesh,Electronics,Laptop,3,6940.89,0.15,17699.26,2372.41,23.2599,77.4126
+ORD-102721,2026-06-27,Bhopal,Madhya Pradesh,Home & Living,Desk,3,7704.99,0.05,21959.22,3997.74,23.2599,77.4126
+ORD-102722,2026-06-28,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,2647.95,0.2,8473.45,1509.67,22.7196,75.8577
+ORD-102723,2026-06-28,Indore,Madhya Pradesh,Electronics,Laptop,4,39512.03,0.15,134340.92,14448.96,22.7196,75.8577
+ORD-102724,2026-06-28,Indore,Madhya Pradesh,Electronics,Monitor,1,26604.19,0.2,21283.35,1776.94,22.7196,75.8577
+ORD-102725,2026-06-28,Indore,Madhya Pradesh,Electronics,Tablet,2,9044.83,0.1,16280.69,2621.67,22.7196,75.8577
+ORD-102726,2026-06-28,Indore,Madhya Pradesh,Fashion,Jeans,3,2162.6,0.1,5839.01,1578.14,22.7196,75.8577
+ORD-102727,2026-06-28,Indore,Madhya Pradesh,Electronics,Tablet,2,24593.31,0.0,49186.62,7446.66,22.7196,75.8577
+ORD-102728,2026-06-28,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,1123.29,0.05,4268.52,1150.4,22.7196,75.8577
+ORD-102729,2026-06-28,Indore,Madhya Pradesh,Electronics,Tablet,3,28383.91,0.15,72378.98,6040.83,22.7196,75.8577
+ORD-102730,2026-06-28,Indore,Madhya Pradesh,Electronics,Monitor,3,49318.18,0.1,133159.08,13129.86,22.7196,75.8577
+ORD-102731,2026-06-28,Bhopal,Madhya Pradesh,Electronics,Laptop,2,26155.13,0.05,49694.75,7273.96,23.2599,77.4126
+ORD-102732,2026-06-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,33913.98,0.15,28826.89,3938.3,23.2599,77.4126
+ORD-102733,2026-06-28,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,4578.27,0.05,4349.36,731.33,23.2599,77.4126
+ORD-102734,2026-06-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,47767.8,0.0,95535.6,16319.21,23.2599,77.4126
+ORD-102735,2026-06-28,Bhopal,Madhya Pradesh,Fashion,Jeans,2,1790.75,0.1,3223.34,531.74,23.2599,77.4126
+ORD-102736,2026-06-29,Indore,Madhya Pradesh,Home & Living,Mixer,4,8264.65,0.1,29752.74,4763.35,22.7196,75.8577
+ORD-102737,2026-06-29,Indore,Madhya Pradesh,Home & Living,Office Chair,2,10132.11,0.15,17224.59,3129.11,22.7196,75.8577
+ORD-102738,2026-06-29,Indore,Madhya Pradesh,Food & Beverages,Tea,1,788.14,0.0,788.14,87.54,22.7196,75.8577
+ORD-102739,2026-06-29,Indore,Madhya Pradesh,Electronics,Laptop,1,49075.67,0.1,44168.11,7027.35,22.7196,75.8577
+ORD-102740,2026-06-29,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,1487.94,0.1,2678.29,687.34,22.7196,75.8577
+ORD-102741,2026-06-29,Indore,Madhya Pradesh,Electronics,Headphones,1,51235.89,0.05,48674.1,6128.04,22.7196,75.8577
+ORD-102742,2026-06-29,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2968.11,0.1,8013.89,1956.36,23.2599,77.4126
+ORD-102743,2026-06-29,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,3842.73,0.15,9798.97,2672.4,23.2599,77.4126
+ORD-102744,2026-06-29,Bhopal,Madhya Pradesh,Electronics,Laptop,3,28929.44,0.05,82448.91,9274.84,23.2599,77.4126
+ORD-102745,2026-06-29,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,1206.22,0.15,4101.13,858.95,23.2599,77.4126
+ORD-102746,2026-06-29,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,2974.66,0.0,8923.97,2232.99,23.2599,77.4126
+ORD-102747,2026-06-29,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,3,3380.5,0.05,9634.44,2567.4,23.2599,77.4126
+ORD-102748,2026-06-29,Bhopal,Madhya Pradesh,Home & Living,Desk,2,2908.38,0.15,4944.24,1021.27,23.2599,77.4126
+ORD-102749,2026-06-29,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,11208.81,0.2,26901.15,3817.54,23.2599,77.4126
+ORD-102750,2026-06-30,Indore,Madhya Pradesh,Electronics,Monitor,3,48520.62,0.05,138283.76,11583.5,22.7196,75.8577
+ORD-102751,2026-06-30,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,8946.79,0.0,17893.59,3803.76,22.7196,75.8577
+ORD-102752,2026-06-30,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,1581.4,0.1,4269.79,1068.53,22.7196,75.8577
+ORD-102753,2026-06-30,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,127.94,0.0,383.83,55.3,22.7196,75.8577
+ORD-102754,2026-06-30,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,930.78,0.0,1861.56,276.47,22.7196,75.8577
+ORD-102755,2026-06-30,Indore,Madhya Pradesh,Fashion,Backpack,3,2998.01,0.0,8994.02,2056.82,22.7196,75.8577
+ORD-102756,2026-06-30,Indore,Madhya Pradesh,Electronics,Tablet,4,52881.72,0.0,211526.87,25632.84,22.7196,75.8577
+ORD-102757,2026-06-30,Indore,Madhya Pradesh,Home & Living,Office Chair,2,6273.32,0.0,12546.64,2138.79,22.7196,75.8577
+ORD-102758,2026-06-30,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1013.13,0.05,962.47,205.44,23.2599,77.4126
+ORD-102759,2026-06-30,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,5382.43,0.15,4575.06,1079.68,23.2599,77.4126
+ORD-102760,2026-06-30,Bhopal,Madhya Pradesh,Electronics,Tablet,3,20751.58,0.05,59141.99,7002.09,23.2599,77.4126
+ORD-102761,2026-06-30,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,451.81,0.2,1445.8,367.07,23.2599,77.4126
+ORD-102762,2026-06-30,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,48326.84,0.0,144980.53,19406.18,23.2599,77.4126
+ORD-102763,2026-06-30,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2841.41,0.05,2699.34,527.5,23.2599,77.4126
+ORD-102764,2026-06-30,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,3563.06,0.1,6413.51,962.93,23.2599,77.4126
+ORD-102765,2026-06-30,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,825.13,0.05,2351.62,376.05,23.2599,77.4126
+ORD-102766,2026-07-01,Indore,Madhya Pradesh,Home & Living,Office Chair,2,7652.72,0.05,14540.16,2082.26,22.7196,75.8577
+ORD-102767,2026-07-01,Indore,Madhya Pradesh,Fashion,Backpack,4,4709.13,0.15,16011.03,3105.94,22.7196,75.8577
+ORD-102768,2026-07-01,Indore,Madhya Pradesh,Electronics,Tablet,1,8520.36,0.15,7242.31,1302.81,22.7196,75.8577
+ORD-102769,2026-07-01,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1425.13,0.0,5700.52,1070.37,22.7196,75.8577
+ORD-102770,2026-07-01,Indore,Madhya Pradesh,Electronics,Laptop,4,50172.58,0.15,170586.76,21644.9,22.7196,75.8577
+ORD-102771,2026-07-01,Indore,Madhya Pradesh,Electronics,Headphones,3,16937.57,0.1,45731.45,8149.63,22.7196,75.8577
+ORD-102772,2026-07-01,Bhopal,Madhya Pradesh,Electronics,Monitor,4,12472.42,0.0,49889.66,6489.29,23.2599,77.4126
+ORD-102773,2026-07-01,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,2213.35,0.05,6308.06,1672.7,23.2599,77.4126
+ORD-102774,2026-07-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3157.81,0.0,12631.24,3318.35,23.2599,77.4126
+ORD-102775,2026-07-01,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,1507.09,0.05,4295.19,695.76,23.2599,77.4126
+ORD-102776,2026-07-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,2,997.33,0.05,1894.92,529.05,23.2599,77.4126
+ORD-102777,2026-07-01,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1679.4,0.05,4786.28,898.55,23.2599,77.4126
+ORD-102778,2026-07-01,Bhopal,Madhya Pradesh,Electronics,Headphones,2,22968.63,0.0,45937.25,5125.23,23.2599,77.4126
+ORD-102779,2026-07-01,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,4144.31,0.1,7459.75,1276.87,23.2599,77.4126
+ORD-102780,2026-07-01,Bhopal,Madhya Pradesh,Fashion,Backpack,3,5508.52,0.15,14046.73,3219.25,23.2599,77.4126
+ORD-102781,2026-07-02,Indore,Madhya Pradesh,Home & Living,Office Chair,4,737.44,0.1,2654.79,328.13,22.7196,75.8577
+ORD-102782,2026-07-02,Indore,Madhya Pradesh,Electronics,Smartphone,1,14170.58,0.1,12753.52,1728.13,22.7196,75.8577
+ORD-102783,2026-07-02,Indore,Madhya Pradesh,Home & Living,Lamp,3,8515.39,0.0,25546.16,4179.51,22.7196,75.8577
+ORD-102784,2026-07-02,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,4918.74,0.1,13280.59,3021.55,22.7196,75.8577
+ORD-102785,2026-07-02,Indore,Madhya Pradesh,Fashion,Backpack,1,3850.99,0.05,3658.44,1012.16,22.7196,75.8577
+ORD-102786,2026-07-02,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,402.63,0.1,362.36,75.03,22.7196,75.8577
+ORD-102787,2026-07-02,Indore,Madhya Pradesh,Home & Living,Office Chair,4,720.06,0.15,2448.21,565.62,22.7196,75.8577
+ORD-102788,2026-07-02,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,4173.84,0.15,7095.53,2085.84,22.7196,75.8577
+ORD-102789,2026-07-02,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,8436.03,0.2,26995.31,2220.5,23.2599,77.4126
+ORD-102790,2026-07-02,Bhopal,Madhya Pradesh,Home & Living,Desk,2,5241.61,0.1,9434.91,1727.97,23.2599,77.4126
+ORD-102791,2026-07-02,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3335.28,0.15,5669.98,987.19,23.2599,77.4126
+ORD-102792,2026-07-02,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,5636.78,0.15,14373.8,2366.3,23.2599,77.4126
+ORD-102793,2026-07-02,Bhopal,Madhya Pradesh,Electronics,Tablet,4,24539.58,0.0,98158.3,14296.91,23.2599,77.4126
+ORD-102794,2026-07-02,Bhopal,Madhya Pradesh,Fashion,Jeans,3,1028.8,0.1,2777.76,650.45,23.2599,77.4126
+ORD-102795,2026-07-02,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,1632.28,0.1,1469.05,336.78,23.2599,77.4126
+ORD-102796,2026-07-02,Bhopal,Madhya Pradesh,Electronics,Monitor,3,53386.73,0.05,152152.18,26883.22,23.2599,77.4126
+ORD-102797,2026-07-03,Indore,Madhya Pradesh,Home & Living,Mixer,2,9231.42,0.05,17539.7,4204.84,22.7196,75.8577
+ORD-102798,2026-07-03,Indore,Madhya Pradesh,Electronics,Smartphone,1,25802.95,0.0,25802.95,3843.32,22.7196,75.8577
+ORD-102799,2026-07-03,Indore,Madhya Pradesh,Electronics,Monitor,3,18341.37,0.05,52272.9,6941.21,22.7196,75.8577
+ORD-102800,2026-07-03,Indore,Madhya Pradesh,Fashion,Backpack,1,3193.41,0.0,3193.41,633.24,22.7196,75.8577
+ORD-102801,2026-07-03,Indore,Madhya Pradesh,Home & Living,Mixer,3,7029.66,0.0,21088.99,4678.0,22.7196,75.8577
+ORD-102802,2026-07-03,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,552.06,0.1,496.85,137.38,22.7196,75.8577
+ORD-102803,2026-07-03,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2857.42,0.05,8143.66,2404.97,22.7196,75.8577
+ORD-102804,2026-07-03,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,3,4722.23,0.15,12041.68,1853.65,22.7196,75.8577
+ORD-102805,2026-07-03,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,6893.17,0.1,6203.85,777.04,22.7196,75.8577
+ORD-102806,2026-07-03,Bhopal,Madhya Pradesh,Fashion,Backpack,2,2578.79,0.05,4899.69,1079.0,23.2599,77.4126
+ORD-102807,2026-07-03,Bhopal,Madhya Pradesh,Fashion,Backpack,4,1683.6,0.1,6060.95,1608.77,23.2599,77.4126
+ORD-102808,2026-07-03,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,4659.59,0.1,4193.63,978.61,23.2599,77.4126
+ORD-102809,2026-07-03,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1717.61,0.1,1545.85,283.44,23.2599,77.4126
+ORD-102810,2026-07-03,Bhopal,Madhya Pradesh,Electronics,Tablet,4,39447.75,0.15,134122.35,23604.86,23.2599,77.4126
+ORD-102811,2026-07-03,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,3816.43,0.2,9159.44,2084.16,23.2599,77.4126
+ORD-102812,2026-07-03,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,479.45,0.1,431.51,89.02,23.2599,77.4126
+ORD-102813,2026-07-03,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,5353.57,0.0,5353.57,975.21,23.2599,77.4126
+ORD-102814,2026-07-03,Bhopal,Madhya Pradesh,Fashion,Backpack,3,746.03,0.05,2126.19,393.55,23.2599,77.4126
+ORD-102815,2026-07-03,Bhopal,Madhya Pradesh,Electronics,Tablet,4,21624.43,0.0,86497.73,7566.74,23.2599,77.4126
+ORD-102816,2026-07-04,Indore,Madhya Pradesh,Electronics,Headphones,3,11878.35,0.1,32071.53,5251.04,22.7196,75.8577
+ORD-102817,2026-07-04,Indore,Madhya Pradesh,Home & Living,Lamp,1,11187.84,0.15,9509.66,1715.13,22.7196,75.8577
+ORD-102818,2026-07-04,Indore,Madhya Pradesh,Fashion,Backpack,2,5957.79,0.0,11915.57,2371.73,22.7196,75.8577
+ORD-102819,2026-07-04,Indore,Madhya Pradesh,Electronics,Headphones,3,32185.0,0.1,86899.49,8212.8,22.7196,75.8577
+ORD-102820,2026-07-04,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,4226.23,0.0,16904.92,3797.3,22.7196,75.8577
+ORD-102821,2026-07-04,Indore,Madhya Pradesh,Electronics,Smartphone,4,3317.83,0.1,11944.19,1356.06,22.7196,75.8577
+ORD-102822,2026-07-04,Indore,Madhya Pradesh,Electronics,Laptop,1,7781.4,0.1,7003.26,717.06,22.7196,75.8577
+ORD-102823,2026-07-04,Indore,Madhya Pradesh,Electronics,Monitor,1,24089.58,0.05,22885.1,1990.6,22.7196,75.8577
+ORD-102824,2026-07-04,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1284.77,0.0,5139.09,725.8,22.7196,75.8577
+ORD-102825,2026-07-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,2467.22,0.0,9868.89,1361.15,23.2599,77.4126
+ORD-102826,2026-07-04,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,10279.03,0.1,27753.38,3466.35,23.2599,77.4126
+ORD-102827,2026-07-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,937.98,0.15,2391.85,511.39,23.2599,77.4126
+ORD-102828,2026-07-04,Bhopal,Madhya Pradesh,Electronics,Laptop,4,32914.62,0.05,125075.57,16901.67,23.2599,77.4126
+ORD-102829,2026-07-04,Bhopal,Madhya Pradesh,Fashion,Backpack,1,2926.93,0.0,2926.93,524.68,23.2599,77.4126
+ORD-102830,2026-07-04,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,8564.28,0.05,32544.26,5952.12,23.2599,77.4126
+ORD-102831,2026-07-04,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1709.16,0.05,1623.7,359.1,23.2599,77.4126
+ORD-102832,2026-07-04,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,1278.47,0.0,5113.89,632.47,23.2599,77.4126
+ORD-102833,2026-07-04,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,1241.37,0.1,4468.94,624.7,23.2599,77.4126
+ORD-102834,2026-07-04,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,5668.58,0.05,21540.61,4101.66,23.2599,77.4126
+ORD-102835,2026-07-05,Indore,Madhya Pradesh,Home & Living,Lamp,1,5331.06,0.0,5331.06,1132.01,22.7196,75.8577
+ORD-102836,2026-07-05,Indore,Madhya Pradesh,Electronics,Tablet,3,21004.3,0.0,63012.9,5062.81,22.7196,75.8577
+ORD-102837,2026-07-05,Indore,Madhya Pradesh,Electronics,Monitor,3,1883.81,0.2,4521.14,750.34,22.7196,75.8577
+ORD-102838,2026-07-05,Indore,Madhya Pradesh,Home & Living,Office Chair,3,7347.49,0.1,19838.23,2880.18,22.7196,75.8577
+ORD-102839,2026-07-05,Indore,Madhya Pradesh,Fashion,Backpack,4,3856.51,0.0,15426.05,4272.13,22.7196,75.8577
+ORD-102840,2026-07-05,Indore,Madhya Pradesh,Electronics,Tablet,4,7158.26,0.15,24338.07,3779.89,22.7196,75.8577
+ORD-102841,2026-07-05,Indore,Madhya Pradesh,Electronics,Smartphone,1,41224.54,0.0,41224.54,6663.21,22.7196,75.8577
+ORD-102842,2026-07-05,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,1291.13,0.0,5164.53,960.31,23.2599,77.4126
+ORD-102843,2026-07-05,Bhopal,Madhya Pradesh,Electronics,Laptop,3,4461.77,0.0,13385.32,1170.91,23.2599,77.4126
+ORD-102844,2026-07-05,Bhopal,Madhya Pradesh,Fashion,Jacket,4,5672.04,0.15,19284.92,4870.75,23.2599,77.4126
+ORD-102845,2026-07-05,Bhopal,Madhya Pradesh,Electronics,Monitor,4,25963.96,0.05,98663.06,13657.54,23.2599,77.4126
+ORD-102846,2026-07-05,Bhopal,Madhya Pradesh,Electronics,Laptop,4,43850.11,0.0,175400.43,18699.67,23.2599,77.4126
+ORD-102847,2026-07-05,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,18072.73,0.2,43374.56,4106.97,23.2599,77.4126
+ORD-102848,2026-07-06,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,712.51,0.0,2850.03,374.47,22.7196,75.8577
+ORD-102849,2026-07-06,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,4843.17,0.0,4843.17,1071.0,22.7196,75.8577
+ORD-102850,2026-07-06,Indore,Madhya Pradesh,Food & Beverages,Tea,2,1499.51,0.1,2699.11,362.32,22.7196,75.8577
+ORD-102851,2026-07-06,Indore,Madhya Pradesh,Electronics,Laptop,2,30794.8,0.0,61589.6,8658.41,22.7196,75.8577
+ORD-102852,2026-07-06,Indore,Madhya Pradesh,Electronics,Monitor,4,10727.12,0.0,42908.48,7208.88,22.7196,75.8577
+ORD-102853,2026-07-06,Indore,Madhya Pradesh,Electronics,Smartphone,4,36950.33,0.0,147801.33,19711.03,22.7196,75.8577
+ORD-102854,2026-07-06,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,1747.41,0.15,4455.9,941.12,22.7196,75.8577
+ORD-102855,2026-07-06,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,1495.52,0.1,5383.87,1002.23,23.2599,77.4126
+ORD-102856,2026-07-06,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,1,1398.41,0.1,1258.56,234.81,23.2599,77.4126
+ORD-102857,2026-07-06,Bhopal,Madhya Pradesh,Fashion,Jacket,3,3793.29,0.1,10241.88,2860.4,23.2599,77.4126
+ORD-102858,2026-07-06,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,2314.8,0.0,4629.6,792.89,23.2599,77.4126
+ORD-102859,2026-07-06,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,3946.84,0.1,14208.61,3442.6,23.2599,77.4126
+ORD-102860,2026-07-06,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,1977.56,0.15,3361.85,719.97,23.2599,77.4126
+ORD-102861,2026-07-06,Bhopal,Madhya Pradesh,Electronics,Laptop,3,32963.22,0.2,79111.73,8913.78,23.2599,77.4126
+ORD-102862,2026-07-06,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,692.37,0.05,2631.0,463.47,23.2599,77.4126
+ORD-102863,2026-07-06,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,7629.75,0.0,15259.51,2424.11,23.2599,77.4126
+ORD-102864,2026-07-06,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,11177.64,0.1,40239.51,7169.96,23.2599,77.4126
+ORD-102865,2026-07-07,Indore,Madhya Pradesh,Fashion,Jacket,3,5802.04,0.15,14795.2,3277.31,22.7196,75.8577
+ORD-102866,2026-07-07,Indore,Madhya Pradesh,Electronics,Tablet,4,29151.48,0.1,104945.34,13898.28,22.7196,75.8577
+ORD-102867,2026-07-07,Indore,Madhya Pradesh,Fashion,Jeans,4,4745.6,0.1,17084.16,3760.7,22.7196,75.8577
+ORD-102868,2026-07-07,Indore,Madhya Pradesh,Electronics,Headphones,1,16179.71,0.1,14561.74,1802.08,22.7196,75.8577
+ORD-102869,2026-07-07,Indore,Madhya Pradesh,Food & Beverages,Tea,3,1416.16,0.1,3823.64,641.42,22.7196,75.8577
+ORD-102870,2026-07-07,Indore,Madhya Pradesh,Fashion,T-Shirt,3,5428.17,0.05,15470.29,2716.19,22.7196,75.8577
+ORD-102871,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Tablet,4,16105.19,0.2,51536.6,5725.49,23.2599,77.4126
+ORD-102872,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,2499.97,0.1,8999.88,764.47,23.2599,77.4126
+ORD-102873,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Headphones,2,36240.34,0.05,68856.65,5602.74,23.2599,77.4126
+ORD-102874,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Headphones,1,19090.33,0.05,18135.81,3024.21,23.2599,77.4126
+ORD-102875,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Monitor,1,34583.4,0.1,31125.06,3146.57,23.2599,77.4126
+ORD-102876,2026-07-07,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,1279.2,0.0,2558.4,704.4,23.2599,77.4126
+ORD-102877,2026-07-07,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,834.59,0.0,2503.77,529.61,23.2599,77.4126
+ORD-102878,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,9544.44,0.2,22906.65,3367.84,23.2599,77.4126
+ORD-102879,2026-07-07,Bhopal,Madhya Pradesh,Electronics,Laptop,1,37101.69,0.05,35246.61,2930.55,23.2599,77.4126
+ORD-102880,2026-07-08,Indore,Madhya Pradesh,Electronics,Smartphone,1,36584.97,0.05,34755.72,2989.12,22.7196,75.8577
+ORD-102881,2026-07-08,Indore,Madhya Pradesh,Electronics,Monitor,1,41945.66,0.15,35653.81,3223.07,22.7196,75.8577
+ORD-102882,2026-07-08,Indore,Madhya Pradesh,Home & Living,Lamp,4,7753.06,0.1,27911.03,5751.87,22.7196,75.8577
+ORD-102883,2026-07-08,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,4658.76,0.05,17703.27,3277.89,22.7196,75.8577
+ORD-102884,2026-07-08,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,6148.56,0.1,22134.82,3733.41,22.7196,75.8577
+ORD-102885,2026-07-08,Indore,Madhya Pradesh,Food & Beverages,Tea,2,691.04,0.0,1382.08,188.17,22.7196,75.8577
+ORD-102886,2026-07-08,Indore,Madhya Pradesh,Food & Beverages,Tea,2,110.2,0.05,209.39,22.5,22.7196,75.8577
+ORD-102887,2026-07-08,Indore,Madhya Pradesh,Electronics,Laptop,3,47961.37,0.0,143884.12,13131.71,22.7196,75.8577
+ORD-102888,2026-07-08,Indore,Madhya Pradesh,Electronics,Tablet,4,27900.85,0.15,94862.9,12990.9,22.7196,75.8577
+ORD-102889,2026-07-08,Bhopal,Madhya Pradesh,Electronics,Monitor,3,46305.34,0.1,125024.42,13042.29,23.2599,77.4126
+ORD-102890,2026-07-08,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,1468.58,0.15,4993.16,955.91,23.2599,77.4126
+ORD-102891,2026-07-08,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,11158.34,0.15,37938.36,7900.69,23.2599,77.4126
+ORD-102892,2026-07-08,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,4152.9,0.1,7475.21,1681.75,23.2599,77.4126
+ORD-102893,2026-07-08,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,1129.76,0.05,4293.07,991.58,23.2599,77.4126
+ORD-102894,2026-07-08,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,7673.81,0.1,20719.29,4420.15,23.2599,77.4126
+ORD-102895,2026-07-08,Bhopal,Madhya Pradesh,Fashion,Jacket,3,5970.32,0.1,16119.86,4639.99,23.2599,77.4126
+ORD-102896,2026-07-08,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,296.8,0.15,756.84,153.83,23.2599,77.4126
+ORD-102897,2026-07-08,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4582.21,0.05,17412.4,4959.02,23.2599,77.4126
+ORD-102898,2026-07-09,Indore,Madhya Pradesh,Fashion,Backpack,2,2146.82,0.15,3649.6,932.03,22.7196,75.8577
+ORD-102899,2026-07-09,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,3567.89,0.1,3211.11,769.01,22.7196,75.8577
+ORD-102900,2026-07-09,Indore,Madhya Pradesh,Electronics,Headphones,1,14408.95,0.1,12968.06,1531.6,22.7196,75.8577
+ORD-102901,2026-07-09,Indore,Madhya Pradesh,Electronics,Monitor,4,6059.61,0.05,23026.53,2382.77,22.7196,75.8577
+ORD-102902,2026-07-09,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,266.05,0.2,212.84,30.51,22.7196,75.8577
+ORD-102903,2026-07-09,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,3650.66,0.0,7301.32,1257.8,22.7196,75.8577
+ORD-102904,2026-07-09,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,3168.72,0.1,2851.85,614.79,22.7196,75.8577
+ORD-102905,2026-07-09,Bhopal,Madhya Pradesh,Electronics,Laptop,1,54919.67,0.15,46681.72,7498.07,23.2599,77.4126
+ORD-102906,2026-07-09,Bhopal,Madhya Pradesh,Fashion,Jacket,4,3100.01,0.0,12400.03,2863.61,23.2599,77.4126
+ORD-102907,2026-07-09,Bhopal,Madhya Pradesh,Electronics,Headphones,1,54283.3,0.2,43426.64,5857.06,23.2599,77.4126
+ORD-102908,2026-07-09,Bhopal,Madhya Pradesh,Fashion,Jeans,3,1341.62,0.1,3622.38,1044.43,23.2599,77.4126
+ORD-102909,2026-07-09,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,9502.6,0.2,22806.24,4350.49,23.2599,77.4126
+ORD-102910,2026-07-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,2736.99,0.15,2326.44,549.42,23.2599,77.4126
+ORD-102911,2026-07-09,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,31051.83,0.15,52788.11,7513.6,23.2599,77.4126
+ORD-102912,2026-07-09,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,3152.26,0.15,10717.67,1882.73,23.2599,77.4126
+ORD-102913,2026-07-09,Bhopal,Madhya Pradesh,Fashion,Jeans,3,1344.38,0.2,3226.51,699.6,23.2599,77.4126
+ORD-102914,2026-07-10,Indore,Madhya Pradesh,Food & Beverages,Juice,1,1558.47,0.1,1402.62,269.63,22.7196,75.8577
+ORD-102915,2026-07-10,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,3968.42,0.05,15079.98,3668.11,22.7196,75.8577
+ORD-102916,2026-07-10,Indore,Madhya Pradesh,Electronics,Monitor,4,52023.78,0.0,208095.12,37351.86,22.7196,75.8577
+ORD-102917,2026-07-10,Indore,Madhya Pradesh,Fashion,T-Shirt,4,2807.63,0.0,11230.53,2824.05,22.7196,75.8577
+ORD-102918,2026-07-10,Indore,Madhya Pradesh,Fashion,Jacket,2,821.85,0.1,1479.34,289.48,22.7196,75.8577
+ORD-102919,2026-07-10,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,909.43,0.1,3273.94,903.76,22.7196,75.8577
+ORD-102920,2026-07-10,Indore,Madhya Pradesh,Fashion,Backpack,3,3341.13,0.15,8519.89,2297.74,22.7196,75.8577
+ORD-102921,2026-07-10,Bhopal,Madhya Pradesh,Fashion,Backpack,3,5087.35,0.1,13735.86,3716.84,23.2599,77.4126
+ORD-102922,2026-07-10,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,2997.12,0.0,8991.36,1803.06,23.2599,77.4126
+ORD-102923,2026-07-10,Bhopal,Madhya Pradesh,Electronics,Laptop,4,5934.29,0.0,23737.16,2756.12,23.2599,77.4126
+ORD-102924,2026-07-10,Bhopal,Madhya Pradesh,Electronics,Tablet,1,3277.19,0.1,2949.47,462.85,23.2599,77.4126
+ORD-102925,2026-07-10,Bhopal,Madhya Pradesh,Fashion,Backpack,3,1465.6,0.0,4396.81,745.44,23.2599,77.4126
+ORD-102926,2026-07-11,Indore,Madhya Pradesh,Electronics,Headphones,4,35478.3,0.05,134817.52,18373.08,22.7196,75.8577
+ORD-102927,2026-07-11,Indore,Madhya Pradesh,Electronics,Laptop,1,44152.33,0.0,44152.33,5840.27,22.7196,75.8577
+ORD-102928,2026-07-11,Indore,Madhya Pradesh,Electronics,Monitor,3,7338.24,0.15,18712.52,2198.5,22.7196,75.8577
+ORD-102929,2026-07-11,Indore,Madhya Pradesh,Electronics,Smartphone,2,21248.1,0.0,42496.19,6605.46,22.7196,75.8577
+ORD-102930,2026-07-11,Indore,Madhya Pradesh,Fashion,Jacket,1,3387.46,0.05,3218.09,837.38,22.7196,75.8577
+ORD-102931,2026-07-11,Indore,Madhya Pradesh,Home & Living,Mixer,1,2527.35,0.15,2148.25,340.02,22.7196,75.8577
+ORD-102932,2026-07-11,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,1570.55,0.0,3141.11,671.95,22.7196,75.8577
+ORD-102933,2026-07-11,Bhopal,Madhya Pradesh,Electronics,Headphones,2,17421.29,0.1,31358.32,2764.79,23.2599,77.4126
+ORD-102934,2026-07-11,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,3913.55,0.0,3913.55,792.04,23.2599,77.4126
+ORD-102935,2026-07-11,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,2313.2,0.05,6592.62,1276.6,23.2599,77.4126
+ORD-102936,2026-07-11,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,4040.35,0.15,13737.18,2250.07,23.2599,77.4126
+ORD-102937,2026-07-11,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,747.35,0.15,1270.49,170.68,23.2599,77.4126
+ORD-102938,2026-07-11,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,4873.74,0.15,8285.36,2200.26,23.2599,77.4126
+ORD-102939,2026-07-11,Bhopal,Madhya Pradesh,Fashion,Jacket,1,2726.55,0.0,2726.55,702.44,23.2599,77.4126
+ORD-102940,2026-07-11,Bhopal,Madhya Pradesh,Electronics,Monitor,2,10747.41,0.05,20420.08,2445.84,23.2599,77.4126
+ORD-102941,2026-07-12,Indore,Madhya Pradesh,Home & Living,Desk,1,7743.71,0.05,7356.53,1689.01,22.7196,75.8577
+ORD-102942,2026-07-12,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1757.28,0.05,5008.25,1076.81,22.7196,75.8577
+ORD-102943,2026-07-12,Indore,Madhya Pradesh,Electronics,Tablet,2,31179.04,0.05,59240.17,10516.68,22.7196,75.8577
+ORD-102944,2026-07-12,Indore,Madhya Pradesh,Electronics,Smartphone,4,3039.13,0.0,12156.53,1600.97,22.7196,75.8577
+ORD-102945,2026-07-12,Indore,Madhya Pradesh,Electronics,Tablet,1,47929.28,0.05,45532.81,5299.31,22.7196,75.8577
+ORD-102946,2026-07-12,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,690.11,0.0,2070.33,356.54,22.7196,75.8577
+ORD-102947,2026-07-12,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1032.51,0.05,3923.55,446.53,22.7196,75.8577
+ORD-102948,2026-07-12,Indore,Madhya Pradesh,Electronics,Tablet,3,47674.43,0.1,128720.95,15272.62,22.7196,75.8577
+ORD-102949,2026-07-12,Indore,Madhya Pradesh,Electronics,Monitor,4,39039.46,0.15,132734.16,23703.82,22.7196,75.8577
+ORD-102950,2026-07-12,Indore,Madhya Pradesh,Electronics,Tablet,2,38849.34,0.15,66043.88,9580.79,22.7196,75.8577
+ORD-102951,2026-07-12,Indore,Madhya Pradesh,Home & Living,Office Chair,1,11586.94,0.05,11007.59,2088.4,22.7196,75.8577
+ORD-102952,2026-07-12,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,930.96,0.1,3351.47,672.0,23.2599,77.4126
+ORD-102953,2026-07-12,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4970.04,0.0,4970.04,1254.42,23.2599,77.4126
+ORD-102954,2026-07-12,Bhopal,Madhya Pradesh,Electronics,Headphones,4,49229.59,0.1,177226.51,30992.13,23.2599,77.4126
+ORD-102955,2026-07-12,Bhopal,Madhya Pradesh,Electronics,Tablet,3,34611.64,0.0,103834.92,13850.64,23.2599,77.4126
+ORD-102956,2026-07-12,Bhopal,Madhya Pradesh,Fashion,Jeans,2,3897.49,0.15,6625.74,1303.89,23.2599,77.4126
+ORD-102957,2026-07-12,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,6514.97,0.0,6514.97,904.1,23.2599,77.4126
+ORD-102958,2026-07-12,Bhopal,Madhya Pradesh,Fashion,Jeans,1,5288.77,0.0,5288.77,1467.83,23.2599,77.4126
+ORD-102959,2026-07-13,Indore,Madhya Pradesh,Electronics,Headphones,3,10084.85,0.05,28741.83,5126.43,22.7196,75.8577
+ORD-102960,2026-07-13,Indore,Madhya Pradesh,Fashion,Backpack,4,3743.9,0.1,13478.04,2431.71,22.7196,75.8577
+ORD-102961,2026-07-13,Indore,Madhya Pradesh,Home & Living,Office Chair,4,1633.37,0.1,5880.14,1223.15,22.7196,75.8577
+ORD-102962,2026-07-13,Indore,Madhya Pradesh,Fashion,T-Shirt,2,2003.18,0.15,3405.41,700.95,22.7196,75.8577
+ORD-102963,2026-07-13,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,5535.49,0.05,15776.13,3844.72,22.7196,75.8577
+ORD-102964,2026-07-13,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,4469.56,0.2,14302.59,3542.07,22.7196,75.8577
+ORD-102965,2026-07-13,Indore,Madhya Pradesh,Electronics,Tablet,1,15879.93,0.1,14291.94,1211.43,22.7196,75.8577
+ORD-102966,2026-07-13,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,1393.1,0.05,1323.44,152.65,22.7196,75.8577
+ORD-102967,2026-07-13,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1743.89,0.05,3313.38,406.62,22.7196,75.8577
+ORD-102968,2026-07-13,Bhopal,Madhya Pradesh,Fashion,Jacket,2,5428.2,0.0,10856.41,2070.87,23.2599,77.4126
+ORD-102969,2026-07-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,4097.04,0.0,16388.14,3640.06,23.2599,77.4126
+ORD-102970,2026-07-13,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,7872.35,0.0,23617.06,4221.27,23.2599,77.4126
+ORD-102971,2026-07-13,Bhopal,Madhya Pradesh,Electronics,Monitor,4,15921.13,0.1,57316.08,4948.03,23.2599,77.4126
+ORD-102972,2026-07-13,Bhopal,Madhya Pradesh,Electronics,Monitor,4,20098.8,0.05,76375.45,6144.25,23.2599,77.4126
+ORD-102973,2026-07-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,1810.5,0.05,3439.94,652.81,23.2599,77.4126
+ORD-102974,2026-07-13,Bhopal,Madhya Pradesh,Electronics,Laptop,4,43603.45,0.1,156972.41,13189.93,23.2599,77.4126
+ORD-102975,2026-07-13,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,10802.46,0.0,10802.46,1939.72,23.2599,77.4126
+ORD-102976,2026-07-14,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,3589.15,0.15,3050.77,504.42,22.7196,75.8577
+ORD-102977,2026-07-14,Indore,Madhya Pradesh,Electronics,Headphones,3,47712.97,0.05,135981.96,13227.45,22.7196,75.8577
+ORD-102978,2026-07-14,Indore,Madhya Pradesh,Home & Living,Lamp,4,8375.15,0.1,30150.54,5224.49,22.7196,75.8577
+ORD-102979,2026-07-14,Indore,Madhya Pradesh,Fashion,Backpack,1,5136.95,0.0,5136.95,1169.89,22.7196,75.8577
+ORD-102980,2026-07-14,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,753.66,0.1,678.3,111.28,22.7196,75.8577
+ORD-102981,2026-07-14,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,1470.54,0.05,5588.04,1001.85,22.7196,75.8577
+ORD-102982,2026-07-14,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,6210.89,0.1,11179.6,2256.14,23.2599,77.4126
+ORD-102983,2026-07-14,Bhopal,Madhya Pradesh,Fashion,Backpack,4,3315.04,0.05,12597.14,3365.95,23.2599,77.4126
+ORD-102984,2026-07-14,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,2422.89,0.0,9691.55,1222.68,23.2599,77.4126
+ORD-102985,2026-07-14,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,3080.81,0.1,5545.46,917.82,23.2599,77.4126
+ORD-102986,2026-07-14,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,3,243.18,0.0,729.55,143.05,23.2599,77.4126
+ORD-102987,2026-07-14,Bhopal,Madhya Pradesh,Electronics,Headphones,1,5762.07,0.15,4897.76,500.27,23.2599,77.4126
+ORD-102988,2026-07-14,Bhopal,Madhya Pradesh,Fashion,Backpack,1,5704.44,0.05,5419.22,898.14,23.2599,77.4126
+ORD-102989,2026-07-14,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,1706.35,0.15,2900.8,604.9,23.2599,77.4126
+ORD-102990,2026-07-15,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,895.73,0.1,1612.32,210.04,22.7196,75.8577
+ORD-102991,2026-07-15,Indore,Madhya Pradesh,Electronics,Monitor,2,38645.1,0.0,77290.21,10706.04,22.7196,75.8577
+ORD-102992,2026-07-15,Indore,Madhya Pradesh,Electronics,Tablet,1,8097.82,0.15,6883.15,1041.53,22.7196,75.8577
+ORD-102993,2026-07-15,Indore,Madhya Pradesh,Electronics,Smartphone,1,20349.78,0.1,18314.8,3106.94,22.7196,75.8577
+ORD-102994,2026-07-15,Indore,Madhya Pradesh,Electronics,Tablet,1,23165.89,0.1,20849.3,2443.58,22.7196,75.8577
+ORD-102995,2026-07-15,Indore,Madhya Pradesh,Home & Living,Desk,4,2977.45,0.1,10718.83,1521.95,22.7196,75.8577
+ORD-102996,2026-07-15,Indore,Madhya Pradesh,Electronics,Headphones,2,41811.81,0.2,66898.89,10035.39,22.7196,75.8577
+ORD-102997,2026-07-15,Bhopal,Madhya Pradesh,Fashion,Jacket,2,4579.92,0.1,8243.86,2409.15,23.2599,77.4126
+ORD-102998,2026-07-15,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,9899.13,0.1,26727.64,5294.15,23.2599,77.4126
+ORD-102999,2026-07-15,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,795.51,0.1,2147.88,543.77,23.2599,77.4126
+ORD-103000,2026-07-15,Bhopal,Madhya Pradesh,Fashion,Jeans,2,2586.22,0.15,4396.58,1142.6,23.2599,77.4126
+ORD-103001,2026-07-15,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,1891.68,0.0,5675.05,815.31,23.2599,77.4126
+ORD-103002,2026-07-16,Indore,Madhya Pradesh,Electronics,Tablet,3,46641.83,0.1,125932.94,11504.17,22.7196,75.8577
+ORD-103003,2026-07-16,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,4637.85,0.15,11826.53,1814.38,22.7196,75.8577
+ORD-103004,2026-07-16,Indore,Madhya Pradesh,Fashion,T-Shirt,2,5947.28,0.05,11299.84,2552.28,22.7196,75.8577
+ORD-103005,2026-07-16,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,10736.7,0.1,38652.14,9110.77,22.7196,75.8577
+ORD-103006,2026-07-16,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,2212.89,0.1,1991.6,452.77,22.7196,75.8577
+ORD-103007,2026-07-16,Indore,Madhya Pradesh,Fashion,Backpack,2,818.54,0.0,1637.08,376.63,22.7196,75.8577
+ORD-103008,2026-07-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,2838.39,0.1,10218.2,2749.0,23.2599,77.4126
+ORD-103009,2026-07-16,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,166.4,0.0,499.19,102.27,23.2599,77.4126
+ORD-103010,2026-07-16,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,2323.17,0.05,6621.03,1954.94,23.2599,77.4126
+ORD-103011,2026-07-16,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,3104.09,0.05,5897.78,1226.35,23.2599,77.4126
+ORD-103012,2026-07-16,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,48419.7,0.1,174310.92,27511.0,23.2599,77.4126
+ORD-103013,2026-07-16,Bhopal,Madhya Pradesh,Fashion,Backpack,4,2722.85,0.0,10891.41,3051.41,23.2599,77.4126
+ORD-103014,2026-07-16,Bhopal,Madhya Pradesh,Electronics,Monitor,1,25567.98,0.1,23011.18,1873.8,23.2599,77.4126
+ORD-103015,2026-07-16,Bhopal,Madhya Pradesh,Electronics,Tablet,4,28007.19,0.0,112028.76,15949.61,23.2599,77.4126
+ORD-103016,2026-07-17,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,4369.18,0.15,14855.21,3318.21,22.7196,75.8577
+ORD-103017,2026-07-17,Indore,Madhya Pradesh,Electronics,Headphones,1,27697.27,0.2,22157.82,3552.14,22.7196,75.8577
+ORD-103018,2026-07-17,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,567.01,0.1,2041.22,315.49,22.7196,75.8577
+ORD-103019,2026-07-17,Indore,Madhya Pradesh,Electronics,Headphones,2,21202.24,0.0,42404.48,6699.95,22.7196,75.8577
+ORD-103020,2026-07-17,Indore,Madhya Pradesh,Electronics,Headphones,2,43768.34,0.15,74406.17,10882.64,22.7196,75.8577
+ORD-103021,2026-07-17,Indore,Madhya Pradesh,Electronics,Laptop,3,12629.13,0.2,30309.92,4075.17,22.7196,75.8577
+ORD-103022,2026-07-17,Indore,Madhya Pradesh,Electronics,Laptop,4,21326.11,0.05,81039.2,9097.87,22.7196,75.8577
+ORD-103023,2026-07-17,Indore,Madhya Pradesh,Fashion,Backpack,2,3941.8,0.1,7095.24,1741.54,22.7196,75.8577
+ORD-103024,2026-07-17,Bhopal,Madhya Pradesh,Electronics,Laptop,1,27209.23,0.15,23127.85,2688.82,23.2599,77.4126
+ORD-103025,2026-07-17,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,1119.09,0.1,2014.36,494.53,23.2599,77.4126
+ORD-103026,2026-07-17,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,9821.11,0.1,26516.99,6252.98,23.2599,77.4126
+ORD-103027,2026-07-17,Bhopal,Madhya Pradesh,Home & Living,Desk,2,9530.93,0.15,16202.57,3647.56,23.2599,77.4126
+ORD-103028,2026-07-17,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4278.35,0.0,17113.41,3819.6,23.2599,77.4126
+ORD-103029,2026-07-17,Bhopal,Madhya Pradesh,Electronics,Monitor,3,14409.02,0.0,43227.07,6193.11,23.2599,77.4126
+ORD-103030,2026-07-17,Bhopal,Madhya Pradesh,Fashion,Backpack,1,3297.93,0.0,3297.93,690.1,23.2599,77.4126
+ORD-103031,2026-07-17,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,4777.48,0.0,14332.44,2601.64,23.2599,77.4126
+ORD-103032,2026-07-18,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,2,1910.55,0.0,3821.09,944.85,22.7196,75.8577
+ORD-103033,2026-07-18,Indore,Madhya Pradesh,Electronics,Laptop,3,53223.12,0.05,151685.89,27227.31,22.7196,75.8577
+ORD-103034,2026-07-18,Indore,Madhya Pradesh,Home & Living,Lamp,3,10135.78,0.05,28886.97,4874.0,22.7196,75.8577
+ORD-103035,2026-07-18,Indore,Madhya Pradesh,Electronics,Monitor,4,44780.56,0.1,161210.03,28435.48,22.7196,75.8577
+ORD-103036,2026-07-18,Indore,Madhya Pradesh,Fashion,T-Shirt,1,4701.25,0.15,3996.06,710.79,22.7196,75.8577
+ORD-103037,2026-07-18,Indore,Madhya Pradesh,Electronics,Laptop,3,37314.59,0.15,95152.2,10972.95,22.7196,75.8577
+ORD-103038,2026-07-18,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,2,4015.69,0.05,7629.81,1222.73,22.7196,75.8577
+ORD-103039,2026-07-18,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,1797.13,0.1,4852.25,996.79,23.2599,77.4126
+ORD-103040,2026-07-18,Bhopal,Madhya Pradesh,Electronics,Tablet,1,21978.7,0.15,18681.9,2661.98,23.2599,77.4126
+ORD-103041,2026-07-18,Bhopal,Madhya Pradesh,Electronics,Laptop,3,44541.77,0.1,120262.78,16763.51,23.2599,77.4126
+ORD-103042,2026-07-18,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,774.26,0.1,2787.35,410.69,23.2599,77.4126
+ORD-103043,2026-07-18,Bhopal,Madhya Pradesh,Electronics,Headphones,3,47126.0,0.05,134309.09,11848.16,23.2599,77.4126
+ORD-103044,2026-07-18,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2731.5,0.05,2594.93,589.56,23.2599,77.4126
+ORD-103045,2026-07-19,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,1710.53,0.1,6157.89,713.69,22.7196,75.8577
+ORD-103046,2026-07-19,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2432.3,0.05,6932.06,1991.86,22.7196,75.8577
+ORD-103047,2026-07-19,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,326.28,0.05,309.96,67.87,22.7196,75.8577
+ORD-103048,2026-07-19,Indore,Madhya Pradesh,Home & Living,Office Chair,3,781.0,0.1,2108.7,403.78,22.7196,75.8577
+ORD-103049,2026-07-19,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,1609.93,0.05,6117.72,1336.85,22.7196,75.8577
+ORD-103050,2026-07-19,Indore,Madhya Pradesh,Electronics,Headphones,4,9606.12,0.05,36503.27,3269.48,22.7196,75.8577
+ORD-103051,2026-07-19,Indore,Madhya Pradesh,Fashion,Jacket,2,718.93,0.1,1294.07,383.2,22.7196,75.8577
+ORD-103052,2026-07-19,Bhopal,Madhya Pradesh,Electronics,Tablet,2,50091.72,0.0,100183.44,10550.88,23.2599,77.4126
+ORD-103053,2026-07-19,Bhopal,Madhya Pradesh,Fashion,Backpack,2,4799.52,0.1,8639.14,2153.86,23.2599,77.4126
+ORD-103054,2026-07-19,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,49555.26,0.1,133799.21,22314.0,23.2599,77.4126
+ORD-103055,2026-07-19,Bhopal,Madhya Pradesh,Fashion,Backpack,4,1907.01,0.1,6865.25,1389.21,23.2599,77.4126
+ORD-103056,2026-07-19,Bhopal,Madhya Pradesh,Fashion,Jeans,4,4220.51,0.15,14349.73,3758.24,23.2599,77.4126
+ORD-103057,2026-07-20,Indore,Madhya Pradesh,Home & Living,Office Chair,1,3415.55,0.1,3073.99,417.07,22.7196,75.8577
+ORD-103058,2026-07-20,Indore,Madhya Pradesh,Electronics,Laptop,3,9932.49,0.05,28307.59,4042.86,22.7196,75.8577
+ORD-103059,2026-07-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,1253.92,0.05,4764.9,925.97,22.7196,75.8577
+ORD-103060,2026-07-20,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,4,4493.77,0.0,17975.08,4145.06,22.7196,75.8577
+ORD-103061,2026-07-20,Indore,Madhya Pradesh,Fashion,Jeans,2,4029.72,0.0,8059.45,2310.52,22.7196,75.8577
+ORD-103062,2026-07-20,Indore,Madhya Pradesh,Electronics,Headphones,3,52833.97,0.0,158501.92,14382.03,22.7196,75.8577
+ORD-103063,2026-07-20,Indore,Madhya Pradesh,Fashion,Backpack,4,2159.89,0.15,7343.62,1678.4,22.7196,75.8577
+ORD-103064,2026-07-20,Bhopal,Madhya Pradesh,Electronics,Laptop,4,26302.47,0.0,105209.86,13744.58,23.2599,77.4126
+ORD-103065,2026-07-20,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,760.06,0.0,2280.19,360.33,23.2599,77.4126
+ORD-103066,2026-07-20,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,697.23,0.15,1185.3,179.01,23.2599,77.4126
+ORD-103067,2026-07-20,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,50904.46,0.05,96718.48,9625.03,23.2599,77.4126
+ORD-103068,2026-07-20,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,837.01,0.0,837.01,156.47,23.2599,77.4126
+ORD-103069,2026-07-20,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,38625.04,0.15,131325.12,12301.92,23.2599,77.4126
+ORD-103070,2026-07-20,Bhopal,Madhya Pradesh,Electronics,Monitor,4,46172.79,0.0,184691.15,24165.38,23.2599,77.4126
+ORD-103071,2026-07-20,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,11187.7,0.1,20137.86,2518.54,23.2599,77.4126
+ORD-103072,2026-07-21,Indore,Madhya Pradesh,Food & Beverages,Juice,2,487.49,0.1,877.47,127.44,22.7196,75.8577
+ORD-103073,2026-07-21,Indore,Madhya Pradesh,Electronics,Headphones,1,47279.06,0.05,44915.1,5964.1,22.7196,75.8577
+ORD-103074,2026-07-21,Indore,Madhya Pradesh,Home & Living,Mixer,4,9227.95,0.1,33220.61,7856.77,22.7196,75.8577
+ORD-103075,2026-07-21,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4222.67,0.0,12668.01,2881.14,22.7196,75.8577
+ORD-103076,2026-07-21,Indore,Madhya Pradesh,Electronics,Headphones,1,44002.92,0.0,44002.92,4119.06,22.7196,75.8577
+ORD-103077,2026-07-21,Indore,Madhya Pradesh,Fashion,Jacket,3,4176.08,0.05,11901.81,2816.35,22.7196,75.8577
+ORD-103078,2026-07-21,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,4414.11,0.05,16773.62,3155.64,23.2599,77.4126
+ORD-103079,2026-07-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,4270.68,0.05,4057.15,885.57,23.2599,77.4126
+ORD-103080,2026-07-21,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1328.47,0.1,2391.25,476.48,23.2599,77.4126
+ORD-103081,2026-07-21,Bhopal,Madhya Pradesh,Electronics,Headphones,1,15699.72,0.0,15699.72,1726.1,23.2599,77.4126
+ORD-103082,2026-07-21,Bhopal,Madhya Pradesh,Home & Living,Desk,3,6673.42,0.1,18018.24,2686.29,23.2599,77.4126
+ORD-103083,2026-07-21,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,8153.39,0.15,27721.51,4756.79,23.2599,77.4126
+ORD-103084,2026-07-21,Bhopal,Madhya Pradesh,Home & Living,Desk,1,8904.27,0.0,8904.27,1712.18,23.2599,77.4126
+ORD-103085,2026-07-21,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,1151.19,0.1,4144.27,707.57,23.2599,77.4126
+ORD-103086,2026-07-22,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,1211.98,0.1,2181.57,544.1,22.7196,75.8577
+ORD-103087,2026-07-22,Indore,Madhya Pradesh,Home & Living,Mixer,1,2591.26,0.0,2591.26,418.54,22.7196,75.8577
+ORD-103088,2026-07-22,Indore,Madhya Pradesh,Home & Living,Mixer,3,9438.45,0.05,26899.58,3960.01,22.7196,75.8577
+ORD-103089,2026-07-22,Indore,Madhya Pradesh,Electronics,Monitor,4,53365.3,0.1,192115.07,20437.98,22.7196,75.8577
+ORD-103090,2026-07-22,Indore,Madhya Pradesh,Fashion,Backpack,1,5488.85,0.1,4939.96,1358.46,22.7196,75.8577
+ORD-103091,2026-07-22,Indore,Madhya Pradesh,Food & Beverages,Snacks,3,700.18,0.1,1890.48,225.18,22.7196,75.8577
+ORD-103092,2026-07-22,Indore,Madhya Pradesh,Fashion,Jacket,2,4392.82,0.05,8346.36,1495.85,22.7196,75.8577
+ORD-103093,2026-07-22,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,6476.71,0.05,6152.87,1031.11,23.2599,77.4126
+ORD-103094,2026-07-22,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,874.0,0.0,3496.0,383.65,23.2599,77.4126
+ORD-103095,2026-07-22,Bhopal,Madhya Pradesh,Home & Living,Desk,4,9483.86,0.0,37935.46,9038.97,23.2599,77.4126
+ORD-103096,2026-07-22,Bhopal,Madhya Pradesh,Electronics,Headphones,1,53849.55,0.0,53849.55,9186.8,23.2599,77.4126
+ORD-103097,2026-07-22,Bhopal,Madhya Pradesh,Electronics,Tablet,3,15334.69,0.15,39103.46,6065.03,23.2599,77.4126
+ORD-103098,2026-07-22,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,3143.5,0.1,8487.45,1389.86,23.2599,77.4126
+ORD-103099,2026-07-22,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,7124.55,0.05,6768.32,1446.27,23.2599,77.4126
+ORD-103100,2026-07-22,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,40773.38,0.1,73392.08,11540.83,23.2599,77.4126
+ORD-103101,2026-07-22,Bhopal,Madhya Pradesh,Fashion,Jeans,2,1658.87,0.1,2985.97,537.9,23.2599,77.4126
+ORD-103102,2026-07-23,Indore,Madhya Pradesh,Home & Living,Mixer,3,5624.17,0.15,14341.64,2750.32,22.7196,75.8577
+ORD-103103,2026-07-23,Indore,Madhya Pradesh,Fashion,Backpack,4,4890.29,0.1,17605.06,4836.45,22.7196,75.8577
+ORD-103104,2026-07-23,Indore,Madhya Pradesh,Electronics,Laptop,3,26821.82,0.1,72418.92,9176.92,22.7196,75.8577
+ORD-103105,2026-07-23,Indore,Madhya Pradesh,Fashion,Jacket,3,4644.61,0.05,13237.14,2375.06,22.7196,75.8577
+ORD-103106,2026-07-23,Indore,Madhya Pradesh,Electronics,Tablet,4,52385.86,0.05,199066.26,17651.19,22.7196,75.8577
+ORD-103107,2026-07-23,Indore,Madhya Pradesh,Food & Beverages,Tea,2,404.97,0.15,688.45,135.9,22.7196,75.8577
+ORD-103108,2026-07-23,Bhopal,Madhya Pradesh,Fashion,Jeans,3,682.64,0.1,1843.14,450.6,23.2599,77.4126
+ORD-103109,2026-07-23,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,548.32,0.15,932.14,117.57,23.2599,77.4126
+ORD-103110,2026-07-23,Bhopal,Madhya Pradesh,Home & Living,Office Chair,2,4087.36,0.05,7765.98,1393.64,23.2599,77.4126
+ORD-103111,2026-07-23,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,4912.54,0.0,14737.61,2409.38,23.2599,77.4126
+ORD-103112,2026-07-23,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,4293.18,0.1,7727.73,1817.59,23.2599,77.4126
+ORD-103113,2026-07-23,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,11256.02,0.1,10130.42,1709.57,23.2599,77.4126
+ORD-103114,2026-07-23,Bhopal,Madhya Pradesh,Electronics,Tablet,1,47984.3,0.05,45585.08,5779.68,23.2599,77.4126
+ORD-103115,2026-07-24,Indore,Madhya Pradesh,Electronics,Smartphone,3,34091.87,0.0,102275.6,15292.43,22.7196,75.8577
+ORD-103116,2026-07-24,Indore,Madhya Pradesh,Fashion,Jeans,1,942.83,0.1,848.54,206.64,22.7196,75.8577
+ORD-103117,2026-07-24,Indore,Madhya Pradesh,Fashion,Jacket,1,3237.39,0.1,2913.65,661.21,22.7196,75.8577
+ORD-103118,2026-07-24,Indore,Madhya Pradesh,Home & Living,Mixer,2,4490.16,0.15,7633.27,1430.24,22.7196,75.8577
+ORD-103119,2026-07-24,Indore,Madhya Pradesh,Home & Living,Mixer,1,3435.46,0.0,3435.46,790.63,22.7196,75.8577
+ORD-103120,2026-07-24,Indore,Madhya Pradesh,Home & Living,Office Chair,2,2053.4,0.1,3696.11,562.25,22.7196,75.8577
+ORD-103121,2026-07-24,Indore,Madhya Pradesh,Food & Beverages,Tea,1,569.35,0.05,540.88,54.77,22.7196,75.8577
+ORD-103122,2026-07-24,Indore,Madhya Pradesh,Home & Living,Mixer,1,1394.47,0.05,1324.75,208.7,22.7196,75.8577
+ORD-103123,2026-07-24,Indore,Madhya Pradesh,Fashion,Jacket,4,5391.9,0.1,19410.85,4615.96,22.7196,75.8577
+ORD-103124,2026-07-24,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,9876.05,0.05,9382.25,1654.84,23.2599,77.4126
+ORD-103125,2026-07-24,Bhopal,Madhya Pradesh,Home & Living,Desk,3,6386.79,0.05,18202.36,4247.19,23.2599,77.4126
+ORD-103126,2026-07-24,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,307.41,0.15,522.6,82.17,23.2599,77.4126
+ORD-103127,2026-07-24,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,4397.01,0.1,3957.31,867.19,23.2599,77.4126
+ORD-103128,2026-07-24,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,23176.37,0.05,22017.56,3757.31,23.2599,77.4126
+ORD-103129,2026-07-24,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,9874.0,0.1,17773.2,2390.53,23.2599,77.4126
+ORD-103130,2026-07-24,Bhopal,Madhya Pradesh,Electronics,Headphones,3,34445.64,0.1,93003.24,10768.63,23.2599,77.4126
+ORD-103131,2026-07-24,Bhopal,Madhya Pradesh,Electronics,Laptop,3,8201.57,0.1,22144.24,2855.36,23.2599,77.4126
+ORD-103132,2026-07-24,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,1217.86,0.0,4871.44,1443.61,23.2599,77.4126
+ORD-103133,2026-07-24,Bhopal,Madhya Pradesh,Fashion,Jeans,4,3687.45,0.15,12537.33,2119.6,23.2599,77.4126
+ORD-103134,2026-07-25,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,1968.81,0.0,7875.25,2171.24,22.7196,75.8577
+ORD-103135,2026-07-25,Indore,Madhya Pradesh,Electronics,Smartphone,2,17324.28,0.0,34648.56,3796.17,22.7196,75.8577
+ORD-103136,2026-07-25,Indore,Madhya Pradesh,Food & Beverages,Biscuits,2,749.82,0.15,1274.7,181.8,22.7196,75.8577
+ORD-103137,2026-07-25,Indore,Madhya Pradesh,Home & Living,Mixer,2,11510.51,0.05,21869.97,2782.39,22.7196,75.8577
+ORD-103138,2026-07-25,Indore,Madhya Pradesh,Food & Beverages,Biscuits,1,1432.8,0.0,1432.8,286.45,22.7196,75.8577
+ORD-103139,2026-07-25,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,540.75,0.1,973.36,111.26,23.2599,77.4126
+ORD-103140,2026-07-25,Bhopal,Madhya Pradesh,Home & Living,Desk,3,3060.74,0.0,9182.22,1920.17,23.2599,77.4126
+ORD-103141,2026-07-25,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1562.46,0.05,2968.68,604.73,23.2599,77.4126
+ORD-103142,2026-07-25,Bhopal,Madhya Pradesh,Electronics,Tablet,1,18708.22,0.05,17772.81,2523.44,23.2599,77.4126
+ORD-103143,2026-07-25,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1906.46,0.1,5147.44,1253.48,23.2599,77.4126
+ORD-103144,2026-07-25,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,873.61,0.1,786.25,103.21,23.2599,77.4126
+ORD-103145,2026-07-25,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,5430.05,0.1,14661.13,4280.43,23.2599,77.4126
+ORD-103146,2026-07-26,Indore,Madhya Pradesh,Fashion,Jeans,3,3166.33,0.1,8549.09,2380.8,22.7196,75.8577
+ORD-103147,2026-07-26,Indore,Madhya Pradesh,Electronics,Laptop,4,7625.09,0.0,30500.35,3876.2,22.7196,75.8577
+ORD-103148,2026-07-26,Indore,Madhya Pradesh,Fashion,Jacket,3,1272.3,0.0,3816.89,1031.75,22.7196,75.8577
+ORD-103149,2026-07-26,Indore,Madhya Pradesh,Food & Beverages,Juice,4,126.11,0.1,453.99,61.18,22.7196,75.8577
+ORD-103150,2026-07-26,Indore,Madhya Pradesh,Electronics,Tablet,2,12547.67,0.15,21331.05,1819.61,22.7196,75.8577
+ORD-103151,2026-07-26,Indore,Madhya Pradesh,Electronics,Monitor,3,1995.85,0.0,5987.56,852.48,22.7196,75.8577
+ORD-103152,2026-07-26,Indore,Madhya Pradesh,Home & Living,Mixer,4,2135.43,0.0,8541.71,1078.69,22.7196,75.8577
+ORD-103153,2026-07-26,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,3,1383.76,0.0,4151.28,689.88,22.7196,75.8577
+ORD-103154,2026-07-26,Bhopal,Madhya Pradesh,Electronics,Laptop,3,42805.63,0.0,128416.88,13182.17,23.2599,77.4126
+ORD-103155,2026-07-26,Bhopal,Madhya Pradesh,Electronics,Tablet,2,22683.45,0.15,38561.87,4264.42,23.2599,77.4126
+ORD-103156,2026-07-26,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3659.06,0.0,3659.06,653.08,23.2599,77.4126
+ORD-103157,2026-07-26,Bhopal,Madhya Pradesh,Home & Living,Desk,1,4611.8,0.05,4381.21,969.91,23.2599,77.4126
+ORD-103158,2026-07-26,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,194.63,0.15,496.31,77.44,23.2599,77.4126
+ORD-103159,2026-07-26,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,5778.85,0.05,10979.82,2802.47,23.2599,77.4126
+ORD-103160,2026-07-26,Bhopal,Madhya Pradesh,Electronics,Monitor,2,31097.94,0.2,49756.71,4967.11,23.2599,77.4126
+ORD-103161,2026-07-27,Indore,Madhya Pradesh,Food & Beverages,Coffee,1,1387.01,0.0,1387.01,286.87,22.7196,75.8577
+ORD-103162,2026-07-27,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,2581.94,0.1,6971.25,1624.44,22.7196,75.8577
+ORD-103163,2026-07-27,Indore,Madhya Pradesh,Fashion,Backpack,2,2146.57,0.1,3863.82,1099.89,22.7196,75.8577
+ORD-103164,2026-07-27,Indore,Madhya Pradesh,Electronics,Tablet,2,7646.94,0.05,14529.18,1903.4,22.7196,75.8577
+ORD-103165,2026-07-27,Indore,Madhya Pradesh,Electronics,Monitor,4,18834.96,0.1,67805.87,5468.22,22.7196,75.8577
+ORD-103166,2026-07-27,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,2712.34,0.1,7323.31,1178.99,22.7196,75.8577
+ORD-103167,2026-07-27,Indore,Madhya Pradesh,Home & Living,Mixer,3,10437.6,0.15,26615.89,3352.28,22.7196,75.8577
+ORD-103168,2026-07-27,Indore,Madhya Pradesh,Fashion,T-Shirt,2,5530.16,0.2,8848.25,2009.06,22.7196,75.8577
+ORD-103169,2026-07-27,Indore,Madhya Pradesh,Fashion,Backpack,4,5523.08,0.2,17673.85,2986.71,22.7196,75.8577
+ORD-103170,2026-07-27,Bhopal,Madhya Pradesh,Electronics,Monitor,1,16610.79,0.05,15780.25,2041.94,23.2599,77.4126
+ORD-103171,2026-07-27,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,9588.73,0.2,7670.99,1671.92,23.2599,77.4126
+ORD-103172,2026-07-27,Bhopal,Madhya Pradesh,Food & Beverages,Tea,3,1543.54,0.0,4630.63,882.91,23.2599,77.4126
+ORD-103173,2026-07-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,1457.91,0.05,4155.03,1134.78,23.2599,77.4126
+ORD-103174,2026-07-27,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,797.41,0.15,1355.6,148.06,23.2599,77.4126
+ORD-103175,2026-07-27,Bhopal,Madhya Pradesh,Electronics,Monitor,2,21760.84,0.0,43521.69,7152.84,23.2599,77.4126
+ORD-103176,2026-07-27,Bhopal,Madhya Pradesh,Electronics,Monitor,3,40291.76,0.0,120875.27,18661.09,23.2599,77.4126
+ORD-103177,2026-07-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,1,2858.36,0.15,2429.6,532.14,23.2599,77.4126
+ORD-103178,2026-07-27,Bhopal,Madhya Pradesh,Electronics,Tablet,3,30244.11,0.05,86195.71,10238.65,23.2599,77.4126
+ORD-103179,2026-07-27,Bhopal,Madhya Pradesh,Fashion,Backpack,1,845.2,0.05,802.94,204.22,23.2599,77.4126
+ORD-103180,2026-07-28,Indore,Madhya Pradesh,Electronics,Smartphone,2,53477.57,0.15,90911.86,7668.58,22.7196,75.8577
+ORD-103181,2026-07-28,Indore,Madhya Pradesh,Electronics,Headphones,3,47413.01,0.15,120903.18,9895.76,22.7196,75.8577
+ORD-103182,2026-07-28,Indore,Madhya Pradesh,Food & Beverages,Snacks,1,194.12,0.1,174.71,34.58,22.7196,75.8577
+ORD-103183,2026-07-28,Indore,Madhya Pradesh,Electronics,Laptop,4,19088.14,0.05,72534.94,11971.14,22.7196,75.8577
+ORD-103184,2026-07-28,Indore,Madhya Pradesh,Home & Living,Desk,4,7766.27,0.05,29511.84,4700.91,22.7196,75.8577
+ORD-103185,2026-07-28,Indore,Madhya Pradesh,Electronics,Laptop,2,23174.72,0.0,46349.44,7588.47,22.7196,75.8577
+ORD-103186,2026-07-28,Indore,Madhya Pradesh,Food & Beverages,Juice,3,1448.87,0.05,4129.29,585.74,22.7196,75.8577
+ORD-103187,2026-07-28,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,4639.72,0.0,18558.86,2322.92,23.2599,77.4126
+ORD-103188,2026-07-28,Bhopal,Madhya Pradesh,Fashion,Backpack,1,2469.85,0.05,2346.35,614.53,23.2599,77.4126
+ORD-103189,2026-07-28,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,45664.61,0.05,173525.53,18489.37,23.2599,77.4126
+ORD-103190,2026-07-28,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,3097.15,0.1,5574.88,1085.87,23.2599,77.4126
+ORD-103191,2026-07-28,Bhopal,Madhya Pradesh,Electronics,Tablet,3,51572.83,0.05,146982.57,15237.73,23.2599,77.4126
+ORD-103192,2026-07-28,Bhopal,Madhya Pradesh,Electronics,Tablet,3,28261.35,0.1,76305.64,6647.49,23.2599,77.4126
+ORD-103193,2026-07-28,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1645.27,0.1,2961.49,560.19,23.2599,77.4126
+ORD-103194,2026-07-29,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,995.48,0.1,2687.8,803.64,22.7196,75.8577
+ORD-103195,2026-07-29,Indore,Madhya Pradesh,Fashion,Jeans,2,2413.78,0.15,4103.43,985.16,22.7196,75.8577
+ORD-103196,2026-07-29,Indore,Madhya Pradesh,Home & Living,Mixer,4,11712.27,0.15,39821.73,9290.85,22.7196,75.8577
+ORD-103197,2026-07-29,Indore,Madhya Pradesh,Home & Living,Desk,2,8906.57,0.05,16922.48,2942.36,22.7196,75.8577
+ORD-103198,2026-07-29,Indore,Madhya Pradesh,Electronics,Headphones,3,47452.71,0.05,135240.22,16220.62,22.7196,75.8577
+ORD-103199,2026-07-29,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,3636.66,0.1,13091.98,2521.58,22.7196,75.8577
+ORD-103200,2026-07-29,Indore,Madhya Pradesh,Electronics,Laptop,1,30385.08,0.05,28865.82,4274.18,22.7196,75.8577
+ORD-103201,2026-07-29,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,23260.03,0.0,93040.14,14447.93,23.2599,77.4126
+ORD-103202,2026-07-29,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,4857.17,0.0,14571.5,3337.24,23.2599,77.4126
+ORD-103203,2026-07-29,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,11371.49,0.1,40937.38,8126.45,23.2599,77.4126
+ORD-103204,2026-07-29,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,1286.76,0.0,2573.51,485.2,23.2599,77.4126
+ORD-103205,2026-07-29,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,2397.02,0.1,4314.64,1190.3,23.2599,77.4126
+ORD-103206,2026-07-29,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,33770.89,0.05,64164.7,10248.5,23.2599,77.4126
+ORD-103207,2026-07-30,Indore,Madhya Pradesh,Home & Living,Office Chair,2,1896.15,0.0,3792.31,781.84,22.7196,75.8577
+ORD-103208,2026-07-30,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,875.84,0.0,3503.38,918.05,22.7196,75.8577
+ORD-103209,2026-07-30,Indore,Madhya Pradesh,Fashion,Jacket,3,5662.49,0.1,15288.71,4198.36,22.7196,75.8577
+ORD-103210,2026-07-30,Indore,Madhya Pradesh,Electronics,Laptop,4,47359.27,0.1,170493.36,23699.66,22.7196,75.8577
+ORD-103211,2026-07-30,Indore,Madhya Pradesh,Home & Living,Desk,3,6391.69,0.0,19175.06,4411.16,22.7196,75.8577
+ORD-103212,2026-07-30,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,268.97,0.1,968.31,166.78,23.2599,77.4126
+ORD-103213,2026-07-30,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,4,1701.01,0.0,6804.04,1831.88,23.2599,77.4126
+ORD-103214,2026-07-30,Bhopal,Madhya Pradesh,Electronics,Monitor,4,32810.7,0.1,118118.51,16815.48,23.2599,77.4126
+ORD-103215,2026-07-30,Bhopal,Madhya Pradesh,Electronics,Laptop,3,48485.51,0.0,145456.53,18511.55,23.2599,77.4126
+ORD-103216,2026-07-30,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,4,2938.66,0.1,10579.16,1902.35,23.2599,77.4126
+ORD-103217,2026-07-30,Bhopal,Madhya Pradesh,Fashion,Jacket,4,2983.47,0.0,11933.89,2442.23,23.2599,77.4126
+ORD-103218,2026-07-30,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,10960.01,0.1,19728.02,3533.4,23.2599,77.4126
+ORD-103219,2026-07-30,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,3289.33,0.2,2631.46,641.66,23.2599,77.4126
+ORD-103220,2026-07-30,Bhopal,Madhya Pradesh,Electronics,Headphones,1,46263.73,0.15,39324.17,6468.33,23.2599,77.4126
+ORD-103221,2026-07-30,Bhopal,Madhya Pradesh,Electronics,Monitor,4,11139.51,0.05,42330.14,6618.28,23.2599,77.4126
+ORD-103222,2026-07-31,Indore,Madhya Pradesh,Food & Beverages,Juice,2,267.8,0.05,508.82,111.03,22.7196,75.8577
+ORD-103223,2026-07-31,Indore,Madhya Pradesh,Fashion,Jacket,3,5596.65,0.05,15950.46,4254.35,22.7196,75.8577
+ORD-103224,2026-07-31,Indore,Madhya Pradesh,Home & Living,Office Chair,1,2387.1,0.0,2387.1,431.56,22.7196,75.8577
+ORD-103225,2026-07-31,Indore,Madhya Pradesh,Fashion,Jacket,1,5039.88,0.15,4283.9,850.99,22.7196,75.8577
+ORD-103226,2026-07-31,Indore,Madhya Pradesh,Electronics,Monitor,3,17182.16,0.2,41237.18,6636.24,22.7196,75.8577
+ORD-103227,2026-07-31,Indore,Madhya Pradesh,Fashion,Backpack,4,2648.85,0.1,9535.85,2394.0,22.7196,75.8577
+ORD-103228,2026-07-31,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2030.42,0.1,5482.12,1303.81,22.7196,75.8577
+ORD-103229,2026-07-31,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,3878.08,0.0,3878.08,787.66,22.7196,75.8577
+ORD-103230,2026-07-31,Indore,Madhya Pradesh,Electronics,Laptop,4,49485.39,0.0,197941.57,16204.23,22.7196,75.8577
+ORD-103231,2026-07-31,Bhopal,Madhya Pradesh,Electronics,Headphones,4,44512.44,0.1,160244.77,22636.05,23.2599,77.4126
+ORD-103232,2026-07-31,Bhopal,Madhya Pradesh,Electronics,Laptop,2,54103.95,0.1,97387.12,9304.82,23.2599,77.4126
+ORD-103233,2026-07-31,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,5582.3,0.0,22329.22,6388.22,23.2599,77.4126
+ORD-103234,2026-07-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,1061.08,0.1,2864.91,748.24,23.2599,77.4126
+ORD-103235,2026-07-31,Bhopal,Madhya Pradesh,Electronics,Tablet,4,35151.19,0.0,140604.75,20686.44,23.2599,77.4126
+ORD-103236,2026-07-31,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,832.78,0.1,2998.01,547.29,23.2599,77.4126
+ORD-103237,2026-07-31,Bhopal,Madhya Pradesh,Home & Living,Mixer,3,6650.01,0.1,17955.03,4238.88,23.2599,77.4126
+ORD-103238,2026-08-01,Indore,Madhya Pradesh,Electronics,Headphones,2,8785.97,0.2,14057.56,2323.94,22.7196,75.8577
+ORD-103239,2026-08-01,Indore,Madhya Pradesh,Food & Beverages,Tea,3,1159.05,0.15,2955.57,582.87,22.7196,75.8577
+ORD-103240,2026-08-01,Indore,Madhya Pradesh,Electronics,Laptop,2,49784.37,0.0,99568.73,14677.17,22.7196,75.8577
+ORD-103241,2026-08-01,Indore,Madhya Pradesh,Electronics,Laptop,1,7431.78,0.05,7060.19,710.44,22.7196,75.8577
+ORD-103242,2026-08-01,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,703.28,0.1,1265.9,214.69,22.7196,75.8577
+ORD-103243,2026-08-01,Bhopal,Madhya Pradesh,Electronics,Laptop,2,25532.12,0.15,43404.61,4359.46,23.2599,77.4126
+ORD-103244,2026-08-01,Bhopal,Madhya Pradesh,Home & Living,Desk,2,7689.86,0.05,14610.74,2587.14,23.2599,77.4126
+ORD-103245,2026-08-01,Bhopal,Madhya Pradesh,Electronics,Tablet,2,53279.49,0.0,106558.98,12525.93,23.2599,77.4126
+ORD-103246,2026-08-01,Bhopal,Madhya Pradesh,Home & Living,Lamp,3,4683.37,0.15,11942.59,2679.19,23.2599,77.4126
+ORD-103247,2026-08-01,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,5565.61,0.1,10018.1,2110.92,23.2599,77.4126
+ORD-103248,2026-08-02,Indore,Madhya Pradesh,Electronics,Monitor,3,4070.73,0.15,10380.36,1451.1,22.7196,75.8577
+ORD-103249,2026-08-02,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,1715.97,0.2,4118.32,419.26,22.7196,75.8577
+ORD-103250,2026-08-02,Indore,Madhya Pradesh,Electronics,Tablet,4,2462.47,0.1,8864.89,1284.5,22.7196,75.8577
+ORD-103251,2026-08-02,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,360.81,0.1,974.2,166.84,22.7196,75.8577
+ORD-103252,2026-08-02,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,630.38,0.1,1702.02,291.18,22.7196,75.8577
+ORD-103253,2026-08-02,Indore,Madhya Pradesh,Home & Living,Lamp,4,7315.66,0.0,29262.66,4286.17,22.7196,75.8577
+ORD-103254,2026-08-02,Bhopal,Madhya Pradesh,Electronics,Monitor,2,42740.69,0.05,81207.32,11112.46,23.2599,77.4126
+ORD-103255,2026-08-02,Bhopal,Madhya Pradesh,Electronics,Headphones,1,5967.28,0.15,5072.19,783.1,23.2599,77.4126
+ORD-103256,2026-08-02,Bhopal,Madhya Pradesh,Fashion,Jeans,3,5616.15,0.15,14321.19,3618.2,23.2599,77.4126
+ORD-103257,2026-08-02,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,1919.47,0.15,3263.1,809.58,23.2599,77.4126
+ORD-103258,2026-08-02,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,1463.93,0.1,1317.53,287.64,23.2599,77.4126
+ORD-103259,2026-08-03,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,5470.27,0.05,5196.76,1218.94,22.7196,75.8577
+ORD-103260,2026-08-03,Indore,Madhya Pradesh,Electronics,Smartphone,4,25946.2,0.0,103784.79,8578.66,22.7196,75.8577
+ORD-103261,2026-08-03,Indore,Madhya Pradesh,Electronics,Laptop,1,3046.16,0.05,2893.85,270.56,22.7196,75.8577
+ORD-103262,2026-08-03,Indore,Madhya Pradesh,Electronics,Laptop,3,14847.14,0.15,37860.2,4813.95,22.7196,75.8577
+ORD-103263,2026-08-03,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,498.86,0.1,897.94,243.44,22.7196,75.8577
+ORD-103264,2026-08-03,Bhopal,Madhya Pradesh,Electronics,Headphones,1,37290.22,0.0,37290.22,3514.4,23.2599,77.4126
+ORD-103265,2026-08-03,Bhopal,Madhya Pradesh,Home & Living,Desk,3,11219.81,0.05,31976.47,4098.4,23.2599,77.4126
+ORD-103266,2026-08-03,Bhopal,Madhya Pradesh,Fashion,Jeans,2,4815.83,0.05,9150.07,2654.3,23.2599,77.4126
+ORD-103267,2026-08-03,Bhopal,Madhya Pradesh,Electronics,Headphones,1,23854.87,0.1,21469.39,1898.9,23.2599,77.4126
+ORD-103268,2026-08-03,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,3375.82,0.1,9114.72,2279.48,23.2599,77.4126
+ORD-103269,2026-08-03,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,2,1762.07,0.1,3171.72,472.58,23.2599,77.4126
+ORD-103270,2026-08-03,Bhopal,Madhya Pradesh,Fashion,Jeans,3,1257.62,0.0,3772.87,744.68,23.2599,77.4126
+ORD-103271,2026-08-03,Bhopal,Madhya Pradesh,Fashion,Backpack,4,2675.06,0.05,10165.22,2381.22,23.2599,77.4126
+ORD-103272,2026-08-03,Bhopal,Madhya Pradesh,Fashion,Backpack,1,695.23,0.05,660.47,190.02,23.2599,77.4126
+ORD-103273,2026-08-04,Indore,Madhya Pradesh,Fashion,T-Shirt,2,4573.36,0.05,8689.39,1761.79,22.7196,75.8577
+ORD-103274,2026-08-04,Indore,Madhya Pradesh,Home & Living,Lamp,2,10730.1,0.05,20387.19,3383.66,22.7196,75.8577
+ORD-103275,2026-08-04,Indore,Madhya Pradesh,Fashion,Jacket,1,5383.32,0.05,5114.16,1065.75,22.7196,75.8577
+ORD-103276,2026-08-04,Indore,Madhya Pradesh,Food & Beverages,Coffee,4,511.82,0.1,1842.55,308.14,22.7196,75.8577
+ORD-103277,2026-08-04,Indore,Madhya Pradesh,Food & Beverages,Tea,3,1737.53,0.05,4951.96,877.3,22.7196,75.8577
+ORD-103278,2026-08-04,Indore,Madhya Pradesh,Electronics,Headphones,1,32583.02,0.05,30953.87,2696.86,22.7196,75.8577
+ORD-103279,2026-08-04,Bhopal,Madhya Pradesh,Electronics,Laptop,2,50749.63,0.05,96424.3,10675.34,23.2599,77.4126
+ORD-103280,2026-08-04,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,7675.56,0.1,20724.0,4093.74,23.2599,77.4126
+ORD-103281,2026-08-04,Bhopal,Madhya Pradesh,Electronics,Monitor,1,20155.71,0.0,20155.71,2004.82,23.2599,77.4126
+ORD-103282,2026-08-04,Bhopal,Madhya Pradesh,Electronics,Monitor,3,43504.13,0.1,117461.16,9995.26,23.2599,77.4126
+ORD-103283,2026-08-04,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,11108.92,0.0,33326.76,5108.99,23.2599,77.4126
+ORD-103284,2026-08-04,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4157.68,0.0,12473.05,3056.26,23.2599,77.4126
+ORD-103285,2026-08-04,Bhopal,Madhya Pradesh,Electronics,Laptop,2,50978.26,0.1,91760.87,10598.41,23.2599,77.4126
+ORD-103286,2026-08-04,Bhopal,Madhya Pradesh,Fashion,Jacket,4,4364.18,0.0,17456.72,3570.6,23.2599,77.4126
+ORD-103287,2026-08-04,Bhopal,Madhya Pradesh,Electronics,Headphones,4,11320.63,0.0,45282.52,4955.74,23.2599,77.4126
+ORD-103288,2026-08-05,Indore,Madhya Pradesh,Electronics,Headphones,2,37679.76,0.15,64055.6,5845.94,22.7196,75.8577
+ORD-103289,2026-08-05,Indore,Madhya Pradesh,Home & Living,Lamp,2,2519.16,0.1,4534.49,852.64,22.7196,75.8577
+ORD-103290,2026-08-05,Indore,Madhya Pradesh,Fashion,T-Shirt,3,2415.29,0.15,6158.98,1181.94,22.7196,75.8577
+ORD-103291,2026-08-05,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3877.79,0.2,12408.93,2707.6,22.7196,75.8577
+ORD-103292,2026-08-05,Indore,Madhya Pradesh,Electronics,Headphones,3,53150.05,0.15,135532.63,16391.85,22.7196,75.8577
+ORD-103293,2026-08-05,Indore,Madhya Pradesh,Food & Beverages,Biscuits,3,1551.07,0.0,4653.2,505.12,22.7196,75.8577
+ORD-103294,2026-08-05,Indore,Madhya Pradesh,Fashion,Jeans,2,663.74,0.1,1194.73,304.87,22.7196,75.8577
+ORD-103295,2026-08-05,Indore,Madhya Pradesh,Food & Beverages,Tea,1,974.15,0.05,925.44,120.7,22.7196,75.8577
+ORD-103296,2026-08-05,Bhopal,Madhya Pradesh,Electronics,Laptop,1,20481.95,0.1,18433.75,2278.16,23.2599,77.4126
+ORD-103297,2026-08-05,Bhopal,Madhya Pradesh,Electronics,Laptop,1,48921.89,0.05,46475.79,4484.15,23.2599,77.4126
+ORD-103298,2026-08-05,Bhopal,Madhya Pradesh,Electronics,Headphones,3,19563.62,0.0,58690.85,9107.2,23.2599,77.4126
+ORD-103299,2026-08-05,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,326.46,0.15,1109.97,150.85,23.2599,77.4126
+ORD-103300,2026-08-05,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,1180.29,0.0,1180.29,226.18,23.2599,77.4126
+ORD-103301,2026-08-05,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,3784.86,0.05,7191.23,1621.32,23.2599,77.4126
+ORD-103302,2026-08-05,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,4460.13,0.05,4237.12,1027.65,23.2599,77.4126
+ORD-103303,2026-08-05,Bhopal,Madhya Pradesh,Electronics,Headphones,1,43603.44,0.15,37062.93,3236.26,23.2599,77.4126
+ORD-103304,2026-08-06,Indore,Madhya Pradesh,Fashion,Jacket,1,4781.57,0.0,4781.57,867.05,22.7196,75.8577
+ORD-103305,2026-08-06,Indore,Madhya Pradesh,Fashion,T-Shirt,4,811.79,0.1,2922.45,547.28,22.7196,75.8577
+ORD-103306,2026-08-06,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,1386.64,0.0,2773.27,717.63,22.7196,75.8577
+ORD-103307,2026-08-06,Indore,Madhya Pradesh,Home & Living,Office Chair,3,8975.99,0.1,24235.17,4872.63,22.7196,75.8577
+ORD-103308,2026-08-06,Indore,Madhya Pradesh,Fashion,Jacket,2,4425.2,0.1,7965.37,1840.35,22.7196,75.8577
+ORD-103309,2026-08-06,Indore,Madhya Pradesh,Fashion,Jeans,2,2090.74,0.05,3972.41,1159.09,22.7196,75.8577
+ORD-103310,2026-08-06,Indore,Madhya Pradesh,Fashion,Jeans,3,4325.44,0.05,12327.51,2413.19,22.7196,75.8577
+ORD-103311,2026-08-06,Indore,Madhya Pradesh,Fashion,Backpack,1,5156.31,0.15,4382.87,977.71,22.7196,75.8577
+ORD-103312,2026-08-06,Indore,Madhya Pradesh,Home & Living,Desk,3,11418.23,0.1,30829.22,4680.63,22.7196,75.8577
+ORD-103313,2026-08-06,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1475.17,0.15,5015.59,908.15,22.7196,75.8577
+ORD-103314,2026-08-06,Indore,Madhya Pradesh,Electronics,Laptop,4,7678.41,0.05,29177.96,4785.54,22.7196,75.8577
+ORD-103315,2026-08-06,Bhopal,Madhya Pradesh,Electronics,Laptop,4,24349.52,0.05,92528.17,8992.82,23.2599,77.4126
+ORD-103316,2026-08-06,Bhopal,Madhya Pradesh,Fashion,Jeans,4,3151.06,0.0,12604.22,2632.52,23.2599,77.4126
+ORD-103317,2026-08-06,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,1493.4,0.0,5973.59,662.65,23.2599,77.4126
+ORD-103318,2026-08-06,Bhopal,Madhya Pradesh,Fashion,Jacket,4,5985.27,0.0,23941.1,5709.78,23.2599,77.4126
+ORD-103319,2026-08-06,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,3,2151.32,0.05,6131.26,1347.34,23.2599,77.4126
+ORD-103320,2026-08-07,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4846.35,0.1,13085.14,3598.46,22.7196,75.8577
+ORD-103321,2026-08-07,Indore,Madhya Pradesh,Electronics,Smartphone,1,20141.5,0.05,19134.43,1816.33,22.7196,75.8577
+ORD-103322,2026-08-07,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,3368.61,0.2,5389.77,1298.04,22.7196,75.8577
+ORD-103323,2026-08-07,Indore,Madhya Pradesh,Electronics,Monitor,1,14336.27,0.1,12902.64,2230.21,22.7196,75.8577
+ORD-103324,2026-08-07,Indore,Madhya Pradesh,Electronics,Tablet,1,30832.26,0.0,30832.26,3976.41,22.7196,75.8577
+ORD-103325,2026-08-07,Indore,Madhya Pradesh,Electronics,Headphones,4,42778.64,0.05,162558.83,18808.33,22.7196,75.8577
+ORD-103326,2026-08-07,Indore,Madhya Pradesh,Home & Living,Office Chair,4,5364.62,0.2,17166.79,2254.44,22.7196,75.8577
+ORD-103327,2026-08-07,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,5174.88,0.2,4139.91,681.92,23.2599,77.4126
+ORD-103328,2026-08-07,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,8152.33,0.05,15489.42,3500.7,23.2599,77.4126
+ORD-103329,2026-08-07,Bhopal,Madhya Pradesh,Fashion,Backpack,2,3663.69,0.1,6594.64,1844.82,23.2599,77.4126
+ORD-103330,2026-08-07,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,3962.35,0.05,3764.23,1049.23,23.2599,77.4126
+ORD-103331,2026-08-07,Bhopal,Madhya Pradesh,Electronics,Laptop,3,9026.95,0.05,25726.8,2270.57,23.2599,77.4126
+ORD-103332,2026-08-07,Bhopal,Madhya Pradesh,Electronics,Laptop,4,42156.56,0.1,151763.62,21014.95,23.2599,77.4126
+ORD-103333,2026-08-07,Bhopal,Madhya Pradesh,Home & Living,Desk,4,9569.89,0.2,30623.65,6031.09,23.2599,77.4126
+ORD-103334,2026-08-07,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,8465.37,0.1,22856.5,3883.98,23.2599,77.4126
+ORD-103335,2026-08-08,Indore,Madhya Pradesh,Fashion,Jeans,2,4502.35,0.0,9004.69,1701.89,22.7196,75.8577
+ORD-103336,2026-08-08,Indore,Madhya Pradesh,Electronics,Tablet,2,29615.97,0.05,56270.34,7673.18,22.7196,75.8577
+ORD-103337,2026-08-08,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,1787.65,0.1,1608.88,210.11,22.7196,75.8577
+ORD-103338,2026-08-08,Indore,Madhya Pradesh,Electronics,Tablet,4,37991.26,0.05,144366.81,25883.19,22.7196,75.8577
+ORD-103339,2026-08-08,Indore,Madhya Pradesh,Home & Living,Office Chair,2,2809.33,0.05,5337.73,719.28,22.7196,75.8577
+ORD-103340,2026-08-08,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,1072.06,0.05,1018.46,232.86,22.7196,75.8577
+ORD-103341,2026-08-08,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,14368.76,0.2,11495.01,955.8,23.2599,77.4126
+ORD-103342,2026-08-08,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,10960.51,0.0,32881.54,4055.33,23.2599,77.4126
+ORD-103343,2026-08-08,Bhopal,Madhya Pradesh,Fashion,Jeans,2,4656.99,0.05,8848.28,1788.63,23.2599,77.4126
+ORD-103344,2026-08-08,Bhopal,Madhya Pradesh,Fashion,Jacket,2,2358.58,0.2,3773.73,644.31,23.2599,77.4126
+ORD-103345,2026-08-08,Bhopal,Madhya Pradesh,Electronics,Tablet,2,54331.03,0.0,108662.07,10306.97,23.2599,77.4126
+ORD-103346,2026-08-08,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,2567.17,0.1,2310.45,489.19,23.2599,77.4126
+ORD-103347,2026-08-09,Indore,Madhya Pradesh,Food & Beverages,Juice,4,563.29,0.1,2027.85,218.68,22.7196,75.8577
+ORD-103348,2026-08-09,Indore,Madhya Pradesh,Electronics,Headphones,1,46108.61,0.0,46108.61,8239.25,22.7196,75.8577
+ORD-103349,2026-08-09,Indore,Madhya Pradesh,Electronics,Smartphone,1,50825.46,0.1,45742.91,5979.39,22.7196,75.8577
+ORD-103350,2026-08-09,Indore,Madhya Pradesh,Fashion,T-Shirt,3,1982.16,0.1,5351.84,1122.55,22.7196,75.8577
+ORD-103351,2026-08-09,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,3729.36,0.1,6712.85,1647.58,22.7196,75.8577
+ORD-103352,2026-08-09,Indore,Madhya Pradesh,Home & Living,Mixer,1,2120.72,0.05,2014.68,386.66,22.7196,75.8577
+ORD-103353,2026-08-09,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2029.96,0.05,3856.92,743.03,22.7196,75.8577
+ORD-103354,2026-08-09,Indore,Madhya Pradesh,Electronics,Tablet,3,24605.46,0.0,73816.39,9599.04,22.7196,75.8577
+ORD-103355,2026-08-09,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,3606.4,0.1,3245.76,636.04,23.2599,77.4126
+ORD-103356,2026-08-09,Bhopal,Madhya Pradesh,Electronics,Tablet,2,15666.34,0.15,26632.78,2678.25,23.2599,77.4126
+ORD-103357,2026-08-09,Bhopal,Madhya Pradesh,Fashion,Backpack,1,2798.22,0.15,2378.48,476.08,23.2599,77.4126
+ORD-103358,2026-08-09,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,9191.46,0.2,14706.33,2184.65,23.2599,77.4126
+ORD-103359,2026-08-09,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,4,1455.08,0.1,5238.31,910.82,23.2599,77.4126
+ORD-103360,2026-08-09,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,11072.8,0.0,22145.61,3043.8,23.2599,77.4126
+ORD-103361,2026-08-09,Bhopal,Madhya Pradesh,Fashion,Backpack,4,945.02,0.05,3591.09,840.77,23.2599,77.4126
+ORD-103362,2026-08-09,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,7566.87,0.05,28754.1,6703.85,23.2599,77.4126
+ORD-103363,2026-08-10,Indore,Madhya Pradesh,Home & Living,Desk,3,5843.87,0.05,16655.02,3972.5,22.7196,75.8577
+ORD-103364,2026-08-10,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,2938.88,0.15,7494.14,1232.9,22.7196,75.8577
+ORD-103365,2026-08-10,Indore,Madhya Pradesh,Fashion,T-Shirt,2,3997.09,0.15,6795.05,1558.28,22.7196,75.8577
+ORD-103366,2026-08-10,Indore,Madhya Pradesh,Electronics,Laptop,2,35787.1,0.1,64416.78,10671.68,22.7196,75.8577
+ORD-103367,2026-08-10,Indore,Madhya Pradesh,Food & Beverages,Coffee,3,353.51,0.0,1060.54,200.94,22.7196,75.8577
+ORD-103368,2026-08-10,Indore,Madhya Pradesh,Electronics,Monitor,2,52687.1,0.0,105374.2,17679.72,22.7196,75.8577
+ORD-103369,2026-08-10,Indore,Madhya Pradesh,Electronics,Monitor,4,47821.4,0.1,172157.03,16421.02,22.7196,75.8577
+ORD-103370,2026-08-10,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1597.23,0.0,3194.46,380.07,23.2599,77.4126
+ORD-103371,2026-08-10,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,2305.84,0.1,4150.52,1133.29,23.2599,77.4126
+ORD-103372,2026-08-10,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5921.95,0.05,5625.85,1134.59,23.2599,77.4126
+ORD-103373,2026-08-10,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,4735.12,0.05,4498.36,848.54,23.2599,77.4126
+ORD-103374,2026-08-10,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,1489.48,0.1,4021.6,558.99,23.2599,77.4126
+ORD-103375,2026-08-10,Bhopal,Madhya Pradesh,Electronics,Monitor,4,29925.76,0.1,107732.73,13295.26,23.2599,77.4126
+ORD-103376,2026-08-10,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,9688.72,0.0,9688.72,1366.4,23.2599,77.4126
+ORD-103377,2026-08-11,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,2947.19,0.15,10020.43,1896.86,22.7196,75.8577
+ORD-103378,2026-08-11,Indore,Madhya Pradesh,Electronics,Smartphone,1,50186.47,0.1,45167.82,5790.77,22.7196,75.8577
+ORD-103379,2026-08-11,Indore,Madhya Pradesh,Electronics,Smartphone,3,15314.02,0.1,41347.86,5701.94,22.7196,75.8577
+ORD-103380,2026-08-11,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,4750.03,0.15,8075.05,1655.13,22.7196,75.8577
+ORD-103381,2026-08-11,Indore,Madhya Pradesh,Fashion,Jacket,2,2393.47,0.1,4308.25,1219.95,22.7196,75.8577
+ORD-103382,2026-08-11,Indore,Madhya Pradesh,Fashion,Jeans,4,4428.8,0.0,17715.19,4754.65,22.7196,75.8577
+ORD-103383,2026-08-11,Indore,Madhya Pradesh,Fashion,Jacket,2,1058.51,0.05,2011.17,549.28,22.7196,75.8577
+ORD-103384,2026-08-11,Bhopal,Madhya Pradesh,Home & Living,Desk,4,3385.69,0.1,12188.47,2507.2,23.2599,77.4126
+ORD-103385,2026-08-11,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,1067.51,0.0,1067.51,193.18,23.2599,77.4126
+ORD-103386,2026-08-11,Bhopal,Madhya Pradesh,Electronics,Laptop,3,51838.68,0.1,139964.45,17319.09,23.2599,77.4126
+ORD-103387,2026-08-11,Bhopal,Madhya Pradesh,Home & Living,Desk,4,981.14,0.0,3924.57,730.69,23.2599,77.4126
+ORD-103388,2026-08-11,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,2,1024.06,0.1,1843.31,451.37,23.2599,77.4126
+ORD-103389,2026-08-11,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,11408.11,0.05,32513.13,3904.76,23.2599,77.4126
+ORD-103390,2026-08-11,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,47218.71,0.2,113324.9,9662.15,23.2599,77.4126
+ORD-103391,2026-08-11,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,10905.75,0.05,31081.39,3586.76,23.2599,77.4126
+ORD-103392,2026-08-11,Bhopal,Madhya Pradesh,Fashion,Jeans,1,5430.41,0.15,4615.85,1270.19,23.2599,77.4126
+ORD-103393,2026-08-11,Bhopal,Madhya Pradesh,Electronics,Headphones,4,32968.57,0.0,131874.28,23279.51,23.2599,77.4126
+ORD-103394,2026-08-12,Indore,Madhya Pradesh,Home & Living,Lamp,4,3658.46,0.1,13170.47,2125.55,22.7196,75.8577
+ORD-103395,2026-08-12,Indore,Madhya Pradesh,Home & Living,Office Chair,3,2989.38,0.0,8968.14,1732.19,22.7196,75.8577
+ORD-103396,2026-08-12,Indore,Madhya Pradesh,Fashion,Backpack,2,2146.18,0.05,4077.75,1180.16,22.7196,75.8577
+ORD-103397,2026-08-12,Indore,Madhya Pradesh,Electronics,Monitor,2,17899.45,0.05,34008.96,4157.91,22.7196,75.8577
+ORD-103398,2026-08-12,Indore,Madhya Pradesh,Fashion,Jacket,4,5963.08,0.2,19081.85,4033.72,22.7196,75.8577
+ORD-103399,2026-08-12,Bhopal,Madhya Pradesh,Fashion,Jeans,1,2719.25,0.0,2719.25,710.77,23.2599,77.4126
+ORD-103400,2026-08-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,21108.21,0.0,84432.85,8063.92,23.2599,77.4126
+ORD-103401,2026-08-12,Bhopal,Madhya Pradesh,Electronics,Tablet,3,15628.75,0.2,37509.0,5328.76,23.2599,77.4126
+ORD-103402,2026-08-12,Bhopal,Madhya Pradesh,Electronics,Laptop,4,31320.37,0.0,125281.46,21049.79,23.2599,77.4126
+ORD-103403,2026-08-12,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,632.36,0.1,569.13,117.56,23.2599,77.4126
+ORD-103404,2026-08-12,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,2997.46,0.0,11989.84,2993.06,23.2599,77.4126
+ORD-103405,2026-08-12,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,33135.67,0.1,89466.32,11921.01,23.2599,77.4126
+ORD-103406,2026-08-12,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,3,7132.68,0.05,20328.12,3838.57,23.2599,77.4126
+ORD-103407,2026-08-13,Indore,Madhya Pradesh,Electronics,Monitor,3,24029.55,0.05,68484.22,7183.63,22.7196,75.8577
+ORD-103408,2026-08-13,Indore,Madhya Pradesh,Electronics,Tablet,4,12880.3,0.15,43793.01,4198.12,22.7196,75.8577
+ORD-103409,2026-08-13,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,11252.85,0.1,30382.7,5953.62,22.7196,75.8577
+ORD-103410,2026-08-13,Indore,Madhya Pradesh,Electronics,Smartphone,4,21121.6,0.1,76037.75,6810.68,22.7196,75.8577
+ORD-103411,2026-08-13,Indore,Madhya Pradesh,Home & Living,Office Chair,2,1385.77,0.05,2632.96,631.21,22.7196,75.8577
+ORD-103412,2026-08-13,Indore,Madhya Pradesh,Home & Living,Office Chair,4,11364.3,0.05,43184.35,6491.17,22.7196,75.8577
+ORD-103413,2026-08-13,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,3114.97,0.15,10590.89,2250.56,23.2599,77.4126
+ORD-103414,2026-08-13,Bhopal,Madhya Pradesh,Fashion,Jacket,2,1426.81,0.15,2425.58,724.43,23.2599,77.4126
+ORD-103415,2026-08-13,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,418.34,0.1,376.51,64.61,23.2599,77.4126
+ORD-103416,2026-08-13,Bhopal,Madhya Pradesh,Fashion,Jacket,1,2701.58,0.1,2431.42,452.12,23.2599,77.4126
+ORD-103417,2026-08-13,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,2019.93,0.15,5150.82,1095.61,23.2599,77.4126
+ORD-103418,2026-08-13,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,2273.35,0.1,6138.03,1388.54,23.2599,77.4126
+ORD-103419,2026-08-13,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,2036.16,0.1,3665.09,642.64,23.2599,77.4126
+ORD-103420,2026-08-13,Bhopal,Madhya Pradesh,Fashion,Jeans,1,3338.85,0.0,3338.85,800.97,23.2599,77.4126
+ORD-103421,2026-08-13,Bhopal,Madhya Pradesh,Fashion,Jeans,1,1120.24,0.05,1064.23,263.91,23.2599,77.4126
+ORD-103422,2026-08-13,Bhopal,Madhya Pradesh,Fashion,Backpack,2,2175.33,0.2,3480.53,1018.04,23.2599,77.4126
+ORD-103423,2026-08-14,Indore,Madhya Pradesh,Fashion,Backpack,2,3887.7,0.0,7775.41,1652.04,22.7196,75.8577
+ORD-103424,2026-08-14,Indore,Madhya Pradesh,Food & Beverages,Tea,3,759.98,0.2,1823.95,231.41,22.7196,75.8577
+ORD-103425,2026-08-14,Indore,Madhya Pradesh,Food & Beverages,Juice,3,371.84,0.1,1003.97,167.53,22.7196,75.8577
+ORD-103426,2026-08-14,Indore,Madhya Pradesh,Food & Beverages,Juice,2,971.91,0.0,1943.82,365.69,22.7196,75.8577
+ORD-103427,2026-08-14,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2152.62,0.05,4089.99,751.62,22.7196,75.8577
+ORD-103428,2026-08-14,Indore,Madhya Pradesh,Food & Beverages,Tea,2,378.82,0.15,643.99,110.38,22.7196,75.8577
+ORD-103429,2026-08-14,Indore,Madhya Pradesh,Electronics,Laptop,4,47383.72,0.1,170581.38,18170.03,22.7196,75.8577
+ORD-103430,2026-08-14,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,1711.11,0.15,1454.44,381.19,22.7196,75.8577
+ORD-103431,2026-08-14,Bhopal,Madhya Pradesh,Home & Living,Desk,4,4943.39,0.0,19773.55,2644.42,23.2599,77.4126
+ORD-103432,2026-08-14,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4299.3,0.0,12897.9,3808.86,23.2599,77.4126
+ORD-103433,2026-08-14,Bhopal,Madhya Pradesh,Home & Living,Mixer,2,3182.31,0.0,6364.62,1323.64,23.2599,77.4126
+ORD-103434,2026-08-14,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,4886.22,0.05,4641.91,820.25,23.2599,77.4126
+ORD-103435,2026-08-14,Bhopal,Madhya Pradesh,Electronics,Headphones,2,53367.48,0.05,101398.22,11036.06,23.2599,77.4126
+ORD-103436,2026-08-14,Bhopal,Madhya Pradesh,Home & Living,Office Chair,4,9628.26,0.1,34661.75,7620.88,23.2599,77.4126
+ORD-103437,2026-08-14,Bhopal,Madhya Pradesh,Electronics,Headphones,4,50339.04,0.05,191288.36,33129.16,23.2599,77.4126
+ORD-103438,2026-08-14,Bhopal,Madhya Pradesh,Electronics,Laptop,2,49451.96,0.0,98903.91,9703.43,23.2599,77.4126
+ORD-103439,2026-08-14,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,2,1777.56,0.1,3199.61,484.79,23.2599,77.4126
+ORD-103440,2026-08-14,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,1131.97,0.1,4075.11,470.18,23.2599,77.4126
+ORD-103441,2026-08-15,Indore,Madhya Pradesh,Fashion,T-Shirt,1,1270.55,0.1,1143.5,245.11,22.7196,75.8577
+ORD-103442,2026-08-15,Indore,Madhya Pradesh,Electronics,Laptop,3,12142.08,0.1,32783.62,3622.95,22.7196,75.8577
+ORD-103443,2026-08-15,Indore,Madhya Pradesh,Fashion,Jacket,2,1117.46,0.1,2011.42,446.88,22.7196,75.8577
+ORD-103444,2026-08-15,Indore,Madhya Pradesh,Fashion,Jeans,2,5845.79,0.1,10522.42,1944.86,22.7196,75.8577
+ORD-103445,2026-08-15,Indore,Madhya Pradesh,Electronics,Headphones,1,41995.24,0.1,37795.72,3733.16,22.7196,75.8577
+ORD-103446,2026-08-15,Indore,Madhya Pradesh,Electronics,Monitor,4,39325.65,0.0,157302.58,28260.7,22.7196,75.8577
+ORD-103447,2026-08-15,Indore,Madhya Pradesh,Fashion,Backpack,2,2865.42,0.1,5157.76,1376.76,22.7196,75.8577
+ORD-103448,2026-08-15,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,1449.83,0.05,1377.34,294.3,22.7196,75.8577
+ORD-103449,2026-08-15,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,4995.52,0.1,17983.88,3723.47,22.7196,75.8577
+ORD-103450,2026-08-15,Indore,Madhya Pradesh,Fashion,Jeans,4,3318.6,0.15,11283.23,3319.12,22.7196,75.8577
+ORD-103451,2026-08-15,Indore,Madhya Pradesh,Electronics,Tablet,2,17992.69,0.15,30587.58,4427.56,22.7196,75.8577
+ORD-103452,2026-08-15,Bhopal,Madhya Pradesh,Electronics,Monitor,4,46005.17,0.0,184020.67,26620.78,23.2599,77.4126
+ORD-103453,2026-08-15,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,3034.4,0.15,5158.48,1032.22,23.2599,77.4126
+ORD-103454,2026-08-15,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,9281.78,0.0,9281.78,1706.77,23.2599,77.4126
+ORD-103455,2026-08-15,Bhopal,Madhya Pradesh,Fashion,Backpack,3,3875.67,0.1,10464.3,2620.85,23.2599,77.4126
+ORD-103456,2026-08-15,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,1587.56,0.0,1587.56,281.37,23.2599,77.4126
+ORD-103457,2026-08-15,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,3086.88,0.05,2932.53,495.18,23.2599,77.4126
+ORD-103458,2026-08-15,Bhopal,Madhya Pradesh,Electronics,Laptop,3,29636.85,0.1,80019.49,12926.29,23.2599,77.4126
+ORD-103459,2026-08-15,Bhopal,Madhya Pradesh,Food & Beverages,Tea,1,1781.49,0.05,1692.41,250.73,23.2599,77.4126
+ORD-103460,2026-08-15,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,12851.92,0.0,38555.75,6237.79,23.2599,77.4126
+ORD-103461,2026-08-15,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,47157.18,0.2,75451.49,6839.97,23.2599,77.4126
+ORD-103462,2026-08-16,Indore,Madhya Pradesh,Electronics,Smartphone,2,37965.35,0.0,75930.7,7370.8,22.7196,75.8577
+ORD-103463,2026-08-16,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,3194.02,0.0,12776.06,2599.33,22.7196,75.8577
+ORD-103464,2026-08-16,Indore,Madhya Pradesh,Fashion,Jacket,2,1037.52,0.15,1763.78,319.07,22.7196,75.8577
+ORD-103465,2026-08-16,Indore,Madhya Pradesh,Home & Living,Office Chair,3,11934.17,0.0,35802.51,4732.08,22.7196,75.8577
+ORD-103466,2026-08-16,Indore,Madhya Pradesh,Electronics,Monitor,1,21168.86,0.0,21168.86,2246.06,22.7196,75.8577
+ORD-103467,2026-08-16,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,853.54,0.0,1707.07,186.29,22.7196,75.8577
+ORD-103468,2026-08-16,Indore,Madhya Pradesh,Home & Living,Desk,3,7459.83,0.1,20141.53,4742.62,22.7196,75.8577
+ORD-103469,2026-08-16,Indore,Madhya Pradesh,Electronics,Laptop,4,54062.96,0.05,205439.23,27088.18,22.7196,75.8577
+ORD-103470,2026-08-16,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,1,10436.21,0.05,9914.4,1280.81,23.2599,77.4126
+ORD-103471,2026-08-16,Bhopal,Madhya Pradesh,Fashion,Jacket,1,2929.84,0.05,2783.35,695.02,23.2599,77.4126
+ORD-103472,2026-08-16,Bhopal,Madhya Pradesh,Electronics,Monitor,1,24165.84,0.15,20540.96,2496.51,23.2599,77.4126
+ORD-103473,2026-08-16,Bhopal,Madhya Pradesh,Beauty & Personal Care,Perfume,1,1182.49,0.1,1064.24,296.74,23.2599,77.4126
+ORD-103474,2026-08-16,Bhopal,Madhya Pradesh,Electronics,Monitor,4,54972.39,0.0,219889.55,30417.78,23.2599,77.4126
+ORD-103475,2026-08-16,Bhopal,Madhya Pradesh,Fashion,Jacket,3,3826.45,0.0,11479.34,2581.02,23.2599,77.4126
+ORD-103476,2026-08-16,Bhopal,Madhya Pradesh,Food & Beverages,Tea,2,1460.31,0.0,2920.62,637.87,23.2599,77.4126
+ORD-103477,2026-08-16,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,3436.57,0.05,3264.75,809.68,23.2599,77.4126
+ORD-103478,2026-08-17,Indore,Madhya Pradesh,Electronics,Headphones,2,46256.96,0.0,92513.91,11486.54,22.7196,75.8577
+ORD-103479,2026-08-17,Indore,Madhya Pradesh,Home & Living,Lamp,1,8641.31,0.05,8209.24,1256.59,22.7196,75.8577
+ORD-103480,2026-08-17,Indore,Madhya Pradesh,Fashion,T-Shirt,4,2686.1,0.2,8595.52,2403.87,22.7196,75.8577
+ORD-103481,2026-08-17,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,2962.35,0.15,5035.99,1099.43,22.7196,75.8577
+ORD-103482,2026-08-17,Indore,Madhya Pradesh,Electronics,Headphones,3,5520.81,0.15,14078.06,2103.69,22.7196,75.8577
+ORD-103483,2026-08-17,Indore,Madhya Pradesh,Electronics,Laptop,4,37542.86,0.2,120137.16,13935.16,22.7196,75.8577
+ORD-103484,2026-08-17,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,3552.41,0.1,12788.69,2541.35,22.7196,75.8577
+ORD-103485,2026-08-17,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,1186.89,0.0,1186.89,209.13,22.7196,75.8577
+ORD-103486,2026-08-17,Indore,Madhya Pradesh,Home & Living,Office Chair,1,9642.42,0.05,9160.29,2048.24,22.7196,75.8577
+ORD-103487,2026-08-17,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,2,3023.63,0.1,5442.54,1316.76,22.7196,75.8577
+ORD-103488,2026-08-17,Indore,Madhya Pradesh,Home & Living,Mixer,2,3635.75,0.15,6180.77,1060.12,22.7196,75.8577
+ORD-103489,2026-08-17,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,26070.97,0.05,49534.84,5912.01,23.2599,77.4126
+ORD-103490,2026-08-17,Bhopal,Madhya Pradesh,Electronics,Monitor,2,34790.09,0.05,66101.16,9818.74,23.2599,77.4126
+ORD-103491,2026-08-17,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,1670.18,0.05,1586.68,345.54,23.2599,77.4126
+ORD-103492,2026-08-17,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,36578.27,0.1,98761.33,14722.55,23.2599,77.4126
+ORD-103493,2026-08-17,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,20794.29,0.1,74859.45,7394.32,23.2599,77.4126
+ORD-103494,2026-08-17,Bhopal,Madhya Pradesh,Home & Living,Office Chair,3,6705.67,0.0,20117.02,2645.71,23.2599,77.4126
+ORD-103495,2026-08-17,Bhopal,Madhya Pradesh,Electronics,Laptop,2,44082.13,0.0,88164.26,8537.25,23.2599,77.4126
+ORD-103496,2026-08-17,Bhopal,Madhya Pradesh,Fashion,T-Shirt,4,2550.54,0.05,9692.06,2505.38,23.2599,77.4126
+ORD-103497,2026-08-18,Indore,Madhya Pradesh,Food & Beverages,Snacks,2,830.71,0.05,1578.35,236.5,22.7196,75.8577
+ORD-103498,2026-08-18,Indore,Madhya Pradesh,Electronics,Monitor,4,4851.43,0.05,18435.44,1646.37,22.7196,75.8577
+ORD-103499,2026-08-18,Indore,Madhya Pradesh,Electronics,Tablet,2,39111.08,0.15,66488.84,10614.32,22.7196,75.8577
+ORD-103500,2026-08-18,Indore,Madhya Pradesh,Home & Living,Mixer,4,6125.59,0.0,24502.35,4014.72,22.7196,75.8577
+ORD-103501,2026-08-18,Indore,Madhya Pradesh,Electronics,Laptop,4,46598.41,0.0,186393.66,19148.95,22.7196,75.8577
+ORD-103502,2026-08-18,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,262.78,0.05,998.55,156.42,22.7196,75.8577
+ORD-103503,2026-08-18,Indore,Madhya Pradesh,Food & Beverages,Juice,3,118.31,0.0,354.93,51.47,22.7196,75.8577
+ORD-103504,2026-08-18,Indore,Madhya Pradesh,Home & Living,Mixer,3,6209.27,0.0,18627.81,3019.34,22.7196,75.8577
+ORD-103505,2026-08-18,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4713.42,0.1,12726.22,2462.84,22.7196,75.8577
+ORD-103506,2026-08-18,Bhopal,Madhya Pradesh,Electronics,Headphones,1,34712.94,0.05,32977.29,5659.7,23.2599,77.4126
+ORD-103507,2026-08-18,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,588.99,0.05,1678.62,425.91,23.2599,77.4126
+ORD-103508,2026-08-18,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,704.96,0.15,1797.66,356.94,23.2599,77.4126
+ORD-103509,2026-08-18,Bhopal,Madhya Pradesh,Electronics,Tablet,4,26938.86,0.15,91592.12,8647.38,23.2599,77.4126
+ORD-103510,2026-08-18,Bhopal,Madhya Pradesh,Electronics,Headphones,3,19211.63,0.05,54753.14,7544.79,23.2599,77.4126
+ORD-103511,2026-08-19,Indore,Madhya Pradesh,Fashion,Backpack,2,4864.79,0.1,8756.62,1569.2,22.7196,75.8577
+ORD-103512,2026-08-19,Indore,Madhya Pradesh,Electronics,Monitor,2,33545.74,0.15,57027.76,5594.26,22.7196,75.8577
+ORD-103513,2026-08-19,Indore,Madhya Pradesh,Home & Living,Desk,4,1205.74,0.1,4340.65,831.92,22.7196,75.8577
+ORD-103514,2026-08-19,Indore,Madhya Pradesh,Fashion,Jeans,1,5999.97,0.05,5699.97,1686.82,22.7196,75.8577
+ORD-103515,2026-08-19,Indore,Madhya Pradesh,Food & Beverages,Tea,2,995.49,0.05,1891.43,286.12,22.7196,75.8577
+ORD-103516,2026-08-19,Indore,Madhya Pradesh,Electronics,Tablet,1,52497.96,0.1,47248.17,5898.68,22.7196,75.8577
+ORD-103517,2026-08-19,Indore,Madhya Pradesh,Home & Living,Office Chair,3,10465.8,0.0,31397.39,5027.18,22.7196,75.8577
+ORD-103518,2026-08-19,Bhopal,Madhya Pradesh,Electronics,Monitor,1,39655.19,0.1,35689.67,4099.06,23.2599,77.4126
+ORD-103519,2026-08-19,Bhopal,Madhya Pradesh,Electronics,Laptop,4,29605.5,0.05,112500.91,18971.14,23.2599,77.4126
+ORD-103520,2026-08-19,Bhopal,Madhya Pradesh,Food & Beverages,Juice,3,1795.08,0.05,5115.99,657.68,23.2599,77.4126
+ORD-103521,2026-08-19,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,4,4071.53,0.0,16286.13,3871.34,23.2599,77.4126
+ORD-103522,2026-08-19,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,187.91,0.1,169.12,34.11,23.2599,77.4126
+ORD-103523,2026-08-19,Bhopal,Madhya Pradesh,Electronics,Monitor,4,15284.2,0.15,51966.28,8044.11,23.2599,77.4126
+ORD-103524,2026-08-20,Indore,Madhya Pradesh,Fashion,Jeans,2,4458.87,0.1,8025.97,1964.42,22.7196,75.8577
+ORD-103525,2026-08-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,3465.14,0.05,3291.88,820.46,22.7196,75.8577
+ORD-103526,2026-08-20,Indore,Madhya Pradesh,Fashion,Jacket,1,901.42,0.1,811.27,132.32,22.7196,75.8577
+ORD-103527,2026-08-20,Indore,Madhya Pradesh,Electronics,Monitor,2,40947.73,0.15,69611.13,6988.09,22.7196,75.8577
+ORD-103528,2026-08-20,Indore,Madhya Pradesh,Electronics,Tablet,2,36309.74,0.05,68988.51,9327.16,22.7196,75.8577
+ORD-103529,2026-08-20,Indore,Madhya Pradesh,Food & Beverages,Juice,4,1700.15,0.0,6800.59,815.9,22.7196,75.8577
+ORD-103530,2026-08-20,Indore,Madhya Pradesh,Fashion,Men's Shoes,3,2970.85,0.0,8912.54,2361.61,22.7196,75.8577
+ORD-103531,2026-08-20,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,7743.32,0.05,7356.15,1503.12,22.7196,75.8577
+ORD-103532,2026-08-20,Indore,Madhya Pradesh,Fashion,Backpack,4,937.36,0.0,3749.44,733.54,22.7196,75.8577
+ORD-103533,2026-08-20,Indore,Madhya Pradesh,Food & Beverages,Snacks,4,1266.12,0.15,4304.79,882.51,22.7196,75.8577
+ORD-103534,2026-08-20,Indore,Madhya Pradesh,Fashion,Backpack,2,1618.31,0.1,2912.96,804.63,22.7196,75.8577
+ORD-103535,2026-08-20,Bhopal,Madhya Pradesh,Electronics,Tablet,1,30495.03,0.0,30495.03,3170.81,23.2599,77.4126
+ORD-103536,2026-08-20,Bhopal,Madhya Pradesh,Electronics,Headphones,2,3937.93,0.05,7482.08,684.97,23.2599,77.4126
+ORD-103537,2026-08-20,Bhopal,Madhya Pradesh,Home & Living,Mixer,4,768.34,0.05,2919.68,538.03,23.2599,77.4126
+ORD-103538,2026-08-20,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,1890.5,0.05,5387.94,1107.51,23.2599,77.4126
+ORD-103539,2026-08-20,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,2,929.64,0.15,1580.4,284.62,23.2599,77.4126
+ORD-103540,2026-08-21,Indore,Madhya Pradesh,Fashion,Backpack,2,5195.43,0.1,9351.77,2354.94,22.7196,75.8577
+ORD-103541,2026-08-21,Indore,Madhya Pradesh,Fashion,T-Shirt,1,2874.85,0.05,2731.1,518.06,22.7196,75.8577
+ORD-103542,2026-08-21,Indore,Madhya Pradesh,Electronics,Tablet,1,33069.79,0.05,31416.3,5651.32,22.7196,75.8577
+ORD-103543,2026-08-21,Indore,Madhya Pradesh,Electronics,Smartphone,2,16205.86,0.0,32411.71,4798.76,22.7196,75.8577
+ORD-103544,2026-08-21,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,8914.07,0.05,16936.73,2557.5,22.7196,75.8577
+ORD-103545,2026-08-21,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,5811.05,0.0,5811.05,1236.98,22.7196,75.8577
+ORD-103546,2026-08-21,Indore,Madhya Pradesh,Home & Living,Desk,1,7064.2,0.0,7064.2,1406.42,22.7196,75.8577
+ORD-103547,2026-08-21,Bhopal,Madhya Pradesh,Food & Beverages,Juice,4,1125.34,0.05,4276.28,564.8,23.2599,77.4126
+ORD-103548,2026-08-21,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,1707.28,0.2,2731.65,411.22,23.2599,77.4126
+ORD-103549,2026-08-21,Bhopal,Madhya Pradesh,Electronics,Headphones,1,42235.59,0.0,42235.59,5363.14,23.2599,77.4126
+ORD-103550,2026-08-21,Bhopal,Madhya Pradesh,Fashion,Backpack,4,2461.96,0.05,9355.46,1661.38,23.2599,77.4126
+ORD-103551,2026-08-21,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,4,126.79,0.05,481.82,90.35,23.2599,77.4126
+ORD-103552,2026-08-21,Bhopal,Madhya Pradesh,Electronics,Monitor,1,36899.79,0.05,35054.8,3979.26,23.2599,77.4126
+ORD-103553,2026-08-21,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,1293.05,0.0,3879.15,685.14,23.2599,77.4126
+ORD-103554,2026-08-21,Bhopal,Madhya Pradesh,Fashion,Backpack,2,1872.16,0.0,3744.32,906.84,23.2599,77.4126
+ORD-103555,2026-08-21,Bhopal,Madhya Pradesh,Home & Living,Desk,1,5573.09,0.0,5573.09,1310.19,23.2599,77.4126
+ORD-103556,2026-08-22,Indore,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,3355.65,0.2,8053.56,2021.76,22.7196,75.8577
+ORD-103557,2026-08-22,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2954.81,0.2,4727.7,839.46,22.7196,75.8577
+ORD-103558,2026-08-22,Indore,Madhya Pradesh,Fashion,T-Shirt,1,2601.09,0.15,2210.93,410.94,22.7196,75.8577
+ORD-103559,2026-08-22,Indore,Madhya Pradesh,Food & Beverages,Biscuits,4,554.54,0.05,2107.24,277.94,22.7196,75.8577
+ORD-103560,2026-08-22,Indore,Madhya Pradesh,Fashion,Men's Shoes,4,2862.66,0.05,10878.11,2001.35,22.7196,75.8577
+ORD-103561,2026-08-22,Indore,Madhya Pradesh,Fashion,Backpack,2,5980.38,0.0,11960.76,2864.6,22.7196,75.8577
+ORD-103562,2026-08-22,Indore,Madhya Pradesh,Electronics,Smartphone,4,15230.67,0.1,54830.43,8621.78,22.7196,75.8577
+ORD-103563,2026-08-22,Indore,Madhya Pradesh,Electronics,Laptop,4,34968.87,0.1,125887.94,11535.31,22.7196,75.8577
+ORD-103564,2026-08-22,Indore,Madhya Pradesh,Fashion,Jeans,2,5393.18,0.1,9707.72,1585.35,22.7196,75.8577
+ORD-103565,2026-08-22,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4785.23,0.1,12920.11,3504.83,22.7196,75.8577
+ORD-103566,2026-08-22,Indore,Madhya Pradesh,Electronics,Tablet,4,53777.11,0.0,215108.45,20293.93,22.7196,75.8577
+ORD-103567,2026-08-22,Bhopal,Madhya Pradesh,Home & Living,Desk,1,3386.48,0.0,3386.48,778.75,23.2599,77.4126
+ORD-103568,2026-08-22,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,4164.5,0.15,10619.47,2517.45,23.2599,77.4126
+ORD-103569,2026-08-22,Bhopal,Madhya Pradesh,Fashion,Jacket,1,2854.03,0.0,2854.03,524.41,23.2599,77.4126
+ORD-103570,2026-08-22,Bhopal,Madhya Pradesh,Electronics,Smartphone,4,48551.59,0.1,174785.72,21230.22,23.2599,77.4126
+ORD-103571,2026-08-22,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,3,241.9,0.0,725.71,97.41,23.2599,77.4126
+ORD-103572,2026-08-23,Indore,Madhya Pradesh,Food & Beverages,Tea,4,481.34,0.0,1925.38,340.57,22.7196,75.8577
+ORD-103573,2026-08-23,Indore,Madhya Pradesh,Fashion,T-Shirt,2,4895.89,0.05,9302.19,2022.47,22.7196,75.8577
+ORD-103574,2026-08-23,Indore,Madhya Pradesh,Electronics,Monitor,4,31917.55,0.1,114903.16,17783.37,22.7196,75.8577
+ORD-103575,2026-08-23,Indore,Madhya Pradesh,Home & Living,Office Chair,1,5380.28,0.0,5380.28,1077.57,22.7196,75.8577
+ORD-103576,2026-08-23,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,1445.64,0.1,2602.14,451.98,22.7196,75.8577
+ORD-103577,2026-08-23,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,1,4570.79,0.0,4570.79,1250.61,22.7196,75.8577
+ORD-103578,2026-08-23,Indore,Madhya Pradesh,Electronics,Smartphone,4,36240.28,0.0,144961.11,16414.83,22.7196,75.8577
+ORD-103579,2026-08-23,Indore,Madhya Pradesh,Electronics,Monitor,3,11647.34,0.0,34942.01,4788.05,22.7196,75.8577
+ORD-103580,2026-08-23,Bhopal,Madhya Pradesh,Electronics,Monitor,4,19997.07,0.1,71989.44,12747.53,23.2599,77.4126
+ORD-103581,2026-08-23,Bhopal,Madhya Pradesh,Fashion,Backpack,4,2424.11,0.0,9696.46,2088.6,23.2599,77.4126
+ORD-103582,2026-08-23,Bhopal,Madhya Pradesh,Fashion,Jeans,2,3887.21,0.1,6996.98,1767.18,23.2599,77.4126
+ORD-103583,2026-08-23,Bhopal,Madhya Pradesh,Fashion,Jacket,1,5577.03,0.15,4740.48,1217.55,23.2599,77.4126
+ORD-103584,2026-08-23,Bhopal,Madhya Pradesh,Electronics,Tablet,2,37852.85,0.0,75705.71,7588.44,23.2599,77.4126
+ORD-103585,2026-08-24,Indore,Madhya Pradesh,Food & Beverages,Tea,4,1678.32,0.05,6377.63,1159.32,22.7196,75.8577
+ORD-103586,2026-08-24,Indore,Madhya Pradesh,Fashion,Jeans,2,3123.37,0.1,5622.07,937.41,22.7196,75.8577
+ORD-103587,2026-08-24,Indore,Madhya Pradesh,Fashion,T-Shirt,4,5053.79,0.15,17182.87,4302.98,22.7196,75.8577
+ORD-103588,2026-08-24,Indore,Madhya Pradesh,Electronics,Smartphone,4,50967.36,0.05,193675.97,32988.34,22.7196,75.8577
+ORD-103589,2026-08-24,Indore,Madhya Pradesh,Fashion,Jeans,4,2239.94,0.0,8959.77,2141.65,22.7196,75.8577
+ORD-103590,2026-08-24,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,5902.23,0.1,10624.02,2352.87,22.7196,75.8577
+ORD-103591,2026-08-24,Indore,Madhya Pradesh,Home & Living,Lamp,3,4636.68,0.0,13910.04,2134.88,22.7196,75.8577
+ORD-103592,2026-08-24,Indore,Madhya Pradesh,Fashion,Backpack,3,2801.34,0.05,7983.81,1634.39,22.7196,75.8577
+ORD-103593,2026-08-24,Indore,Madhya Pradesh,Electronics,Laptop,1,20355.98,0.0,20355.98,3431.63,22.7196,75.8577
+ORD-103594,2026-08-24,Bhopal,Madhya Pradesh,Fashion,Backpack,3,2152.99,0.1,5813.06,1239.81,23.2599,77.4126
+ORD-103595,2026-08-24,Bhopal,Madhya Pradesh,Electronics,Tablet,4,47167.17,0.15,160368.38,27576.66,23.2599,77.4126
+ORD-103596,2026-08-24,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,1123.05,0.0,1123.05,135.07,23.2599,77.4126
+ORD-103597,2026-08-24,Bhopal,Madhya Pradesh,Electronics,Monitor,2,17297.38,0.15,29405.55,3529.1,23.2599,77.4126
+ORD-103598,2026-08-24,Bhopal,Madhya Pradesh,Fashion,Jeans,2,1824.69,0.15,3101.97,558.67,23.2599,77.4126
+ORD-103599,2026-08-24,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1476.57,0.15,1255.08,287.52,23.2599,77.4126
+ORD-103600,2026-08-24,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,207.42,0.0,622.26,69.84,23.2599,77.4126
+ORD-103601,2026-08-24,Bhopal,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,2575.27,0.1,6953.22,1526.54,23.2599,77.4126
+ORD-103602,2026-08-24,Bhopal,Madhya Pradesh,Fashion,T-Shirt,1,2895.55,0.1,2606.0,485.55,23.2599,77.4126
+ORD-103603,2026-08-24,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,4,1169.36,0.1,4209.71,954.21,23.2599,77.4126
+ORD-103604,2026-08-25,Indore,Madhya Pradesh,Electronics,Smartphone,2,15491.83,0.0,30983.65,4966.23,22.7196,75.8577
+ORD-103605,2026-08-25,Indore,Madhya Pradesh,Home & Living,Air Fryer,2,8820.83,0.1,15877.5,2940.37,22.7196,75.8577
+ORD-103606,2026-08-25,Indore,Madhya Pradesh,Fashion,T-Shirt,3,4551.84,0.15,11607.2,2184.53,22.7196,75.8577
+ORD-103607,2026-08-25,Indore,Madhya Pradesh,Fashion,Jeans,2,4918.67,0.2,7869.87,2011.18,22.7196,75.8577
+ORD-103608,2026-08-25,Indore,Madhya Pradesh,Home & Living,Desk,4,11205.41,0.15,38098.41,7237.39,22.7196,75.8577
+ORD-103609,2026-08-25,Indore,Madhya Pradesh,Home & Living,Air Fryer,3,5718.85,0.0,17156.55,3975.69,22.7196,75.8577
+ORD-103610,2026-08-25,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,38569.13,0.1,69424.44,6365.76,23.2599,77.4126
+ORD-103611,2026-08-25,Bhopal,Madhya Pradesh,Fashion,Jeans,3,4027.38,0.1,10873.94,2896.92,23.2599,77.4126
+ORD-103612,2026-08-25,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,5526.48,0.2,13263.56,2354.06,23.2599,77.4126
+ORD-103613,2026-08-25,Bhopal,Madhya Pradesh,Home & Living,Desk,1,9957.34,0.1,8961.6,1912.89,23.2599,77.4126
+ORD-103614,2026-08-25,Bhopal,Madhya Pradesh,Electronics,Monitor,1,13754.6,0.1,12379.14,2224.21,23.2599,77.4126
+ORD-103615,2026-08-25,Bhopal,Madhya Pradesh,Fashion,T-Shirt,3,2046.9,0.2,4912.55,1128.41,23.2599,77.4126
+ORD-103616,2026-08-25,Bhopal,Madhya Pradesh,Electronics,Monitor,3,9659.79,0.05,27530.39,4049.7,23.2599,77.4126
+ORD-103617,2026-08-26,Indore,Madhya Pradesh,Home & Living,Air Fryer,4,9890.77,0.15,33628.61,4568.05,22.7196,75.8577
+ORD-103618,2026-08-26,Indore,Madhya Pradesh,Fashion,Jeans,2,5719.28,0.05,10866.62,2212.03,22.7196,75.8577
+ORD-103619,2026-08-26,Indore,Madhya Pradesh,Fashion,Men's Shoes,1,3446.67,0.05,3274.33,561.54,22.7196,75.8577
+ORD-103620,2026-08-26,Indore,Madhya Pradesh,Home & Living,Lamp,4,1709.24,0.0,6836.95,1607.22,22.7196,75.8577
+ORD-103621,2026-08-26,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,2,3817.56,0.05,7253.37,1900.19,22.7196,75.8577
+ORD-103622,2026-08-26,Indore,Madhya Pradesh,Electronics,Laptop,4,47858.32,0.1,172289.95,28065.58,22.7196,75.8577
+ORD-103623,2026-08-26,Indore,Madhya Pradesh,Electronics,Smartphone,3,22890.15,0.15,58369.88,6164.51,22.7196,75.8577
+ORD-103624,2026-08-26,Indore,Madhya Pradesh,Fashion,Backpack,1,1534.17,0.1,1380.75,335.83,22.7196,75.8577
+ORD-103625,2026-08-26,Indore,Madhya Pradesh,Electronics,Headphones,2,22969.48,0.05,43642.02,5726.71,22.7196,75.8577
+ORD-103626,2026-08-26,Indore,Madhya Pradesh,Home & Living,Desk,1,11083.7,0.05,10529.51,1383.95,22.7196,75.8577
+ORD-103627,2026-08-26,Indore,Madhya Pradesh,Food & Beverages,Tea,2,824.81,0.05,1567.14,340.04,22.7196,75.8577
+ORD-103628,2026-08-26,Bhopal,Madhya Pradesh,Electronics,Laptop,1,28888.96,0.15,24555.62,2968.31,23.2599,77.4126
+ORD-103629,2026-08-26,Bhopal,Madhya Pradesh,Electronics,Smartphone,3,26396.33,0.1,71270.09,6736.74,23.2599,77.4126
+ORD-103630,2026-08-26,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,4994.48,0.05,9489.51,1839.0,23.2599,77.4126
+ORD-103631,2026-08-26,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,37425.45,0.05,71108.36,7386.63,23.2599,77.4126
+ORD-103632,2026-08-26,Bhopal,Madhya Pradesh,Electronics,Tablet,2,16134.98,0.15,27429.47,3738.65,23.2599,77.4126
+ORD-103633,2026-08-26,Bhopal,Madhya Pradesh,Fashion,Backpack,1,1328.01,0.0,1328.01,321.43,23.2599,77.4126
+ORD-103634,2026-08-27,Indore,Madhya Pradesh,Electronics,Headphones,3,24261.32,0.1,65505.55,6457.8,22.7196,75.8577
+ORD-103635,2026-08-27,Indore,Madhya Pradesh,Beauty & Personal Care,Trimmer,3,650.58,0.15,1658.98,419.07,22.7196,75.8577
+ORD-103636,2026-08-27,Indore,Madhya Pradesh,Electronics,Tablet,3,26264.21,0.1,70913.38,6481.82,22.7196,75.8577
+ORD-103637,2026-08-27,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,1320.06,0.05,2508.11,522.71,22.7196,75.8577
+ORD-103638,2026-08-27,Indore,Madhya Pradesh,Electronics,Laptop,2,49139.36,0.1,88450.84,11613.27,22.7196,75.8577
+ORD-103639,2026-08-27,Indore,Madhya Pradesh,Fashion,Jacket,3,4827.05,0.0,14481.15,3232.38,22.7196,75.8577
+ORD-103640,2026-08-27,Bhopal,Madhya Pradesh,Electronics,Monitor,4,5030.2,0.05,19114.76,2425.36,23.2599,77.4126
+ORD-103641,2026-08-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,4382.41,0.05,8326.59,1640.22,23.2599,77.4126
+ORD-103642,2026-08-27,Bhopal,Madhya Pradesh,Electronics,Smartphone,2,43474.14,0.0,86948.28,8426.33,23.2599,77.4126
+ORD-103643,2026-08-27,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,4062.07,0.15,3452.76,778.27,23.2599,77.4126
+ORD-103644,2026-08-27,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,1,1126.44,0.1,1013.8,104.63,23.2599,77.4126
+ORD-103645,2026-08-27,Bhopal,Madhya Pradesh,Food & Beverages,Coffee,1,220.79,0.05,209.75,33.65,23.2599,77.4126
+ORD-103646,2026-08-27,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,2050.21,0.2,3280.34,774.88,23.2599,77.4126
+ORD-103647,2026-08-28,Indore,Madhya Pradesh,Fashion,Jeans,4,2194.99,0.1,7901.95,1327.55,22.7196,75.8577
+ORD-103648,2026-08-28,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,1,2123.54,0.1,1911.19,524.27,22.7196,75.8577
+ORD-103649,2026-08-28,Indore,Madhya Pradesh,Food & Beverages,Tea,1,1557.11,0.1,1401.4,292.18,22.7196,75.8577
+ORD-103650,2026-08-28,Indore,Madhya Pradesh,Electronics,Smartphone,4,19756.26,0.0,79025.05,10467.61,22.7196,75.8577
+ORD-103651,2026-08-28,Indore,Madhya Pradesh,Fashion,Jacket,3,1722.67,0.15,4392.82,1048.82,22.7196,75.8577
+ORD-103652,2026-08-28,Indore,Madhya Pradesh,Food & Beverages,Tea,1,307.45,0.1,276.71,44.75,22.7196,75.8577
+ORD-103653,2026-08-28,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,3,4251.78,0.1,11479.81,3354.38,23.2599,77.4126
+ORD-103654,2026-08-28,Bhopal,Madhya Pradesh,Fashion,Jacket,1,1074.87,0.1,967.39,228.18,23.2599,77.4126
+ORD-103655,2026-08-28,Bhopal,Madhya Pradesh,Fashion,Jacket,3,2196.28,0.05,6259.39,1383.04,23.2599,77.4126
+ORD-103656,2026-08-28,Bhopal,Madhya Pradesh,Electronics,Tablet,4,54156.86,0.1,194964.71,34824.48,23.2599,77.4126
+ORD-103657,2026-08-28,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,5214.75,0.0,20858.99,3859.53,23.2599,77.4126
+ORD-103658,2026-08-28,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,3,847.03,0.0,2541.08,437.51,23.2599,77.4126
+ORD-103659,2026-08-28,Bhopal,Madhya Pradesh,Fashion,Backpack,4,1621.42,0.2,5188.54,1359.84,23.2599,77.4126
+ORD-103660,2026-08-28,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,3460.12,0.1,9342.33,1892.18,23.2599,77.4126
+ORD-103661,2026-08-29,Indore,Madhya Pradesh,Electronics,Smartphone,3,25770.77,0.2,61849.86,9276.5,22.7196,75.8577
+ORD-103662,2026-08-29,Indore,Madhya Pradesh,Fashion,Backpack,1,4696.74,0.0,4696.74,829.12,22.7196,75.8577
+ORD-103663,2026-08-29,Indore,Madhya Pradesh,Fashion,Men's Shoes,2,2801.16,0.0,5602.32,1175.95,22.7196,75.8577
+ORD-103664,2026-08-29,Indore,Madhya Pradesh,Electronics,Laptop,1,9956.03,0.1,8960.43,1094.81,22.7196,75.8577
+ORD-103665,2026-08-29,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,1,3707.47,0.15,3151.35,819.22,22.7196,75.8577
+ORD-103666,2026-08-29,Indore,Madhya Pradesh,Fashion,T-Shirt,4,3634.94,0.1,13085.78,2131.38,22.7196,75.8577
+ORD-103667,2026-08-29,Bhopal,Madhya Pradesh,Electronics,Laptop,2,41530.4,0.05,78907.76,10866.33,23.2599,77.4126
+ORD-103668,2026-08-29,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,7510.56,0.15,25535.91,3585.01,23.2599,77.4126
+ORD-103669,2026-08-29,Bhopal,Madhya Pradesh,Fashion,Jeans,3,5060.13,0.05,14421.37,2633.0,23.2599,77.4126
+ORD-103670,2026-08-29,Bhopal,Madhya Pradesh,Home & Living,Air Fryer,2,2564.04,0.0,5128.08,1016.89,23.2599,77.4126
+ORD-103671,2026-08-29,Bhopal,Madhya Pradesh,Home & Living,Mixer,1,10958.82,0.1,9862.94,1694.78,23.2599,77.4126
+ORD-103672,2026-08-29,Bhopal,Madhya Pradesh,Food & Beverages,Snacks,4,488.2,0.0,1952.82,352.63,23.2599,77.4126
+ORD-103673,2026-08-29,Bhopal,Madhya Pradesh,Home & Living,Office Chair,1,10501.52,0.1,9451.36,2228.43,23.2599,77.4126
+ORD-103674,2026-08-30,Indore,Madhya Pradesh,Electronics,Monitor,3,47026.17,0.1,126970.66,22620.89,22.7196,75.8577
+ORD-103675,2026-08-30,Indore,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,3178.66,0.05,9059.19,1947.19,22.7196,75.8577
+ORD-103676,2026-08-30,Indore,Madhya Pradesh,Electronics,Smartphone,1,23204.51,0.1,20884.06,3657.1,22.7196,75.8577
+ORD-103677,2026-08-30,Indore,Madhya Pradesh,Electronics,Tablet,1,2984.06,0.05,2834.86,482.62,22.7196,75.8577
+ORD-103678,2026-08-30,Indore,Madhya Pradesh,Fashion,T-Shirt,1,1890.0,0.05,1795.5,454.06,22.7196,75.8577
+ORD-103679,2026-08-30,Indore,Madhya Pradesh,Fashion,Jeans,4,2848.34,0.0,11393.36,2110.71,22.7196,75.8577
+ORD-103680,2026-08-30,Indore,Madhya Pradesh,Electronics,Laptop,1,10522.21,0.05,9996.1,1020.62,22.7196,75.8577
+ORD-103681,2026-08-30,Indore,Madhya Pradesh,Home & Living,Office Chair,1,5557.06,0.05,5279.21,942.13,22.7196,75.8577
+ORD-103682,2026-08-30,Indore,Madhya Pradesh,Beauty & Personal Care,Shampoo,2,4996.29,0.15,8493.7,2369.0,22.7196,75.8577
+ORD-103683,2026-08-30,Indore,Madhya Pradesh,Electronics,Monitor,3,23843.22,0.0,71529.65,6643.86,22.7196,75.8577
+ORD-103684,2026-08-30,Indore,Madhya Pradesh,Electronics,Tablet,4,46761.53,0.15,158989.21,22217.26,22.7196,75.8577
+ORD-103685,2026-08-30,Bhopal,Madhya Pradesh,Fashion,Jacket,2,1538.38,0.0,3076.75,779.92,23.2599,77.4126
+ORD-103686,2026-08-30,Bhopal,Madhya Pradesh,Electronics,Headphones,2,18503.99,0.2,29606.39,2842.3,23.2599,77.4126
+ORD-103687,2026-08-30,Bhopal,Madhya Pradesh,Electronics,Headphones,2,39308.36,0.0,78616.71,7215.46,23.2599,77.4126
+ORD-103688,2026-08-30,Bhopal,Madhya Pradesh,Home & Living,Lamp,1,1626.72,0.15,1382.71,242.33,23.2599,77.4126
+ORD-103689,2026-08-30,Bhopal,Madhya Pradesh,Electronics,Monitor,4,47227.99,0.1,170020.77,19568.44,23.2599,77.4126
+ORD-103690,2026-08-30,Bhopal,Madhya Pradesh,Fashion,Jacket,3,4076.66,0.1,11006.99,2851.39,23.2599,77.4126
+ORD-103691,2026-08-30,Bhopal,Madhya Pradesh,Fashion,Jacket,2,1716.6,0.05,3261.53,785.81,23.2599,77.4126
+ORD-103692,2026-08-30,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,3,3121.39,0.15,7959.55,2068.74,23.2599,77.4126
+ORD-103693,2026-08-30,Bhopal,Madhya Pradesh,Home & Living,Lamp,4,1775.15,0.1,6390.54,1396.25,23.2599,77.4126
+ORD-103694,2026-08-31,Indore,Madhya Pradesh,Electronics,Monitor,4,19691.42,0.1,70889.13,8352.81,22.7196,75.8577
+ORD-103695,2026-08-31,Indore,Madhya Pradesh,Electronics,Laptop,4,3997.27,0.05,15189.63,2170.49,22.7196,75.8577
+ORD-103696,2026-08-31,Indore,Madhya Pradesh,Electronics,Smartphone,2,28363.27,0.1,51053.88,4536.52,22.7196,75.8577
+ORD-103697,2026-08-31,Indore,Madhya Pradesh,Electronics,Headphones,1,20793.45,0.0,20793.45,3590.3,22.7196,75.8577
+ORD-103698,2026-08-31,Indore,Madhya Pradesh,Beauty & Personal Care,Perfume,4,4625.32,0.0,18501.26,4742.72,22.7196,75.8577
+ORD-103699,2026-08-31,Indore,Madhya Pradesh,Home & Living,Lamp,4,5773.37,0.05,21938.81,3189.06,22.7196,75.8577
+ORD-103700,2026-08-31,Indore,Madhya Pradesh,Fashion,Jeans,3,4370.58,0.0,13111.73,3379.81,22.7196,75.8577
+ORD-103701,2026-08-31,Indore,Madhya Pradesh,Home & Living,Air Fryer,1,9920.31,0.05,9424.3,1186.81,22.7196,75.8577
+ORD-103702,2026-08-31,Bhopal,Madhya Pradesh,Electronics,Laptop,3,8164.13,0.05,23267.76,3730.81,23.2599,77.4126
+ORD-103703,2026-08-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,3,3427.72,0.0,10283.16,2751.21,23.2599,77.4126
+ORD-103704,2026-08-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,1,2961.25,0.05,2813.19,500.02,23.2599,77.4126
+ORD-103705,2026-08-31,Bhopal,Madhya Pradesh,Beauty & Personal Care,Face Wash,3,4998.81,0.0,14996.44,3058.09,23.2599,77.4126
+ORD-103706,2026-08-31,Bhopal,Madhya Pradesh,Food & Beverages,Tea,4,1139.26,0.15,3873.48,595.98,23.2599,77.4126
+ORD-103707,2026-08-31,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,4,648.03,0.05,2462.53,314.96,23.2599,77.4126
+ORD-103708,2026-08-31,Bhopal,Madhya Pradesh,Electronics,Monitor,3,51675.97,0.0,155027.92,17907.42,23.2599,77.4126
+ORD-103709,2026-08-31,Bhopal,Madhya Pradesh,Electronics,Monitor,1,28108.82,0.2,22487.05,2465.74,23.2599,77.4126
+ORD-103710,2026-08-31,Bhopal,Madhya Pradesh,Fashion,Jeans,2,2522.44,0.2,4035.9,967.29,23.2599,77.4126
+ORD-103711,2026-08-31,Bhopal,Madhya Pradesh,Home & Living,Lamp,2,2498.94,0.0,4997.88,1172.33,23.2599,77.4126
+ORD-103712,2026-09-01,Indore,Madhya Pradesh,Electronics,Smartphone,4,22861.21,0.15,77728.11,11847.86,22.7196,75.8577
+ORD-103713,2026-09-01,Indore,Madhya Pradesh,Fashion,Backpack,3,2578.08,0.1,6960.82,1610.83,22.7196,75.8577
+ORD-103714,2026-09-01,Indore,Madhya Pradesh,Food & Beverages,Coffee,2,1143.79,0.05,2173.2,258.66,22.7196,75.8577
+ORD-103715,2026-09-01,Indore,Madhya Pradesh,Fashion,Jacket,4,2777.69,0.15,9444.14,2043.54,22.7196,75.8577
+ORD-103716,2026-09-01,Indore,Madhya Pradesh,Electronics,Monitor,1,41231.4,0.0,41231.4,5415.95,22.7196,75.8577
+ORD-103717,2026-09-01,Indore,Madhya Pradesh,Electronics,Smartphone,3,34687.71,0.05,98859.99,8733.13,22.7196,75.8577
+ORD-103718,2026-09-01,Indore,Madhya Pradesh,Fashion,Jacket,3,4487.84,0.0,13463.53,3858.58,22.7196,75.8577
+ORD-103719,2026-09-01,Bhopal,Madhya Pradesh,Electronics,Smartphone,1,39366.28,0.0,39366.28,3399.05,23.2599,77.4126
+ORD-103720,2026-09-01,Bhopal,Madhya Pradesh,Food & Beverages,Biscuits,2,339.83,0.15,577.72,63.87,23.2599,77.4126
+ORD-103721,2026-09-01,Bhopal,Madhya Pradesh,Fashion,Men's Shoes,1,2627.83,0.05,2496.44,684.27,23.2599,77.4126
+ORD-103722,2026-09-01,Bhopal,Madhya Pradesh,Fashion,T-Shirt,2,5865.57,0.1,10558.02,2161.4,23.2599,77.4126
+ORD-103723,2026-09-01,Bhopal,Madhya Pradesh,Fashion,Jeans,2,4842.43,0.1,8716.37,1836.71,23.2599,77.4126
+ORD-103724,2026-09-01,Bhopal,Madhya Pradesh,Electronics,Tablet,2,30068.85,0.05,57130.81,8495.06,23.2599,77.4126
+ORD-103725,2026-09-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Skin Cream,4,1695.65,0.1,6104.35,1347.46,23.2599,77.4126
+ORD-103726,2026-09-01,Bhopal,Madhya Pradesh,Beauty & Personal Care,Shampoo,4,2957.87,0.2,9465.19,1634.17,23.2599,77.4126
+ORD-103727,2026-09-01,Bhopal,Madhya Pradesh,Electronics,Headphones,3,27360.73,0.05,77978.08,12935.66,23.2599,77.4126
